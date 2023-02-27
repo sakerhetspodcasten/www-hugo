@@ -1,2 +1,4 @@
 .*.sw?
+.deb/
+.hugo_build.lock
 themes/LoveIt/
