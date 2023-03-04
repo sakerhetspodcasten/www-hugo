@@ -1,7 +1,25 @@
-baseURL = "http://example.org/"
+baseURL = "https://sakerhetspodcasten.se"
 languageCode = "en-us"
 theme = "LoveIt"
-title = "My New Hugo Site"
+title = "Säkerhetspodcasten"
+
+[params]
+  # site default theme ["auto", "light", "dark"]
+  defaultTheme = "light"
+  title = "Säkerhetspodcasten"
+  description = "Säkerhetspodcasten - Sveriges första? podcast om IT-säkerhet"
+  #images = ["/logo.png"]
+
+  [params.home]
+    [params.home.profile]
+      subtitle = ""
+
+  [params.header]
+    [params.header.title]
+      name  = "Säkerhetspodcasten"
+
+[footer]
+   enable = false
 
 [menu]
   [[menu.main]]
