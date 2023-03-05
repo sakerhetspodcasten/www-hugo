@@ -19,6 +19,10 @@ title = "Säkerhetspodcasten"
     [params.header.title]
       name  = "Säkerhetspodcasten"
 
+  [params.page]
+    [params.page.share]
+      enable = false
+
   [params.footer]
     enable = false
 
