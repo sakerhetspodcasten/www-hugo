@@ -8,10 +8,11 @@ title = "Säkerhetspodcasten"
   defaultTheme = "light"
   title = "Säkerhetspodcasten"
   description = "Säkerhetspodcasten - Sveriges första? podcast om IT-säkerhet"
-  #images = ["/logo.png"]
+  #images = ["/images/sakerhetspodcasten.png"]
 
   [params.home]
     [params.home.profile]
+      avatarUrl = "/images/sakerhetspodcasten.png"
       subtitle = ""
 
   [params.header]
