@@ -1,4 +1,7 @@
 .*.sw?
 .deb/
 .hugo_build.lock
+content/pages/about.md
+content/pages/sample-page.md
+content/pages/supportersida.md
 themes/LoveIt/
