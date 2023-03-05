@@ -16,7 +16,6 @@ iTunes \| Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten
 
 
 
-
 ## Innehåll
 
 
@@ -30,6 +29,7 @@ Det är måndag och dags för ett nytt avsnitt där vi går igenom den senaste t
 
 
 Inspelat: 2021-11-17. Längd: 00:50:45.
+
 
 
 

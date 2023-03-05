@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.74 - Bedr\xE4gerier Online"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Bedragerier_online.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Bedragerier_online.mp3)
 
 ## Innehåll
 
@@ -15,3 +15,4 @@ id-kapningar och mycket mer. Hur gör skurkarna och hur skyddar du dig?
 Inspelat: 2016-10-13. Längd: 01:05:15.
 
 ## Länkar
+

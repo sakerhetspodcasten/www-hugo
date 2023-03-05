@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.105 - Daniel Bohannon"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Daniel_Bohannon.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Daniel_Bohannon.mp3)
 
 ## Innehåll
 
@@ -18,3 +18,4 @@ Inspelat: 2017-09-29. Längd: 00:29:38.
 ## Länkar
 
 Kommer snart.
+

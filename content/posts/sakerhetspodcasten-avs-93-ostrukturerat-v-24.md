@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.93 \u2013 Ostrukturerat V.24"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2017-06-08.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2017-06-08.mp3)
 
 ## Innehåll
 
@@ -17,3 +17,4 @@ Inspelat: 2017-06-08. Längd: 01:02:18.
 ## Länkar
 
 Kommer snart.
+

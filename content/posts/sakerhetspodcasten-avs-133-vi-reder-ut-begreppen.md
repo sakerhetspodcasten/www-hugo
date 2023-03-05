@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.133 \u2013 Vi reder ut begreppen"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Pentest_rant__mm.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Pentest_rant__mm.mp3)
 
 ## Innehåll
 
@@ -14,3 +14,4 @@ ut vad som faktiskt menas med olika IT-säkerhetsrelaterade ord och fraser. Vad 
 tillexempel ett penetrationstest från en sårbarhetsanalys eller en säkerhetsscan?
 
 Inspelat: 2018-07-11. Längd: 00:49:29.
+

@@ -7,7 +7,6 @@ title: 'Intervjuavsnitt #15 - Anders Nilsson'
 
 iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakp2015-v6-andersnilsson-eset_16lufs.mp3)
 
-
 ## Innehåll
 
 Detta är det femtonde intervjuavsnittet av Säkerhetspodcasten, i vilket panelen diskuterar
@@ -17,3 +16,4 @@ mycket mer tillsammans med Anders Nilsson från antivirusbolaget ESET.
 ## Länkar
 
 Kommer snart.
+

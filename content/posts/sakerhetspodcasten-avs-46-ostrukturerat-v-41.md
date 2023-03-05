@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.46 - Ostrukturerat V.41"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerad_2015v41_mixdown.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerad_2015v41_mixdown.mp3)
 
 ## Innehåll
 
@@ -18,3 +18,4 @@ Inspelat: 2015-10-09. Längd: 42:41.
 ## Länkar
 
 Kommer snart.
+

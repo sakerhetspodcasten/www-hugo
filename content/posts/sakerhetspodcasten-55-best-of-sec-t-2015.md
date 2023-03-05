@@ -7,7 +7,6 @@ title: "S\xE4kerhetspodcasten #55 - Best of Sec-T 2015"
 
 iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakerhetspodcasten-BestOfSec-t-128kbps-stereo.mp3)
 
-
 ## Innehåll
 
 Inspelat veckorna efter Sec-T 2015. Panelen minus Johan diskuterar upplevelsen av
@@ -19,3 +18,4 @@ Inspelat: 2015-09-??. Längd: 01:01:45.
 ## Länkar
 
 Kommer snart.
+

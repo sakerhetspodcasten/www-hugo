@@ -7,7 +7,6 @@ title: "S\xE4kerhetspodcasten avs.92 \u2013 Live p\xE5 Vetenskapsfestivalen"
 
 iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_Live_At_Vetenskapsfestivalen_ML.mp3)
 
-
 ## Innehåll
 
 Säkerhetspodcasten äntrar Vetenskapsfestivalens scen och försöker ge lite kloka råd
@@ -18,3 +17,4 @@ Inspelat: 2017-05-11. Längd: 01:01:02.
 ## Länkar
 
 Kommer snart.
+

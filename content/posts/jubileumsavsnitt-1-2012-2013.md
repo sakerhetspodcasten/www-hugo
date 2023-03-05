@@ -5,8 +5,7 @@ title: 'Jubileumsavsnitt #1 2012-2013'
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)
-\| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Jubileumsavsnitt.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Jubileumsavsnitt.mp3)
 
 ## Innehåll
 
@@ -18,5 +17,6 @@ Inspelat: 2013-11-18. Längd: 1:49:23.
 
 ## Länkar
 
-[André Clouet Grand Réserve Magnum](http://www.systembolaget.se/Sok-dryck/Dryck/?varuNr=7686) 
+[André Clouet Grand Réserve Magnum](http://www.systembolaget.se/Sok-dryck/Dryck/?varuNr=7686)
+
 

@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.126 - Ostrukturerat V.16 med Jonas Lejon"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2018-04.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2018-04.mp3)
 
 ## Innehåll
 
@@ -17,3 +17,4 @@ Inspelat: 2017-04-12. Längd: 01:05:27.
 ## Länkar
 
 Kommer snart.
+

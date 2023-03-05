@@ -7,7 +7,6 @@ title: "S\xE4kerhetspodcasten avs.162 \u2013 Ostrukturerat V.38"
 
 iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-09-11_Ostrukturerat.mp3)
 
-
 ## Innehåll
 
 I dagens avsnitt förbereder vi oss för Sec-T, snackar om CEO-scams med deepfakes
@@ -15,3 +14,4 @@ I dagens avsnitt förbereder vi oss för Sec-T, snackar om CEO-scams med deepfak
 forum, och mycket mer.
 
 Inspelat: 2019-09-11. Längd: 00:47:17.
+

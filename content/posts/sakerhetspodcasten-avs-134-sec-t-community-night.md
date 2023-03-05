@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.134 \u2013 Sec-T Community Night"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_0xB_CommunityNight.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_0xB_CommunityNight.mp3)
 
 ## Innehåll
 
@@ -14,3 +14,4 @@ under Community Night på Sec-T 2018. De som intervjuas är: Ophir Harpaz, Sebas
 Castro, Carine-Belle, Dimitri van de Giessen, Joel Rangsmo och Hanno Böck.
 
 Inspelat: 2018-09-12. Längd: 01:10:02.
+

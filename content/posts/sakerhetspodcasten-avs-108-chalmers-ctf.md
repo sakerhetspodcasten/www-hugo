@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.108 \u2013 Chalmers CTF"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/ChalmersCTF.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/ChalmersCTF.mp3)
 
 ## Innehåll
 
@@ -18,3 +18,4 @@ Inspelat: 2017-11-09. Längd: 00:27:12.
 ## Länkar
 
 Kommer snart.
+

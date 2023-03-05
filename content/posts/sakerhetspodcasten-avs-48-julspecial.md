@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.48 - Julspecial"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Jul_Special_2015_mixdown.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Jul_Special_2015_mixdown.mp3)
 
 ## Innehåll
 
@@ -32,4 +32,5 @@ Inspelat: 2015-10-12. Längd: 1:40:10.
 
 Kommer snart.
 
- 
+
+

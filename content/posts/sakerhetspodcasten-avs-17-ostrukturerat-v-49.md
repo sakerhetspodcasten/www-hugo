@@ -5,8 +5,7 @@ title: "S\xE4kerhetspodcasten avs.17 - Ostrukturerat V.49"
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)
-\| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/ostrukt2dec.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/ostrukt2dec.mp3)
 
 ## Innehåll
 
@@ -20,59 +19,57 @@ Inspelat: 2013-12-02. Längd: 1:15:15.
 
 Audio
 
-	* [HowStuffWorks](http://www.howstuffworks.com/hsw-podcast.htm) 
+* [HowStuffWorks](http://www.howstuffworks.com/hsw-podcast.htm)
 
-	* [SecurityNow](http://twit.tv/sn) 
+* [SecurityNow](http://twit.tv/sn)
 
-	* [TheBugle](http://thebuglepodcast.com/)  #250
+* [TheBugle](http://thebuglepodcast.com/)  #250
 
-	* [The Sceptics Guide To Universe](http://www.theskepticsguide.org/) 
+* [The Sceptics Guide To Universe](http://www.theskepticsguide.org/)
 
-	* [Liquidmatrix Security Digest](http://www.liquidmatrix.org/blog/) 
+* [Liquidmatrix Security Digest](http://www.liquidmatrix.org/blog/)
 
-	* [Security Weekly](http://securityweekly.com/) 
+* [Security Weekly](http://securityweekly.com/)
 
-	* [OWASP Podcast](https://www.owasp.org/index.php/OWASP_Podcast) 
+* [OWASP Podcast](https://www.owasp.org/index.php/OWASP_Podcast)
 
 
 
 Video
 
-	* [Hak5](http://hak5.org/) 
+* [Hak5](http://hak5.org/)
 
-	* [Ironic Exploitation of Security Products](http://www.youtube.com/watch?v=uZloeFhCMYQ) 
+* [Ironic Exploitation of Security Products](http://www.youtube.com/watch?v=uZloeFhCMYQ)
 
-	* [Noise Floor: Exploring the world of unintentional radio emissions](http://www.youtube.com/watch?v=5N1C3WB8c0o)
-
+* [Noise Floor: Exploring the world of unintentional radio emissions](http://www.youtube.com/watch?v=5N1C3WB8c0o)
 
 
 
 Twitter-personligheter
 
-	* [@0xabadidea](https://twitter.com/0xabad1dea)  Melissa Elliott
+* [@0xabadidea](https://twitter.com/0xabad1dea)  Melissa Elliott
 
-	* [@thegrugq](https://twitter.com/thegrugq)  The Grugq
+* [@thegrugq](https://twitter.com/thegrugq)  The Grugq
 
-	* [@i0n1c](https://twitter.com/i0n1c)  Stefan Esser
+* [@i0n1c](https://twitter.com/i0n1c)  Stefan Esser
 
-	* [@0x6D6172696F](https://twitter.com/0x6D6172696F)  Mario Heiderich
+* [@0x6D6172696F](https://twitter.com/0x6D6172696F)  Mario Heiderich
 
 
 
-[SSL für alle](http://www.youtube.com/user/owaspgbg?feature=watch) 
+[SSL für alle](http://www.youtube.com/user/owaspgbg?feature=watch)
 
-[IIS Crypto](https://www.nartac.com/Products/IISCrypto/) 
+[IIS Crypto](https://www.nartac.com/Products/IISCrypto/)
 
-[SSL Labs](https://www.ssllabs.com/) 
+[SSL Labs](https://www.ssllabs.com/)
 
-[BitCoin](http://bitcoincharts.com/charts/mtgoxUSD#rg60ztgSzm1g10zm2g25zv) 
+[BitCoin](http://bitcoincharts.com/charts/mtgoxUSD#rg60ztgSzm1g10zm2g25zv)
 
-[Adobe](http://nakedsecurity.sophos.com/2013/11/04/anatomy-of-a-password-disaster-adobes-giant-sized-cryptographic-blunder/)
-intrång
+[Adobe](http://nakedsecurity.sophos.com/2013/11/04/anatomy-of-a-password-disaster-adobes-giant-sized-cryptographic-blunder/)  intrång
 
 [Twitter](https://blog.twitter.com/2013/forward-secrecy-at-twitter-0)  beefar upp säkerheten
 
-[BadBios](http://arstechnica.com/security/2013/10/meet-badbios-the-mysterious-mac-and-pc-malware-that-jumps-airgaps/)
- [ErrataSec](http://blog.erratasec.com/2013/10/badbios-features-explained.html)
+[BadBios](http://arstechnica.com/security/2013/10/meet-badbios-the-mysterious-mac-and-pc-malware-that-jumps-airgaps/)  [ErrataSec](http://blog.erratasec.com/2013/10/badbios-features-explained.html)
 
-[M2M Risk Assessment Guide](http://www.youtube.com/watch?v=o8k2p8vTrKs) 
+[M2M Risk Assessment Guide](http://www.youtube.com/watch?v=o8k2p8vTrKs)
+

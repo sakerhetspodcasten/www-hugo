@@ -7,9 +7,9 @@ title: "S\xE4kerhetspodcasten avs.208 \u2013 Ostrukturerat V.35"
 
 iTunes \| Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-08-25_Sakerhetspodcasten.mp3)
 
-
 ## Innehåll
 
 I dagens avsnitt diskuterar vi den senaste tidens säkerhetsnyheter.
 
 Inspelat: 2021-08-25. Längd: 01:04:35.
+

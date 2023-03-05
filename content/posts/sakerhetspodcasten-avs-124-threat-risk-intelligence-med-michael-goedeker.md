@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.124 - Threat & Risk Intelligence med Michael G
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Michael_Goedeker.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Michael_Goedeker.mp3)
 
 ## Innehåll
 
@@ -17,3 +17,4 @@ Inspelat: 2017-09-29. Längd: 00:31:48.
 ## Länkar
 
 Kommer snart.
+

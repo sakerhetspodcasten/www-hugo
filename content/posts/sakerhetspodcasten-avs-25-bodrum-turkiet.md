@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.25 - Bodrum, Turkiet"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcast_bodrum_mixdown_2.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcast_bodrum_mixdown_2.mp3)
 
 ## Innehåll
 
@@ -18,17 +18,17 @@ Inspelat: 2014-05-03. Längd: 26:05.
 ## Länkar
 
 
-	* Bodrum [http://en.wikipedia.org/wiki/Bodrum](http://en.wikipedia.org/wiki/Bodrum) 
+* Bodrum [http://en.wikipedia.org/wiki/Bodrum](http://en.wikipedia.org/wiki/Bodrum)
 
-	* Peters presentation [Att göra en podcast - branding, attityder osv [Säkerhetspodcasten]](http://www.slideshare.net/blaufish/podcast-at-opkoko)
-
-
+* Peters presentation [Att göra en podcast - branding, attityder osv [Säkerhetspodcasten]](http://www.slideshare.net/blaufish/podcast-at-opkoko)
 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+

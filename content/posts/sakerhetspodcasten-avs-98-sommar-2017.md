@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.98 - Sommar 2017"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2017-07-13_Sommar.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2017-07-13_Sommar.mp3)
 
 ## Innehåll
 
@@ -17,3 +17,4 @@ Inspelat: 2017-07-13. Längd: 00:38:34.
 ## Länkar
 
 Kommer snart.
+

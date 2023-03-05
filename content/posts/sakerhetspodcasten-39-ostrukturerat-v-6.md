@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten #39 - Ostrukturerat V.6"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakp2015-v6-ostrukturerat_lufs16.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakp2015-v6-ostrukturerat_lufs16.mp3)
 
 ## Innehåll
 Detta är det första avsnittet av Säkerhetspodcasten som spelades in 2015, den femte
@@ -24,3 +24,4 @@ Inspelat: 2015-02-05. Längd: 1:05:54.
 ## Länkar
 
 Kommer snart.
+

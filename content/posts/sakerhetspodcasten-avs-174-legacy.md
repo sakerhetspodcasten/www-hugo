@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.174 \u2013 Legacy"
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-01-08_Legacy.mp3) 
+iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-01-08_Legacy.mp3)
 
 ## Innehåll
 
@@ -13,3 +13,4 @@ I dagens avsnitt diskuterar vi det här med legacy. Hur ska vi hantera gammalt m
 Vilka säkerhetsproblem kan teknikskuld leda till? Hur kan man tänka rätt från början?
 
 Inspelat: 2020-01-08. Längd: 00:51:25.
+

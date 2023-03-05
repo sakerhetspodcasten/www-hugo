@@ -5,7 +5,7 @@ title: 'Intervjuavsnitt #14 - Snare'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sec-t-snare-mixdown.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sec-t-snare-mixdown.mp3)
 
 ## Innehåll
 
@@ -15,4 +15,5 @@ mycket mer. Reklam: Swehack har en CTF som går av stapeln den 20e mars. Läs me
 
 ## Länkar
 
-[SweCTF](http://2015.swectf.se) 
+[SweCTF](http://2015.swectf.se)
+

@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.106 - Ostrukturerat V.46"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/OstruktureratV46_2017.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/OstruktureratV46_2017.mp3)
 
 ## Innehåll
 
@@ -17,3 +17,4 @@ Inspelat: 2017-11-09. Längd: 00:35:17.
 ## Länkar
 
 Kommer snart.
+

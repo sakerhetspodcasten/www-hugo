@@ -7,10 +7,10 @@ title: "S\xE4kerhetspodcasten avs.164 \u2013 Ostrukturerat V.42"
 
 iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-10-09_Ostrukturerat.mp3)
 
-
 ## Innehåll
 
 I dagens avsnitt pratar panelen (minus Peter och Johan) Sec-T och går givetvis igenom
 den senaste tidens nyheter och lite annat smått och gott.
 
 Inspelat: 2019-10-09. Längd: 00:44:57.
+

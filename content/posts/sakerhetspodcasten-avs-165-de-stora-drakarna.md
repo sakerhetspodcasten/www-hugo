@@ -7,7 +7,6 @@ title: "S\xE4kerhetspodcasten avs.165 \u2013 De stora drakarna"
 
 iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-10-09_De_Stora_Pa_Internet.mp3)
 
-
 ## Innehåll
 
 I dagens avsnitt diskuterar Mattias, Jesper och Rikard det faktum att ett fåtal stora
@@ -15,3 +14,4 @@ företag styr eller äger majoriteten av vår dagliga internetupplevelse. Vilka 
 skapar det, från ett säkerhetsperspektiv?
 
 Inspelat: 2019-10-09. Längd: 00:49:24.
+

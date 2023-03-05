@@ -7,10 +7,10 @@ Lyssna
 
 iTunes \| Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-10-07_Sakerhetspodcasten-SSRF.mp3)
 
-
 Innehåll
 
 I dagens avsnitt diskuterar panelen en härlig sårbarhet som fått ett rejält uppsving
 de senaste åren.
 
 Inspelat: 2020-10-07. Längd: 01:00:54.
+

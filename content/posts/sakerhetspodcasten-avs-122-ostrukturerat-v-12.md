@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.122 - Ostrukturerat V.12"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2018-03-14.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2018-03-14.mp3)
 
 ## Innehåll
 
@@ -17,3 +17,4 @@ Inspelat: 2018-03-14. Längd: 01:01:40.
 ## Länkar
 
 Kommer snart.
+

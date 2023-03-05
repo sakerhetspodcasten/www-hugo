@@ -7,7 +7,6 @@ title: "S\xE4kerhetspodcasten avs.154 \u2013 Ostrukturerat V.23"
 
 iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-05-29_Ostrukturerat.mp3)
 
-
 ## Innehåll
 
 I dagens avsnitt diskuterar vi Security Fest 2019, vad var bra, vad var dåligt, vad
@@ -16,3 +15,4 @@ Jerkeby, vi svarar på lite kritik på ett tidigare avsnitt, och touchar lite vi
 exekvering.
 
 Inspelat: 2019-05-29. Längd: 00:42:37.
+

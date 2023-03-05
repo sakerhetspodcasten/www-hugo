@@ -7,7 +7,6 @@ title: "S\xE4kerhetspodcasten avs.73 - Scam Callers med Mattias Borg"
 
 iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Mattias_Borg_-_SCAM_CALLER_Call_Dropped.mp3)
 
-
 ## Innehåll
 
 I detta avsnitt av Säkerhetspodcasten snackar vi Scam Callers, ni vet, när "Microsoft
@@ -20,3 +19,4 @@ Inspelat: 2016-09-08. Längd: 00:32:25.
 ## Länkar
 
 Kommer snart.
+

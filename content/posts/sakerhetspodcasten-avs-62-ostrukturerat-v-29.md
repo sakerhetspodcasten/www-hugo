@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.62 - Ostrukturerat V.29"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/ostruktv27rev2.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/ostruktv27rev2.mp3)
 
 ## Innehåll
 
@@ -19,3 +19,4 @@ Inspelat: 2016-07-07. Längd: 00:51:51.
 ## Länkar
 
 Kommer snart.
+

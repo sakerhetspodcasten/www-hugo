@@ -5,8 +5,7 @@ title: "S\xE4kerhetspodcasten avs. 1 - Pilot"
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?l=en)
- \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_1_-_Pilot.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?l=en)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_1_-_Pilot.mp3)
 
 ## Innehåll
 
@@ -20,5 +19,5 @@ Inspelad 2012-10-30. Längd 34:33
 
 What happens when you steal a hackers computer - [http://www.youtube.com/watch?v=OAI8S2houW4](http://www.youtube.com/watch?v=OAI8S2houW4)
 
+Security Now - [http://www.grc.com/securitynow.htm](http://www.grc.com/securitynow.htm)
 
-Security Now - [http://www.grc.com/securitynow.htm](http://www.grc.com/securitynow.htm) 

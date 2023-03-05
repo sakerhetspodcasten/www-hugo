@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.137 \u2013 Sec-T 2018 Day 2"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_0xB_Day_2.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_0xB_Day_2.mp3)
 
 ## Innehåll
 
@@ -14,3 +14,4 @@ interviews with Ulf Frisk, Ido Naor & Dani Goland, Stefan Tanase & Gabriel Cirli
 Steve Miller and Raul Alvarez.
 
 Inspelat: 2018-09-14. Längd: 01:04:19.
+

@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.61 - Ostrukturerat V.27"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v26_2016.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v26_2016.mp3)
 
 ## Innehåll
 
@@ -19,7 +19,7 @@ Inspelat: 2016-06-30. Längd: 01:04:19
 
 ## Shout-outs
 
-OWASP Gothenburg Day - CFP is open: [https://owaspgbgday.se/cfp/](https://owaspgbgday.se/cfp/) 
+OWASP Gothenburg Day - CFP is open: [https://owaspgbgday.se/cfp/](https://owaspgbgday.se/cfp/)
 
 OWASP AppSec EU just nu
 
@@ -36,11 +36,11 @@ easy-way/](https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-
 
 TLS fuzzing och testing Scapy-ssl_tls, tlsfuzzer, tls-attacker
 [https://github.com/tintinweb/
-scapy-ssl_tls](https://github.com/tintinweb/scapy-ssl_tls) 
+scapy-ssl_tls](https://github.com/tintinweb/scapy-ssl_tls)
 [https://github.com/tomato42/
-tlsfuzzer](https://github.com/tomato42/tlsfuzzer) 
+tlsfuzzer](https://github.com/tomato42/tlsfuzzer)
 [https://github.com/RUB-NDS/
-TLS-Attacker](https://github.com/RUB-NDS/TLS-Attacker) 
+TLS-Attacker](https://github.com/RUB-NDS/TLS-Attacker)
 
 ## Frågor
 
@@ -67,25 +67,21 @@ Satoshi och tydligen har flera personer trott honom
 andrew-ohagan/the-satoshi-
 affair](http://www.lrb.co.uk/v38/n13/andrew-ohagan/the-satoshi-affair)
 
-
 Why biometrics are bad:
 [https://boingboing.net/2016/
 06/27/rubber-fingertips-to-
 use-with.html](https://boingboing.net/2016/06/27/rubber-fingertips-to-use-with.html)
 
-
 Telia och BGP: [http://www.dn.se/ekonomi/
 europa-blev-hongkong-sa-
 sankte-telia-natet/](http://www.dn.se/ekonomi/europa-blev-hongkong-sa-sankte-telia-natet/)
 
-
 Struts-strul: [https://struts.apache.org/
 docs/s2-033.html](https://struts.apache.org/docs/s2-033.html)
-
 [https://struts.apache.org/
-docs/s2-036.html](https://struts.apache.org/docs/s2-036.html) 
+docs/s2-036.html](https://struts.apache.org/docs/s2-036.html)
 [https://struts.apache.org/
-docs/s2-035.html](https://struts.apache.org/docs/s2-035.html) 
+docs/s2-035.html](https://struts.apache.org/docs/s2-035.html)
 
 SWIFT banksystemet forsatt under angrepp
 [https://www.kyivpost.com/
@@ -109,14 +105,12 @@ Apple iOS kernel avkryptering var avsiktlig
 06/22/apple-unencrypted-
 kernel/](https://techcrunch.com/2016/06/22/apple-unencrypted-kernel/)
 
-
 TOR anställer ex-CIA dude
 [http://motherboard.vice.com/
 read/-tor-project-battled-
 over-hiring-ex-cia-agent-chat-
 logs-show
 ](http://motherboard.vice.com/read/-tor-project-battled-over-hiring-ex-cia-agent-chat-logs-show)
-
 
 ## #OSSBugSquash
 

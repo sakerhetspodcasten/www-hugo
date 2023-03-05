@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.66 - Extrasode om MQTT med Lucas Lundgren"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Lucas_Lundgren_-_MQTT.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Lucas_Lundgren_-_MQTT.mp3)
 
 ## Innehåll
 
@@ -21,3 +21,4 @@ Inspelat: 2016-09-08. Längd: 00:22:36.
 ## Länkar
 
 Kommer snart.
+

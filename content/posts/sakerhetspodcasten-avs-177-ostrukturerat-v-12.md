@@ -7,10 +7,10 @@ Lyssna
 
 iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-03-11_Ostrukturerat.mp3)
 
-
 Innehåll
 
 I dagens avsnitt diskuterar vi nya problem i SMB, ger er en uppdatering om HIBP,
 går igenom två nya sårbarheter som drabbat Intel och AMD, och mycket mer!
 
 Inspelat: 2020-03-11. Längd: 00:45:16.
+

@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.111 - Jul 2017"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_Jul_2017.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_Jul_2017.mp3)
 
 ## Innehåll
 
@@ -21,7 +21,7 @@ Inspelat: 2017-12-14. Längd: 00:54:31.
 
 
 [https://robotattack.org/
-](https://robotattack.org/) 
+](https://robotattack.org/)
 
 Return of Bleichenbacher\'s Oracle Threat - ROBOT is the return of a 19-year-old
 vulnerability that allows performing RSA decryption and signing operations with the
@@ -34,7 +34,6 @@ private key of a TLS server.
 [https://boingboing.net/2017/11/16/dont-use-amazon-key.html
 ](https://boingboing.net/2017/11/16/dont-use-amazon-key.html)
 
-
 Hackers can freeze the camera that lets you know whether your "Amazon Key" equipped
 door is locked and who is using it.
 
@@ -43,7 +42,7 @@ door is locked and who is using it.
 
 
 [http://seclists.org/fulldisclosure/2017/Dec/38
-](http://seclists.org/fulldisclosure/2017/Dec/38) 
+](http://seclists.org/fulldisclosure/2017/Dec/38)
 
 Three separate bugs can be used together to remotely execute commands as
 
@@ -55,4 +54,5 @@ root through the web management interface without authentication on: PAN-OS
 
 
 PAN-OS 8.0.5 and earlier.
+
 

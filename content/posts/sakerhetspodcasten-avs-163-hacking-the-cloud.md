@@ -7,10 +7,10 @@ title: "S\xE4kerhetspodcasten avs.163 \u2013 Hacking the cloud"
 
 iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-09-11_AWS_Sakerhet.mp3)
 
-
 ## Innehåll
 
 I dagens avsnitt pratar vi om hur man penetrationstestar molnbaserad infrastruktur,
 och hur man bäst skyddar den.
 
 Inspelat: 2019-09-11. Längd: 01:05:45.
+

@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.104 \u2013 Arron \"f1nux\" Finnon"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_F1nux.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_F1nux.mp3)
 
 ## Innehåll
 
@@ -17,3 +17,4 @@ Inspelat: 2017-09-29. Längd: 00:38:07.
 ## Länkar
 
 Kommer snart.
+

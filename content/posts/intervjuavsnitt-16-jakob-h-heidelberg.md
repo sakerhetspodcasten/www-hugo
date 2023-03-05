@@ -7,7 +7,6 @@ title: 'Intervjuavsnitt #16 - Jakob H. Heidelberg'
 
 iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/0x08_Sec-T_Jakob_H_Heidelberg_mixdown_v2.mp3)
 
-
 ## Innehåll
 
 I detta intervjuavsnitt pratar vi med Jakob Heidelberg från Fortconsult om hans föredrag
@@ -17,3 +16,4 @@ Jakob går igenom både strategier för angrepp och försvar i ett modernt AD.
 ## Länkar
 
 Kommer snart.
+

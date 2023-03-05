@@ -7,7 +7,6 @@ title: "S\xE4kerhetspodcasten avs.71 - HTTP2 & Quic med Vyrus"
 
 iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Vyrus_-_HTTP2__QUIC__TEACHING_GOOD_PROTOCOLS_TO_DO_BAD_THINGS.mp3)
 
-
 ## Innehåll
 
 Peter och Rikard intervjuar Vyrus under Sec-T 2016. De pratar om Quic - UDP för HTTPS,
@@ -19,3 +18,4 @@ Inspelat: 2016-09-07. Längd: 00:26:31.
 ## Länkar
 
 Kommer snart.
+

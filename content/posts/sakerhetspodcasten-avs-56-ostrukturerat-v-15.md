@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.56 - Ostrukturerat V.15"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostruktu14i4.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostruktu14i4.mp3)
 
 ## Innehåll
 
@@ -18,3 +18,4 @@ Inspelat: 2016-04-14. Längd: 00:41:40.
 ## Länkar
 
 Kommer snart.
+

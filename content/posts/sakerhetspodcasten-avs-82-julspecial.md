@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.82 - Julspecial"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Julapecial_2016_mixdown_01.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Julapecial_2016_mixdown_01.mp3)
 
 ## Innehåll
 
@@ -17,3 +17,4 @@ Inspelat: 2016-12-14. Längd: 00:46:30.
 ## Länkar
 
 Kommer snart.
+

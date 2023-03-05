@@ -6,8 +6,7 @@ title: Lyssna!
 
 
 RSS-Feed: [feeds.feedburner.com/sakerhetspodcasten](https://feeds.feedburner.com/sakerhetspodcasten)
-
 iTunes: [Säkerhetspodcasten](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)
+Gamla avsnitt: [sakerhetspodcasten.libsyn.com](https://sakerhetspodcasten.libsyn.com/)
 
-Gamla avsnitt: [sakerhetspodcasten.libsyn.com](https://sakerhetspodcasten.libsyn.com/) 
 

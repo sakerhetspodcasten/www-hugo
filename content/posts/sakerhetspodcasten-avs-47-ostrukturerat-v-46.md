@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.47 - Ostrukturerat V.46"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v46_mixdown.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v46_mixdown.mp3)
 
 ## Innehåll
 
@@ -20,12 +20,10 @@ Inspelat: 2015-11-12. Längd: 49:12.
 OWASP security tapas och owaspgbg videos: [https://www.youtube.com/user/
 owaspgbg](https://www.youtube.com/user/owaspgbg)
 
-
 OWASP Security Day:
 [http://www.eventbrite.com/e/
 owasp-gothenburg-day-2015-
 tickets-19260398370](http://www.eventbrite.com/e/owasp-gothenburg-day-2015-tickets-19260398370)
-
 
 @planetlevel: .@blaufish_ @webtonull Cool idea. Could easily add
 clazz.isAnnotationPresent(
@@ -44,21 +42,21 @@ threatens-millions-of-
 applications](http://www.contrastsecurity.com/security-influencers/java-serialization-vulnerability-threatens-millions-of-applications)
 
 
-Qubes OS: [https://www.qubes-os.org/](https://www.qubes-os.org/) 
+Qubes OS: [https://www.qubes-os.org/](https://www.qubes-os.org/)
 
 Qubes OS vuln: [https://github.com/QubesOS/
 qubes-secpack/blob/master/
 QSBs/qsb-022-2015.txt](https://github.com/QubesOS/qubes-secpack/blob/master/QSBs/qsb-022-2015.txt)
 
-
 @LenaSundstrom: Snowdens lista: Säkerhetsprogrammen världens mest
-jagade man litar på [https://t.co/IEQPQAM0AP](https://t.co/IEQPQAM0AP) 
+jagade man litar på [https://t.co/IEQPQAM0AP](https://t.co/IEQPQAM0AP)
 
 @trebbelito: Interview with Linus; the kernel of the argument over
-Linux\'s vulnerabilities / [https://t.co/TzEsdv7e9f](https://t.co/TzEsdv7e9f) 
+Linux\'s vulnerabilities / [https://t.co/TzEsdv7e9f](https://t.co/TzEsdv7e9f)
 
 @veorq: authors of the ransomware Linux.Encoder.1 should learn that
-rand(time()) isn\'t a secure crypto PRNG [https://t.co/Zlf1oiKlDq](https://t.co/Zlf1oiKlDq) 
+rand(time()) isn\'t a secure crypto PRNG [https://t.co/Zlf1oiKlDq](https://t.co/Zlf1oiKlDq)
 
 @nilssonanders: Did the FBI Pay a University to Attack Tor Users?
-[https://t.co/KRm0kl5E9D](https://t.co/KRm0kl5E9D) 
+[https://t.co/KRm0kl5E9D](https://t.co/KRm0kl5E9D)
+

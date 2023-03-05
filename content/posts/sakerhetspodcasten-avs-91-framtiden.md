@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.91 \u2013 Framtiden"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Framtiden.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Framtiden.mp3)
 
 ## Innehåll
 
@@ -18,3 +18,4 @@ Inspelat: 2017-04-13. Längd: 00:45:51.
 ## Länkar
 
 Kommer snart.
+

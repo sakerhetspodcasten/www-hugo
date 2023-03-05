@@ -7,7 +7,6 @@ title: "S\xE4kerhetspodcasten avs.77 - DNS med Anne-Marie Eklund L\xF6winder"
 
 iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/DNS_och_DNSSEC_-_Anne-Marie_Eklund_Lowinder.mp3)
 
-
 ## Innehåll
 
 DNS, internets gula sidor, hur fungerar det egentligen, och vilka sårbarheter för
@@ -21,17 +20,17 @@ Inspelat: 2016-11-03. Längd: 00:59:43.
 Anne-Marie Eklund-Löwinder
 
 
-	* Twitter 
+* Twitter
 [https://twitter.com/amelsec
-](https://twitter.com/amelsec) 
+](https://twitter.com/amelsec)
 
-	* Internet Hall of Fame 
+* Internet Hall of Fame
 [http://internethalloffame.org/inductees/anne-marie-eklund-l%C3%B6winder
 ](http://internethalloffame.org/inductees/anne-marie-eklund-l%C3%B6winder)
 
-
-	* IIS: [https://www.iis.se/bloggare/anne-marie/](https://www.iis.se/bloggare/anne-marie/) 
-
+* IIS: [https://www.iis.se/bloggare/anne-marie/](https://www.iis.se/bloggare/anne-marie/)
 
 
- 
+
+
+

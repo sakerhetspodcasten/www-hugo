@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.107 - Zoz Brooks"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Zoz_Brooks.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Zoz_Brooks.mp3)
 
 ## Innehåll
 
@@ -17,3 +17,4 @@ Inspelat: 2017-09-29. Längd: 00:19:00.
 ## Länkar
 
 Kommer snart.
+

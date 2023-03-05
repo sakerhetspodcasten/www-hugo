@@ -7,7 +7,6 @@ title: 'Intervjuavsnitt #12 - Mathias "Avlidienbrunn" Karlsson'
 
 iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-t_Avlidienbrun_Angularjs_mixdown.mp3)
 
-
 ## Innehåll
 
 Detta är det tolfte intervjuavsnittet av Säkerhetspodcasten, i vilket Jesper och
@@ -16,10 +15,10 @@ framförallt Angular JS, och klientsäkerhet i allmänhet.
 
 ## Länkar
 
-	* [SEC-T 2014 0x07: Mattias Karlsson - Breaking AngularJS Javascript Sandbox](https://www.youtube.com/watch?v=6ujZQDx1uew)
+* [SEC-T 2014 0x07: Mattias Karlsson - Breaking AngularJS Javascript Sandbox](https://www.youtube.com/watch?v=6ujZQDx1uew)
 
+* [SEC-T](https://www.sec-t.org/)
 
-	* [SEC-T](https://www.sec-t.org/) 
 
 
 

@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.81 - Hur arrangerar man en konferens?"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Arrangera_ett_event_mixdown_01.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Arrangera_ett_event_mixdown_01.mp3)
 
 ## Innehåll
 
@@ -19,3 +19,4 @@ Inspelat: 2016-12-09. Längd: 00:58:00.
 ## Länkar
 
 Kommer snart.
+

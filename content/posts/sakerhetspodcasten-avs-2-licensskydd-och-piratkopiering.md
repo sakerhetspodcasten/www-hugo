@@ -5,8 +5,7 @@ title: "S\xE4kerhetspodcasten avs. 2 - Licensskydd och Piratkopiering"
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten-2-licensskydd/id576469997?i=123598103&l=en)
- \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcast_2_-_Piratkopiering_och_licensskydd.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten-2-licensskydd/id576469997?i=123598103&l=en)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcast_2_-_Piratkopiering_och_licensskydd.mp3)
 
 ## Innehåll
 

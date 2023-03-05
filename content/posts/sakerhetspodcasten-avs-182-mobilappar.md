@@ -7,10 +7,10 @@ Lyssna
 
 iTunes \| Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-04-29_Mobilappar.mp3)
 
-
 Innehåll
 
 I dagens avsnitt av diskuterar vi mobilappar. Hur bygger man dem säkert, hur testar
 man dem, vilka vanliga fallgropar ska man undvika och vad har hänt sen vi pratade om ämnet sist.
 
 Inspelat: 2020-04-29. Längd: 01:08:11.
+

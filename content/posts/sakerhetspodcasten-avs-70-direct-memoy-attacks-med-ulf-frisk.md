@@ -7,7 +7,6 @@ title: "S\xE4kerhetspodcasten avs.70 - Direct Memoy Attacks med Ulf Frisk"
 
 iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Ulf_Frisk_-_DIRECT_MEMORY_ATTACK_THE_KERNEL.mp3)
 
-
 ## Innehåll
 
 Ulf Frisk tog just DMA-attacker till nästa nivå i hans presentation som hölls både
@@ -24,3 +23,4 @@ Inspelat: 2016-09-07. Längd: 00:19:19.
 ## Länkar
 
 Kommer snart.
+

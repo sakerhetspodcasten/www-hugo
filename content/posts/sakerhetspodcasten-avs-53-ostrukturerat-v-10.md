@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.53 - Ostrukturerat V.10"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v10_2016_mixdown.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v10_2016_mixdown.mp3)
 
 ## Innehåll
 
@@ -18,3 +18,4 @@ Inspelat: 2016-03-10. Längd: 01:13:30.
 ## Länkar
 
 Kommer snart.
+

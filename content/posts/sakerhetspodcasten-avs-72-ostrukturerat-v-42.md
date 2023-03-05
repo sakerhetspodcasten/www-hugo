@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.72 - Ostrukturerat V.42"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v41_2016.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v41_2016.mp3)
 
 ## Innehåll
 
@@ -30,14 +30,11 @@ dinodaizovi/status/
 785519380654268416](https://twitter.com/dinodaizovi/status/785519380654268416)
 
 
- 
 Halloweenkostymer - [https://twitter.com/Stiffo90/
 status/785445205218627584](https://twitter.com/Stiffo90/status/785445205218627584)
 
-
 [https://twitter.com/leifnixon/
 status/785194100630913024](https://twitter.com/leifnixon/status/785194100630913024)
-
 ---
 
 Ignore the pentesters
@@ -57,7 +54,6 @@ kernel-module/](https://www.engadget.com/2016/10/08/reuters-yahoo-email-scanning
 Yahoo hackat [https://www.cnet.com/news/
 yahoo-500-million-accounts-
 hacked-data-breach/](https://www.cnet.com/news/yahoo-500-million-accounts-hacked-data-breach/)
-
 
 PCILeach 1.2 - nu med OSX Sierra och FreeBSD-support :)
 
@@ -90,7 +86,6 @@ smtyp=cur&_r=0](http://www.nytimes.com/2016/10/06/us/nsa-leak-booz-allen-hamilto
 CERT-se lyfter upp Lucas & Neals preso - [https://www.cert.se/2016/09/
 mqtt-i-sverige](https://www.cert.se/2016/09/mqtt-i-sverige)
 
-
 Har vi pratat om DDoS med kameror? [https://blog.cloudflare.com/
 say-cheese-a-snapshot-of-the-
 massive-ddos-attacks-coming-
@@ -100,5 +95,6 @@ from-iot-cameras/](https://blog.cloudflare.com/say-cheese-a-snapshot-of-the-mass
 [http://www.businessinsider.
 com/akamai-brian-krebs-ddos-
 attack-2016-9?r=UK&IR=T&IR=T](http://www.businessinsider.com/akamai-brian-krebs-ddos-attack-2016-9?r=UK&IR=T&IR=T)
+
 
 

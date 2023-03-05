@@ -7,7 +7,6 @@ title: "S\xE4kerhetspodcasten avs.168 \u2013 James Harrison"
 
 iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2019-006_James_Harrison.mp3)
 
-
 ## Innehåll
 
 I dagens avsnitt intervjuar vi James Harrison, ficktjuv och close-up magiker extraordinaire,
@@ -16,3 +15,4 @@ som Sec-T. Hur går man till väga för att stjäla någons ID-bricka eller plå
 kan man skydda sig själv och sina ägodelar?
 
 Inspelat: 2019-09-19. Längd: 00:28:57.
+

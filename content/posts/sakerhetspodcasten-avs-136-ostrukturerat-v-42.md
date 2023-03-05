@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.136 - Ostrukturerat V.42"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukt-v-42.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukt-v-42.mp3)
 
 ## Innehåll
 
@@ -14,3 +14,4 @@ Google+ som stänger ner och sårbarheter i WhatsApp samt Mikrotik, Jenkins och 
 length-problematik i OpenSSL.
 
 Inspelat: 2018-10-10. Längd: 01:11:46.
+

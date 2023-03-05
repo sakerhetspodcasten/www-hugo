@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.83 - Ostrukturerat V.2"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2016-12-29.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2016-12-29.mp3)
 
 ## Innehåll
 
@@ -18,7 +18,7 @@ Inspelat: 2016-12-29. Längd: 00:52:38.
 ## Länkar
 Plugs
 
-[https://c217.se/](https://c217.se/) 
+[https://c217.se/](https://c217.se/)
 
 
 
@@ -29,7 +29,7 @@ Stefan Schörling
 Tips på Ny SCADA Säkerhetsbok mottages gärna @sakpodcasten @kryptera har ni nå tips?
 
 [https://scadahacker.com/
-library/](https://scadahacker.com/library/) 
+library/](https://scadahacker.com/library/)
 
 [https://www.amazon.com/
 Industrial-Network-Security-
@@ -42,7 +42,6 @@ industrial+network+security](https://www.amazon.com/Industrial-Network-Security-
 [https://www.amazon.com/
 Applied-Cyber-Security-Smart-
 Grid/dp/1597499986/](https://www.amazon.com/Applied-Cyber-Security-Smart-Grid/dp/1597499986/)
-
 
 
 
@@ -85,11 +84,9 @@ status/813899284831608832](https://twitter.com/Myriachan/status/8138992848316088
 
 
 
-
 Amazon Echo hot tub murder [https://www.theinformation.
 com/amazon-echo-and-the-hot-
 tub-murder](https://www.theinformation.com/amazon-echo-and-the-hot-tub-murder)
-
 
 
 
@@ -98,7 +95,6 @@ TV brickad av Android ransomware
 [https://twitter.com/
 darrencauthon/status/
 813096722989809665](https://twitter.com/darrencauthon/status/813096722989809665)
-
 
 
 
@@ -123,13 +119,11 @@ assassination.html](http://thehackernews.com/2016/12/russian-ambassador-assassin
 
 
 
-
 Så många avlyssnade SÄPO förra året
 
 [http://www.dn.se/nyheter/
 sverige/sa-manga-avlyssnade-
 sapo-forra-aret/](http://www.dn.se/nyheter/sverige/sa-manga-avlyssnade-sapo-forra-aret/)
-
 
 
 
@@ -151,13 +145,13 @@ mistake](http://www.newyorker.com/news/news-desk/world-war-three-by-mistake)
 
 
 
-
 Tomcat RCE (lösenord/username deserialization)
 
 
 
 [https://www.seebug.org/vuldb/
-ssvid-92553](https://www.seebug.org/vuldb/ssvid-92553) 
+ssvid-92553](https://www.seebug.org/vuldb/ssvid-92553)
+
 
 
 

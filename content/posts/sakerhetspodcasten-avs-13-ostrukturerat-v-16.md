@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.13 - Ostrukturerat V.16"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten13ostrukt.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten13ostrukt.mp3)
 
 ## Innehåll
 
@@ -17,3 +17,4 @@ Inspelat 2013-04-18. Längd 54:43.
 ## Länkar
 
 Kommer snart.
+

@@ -5,7 +5,7 @@ title: "S\xE4kerhetspodcasten avs.101 \u2013 Hugo Hirsh"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Hugo_Hirsh.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Hugo_Hirsh.mp3)
 
 ## Innehåll
 
@@ -18,3 +18,4 @@ Inspelat: 2017-09-29. Längd: 00:11:24.
 ## Länkar
 
 Kommer snart.
+

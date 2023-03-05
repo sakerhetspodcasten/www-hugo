@@ -5,7 +5,7 @@ title: 'Intervjuavsnitt #11 - David Jacoby'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-t_david_jakobi_mixdown.mp3) 
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-t_david_jakobi_mixdown.mp3)
 
 ## Innehåll
 
@@ -18,11 +18,12 @@ Inspelat: 2014-09-20. Längd: 18:36.
 ## Länkar
 
 
-	* [David Jacoby.se](http://www.davidjacoby.se/) 
+* [David Jacoby.se](http://www.davidjacoby.se/)
 
-	* [@JacobyDavid](https://twitter.com/JacobyDavid) 
+* [@JacobyDavid](https://twitter.com/JacobyDavid)
 
-	* [SEC-T](https://www.sec-t.org/) 
+* [SEC-T](https://www.sec-t.org/)
+
 
 
 

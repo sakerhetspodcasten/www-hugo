@@ -8,7 +8,6 @@ title: "S\xE4kerhetspodcasten avs.68 - Mots\xE4gelsefulla Best Practices med Lov
 
 iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Love_Bjork_-_Best_practice_the_inconsistency_of_doing_it_the_right_way.mp3)
 
-
 ## Innehåll
 
 Rikard och Peter intervjuar Love Björk efter hans talk på Sec-T Community Night 2016.
@@ -21,3 +20,4 @@ Inspelat: 2016-09-07. Längd: 00:38:40.
 ## Länkar
 
 Kommer snart.
+

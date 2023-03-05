@@ -5,8 +5,7 @@ title: 'Intervjuavsnitt #2 - Justin Searle'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/JustinSearle.mp3) [
-](http://traffic.libsyn.com/sakerhetspodcasten/IntervjuavsnittetLOUD.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/JustinSearle.mp3) [ ](http://traffic.libsyn.com/sakerhetspodcasten/IntervjuavsnittetLOUD.mp3)
 
 ## Innehåll
 
@@ -19,3 +18,4 @@ Inspelat 2013-03-12. Längd 17:47.
 ## Länkar
 
 http://www.samuraistfu.org/
+
