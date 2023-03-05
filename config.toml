@@ -18,8 +18,8 @@ title = "Säkerhetspodcasten"
     [params.header.title]
       name  = "Säkerhetspodcasten"
 
-[footer]
-   enable = false
+  [params.footer]
+    enable = false
 
 [menu]
   [[menu.main]]
