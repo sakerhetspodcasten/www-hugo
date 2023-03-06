@@ -56,10 +56,7 @@ Inspelat: 2014-03-13. Längd: 1:05:45.
 
 * I sexual harresed my NSA Polygrapher [http://www.chicagonow.com/listing-toward-forty/2013/08/i-sexually-harassed-my-nsa-polygrapher/](http://www.chicagonow.com/listing-toward-forty/2013/08/i-sexually-harassed-my-nsa-polygrapher/)
 
-* 16% of Top 50 Android Applications vulnerable to Remote Code Execution -- Execute
-This! Analyzing Unsafe and Malicious Dynamic Code Loading in Android Applications 
-
-[http://cs.ucsb.edu/~yanick/publications/2014_ndss_android-remote-code-execution.pdf](http://cs.ucsb.edu/~yanick/publications/2014_ndss_android-remote-code-execution.pdf)
+* 16% of Top 50 Android Applications vulnerable to Remote Code Execution -- Execute This! Analyzing Unsafe and Malicious Dynamic Code Loading in Android Applications [http://cs.ucsb.edu/~yanick/publications/2014_ndss_android-remote-code-execution.pdf](http://cs.ucsb.edu/~yanick/publications/2014_ndss_android-remote-code-execution.pdf)
 
 * 162000 DDoS via Wordpress XML-RPC [http://arstechnica.com/security/2014/03/more-than-162000-legit-wordpress-sites-abused-in-powerful-ddos-attack/](http://arstechnica.com/security/2014/03/more-than-162000-legit-wordpress-sites-abused-in-powerful-ddos-attack/)
 

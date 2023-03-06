@@ -65,7 +65,6 @@ Inspelat: 2013-06-26. Längd: 01:19:29.
 
 * Hjärnforskare Katarina Gospic i radion [http://sverigesradio.se/sida/avsnitt/203032?programid=2071](http://sverigesradio.se/sida/avsnitt/203032?programid=2071)
 
-
 * Maskeringsförbud [http://www.riksdagen.se/sv/Dokument-Lagar/Utskottens-dokument/Betankanden/Arenden/200506/JuU3/](http://www.riksdagen.se/sv/Dokument-Lagar/Utskottens-dokument/Betankanden/Arenden/200506/JuU3/)
 
 * Egyptienavissningarna [http://sv.wikipedia.org/wiki/Egyptenavvisningarna](http://sv.wikipedia.org/wiki/Egyptenavvisningarna)

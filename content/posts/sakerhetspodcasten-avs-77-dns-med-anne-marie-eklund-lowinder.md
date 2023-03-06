@@ -19,14 +19,9 @@ Inspelat: 2016-11-03. Längd: 00:59:43.
 
 Anne-Marie Eklund-Löwinder
 
+* Twitter [https://twitter.com/amelsec](https://twitter.com/amelsec)
 
-* Twitter
-[https://twitter.com/amelsec
-](https://twitter.com/amelsec)
-
-* Internet Hall of Fame
-[http://internethalloffame.org/inductees/anne-marie-eklund-l%C3%B6winder
-](http://internethalloffame.org/inductees/anne-marie-eklund-l%C3%B6winder)
+* Internet Hall of Fame [http://internethalloffame.org/inductees/anne-marie-eklund-l%C3%B6winder](http://internethalloffame.org/inductees/anne-marie-eklund-l%C3%B6winder)
 
 * IIS: [https://www.iis.se/bloggare/anne-marie/](https://www.iis.se/bloggare/anne-marie/)
 

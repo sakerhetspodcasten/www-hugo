@@ -10,9 +10,8 @@ iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sommar_2014_2_mix
 ## Innehåll
 
 Detta är det tjugonionde avsnittet av Säkerhetspodcasten, i vilket panelen förbereder
-sig för semester i solen, diskuterar TrueCrypt, Microsofts 
-övertagande av No-IP domäner, kör en kort recap på Sans SEC560 och mycket mer.
-
+sig för semester i solen, diskuterar TrueCrypt, Microsofts övertagande av No-IP domäner,
+kör en kort recap på Sans SEC560 och mycket mer.
 
 Inspelat: 2 juli 2014. Längd: 34:10.
 

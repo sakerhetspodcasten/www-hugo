@@ -31,8 +31,7 @@ Egna Projekt
 
 * Bergvärmeprotokollen Rikard uteslutit: [http://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus](http://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus)  & [http://en.wikipedia.org/wiki/I%C2%B2C](http://en.wikipedia.org/wiki/I%C2%B2C)
 
-* Rikard Raspery pi [http://www.raspberrypi.org](http://www.raspberrypi.org/) ,
- Tid från GPS [http://www.lammertbies.nl/comm/info/GPS-time.html](http://www.lammertbies.nl/comm/info/GPS-time.html)
+* Rikard Raspery pi [http://www.raspberrypi.org](http://www.raspberrypi.org/) , Tid från GPS [http://www.lammertbies.nl/comm/info/GPS-time.html](http://www.lammertbies.nl/comm/info/GPS-time.html)
 
 * Jidhages Yagi antenn [http://en.wikipedia.org/wiki/Yagi-Uda_antenna](http://en.wikipedia.org/wiki/Yagi-Uda_antenna)
 

@@ -20,4 +20,3 @@ egna James Lyne. Vi pratar om James väg in i säkerhetsbranschen, de största p
 inom säkerhetsvärlden idag, hur det är att flyga världen runt för att hålla SANS-kurser,
 och mycket mer. Inspelat på SANS Pentest Training i Berlin 2014.
 
-

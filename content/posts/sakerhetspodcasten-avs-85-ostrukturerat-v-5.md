@@ -18,72 +18,51 @@ Inspelat: 2017-01-12. Längd: 01:12:30.
 
 Plugs:
 
+[SecurityFest ](http://securityfest.com)
 
-[SecurityFest
-](http://securityfest.com)
-
-[Security Without Borders
-](http://securitywithoutborders.org)
+[Security Without Borders](http://securitywithoutborders.org)
 
 
 
 Avrundning/Recap 2016:
 
-
 Cyber and Cyberwarfare https://www.youtube.com/watch?v=kEKLzXxOF84
-
 
 
 
 2017:
 
-
 Vad tror VI?
 
 
 
-
-Jonas Lejon kryptera.se
-[http://techworld.idg.se/2.2524/1.673425/sakerhetshot-2017
-](http://techworld.idg.se/2.2524/1.673425/sakerhetshot-2017)
+Jonas Lejon kryptera.se [http://techworld.idg.se/2.2524/1.673425/sakerhetshot-2017](http://techworld.idg.se/2.2524/1.673425/sakerhetshot-2017)
 
 -&gt; utpressningsvirus (ransomware)
 
-
 -&gt; IoT
-
 
 -&gt; APT’s, avancerade malwares, falseflags
 
-
 -&gt; Gamification, göra säkerhet kul
-
 
 -&gt; DDoS
 
-
 -&gt; SWIFT, Jackpotting
-
 
 -&gt; Politiska attacker
 
 
 
-
 Spådomar
-
 
 * Cyber mot publik infra (rikard)
 
-
 * En ny allvarlig websårbarhetsklass (johan)
-
 
 * Automotive attack in the wild (mattias)
 
-
 * Massiva attacker mot slutanvändare (Jesper)
-
 
 * Mer publika attacker mot underrättelsetjänster och liknande (peter)
 
@@ -91,12 +70,9 @@ Spådomar
 
 
 
-
 Tom Scott - Single Point of Failure
 
-
 https://youtu.be/y4GB_NDU43Q
-
 
 
 
@@ -104,54 +80,39 @@ Old news
 
 
 
-
 Techdirt stämda
 
-
-[https://www.techdirt.com/articles/20170111/11440836465/techdirts-first-amendment-fight-life.shtml
-](https://www.techdirt.com/articles/20170111/11440836465/techdirts-first-amendment-fight-life.shtml)
-
+[https://www.techdirt.com/articles/20170111/11440836465/techdirts-first-amendment-fight-life.shtml](https://www.techdirt.com/articles/20170111/11440836465/techdirts-first-amendment-fight-life.shtml)
 
 
 
 Yahoo är 10% av Yahoo’s värde :)
 
-
-[http://www.wsj.com/articles/after-sale-marissa-mayer-to-leave-yahoo-board-yahoo-to-change-name-to-altaba-1484002787
-](http://www.wsj.com/articles/after-sale-marissa-mayer-to-leave-yahoo-board-yahoo-to-change-name-to-altaba-1484002787)
-
+[http://www.wsj.com/articles/after-sale-marissa-mayer-to-leave-yahoo-board-yahoo-to-change-name-to-altaba-1484002787](http://www.wsj.com/articles/after-sale-marissa-mayer-to-leave-yahoo-board-yahoo-to-change-name-to-altaba-1484002787)
 
 
 
 FRA - spioner slår mot kraftnätet
 
-
-[http://www.svt.se/nyheter/inrikes/it-spioner-forbereder-attack-mot-elnatet
-](http://www.svt.se/nyheter/inrikes/it-spioner-forbereder-attack-mot-elnatet)
+[http://www.svt.se/nyheter/inrikes/it-spioner-forbereder-attack-mot-elnatet](http://www.svt.se/nyheter/inrikes/it-spioner-forbereder-attack-mot-elnatet)
 
 
 
 Mejla lösenord
 
-
-[https://twitter.com/DaveNYviii/status/816497385513828352
-](https://twitter.com/DaveNYviii/status/816497385513828352)
+[https://twitter.com/DaveNYviii/status/816497385513828352](https://twitter.com/DaveNYviii/status/816497385513828352)
 
 
 
 Shadowbrokers Lägger ner
 
-
-[https://onlyzero.net/theshadowbrokers.bit/post/messagefinale/
-](https://onlyzero.net/theshadowbrokers.bit/post/messagefinale/)
+[https://onlyzero.net/theshadowbrokers.bit/post/messagefinale/](https://onlyzero.net/theshadowbrokers.bit/post/messagefinale/)
 
 
 
 Cellebrite hackat
 
-
-[https://motherboard.vice.com/read/hacker-steals-900-gb-of-cellebrite-data
-](https://motherboard.vice.com/read/hacker-steals-900-gb-of-cellebrite-data)
+[https://motherboard.vice.com/read/hacker-steals-900-gb-of-cellebrite-data](https://motherboard.vice.com/read/hacker-steals-900-gb-of-cellebrite-data)
 
 
 

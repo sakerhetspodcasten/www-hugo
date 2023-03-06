@@ -13,7 +13,6 @@ Detta är det tjugosjunde avsnittet av Säkerhetspodcasten, i vilket panelen dis
 hackergrupper. Allting från regeringsunderstödda grupper som utför avancerade attacker
 till script kiddies från Syrien. 
 
-
 Inspelat: 2014-05-07. Längd: 01:28:22.
 
 ## Länkar

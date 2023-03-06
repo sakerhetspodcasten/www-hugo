@@ -13,6 +13,5 @@ Dagens avsnitt är en intervju inspelad under CS3 2017. Säkerhetspodcastens fly
 reporter Robin von Post intervjuar Robert Lipovský och Anton Cherepanov från ESET
 om deras research kring malwaret Industroyer.
 
-
 Inspelat: 2017-10-24. Längd: 00:13:09.
 

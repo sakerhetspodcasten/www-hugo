@@ -13,7 +13,6 @@ Detta är det trettionde avsnittet av Säkerhetspodcasten, i vilket panelen svar
 på frågor från er lyssnare! Vi pratar Diginotar, Bug Bounties, David Guettas USB-minne,
 LibreSSL och mycket mer.
 
-
 Säkerhetskonferenser i sverige: SEC-T, OWASP (chapters: Sverige, Stockholm, Göteborg,
 ...), Next Generation Threats, Internet Dagarna, Internet Security Expo, ISACA, ASIS, FOSS
 

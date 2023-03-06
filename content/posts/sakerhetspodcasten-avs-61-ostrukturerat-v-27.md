@@ -109,8 +109,8 @@ TOR anställer ex-CIA dude
 [http://motherboard.vice.com/
 read/-tor-project-battled-
 over-hiring-ex-cia-agent-chat-
-logs-show
-](http://motherboard.vice.com/read/-tor-project-battled-over-hiring-ex-cia-agent-chat-logs-show)
+logs-show](http://motherboard.vice.com/read/-tor-project-battled-over-hiring-ex-cia-agent-chat-logs-show)
+
 
 ## #OSSBugSquash
 

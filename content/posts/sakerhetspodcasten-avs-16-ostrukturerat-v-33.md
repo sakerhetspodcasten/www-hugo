@@ -51,8 +51,7 @@ Inspelat: 2013-08-15. Längd: 01:24:39.
 
 * RAM Memory acuisition using Live BIOS Modification [https://ohm2013.org/wiki/Village:Garrison#Lecture:_RAM_Memory_acquisition_using_live-BIOS_modification](https://ohm2013.org/wiki/Village:Garrison#Lecture:_RAM_Memory_acquisition_using_live-BIOS_modification)
 
-* Polyanomös 
-[http://en.wikipedia.org/wiki/Polyamory](http://en.wikipedia.org/wiki/Polyamory)
+* Polyanomös [http://en.wikipedia.org/wiki/Polyamory](http://en.wikipedia.org/wiki/Polyamory)
 
 * NanoBTS [http://openbsc.osmocom.org/trac/wiki/nanoBTS](http://openbsc.osmocom.org/trac/wiki/nanoBTS)
 
