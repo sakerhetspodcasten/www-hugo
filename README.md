@@ -29,18 +29,6 @@ NOTE:
 * [static](static) - yet another directory with files in it.
 * `themes/LoveIt` - a theme!
 
-### Output directories
+### Output directory
 
-* `.deb` - debian download of hugo binary (see [install.sh](install.sh))
-* `.pub` - zip files of `public/` (see [publish.sh](publish.sh))
-* `public` - created by executing `hugo` (see also [publish.sh](publish.sh))
-
-### Scripts
-
-* [install.sh](install.sh) - downloads and installs:
-  * `hugo_extended` for `amd64`.
-  * [LoveIt](https://github.com/dillonzq/LoveIt) theme for Hugo.
-* [publish.sh](publish.sh)
-  * back-up current `public`
-  * executes `hugo` to create `public`
-  * creates a zip file of `public` folder
+* `public` - created by executing `hugo`
