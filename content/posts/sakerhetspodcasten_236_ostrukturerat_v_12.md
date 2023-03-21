@@ -13,7 +13,7 @@ I dagens avsnitt diskuterar vi följande ämnen:
 * TPM 2.0 sårbarheter - Read out of bounds, write out of bounds 
 * Off topic: meme-metallen Tungsten
 
-# Länkar
+## Länkar
 Chat Control
 * [Mullvad: Stoppa Chat control](https://mullvad.net/sv/chatcontrol/stop-chatcontrol)
 
