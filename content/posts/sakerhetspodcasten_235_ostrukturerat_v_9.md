@@ -8,31 +8,31 @@ title: "S\xE4kerhetspodcasten #235 - Ostrukturerat V.9"
 ## Innehåll
 Panelen diskuterar den senaste tidens nyheter, både säkerhetsrelaterat och lite off-topic.
 
-### Off-Topic
+## Off-Topic
 
-Kina, Ballonger, Sidewinder
+### Kina, Ballonger, Sidewinder
 * [Legal Eagle, Chinese Spy Balloon: Legal To Shoot Down?](https://www.youtube.com/watch?v=P43wVDiZs8k)
 * [POV: Sidewinder missile has locked on to you](https://www.youtube.com/watch?v=Nd9OEhDMFSM)
 
-South-West
+### South-West
 * [Travel Codex: The Southwest Airlines Meltdown, What Really Happened](https://www.travelcodex.com/the-southwest-airlines-meltdown-what-really-happened/)
 * [blancolirio: The Largest Airline Meltdown in Aviation History! 29 Dec 2022](https://www.youtube.com/watch?v=ghEFf2CQypc)
 * [Mentour Now!: This Caused the Southwest Airlines Christmas Meltdown](https://www.youtube.com/watch?v=nsXG7Nt7LPE)
 
-NoTAM:
+### NoTAM
 * [blancolirio: FAA NOTAM Outage! 11 Jan 2023](https://www.youtube.com/watch?v=ib79qWWMOcc)
 
-### Hacker sattelit-attack mot emergency-radio
+## Hacker sattelit-attack mot emergency-radio
 
 * [The Record: Russia blames hackers as commercial radio stations broadcast fake air strike warnings](https://therecord.media/russia-radio-hackers-fake-air-raid-missile-strike-warnings)
 * [Paul P Coggin: Pwned in Space (Security Fest 2022)](https://www.youtube.com/watch?v=VicBD1xE-9A)
 * [travisgoodspeed: Hillbilly Tracking of Low Earth Orbit Satellites](http://travisgoodspeed.blogspot.com/2013/07/hillbilly-tracking-of-low-earth-orbit.html)
 
-### RSA GnuTLS
+## RSA GnuTLS
 * [GitHub GnuTLS: Timing sidechannel in RSA decryption](https://gitlab.com/gnutls/gnutls/-/issues/1050)
 * [Serious Security: GnuTLS follows OpenSSL, fixes timing attack bug](https://nakedsecurity.sophos.com/2023/02/13/serious-security-gnutls-follows-openssl-fixes-timing-attack-bug/)
 
-### Activision nät-fiskat
+## Activision nät-fiskat
 
 * [Activision Says No Game Code Or Player Data Was Accessed In Recent Call Of Duty Leak](https://www.dualshockers.com/activision-says-no-game-code-accessed-call-of-duty-leak/)
 
@@ -45,6 +45,6 @@ Activision skall ha gett följande svar (svårt att hitta förstahandskälla):
 > Following a thorough investigation, we determined that no sensitive employee
 > data, game code, or player data was accessed."
 
-### Reddit nät-fiskat
+## Reddit nät-fiskat
 * [Reddit: We had had a security incident. Here’s what we know.](https://www.reddit.com/r/reddit/comments/10y427y/we_had_a_security_incident_heres_what_we_know/)
 * [Mental Outlaw: Reddit Got Hacked](https://www.youtube.com/watch?v=ghXfn2MT7_Q)
