@@ -22,7 +22,7 @@ Panelen diskuterar den senaste tidens nyheter, både säkerhetsrelaterat och lit
 ### NoTAM
 * [blancolirio: FAA NOTAM Outage! 11 Jan 2023](https://www.youtube.com/watch?v=ib79qWWMOcc)
 
-## Hacker sattelit-attack mot emergency-radio
+## Hacker satellit-attack mot emergency-radio
 
 * [The Record: Russia blames hackers as commercial radio stations broadcast fake air strike warnings](https://therecord.media/russia-radio-hackers-fake-air-raid-missile-strike-warnings)
 * [Paul P Coggin: Pwned in Space (Security Fest 2022)](https://www.youtube.com/watch?v=VicBD1xE-9A)
