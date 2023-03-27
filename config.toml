@@ -26,6 +26,9 @@ title = "Säkerhetspodcasten"
   [params.footer]
     enable = false
 
+  [params.app]
+    title = "Säkerhetspodcasten"
+
 [menu]
   [[menu.main]]
     weight = 1
