@@ -54,13 +54,13 @@ title: "S\xE4kerhetspodcasten #233 - Ostrukturerat V.3"
 
 ## GE Historian, din cyberfysiska datasjö är trasig (ICS/OT)
 
-CVE-2022-46732, CVE-2022-46660
+### GE Historian buggarna: CVE-2022-46732, CVE-2022-46660
 
 * [SecurityWeek: Hackers Can Exploit GE Historian Vulnerabilities for ICS Espionage, Disruption](https://www.securityweek.com/hackers-can-exploit-ge-historian-vulnerabilities-ics-espionage-disruption/)
 * [Team82 Research: Hacking ICS Historians - The Pivot Point from IT to OT](https://claroty.com/team82/research/hacking-ics-historians-the-pivot-point-from-it-to-ot)
 * [CISA ICS Advisory: GE Digital Proficy Historian](https://www.cisa.gov/news-events/ics-advisories/icsa-23-017-01)
 
-Relaterad, Rickards gamla going:
+### Relaterat: Rickards gamla going
 * [SecurityWeek: Vulnerability in ABB Plant Historian Disclosed 5 Years After Discovery](https://www.securityweek.com/vulnerability-abb-plant-historian-disclosed-5-years-after-discovery/)
 
 ## En-pixel attack dödar din telefon
