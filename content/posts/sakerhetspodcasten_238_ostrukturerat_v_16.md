@@ -21,6 +21,9 @@ I dagens avsnitt disuterar vi den senaste tidens säkerhetsnyheter.
   * A look at the RISC-V Security Extensions: Joachim Strömbergson, Assured AB
   * Development of the Fifth Generation European Processor for Space Applications: RISC-V Expanding in the Solar System, Frontgrade Gaisler AB
   * Plans about RISC-V extensions for memory compression, Alexandra Angerd, ZeroPoint Technologies AB
+* Frore AirJet
+  * [PCWorld: Solid State Active Cooling Could Revolutionize Thermals](https://www.youtube.com/watch?v=YGxTnGEAx3E)
+  * [PCWorld: Take A Lab Tour Of This Solid-State Cooling Tech](https://www.youtube.com/watch?v=WibczqINifA)
 
 ## Ransomware över allt
 
