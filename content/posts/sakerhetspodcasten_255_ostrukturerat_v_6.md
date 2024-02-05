@@ -46,7 +46,7 @@ Rickard med flera tycker det är lite hype:at.
 
 ## GitLab
 
-* [NVD: CVE-2023-7028 An issue has been discovered in GitLab ... hich user account password reset emails could be delivered to an unverified email address.](https://nvd.nist.gov/vuln/detail/CVE-2023-7028)
+* [NVD: CVE-2023-7028 GitLab user account password reset emails could be delivered to an unverified email address](https://nvd.nist.gov/vuln/detail/CVE-2023-7028)
 * [@rwincey: GitLab CVE-2023-7028 POC](https://twitter.com/rwincey/status/1745659710089437368)
 
 > GitLab CVE-2023-7028 POC
@@ -69,10 +69,13 @@ Mannen känd från storfilmer så som [The Room](https://www.imdb.com/title/tt03
 
 * [1Password Commercial - Stopping Bad Actors with @TommyWiseau](https://www.youtube.com/watch?v=7h7QG7W14qs)
 
-## PoIEx - Points Of Intersection Explorer
+## PoiEx - Points Of Intersection Explorer
 
 Ett verktyg som visualiserar Infrastructure of Code och kan visa det i Visual Studio:
 
 * [github.com/doyensec/PoiEx - Visualize and explore IaC...](https://github.com/doyensec/PoiEx)
 * [doyensec: Introducing PoIEx - Points Of Intersection Explorer](https://blog.doyensec.com/2024/01/30/poiex-release.html)
 
+Det orelaterade verktyget vi snurrade in på snabbt:
+
+* [github.com/semgrep/semgrep](https://github.com/semgrep/semgrep) - _Code scanning at ludicrous speed._
