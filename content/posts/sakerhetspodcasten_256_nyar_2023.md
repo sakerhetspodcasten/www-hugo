@@ -32,7 +32,7 @@ Men nu till dagens återblick!
 
 * 00:42:00 - Mattias påminner om formatet!
 * 00:43:00 - **Johan**: digital äkthet, identitet på webben, web 3.0
-* 00:51:00 - **Jesper**: extrem ökning av identitshantering.
+* 00:51:00 - **Jesper**: extrem ökning av fails inom identitshantering, felkonfigurering, dålig moln-integrationer.
 * 00:56:20 - **Peter**: kvantumdatorerna anfaller!
   Forskarna får jobba lite och ge oss en riktig [Shor](https://en.wikipedia.org/wiki/Shor%27s_algorithm) dator.
   Vill vi se en RSA-1024(bit) knäckare!
