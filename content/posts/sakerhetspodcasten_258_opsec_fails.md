@@ -15,12 +15,14 @@ I dagens avsnitt diskuterar vi det här med opsec, vad är det, och hur går det
 * [arstechnica: How digital detectives deciphered Stuxnet, the most menacing malware in history](https://arstechnica.com/tech-policy/2011/07/how-digital-detectives-deciphered-stuxnet-the-most-menacing-malware-in-history/)
   * bugg orsakade boot loop
   * spred sig utanför målområdet
-* lulzsec
+* lulzsec dox
   * [theguardian: lulzsec hacking fbi: jail](https://www.theguardian.com/technology/2013/may/16/lulzsec-hacking-fbi-jail)
   * [arstechnica: Doxed - how Sabu was outed by former Anons long before his arrest](https://arstechnica.com/tech-policy/2012/03/doxed-how-sabu-was-outed-by-former-anons-long-before-his-arrest/)
-  * sabu läckte sin IP av misstag i en anon-chat
-  * sabu var redan känd av FBI innan lulsec pga handlat kreditkortuppgifter
-  * sabu fullständiga namn fanns i whois records för en av hans sajter
+  * [knowyourmeme: topiary](https://knowyourmeme.com/memes/people/topiary)
+  * Sabu läckte sin IP av misstag i en anon-chat
+  * Sabu var redan känd av FBI innan lulsec pga handlat kreditkortuppgifter
+  * Sabu's fullständiga namn fanns i whois records för en av hans sajter
+  * Topiary återanvände ett nick han använt i XBox gaming sammanhang, folk visste vem han var
 
 ## Verktyg
 
