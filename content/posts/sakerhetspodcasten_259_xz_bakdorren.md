@@ -10,6 +10,10 @@ title: "S\xE4kerhetspodcasten #259 - XZ-bakd\xF6rren"
 `sshd` är bakdörrat via `xz`/`liblzma`.
 En påverkansoperation, kanske från en underrättelsetjänst, har skett helt öppet i en mailinglista.
 
+## Kodsnack parallell
+
+* [Kodsnack 578 - Inte personens första bakdörr, med Peter Magnusson](https://kodsnack.se/578/) - Peter gästar Kodnsack.
+
 ## Timeline, överblick
 
 * [research!rsc: Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
@@ -23,7 +27,7 @@ Debian benchmark snubbe på Microsoft är bra att ha!
 * [Andres Freund: backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * Podcast: [Risky Business #743 -- A chat about the xz backdoor with the guy who found it](https://risky.biz/RB743/)
 
-## Teknisk fokusfokus
+## Teknisk fokus
 
 * [github.com/amlweems/xzbot](https://github.com/amlweems/xzbot) - Exploration of the xz backdoor (CVE-2024-3094)
 * Video: [Low Level Learning: malicious backdoor found in ssh libraries](https://youtu.be/jqjtNDtbDNI)
