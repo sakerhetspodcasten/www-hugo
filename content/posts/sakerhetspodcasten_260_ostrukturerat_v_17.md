@@ -60,7 +60,7 @@ Jesper testar SSSS, SO-CON, Saw Con?, Azure och lite annat kul!
 * [Wikipedia: Secondary Security Screening Selection (SSSS)](https://en.wikipedia.org/wiki/Secondary_Security_Screening_Selection) - konsten att vinna flygbingo!
 * [bloodhound enterprise: Attack Path Management for all](https://bloodhoundenterprise.io/)
 * [specreops](https://specterops.io/) - Know your adversary
-  * [Active Directory: Security Fundamentals](https://specterops.io/training/active-directory-security-fundamentals/)
+  * [Azure Security Fundamentals](https://specterops.io/azure-security-fundamentals/)
   * [SO-CON](https://specterops.io/so-con/) - konferensen som heter... typ Saw Con.
 * [Know Your Meme: Saw Con](https://knowyourmeme.com/memes/saw-con)
 
