@@ -51,7 +51,7 @@ Lyssnaren "Jesper" blev lite illamående:
 
 Förslag:
 
-- Anmälla till (Integritetsskyddsmyndigheten (IMY.SE)](https://www.imy.se/)
+- Anmälla till [Integritetsskyddsmyndigheten (IMY.SE)](https://www.imy.se/)
 - Kontakta grävande IT-journalister, t.ex. Dagens Nyheters Kristoffer Örstadius.
 - Försöka hitta kontakt med rätt person via t.ex. Linkedin, Twitter.
 
