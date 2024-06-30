@@ -96,6 +96,8 @@ Nästan ingen slumpmässighet i nycklarna.
 Tydligen har mejl-leverantörer haft samma svaga nycklar i 16 - 18 år...
 
 * [16 years of CVE-2008-0166 Debian OpenSSL Bug: Breaking DKIM and BIMI in 2024](https://16years.secvuln.info/)
+* [MiniDebConf - Berlin 2024](https://berlin2024.mini.debconf.org/) - konferens där e-mail attacken presenterades!
+* [Hanno Böck @ MiniDebConf - Berlin 2024: Breaking DKIM and BIMI with the 2008 Debian openssl bug](https://laotzu.ftp.acc.umu.se/pub/debian-meetings/2024/MiniDebConf-Berlin/33-breaking-dkim-and-bimi-with-the-2008-debian-openssl-bug.lq.webm) - `video`
 * [Brodie Robertson: Debian's OpenSSL Bug Lingers 16 Years Later](https://www.youtube.com/watch?v=-mXdH7u5ffY) - `video`
 * [Debian: SECURITY: DSA 1571-1: New openssl packages fix predictable random number generator](https://lists.debian.org/debian-security-announce/2008/msg00152.html)
 
