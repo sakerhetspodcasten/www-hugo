@@ -30,12 +30,6 @@ Lyssnarbrev från Linus M, från i maj:
   * VMWare brinner och hela virtualiseringen behöver startas om
   * Testaren och hans chef är omöjliga att nå pga möte med avstängda
     mobiltelefoner
-* Security Operations Centers (SOC) som funkar bra och mindre bra.
-  * SOM som gör snabb isolering av hackade servers.
-  * SOC som inte vet vem som är säkerhetspersonal.
-  * SOC som berättar för misstänkt användare att man hen konstiga
-    saker.
-  * SOC som inte kan skriva begriplia mejl.
 * Webb-säkerhetstest som går åt skogen:
   * Kreditkort börjar tryckas upp
   * Gratis bananer
@@ -45,6 +39,18 @@ Lyssnarbrev från Linus M, från i maj:
     miljövariabler och JVM minne (`heapdump`) på Internet
   * Applikationer som bara "mår dåligt" utan tydlig diagnos/orsak
     efter tester.
+* Kul klassikers / buggar
+  * "Minus ett" köp
+  * Flyttals parsning avrundnings evighetsbugg
+* Wordpress
+  * Säkerhetspodcastens wordpress problem...
+  * `Wordpress.com`: sökfunktions-DoS + bra hantering!
+* Security Operations Centers (SOC) som funkar bra och mindre bra.
+  * SOM som gör snabb isolering av hackade servers.
+  * SOC som inte vet vem som är säkerhetspersonal.
+  * SOC som berättar för misstänkt användare att man ser att hen
+    gör konstiga saker.
+  * SOC som inte kan skriva begripliga mejl.
 * BB-8 / Disney ladda upp din egen video
 * Prestandatestet som drog miljonbelopp i telefonräkning...
 * Testrapporten som kund glömde bort och fick panik när de
