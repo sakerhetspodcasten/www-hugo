@@ -5,6 +5,62 @@ title: "S\xE4kerhetspodcasten #272 - Betydelsefulla s\xE5rbarheter"
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2024-11-20_Sakerhetspodcasten_Vulns_Som_Spelar_Roll.mp3?dest-id=117848), längd: 46:35
 
+## Panelen
+
+Jesper, Johan, Mattias och Peter träffas och pratar om betydelsefulla sårbarheter.
+
+Rickard är **no show** då han är på hemligt uppdrag och **räddar världen från en katastrof**.
+Om du ens kan höra detta avsnitt så har Rickard lyckats rädda världen.
+
+## Betydelsefulla sårbarheter
+
+Ämne: **Sårbarheter som har faktiskt påverkan**
+
+Panelen diskuterar bland annat:
+
+* **Log4shell**
+  * Återblick till [Säkerhetspodcasten #215 - Log4Shell](https://sakerhetspodcasten.se/posts/sakerhetspodcasten_215_log4shell/).
+  * Förkrav för att exploita är en del - indata till log, och möjlighet till egress för `JNDI`.
+  * Exploitas fortfarande, bl.a. [CISA 2023 Top Routinely Exploited Vulnerabilities](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-317a)
+* **Faktiskt exploitat**
+  * [CISA KEV Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  * Lätt exploiterade saker som faktiskt exploitas. Svåra saker är mycket ovanligare!
+  * `Command injection`
+  * `Remote code execution`
+  * `Unauthenticated`
+  * `Authentication bypass`
+  * och så vidare...
+* **CI/CD**
+  * Github actions är svårt
+* **BugBouties**
+  * Finns massa kul saker som ligger i publiceringspipeline.
+  * Jesper + LLM äter BB-rapporter för att få tips om vad nytt som kan tänkas vara värt att leta efter.
+* **JWT is hard**
+  * Kollar inte att scope är giltligt
+  * Cachar JWT felaktigt
+  * Läser från header istället för signerad payload
+  * Kollar inte om token expirerat
+  * Litar på alla issuers
+  * Hanterar multi-tenant (flera hyresgärster i samma system...) fel
+  * Litar på hela Okta
+  * Litar på hela Azure Active AD / EntraID
+    * Version 2 av tokenet mycket svårare att göra fel på; tenant ligger med i `issuer`.
+* Konstiga **authorization** och **privilige escalation** problem
+  * Burp Plugin [Autorize](https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f)
+* Azure security fundamentals var jobbig kurs!
+* Alla klickar ja på dialogen
+* **Amazon Cognito**
+  * massa miljöer där man litar blint på mutable objekt användaren själv får uppdatera.
+  * bra produkt som kan hjälpa en att få lite kontroll även över anonyma sessioner.
+* fwd:cloudsec var bra!
+* Massa `Command injection` i inbyggda miljöer... och i Cloud. Och i CI/CD.
+* **Kiosk-mode breakout**
+  * Peter såg en mamma i 30-års åldern i full kiosk breakout på Akvariets båtsimulator...
+* `unshare buggen` ( [Unit 42: New Linux Vulnerability CVE-2022-0492 Affecting Cgroups: Can Containers Escape?](https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/) ) var rolig!
+  * Gick att exploita mot fler mål än vad beskrivningarna gjorde gällande.
+  * [moby apparmor template.go](https://github.com/moby/moby/blob/master/profiles/apparmor/template.go) skyddade.
+  * Men säkra defaults hjälper inte om du istället körde din egna hemmasnickrade mindre säkra profil.
+
 ## Galen AI transkrivbering
 
 Google försöker förstå oss, och det går fantastiskt. Spårar direkt!
