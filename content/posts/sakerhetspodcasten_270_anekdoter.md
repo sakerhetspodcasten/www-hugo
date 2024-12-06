@@ -46,7 +46,7 @@ Lyssnarbrev från Linus M, från i maj:
   * Säkerhetspodcastens wordpress problem...
   * `Wordpress.com`: sökfunktions-DoS + bra hantering!
 * Security Operations Centers (SOC) som funkar bra och mindre bra.
-  * SOM som gör snabb isolering av hackade servers.
+  * SOC som gör snabb isolering av hackade servers.
   * SOC som inte vet vem som är säkerhetspersonal.
   * SOC som berättar för misstänkt användare att man ser att hen
     gör konstiga saker.
