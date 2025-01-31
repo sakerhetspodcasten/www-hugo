@@ -1,31 +1,38 @@
 ---
 date: '2012-11-06T09:21:59'
-lastmod: '2018-11-19T08:51:54'
+lastmod: '2025-01-31T08:51:54'
 title: Panelen
 ---
-## Möt Säkerhetspodcastpanelen!
-[__@sakpodcasten__](https://twitter.com/sakpodcasten)
+## Säkerhetspodcasten
 
-## Rikard Bodforss
-Följ Rikard på [@rbodforss](http://twitter.com/rbodforss)
+Panelen består av ett par visa(?) människor i sina bästa år,
+som knackade på datorer i unga år,
+och sen sysslat med IT-säkerhet i många år.
 
+Podden har sitt säte i **Göteborg** / **Västsverige**,
+även känt som **Bästkusten**.
 
+## Delade kontaktuppgifter
 
-## Jesper Larsson
-Följ Jesper på [@HerrJesper](https://twitter.com/herrjesper)
+Panelens kanske delade konto:
+@[sakerhetspodcasten.bsky.social](https://bsky.app/profile/sakerhetspodcasten.bsky.social),
+övriga kontaktuppgifter finns på:
+[../kontakt/](../kontakt/)
 
+## Panelen personliga sociala kontakter
 
+**Jesper Larsson**
+* @[herrjesper.bsky.social](https://bsky.app/profile/herrjesper.bsky.social)
 
-## Johan Rydberg Möller
-Följ Johan på [@johanrmoller](https://twitter.com/JohanRMoller) [ ](https://twitter.com/JohanWebsec)
+**Johan Rydberg Möller**
+* @[johanrydbergmoller.bsky.social](https://bsky.app/profile/johanrydbergmoller.bsky.social)
 
+**Mattias Jidhage**
+* @[mjidhage.bsky.social](https://bsky.app/profile/mjidhage.bsky.social)
 
+**Peter Magnusson**
+* @[blaufish.bsky.social](https://bsky.app/profile/blaufish.bsky.social)
+* [blaufish.github.io](https://blaufish.github.io/)
 
-## Peter Magnusson
-Följ Peter på [@blaufish_](https://twitter.com/blaufish_)
-
-
-
-## Mattias Jidhage
-Följ Mattias på [@mjidhage ](https://twitter.com/mjidhage) Obligatorisk usel [blog](http://blog.jidhage.se/)
-
+**Rikard Bodforss**
+* @[rbodforss.bsky.social](https://bsky.app/profile/rbodforss.bsky.social)
