@@ -31,7 +31,7 @@ för oss, samt givetvis skåda djupt in i kristallkulan inför 2022.
   Ransomware.
 * `00:58:30` **Johan**: Stor ökning av militärisering av IT-säkerhet.
 * `01:03:37` **Mattias**: Fuzzing blir mainstream!
-* `00:08:28` **Rickard**: Röstassistenter, avlyssning - stor data breach av Alexa, Siri eller dylikt.
+* `01:08:28` **Rickard**: Röstassistenter, avlyssning - stor data breach av Alexa, Siri eller dylikt.
 
 ## Spaningsscore
 
