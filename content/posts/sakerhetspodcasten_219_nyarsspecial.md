@@ -51,7 +51,7 @@ för oss, samt givetvis skåda djupt in i kristallkulan inför 2022.
 | 2020 | Peter   | 0.1   | Öka mängden säkerhetsinformation som når mycket bredare, mer människor |
 | 2019 | Peter   | 0.1   | Produktcertifieringar inom säkerhet |
 | 2018 | Peter   | 0.2   | AI-säkerhetshål, AI blir ont! |
-| 2022 | Jesper  |       | upply chain, middleware attackeras och blir command and control. |
+| 2022 | Jesper  |       | Supply chain, middleware attackeras och blir command and control. |
 | 2021 | Jesper  | 0.3   | Större lobbyism kommer försöka förbjuda: privacy, skydd av data, kryptografi. |
 | 2020 | Jesper  | 0.9   | Ökning av end-user privacy; konsumentmedvetenhet. |
 | 2019 | Jesper  | 0.1   | _(Panelen slängde ihop någon spaning för Jesper)_ |
