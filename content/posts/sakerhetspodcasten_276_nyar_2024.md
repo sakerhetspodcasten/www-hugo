@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten #276 - Ny\xE5r 2024"
 
 ## Innehåll
 
-Säkerhetspodcasten spanar 2025 och ser tillbaka på hur 2025 gick jämfört med våra spaningar!
+Säkerhetspodcasten spanar 2025 och ser tillbaka på hur 2024 gick jämfört med våra spaningar!
 
 ## Gamla Spaningar
 
