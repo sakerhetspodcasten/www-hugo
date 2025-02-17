@@ -80,7 +80,7 @@ Men nu till dagens återblick!
 | 2020 | Rickard | 0.2   | IoT-ransomware |
 | 2019 | Rickard | 0.0   | AI krashar börsen utifrån manipulation |
 | 2018 | Rickard | 0.5   | En stor databreach; Google, Facebook |
-| 2024 | Mattias |       | _CodeQL och liknande vinner!_ |
+| 2024 | Mattias |       | _Mer kaotiskt ransomware_ |
 | 2023 | Mattias | 0.3   | Statisk kodanalys (gamla produkterna) kommer ätas upp av CodeQL. |
 | 2022 | Mattias | 0.1   | Fuzzing blir mainstream! |
 | 2021 | Mattias | 0.7   | ZeroTrust igen. 2021 The year of ZeroTrust! |
