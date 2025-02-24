@@ -86,7 +86,7 @@ Fritt snack om massövervakning, polis vs övervakning vs försvar, ...
 * [Politco: EU Commission to staff - Switch to Signal messaging app](https://www.politico.eu/article/eu-commission-to-staff-switch-to-signal-messaging-app/)
   _The move is part of EU’s efforts to beef up cybersecurity, after several high-profile incidents shocked diplomats and officials._
 
-# Schrems 3
+## Schrems 3
 
 `00:10:55`
 Schrems, frågan om EU data får ligga i amerikanska moln;
