@@ -1,7 +1,10 @@
 ---
 date: '2018-04-09T09:19:50'
 lastmod: '2018-09-26T08:18:59'
+tags:
+- guest
 title: "S\xE4kerhetspodcasten avs.125 - Cyber Terrorism med Kyle Wilhoit"
+
 ---
 ## Lyssna
 

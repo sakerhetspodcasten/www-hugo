@@ -1,8 +1,11 @@
 ---
 date: '2019-12-09T12:29:50'
 lastmod: '2019-12-09T12:29:50'
+tags:
+- guest
 title: "S\xE4kerhetspodcasten avs.170 \u2013 Trammell Hudson, Dani Goland & Mohsan\
   \ Farid"
+
 ---
 ## Lyssna
 

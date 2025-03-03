@@ -1,7 +1,10 @@
 ---
 date: '2017-11-06T12:13:11'
 lastmod: '2018-09-26T08:21:40'
+tags:
+- guest
 title: "S\xE4kerhetspodcasten avs.105 - Daniel Bohannon"
+
 ---
 ## Lyssna
 

@@ -1,7 +1,10 @@
 ---
 date: '2013-05-15T17:54:52'
 lastmod: '2018-09-26T08:33:48'
+tags:
+- guest
 title: 'Intervjuavsnitt #2 - Justin Searle'
+
 ---
 ## Lyssna
 

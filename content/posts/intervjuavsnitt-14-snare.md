@@ -1,7 +1,10 @@
 ---
 date: '2015-03-06T12:42:54'
 lastmod: '2018-09-26T08:28:32'
+tags:
+- guest
 title: 'Intervjuavsnitt #14 - Snare'
+
 ---
 ## Lyssna
 

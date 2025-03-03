@@ -1,7 +1,10 @@
 ---
 date: '2017-10-23T16:13:45'
 lastmod: '2018-09-26T08:21:44'
+tags:
+- guest
 title: "S\xE4kerhetspodcasten avs.103 - Lucas Lundgren"
+
 ---
 ## Lyssna
 

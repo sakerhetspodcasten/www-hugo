@@ -1,7 +1,10 @@
 ---
 date: '2017-12-04T16:32:28'
 lastmod: '2018-09-26T08:21:26'
+tags:
+- guest
 title: "S\xE4kerhetspodcasten avs.109 - Ulf Frisk"
+
 ---
 ## Lyssna
 

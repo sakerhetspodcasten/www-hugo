@@ -1,7 +1,10 @@
 ---
 date: '2014-02-27T09:21:29'
 lastmod: '2018-09-26T08:32:49'
+tags:
+- guest
 title: 'Intervjuavsnitt #8 - Per Thorsheim'
+
 ---
 ## Lyssna
 

@@ -1,7 +1,10 @@
 ---
 date: '2013-07-16T20:22:30'
 lastmod: '2018-09-26T08:33:31'
+tags:
+- guest
 title: 'Intervjuavsnitt #5 - Hashcracking med Vincent'
+
 ---
 ## Lyssna
 

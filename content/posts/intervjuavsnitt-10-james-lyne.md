@@ -1,7 +1,10 @@
 ---
 date: '2014-08-06T16:14:41'
 lastmod: '2018-09-26T08:31:03'
+tags:
+- guest
 title: 'Intervjuavsnitt #10 - James Lyne'
+
 ---
 
 

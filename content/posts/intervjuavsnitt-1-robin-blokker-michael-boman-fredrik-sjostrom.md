@@ -1,7 +1,10 @@
 ---
 date: '2012-12-07T09:49:41'
 lastmod: '2018-09-26T08:35:13'
+tags:
+- guest
 title: "Intervjuavsnitt #1 - Robin Blokker, Michael Boman, Fredrik Sj\xF6str\xF6m"
+
 ---
 ## Lyssna
 

@@ -1,7 +1,10 @@
 ---
 date: '2013-05-31T11:24:42'
 lastmod: '2018-09-26T08:33:36'
+tags:
+- guest
 title: 'Intervjuavsnitt #3 - Mario Heiderich'
+
 ---
 ## Lyssna
 

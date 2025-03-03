@@ -1,7 +1,10 @@
 ---
 date: '2016-02-29T08:43:42'
 lastmod: '2018-09-26T08:27:44'
+tags:
+- guest
 title: "S\xE4kerhetspodcasten avs.52 - Bug Bounties med Frans Ros\xE9n"
+
 ---
 ## Lyssna
 
