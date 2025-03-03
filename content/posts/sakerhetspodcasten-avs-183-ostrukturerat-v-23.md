@@ -1,7 +1,10 @@
 ---
 date: '2020-06-01T11:53:06'
 lastmod: '2020-06-01T11:53:06'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten avs.183 \u2013 Ostrukturerat V.23"
+
 ---
 Lyssna
 

@@ -1,7 +1,10 @@
 ---
 date: '2016-07-18T10:02:58'
 lastmod: '2018-09-26T08:26:12'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten avs.62 - Ostrukturerat V.29"
+
 ---
 ## Lyssna
 

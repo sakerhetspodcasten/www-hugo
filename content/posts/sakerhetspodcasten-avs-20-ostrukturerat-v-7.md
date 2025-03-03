@@ -1,7 +1,10 @@
 ---
 date: '2014-02-13T21:50:50'
 lastmod: '2018-09-26T08:32:58'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten avs.20 - Ostrukturerat v.7"
+
 ---
 ## Lyssna
 

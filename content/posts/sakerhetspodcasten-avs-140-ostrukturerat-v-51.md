@@ -1,7 +1,10 @@
 ---
 date: '2018-12-17T12:43:27'
 lastmod: '2018-12-17T12:43:27'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten avs.140 \u2013 Ostrukturerat V.51"
+
 ---
 ## Lyssna
 

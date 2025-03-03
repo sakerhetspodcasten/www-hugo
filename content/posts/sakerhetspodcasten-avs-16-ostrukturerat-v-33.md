@@ -1,7 +1,10 @@
 ---
 date: '2013-09-04T12:48:06'
 lastmod: '2018-09-26T08:33:26'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten avs.16 - Ostrukturerat V.33"
+
 ---
 ## Lyssna
 
