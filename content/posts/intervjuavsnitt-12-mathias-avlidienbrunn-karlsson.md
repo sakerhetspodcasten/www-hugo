@@ -3,8 +3,9 @@ date: '2014-10-13T15:26:42'
 lastmod: '2018-09-26T08:30:46'
 tags:
 - guest
+- avlidienbrunn
+- Mathias Karlsson
 title: 'Intervjuavsnitt #12 - Mathias "Avlidienbrunn" Karlsson'
-
 ---
 ## Lyssna
 

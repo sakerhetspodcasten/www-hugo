@@ -3,8 +3,8 @@ date: '2013-06-09T14:09:05'
 lastmod: '2018-09-26T08:33:32'
 tags:
 - guest
+- John Wilander
 title: 'Intervjuavsnitt #4 - John Wilander'
-
 ---
 ## Lyssna
 

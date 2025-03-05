@@ -3,8 +3,9 @@ date: '2016-02-08T10:00:01'
 lastmod: '2018-09-26T08:27:52'
 tags:
 - guest
+- f1nux
+- Arron Finnon
 title: "S\xE4kerhetspodcasten avs.50 - LIVE p\xE5 Sec-T med F1nux"
-
 ---
 ## Lyssna
 

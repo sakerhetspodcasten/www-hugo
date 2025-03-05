@@ -1,9 +1,13 @@
 ---
 date: '2021-09-13T08:55:29'
 lastmod: '2021-09-13T08:55:29'
-title: "S\xE4kerhetspodcasten avs.209 \u2013 Sec-T 2021 Del 1"
 tags:
 - guest
+- Edwin van Andel
+- Fabio Viggiani
+- Fredrik Alexandersson
+- Lars Haulin
+title: "S\xE4kerhetspodcasten avs.209 \u2013 Sec-T 2021 Del 1"
 ---
 ## Lyssna
 

@@ -1,6 +1,11 @@
 ---
 date: '2017-12-25T00:00:17'
 lastmod: '2018-09-26T08:21:16'
+tags:
+- Robin von Post
+- guest
+- Roman Sologub
+- Oleksii Yasynskyi
 title: "S\xE4kerhetspodcasten avs.112 - Cyberattacks Against Critical Infrastructure\
   \ in Ukraine"
 ---

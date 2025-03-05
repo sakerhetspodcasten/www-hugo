@@ -3,8 +3,8 @@ date: '2018-04-02T14:03:50'
 lastmod: '2018-09-26T08:19:04'
 tags:
 - guest
+- Michael Goedeker
 title: "S\xE4kerhetspodcasten avs.124 - Threat & Risk Intelligence med Michael Goedeker"
-
 ---
 ## Lyssna
 

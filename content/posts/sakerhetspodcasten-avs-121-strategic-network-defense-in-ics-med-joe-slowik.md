@@ -3,8 +3,9 @@ date: '2018-03-12T13:35:42'
 lastmod: '2018-09-26T08:19:13'
 tags:
 - guest
+- Joe Slowik
+- Robin von Post
 title: "S\xE4kerhetspodcasten avs.121 - Strategic Network Defense in ICS med Joe Slowik"
-
 ---
 ## Lyssna
 

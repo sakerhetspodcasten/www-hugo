@@ -3,8 +3,9 @@ date: '2018-05-07T08:41:45'
 lastmod: '2018-09-26T08:18:48'
 tags:
 - guest
+- Robin von Post
+- Ali Abbasi
 title: "S\xE4kerhetspodcasten avs.128 - Code-Reuse attacker mot PLCer"
-
 ---
 ## Lyssna
 

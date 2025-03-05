@@ -3,8 +3,8 @@ date: '2018-01-29T13:28:48'
 lastmod: '2018-09-26T08:19:35'
 tags:
 - guest
+- Robin von Post
 title: "S\xE4kerhetspodcasten avs.115 - Agile Security med Rich Smith"
-
 ---
 ## Lyssna
 

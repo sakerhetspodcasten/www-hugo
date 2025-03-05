@@ -3,9 +3,11 @@ date: '2018-04-23T09:05:21'
 lastmod: '2018-09-26T08:18:52'
 tags:
 - guest
+- Robin von Post
+- "Robert Lipovsk\xFD"
+- Anton Cherepanov
 title: "S\xE4kerhetspodcasten avs.127 - Om Industroyer med Anton Cherepanov och Robert\
   \ Lipovsk\xFD"
-
 ---
 ## Lyssna
 

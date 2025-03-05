@@ -3,8 +3,8 @@ date: '2017-12-11T15:29:34'
 lastmod: '2018-09-26T08:21:24'
 tags:
 - guest
+- Linus Larsson
 title: "S\xE4kerhetspodcasten avs.110 - S\xE4kerhet i media med Linus Larsson"
-
 ---
 ## Lyssna
 

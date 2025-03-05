@@ -3,8 +3,9 @@ date: '2017-10-30T14:12:00'
 lastmod: '2018-09-26T08:21:42'
 tags:
 - guest
+- f1nux
+- Arron Finnon
 title: "S\xE4kerhetspodcasten avs.104 \u2013 Arron \"f1nux\" Finnon"
-
 ---
 ## Lyssna
 
