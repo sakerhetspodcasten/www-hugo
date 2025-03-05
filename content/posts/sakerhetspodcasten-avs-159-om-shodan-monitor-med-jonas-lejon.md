@@ -3,6 +3,8 @@ date: '2019-08-19T09:27:01'
 lastmod: '2019-08-19T09:27:01'
 tags:
 - Robin von Post
+- guest
+- Jonas Lejon
 title: "S\xE4kerhetspodcasten avs.159 \u2013 Om Shodan Monitor med Jonas Lejon"
 ---
 ## Lyssna
