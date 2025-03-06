@@ -2,6 +2,8 @@
 date: '2023-10-23T13:41:00'
 tags:
 - ostrukturerat
+- CVSS
+- Common Vulnerability Scoring System
 title: "S\xE4kerhetspodcasten #249 - Ostrukturerat V.43"
 ---
 ## Lyssna

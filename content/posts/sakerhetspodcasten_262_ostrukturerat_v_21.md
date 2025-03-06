@@ -2,6 +2,10 @@
 date: '2024-05-20T13:56:00'
 tags:
 - ostrukturerat
+- SBOM
+- Software Bill Of Materials
+- CVSS
+- Common Vulnerability Scoring System
 title: "S\xE4kerhetspodcasten #262 - Ostrukturerat V.21"
 ---
 ## Lyssna

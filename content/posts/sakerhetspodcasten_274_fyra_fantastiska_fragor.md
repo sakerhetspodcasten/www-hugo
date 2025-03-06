@@ -3,6 +3,8 @@ date: '2024-12-23T07:20:00'
 tags:
 - tema
 - fido
+- SBOM
+- Software Bill Of Materials
 title: "S\xE4kerhetspodcasten #274 - Fyra fantastiska fr\xE5gor"
 ---
 ## Lyssna

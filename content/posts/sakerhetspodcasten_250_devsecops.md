@@ -2,6 +2,8 @@
 date: '2023-11-06T13:27:00'
 tags:
 - tema
+- SBOM
+- Software Bill Of Materials
 title: "S\xE4kerhetspodcasten #250 - DevSecOps"
 ---
 ## Lyssna

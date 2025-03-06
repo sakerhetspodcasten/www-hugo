@@ -2,6 +2,8 @@
 date: '2024-09-02T19:09:00'
 tags:
 - tema
+- CVSS
+- Common Vulnerability Scoring System
 title: "S\xE4kerhetspodcasten #266 - N\xE4r s\xE4kerhet g\xE5r f\xF6r l\xE5ngt"
 ---
 ## Lyssna
