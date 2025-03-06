@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.171 \u2013 Ostrukturerat V.51"
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-12-11_Ostrukturerat.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-12-11_Ostrukturerat.mp3)
 
 ## Innehåll
 

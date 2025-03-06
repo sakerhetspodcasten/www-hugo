@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.165 \u2013 De stora drakarna"
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-10-09_De_Stora_Pa_Internet.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-10-09_De_Stora_Pa_Internet.mp3)
 
 ## Innehåll
 

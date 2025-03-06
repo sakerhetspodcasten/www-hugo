@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.201 \u2013 Ostrukturerat V.15"
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-04-07_Sakerhetspodcasten_ostrukt.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-04-07_Sakerhetspodcasten_ostrukt.mp3)
 
 ## Innehåll
 

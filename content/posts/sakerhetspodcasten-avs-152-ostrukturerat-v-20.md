@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.152 \u2013 Ostrukturerat V.20"
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-05-08_Sakerhetspodcasten.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-05-08_Sakerhetspodcasten.mp3)
 
 ## Innehåll
 

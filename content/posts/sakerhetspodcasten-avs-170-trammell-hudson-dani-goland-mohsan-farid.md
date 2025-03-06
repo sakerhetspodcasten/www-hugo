@@ -12,7 +12,7 @@ title: "S\xE4kerhetspodcasten avs.170 \u2013 Trammell Hudson, Dani Goland & Mohs
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2019_Trammell_Hudson_Dani_Goland__Mohsan_Farid.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2019_Trammell_Hudson_Dani_Goland__Mohsan_Farid.mp3)
 
 ## Innehåll
 

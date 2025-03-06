@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.166 \u2013 CS3STHLM 2019"
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/CS3-Eng.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/CS3-Eng.mp3)
 
 ## Innehåll
 

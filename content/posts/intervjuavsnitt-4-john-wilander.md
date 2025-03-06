@@ -8,7 +8,7 @@ title: 'Intervjuavsnitt #4 - John Wilander'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/JohnWilander.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/JohnWilander.mp3)
 
 ## Innehåll
 

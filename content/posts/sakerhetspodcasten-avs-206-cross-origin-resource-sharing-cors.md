@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.206 \u2013 Cross-Origin Resource Sharing (CORS
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-06-21_CORS.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-06-21_CORS.mp3)
 
 ## Innehåll
 

@@ -8,7 +8,7 @@ title: "Intervjuavsnitt #7 - Dom\xE4ndriven och agil s\xE4kerhet med Dan Bergh J
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcast_dbj_cut_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcast_dbj_cut_mixdown.mp3)
 
 ## Innehåll
 

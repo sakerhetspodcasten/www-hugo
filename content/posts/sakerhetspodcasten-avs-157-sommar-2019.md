@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.157 \u2013 Sommar 2019"
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-07-10_Sakerhetspodcasten.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-07-10_Sakerhetspodcasten.mp3)
 
 ## Innehåll
 

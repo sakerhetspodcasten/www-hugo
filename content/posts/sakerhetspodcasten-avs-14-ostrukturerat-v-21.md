@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.14 - Ostrukturerat V.21"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v21.mp3) [ ](http://traffic.libsyn.com/sakerhetspodcasten/IntervjuavsnittetLOUD.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v21.mp3) [ ](http://traffic.libsyn.com/sakerhetspodcasten/IntervjuavsnittetLOUD.mp3)
 
 ## Innehåll
 

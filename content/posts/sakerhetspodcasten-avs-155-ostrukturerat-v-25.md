@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.155 \u2013 Ostrukturerat V.25"
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-06-13_Sakerhetspodcasten_ostrukt.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-06-13_Sakerhetspodcasten_ostrukt.mp3)
 
 ## Innehåll
 

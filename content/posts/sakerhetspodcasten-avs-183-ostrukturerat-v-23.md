@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.183 \u2013 Ostrukturerat V.23"
 ---
 Lyssna
 
-iTunes \| Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-05-27_Ostrukturerat.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-05-27_Ostrukturerat.mp3)
 
 ## Innehåll
 

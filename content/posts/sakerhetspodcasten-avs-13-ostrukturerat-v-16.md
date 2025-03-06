@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.13 - Ostrukturerat V.16"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten13ostrukt.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten13ostrukt.mp3)
 
 ## Innehåll
 

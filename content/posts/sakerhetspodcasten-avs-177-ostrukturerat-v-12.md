@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.177 \u2013 Ostrukturerat V.12"
 ---
 Lyssna
 
-iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-03-11_Ostrukturerat.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-03-11_Ostrukturerat.mp3)
 
 Innehåll
 

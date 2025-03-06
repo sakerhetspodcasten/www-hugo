@@ -12,7 +12,7 @@ title: "S\xE4kerhetspodcasten avs.213 \u2013 Hackad Del 2"
 
 
 
-iTunes \| Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-10-24_Hackad2.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-10-24_Hackad2.mp3)
 
 
 

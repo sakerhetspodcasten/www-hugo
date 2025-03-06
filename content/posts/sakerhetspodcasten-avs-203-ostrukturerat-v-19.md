@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.203 \u2013 Ostrukturerat V.19"
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-05-07_Ostrukt.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-05-07_Ostrukt.mp3)
 
 ## Innehåll
 

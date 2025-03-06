@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.16 - Ostrukturerat V.33"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/ostrukturerad_klippt_mixdown3.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/ostrukturerad_klippt_mixdown3.mp3)
 
 ## Innehåll
 

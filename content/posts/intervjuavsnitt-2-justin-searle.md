@@ -8,7 +8,7 @@ title: 'Intervjuavsnitt #2 - Justin Searle'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/JustinSearle.mp3) [ ](http://traffic.libsyn.com/sakerhetspodcasten/IntervjuavsnittetLOUD.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/JustinSearle.mp3) [ ](http://traffic.libsyn.com/sakerhetspodcasten/IntervjuavsnittetLOUD.mp3)
 
 ## Innehåll
 

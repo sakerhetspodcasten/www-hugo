@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.191 \u2013 Ostrukturerat V.46"
 ---
 Lyssna
 
-iTunes \| Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-11-04_Sakerhetspodcasten_Ostrukt.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-11-04_Sakerhetspodcasten_Ostrukt.mp3)
 
 Innehåll
 

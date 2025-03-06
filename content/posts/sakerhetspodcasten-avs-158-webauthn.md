@@ -7,7 +7,7 @@ tags:
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-05-29_WebAuthn.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-05-29_WebAuthn.mp3)
 
 ## Innehåll
 

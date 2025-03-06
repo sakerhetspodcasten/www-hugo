@@ -8,7 +8,7 @@ title: 'Intervjuavsnitt #6 - Anonymisering och bitcoin med grundaren till Mullva
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Mullvad_med_intro_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Mullvad_med_intro_mixdown.mp3)
 
 ## Innehåll
 

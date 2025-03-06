@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.156 \u2013 Om Privacy"
 ---
 ## Lyssna
 
-iTunes \| Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-06-13_How_Do_I_Privacy.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-06-13_How_Do_I_Privacy.mp3)
 
 ## Innehåll
 

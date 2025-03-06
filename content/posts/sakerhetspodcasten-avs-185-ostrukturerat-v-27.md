@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.185 \u2013 Ostrukturerat V.27"
 ---
 Lyssna
 
-iTunes \| Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-06-24_Sakerhetspodcasten_Ostrukt.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-06-24_Sakerhetspodcasten_Ostrukt.mp3)
 
 Innehåll
 
