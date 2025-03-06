@@ -14,8 +14,3 @@ iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcaste
 Panelen gräver ner sig i den senaste läckan från Wikileaks, Vault7!
 
 Inspelat: 2017-03-09. Längd: 00:40:11.
-
-## Länkar
-
-Kommer snart.
-

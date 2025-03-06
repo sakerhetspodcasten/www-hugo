@@ -16,8 +16,3 @@ att gå på säkerhetskonferensen Sec-T som hölls på Nalen i Stockholm den 17e
 September 2015. Man pratar om talarna, festerna, live-podcasten på scen, och mycket annat.
 
 Inspelat: 2015-09-??. Längd: 01:01:45.
-
-## Länkar
-
-Kommer snart.
-

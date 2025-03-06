@@ -16,8 +16,3 @@ ringrostiga efter en tids frånvaro från micarna, men gör sitt bästa för att
 den senaste tidens nyheter. Mycket nöje!
 
 Inspelat: 2015-06-11. Längd: 55:38.
-
-## Länkar
-
-Kommer snart.
-

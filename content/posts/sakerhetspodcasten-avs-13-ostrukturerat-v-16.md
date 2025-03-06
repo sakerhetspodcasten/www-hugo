@@ -16,8 +16,3 @@ Detta är avsnitt tretton av Säkerhetspodcasten, i vilket panelen diskuterar Ri
 nya Nexus, Bitcoin-debaklet, stulen källkod, veckans nyheter och mycket mer!
 
 Inspelat 2013-04-18. Längd 54:43.
-
-## Länkar
-
-Kommer snart.
-

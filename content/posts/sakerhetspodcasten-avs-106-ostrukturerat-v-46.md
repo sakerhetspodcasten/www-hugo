@@ -16,8 +16,3 @@ Panelen är två man kort men naggande god. Vi diskuterar Key Reinstallation Att
 borttappade USB-minnen i London, kryptoproblem i smarta kort, och mycket mer.
 
 Inspelat: 2017-11-09. Längd: 00:35:17.
-
-## Länkar
-
-Kommer snart.
-

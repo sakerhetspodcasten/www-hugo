@@ -17,8 +17,3 @@ säkerhetsnyheter. Ämnen som tas upp innefattar bland annat Stagefright 2.0, s�
 i Stripes, kryptobuggar, Safe Harbour, en ny sårbarhet i PGP och mycket mer!
 
 Inspelat: 2015-10-09. Längd: 42:41.
-
-## Länkar
-
-Kommer snart.
-

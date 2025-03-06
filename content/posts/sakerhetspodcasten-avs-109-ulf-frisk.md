@@ -17,8 +17,3 @@ Dagens avsnitt spelades in under Sec-T 2017. Ulf Frisk intervjuas av Peter och R
 om hans talk om DMA-attacker och annan black magic.
 
 Inspelat: 2017-09-29. Längd: 00:22:03.
-
-## Länkar
-
-Kommer snart.
-

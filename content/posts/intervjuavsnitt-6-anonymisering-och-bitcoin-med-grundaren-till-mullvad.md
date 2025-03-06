@@ -17,8 +17,3 @@ från anonymiseringstjänsten Mullvad.net kom förbi studion för att snacka VPN
 bitcoin och mycket mer.
 
 Inspelat: 2013-08-15. Längd: 01:10:02.
-
-## Länkar
-
-Kommer snart.
-

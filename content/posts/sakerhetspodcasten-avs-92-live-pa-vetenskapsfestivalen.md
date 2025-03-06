@@ -15,8 +15,3 @@ Säkerhetspodcasten äntrar Vetenskapsfestivalens scen och försöker ge lite kl
 om hur man håller sig själv och sina närmsta säkra på internet.
 
 Inspelat: 2017-05-11. Längd: 01:01:02.
-
-## Länkar
-
-Kommer snart.
-

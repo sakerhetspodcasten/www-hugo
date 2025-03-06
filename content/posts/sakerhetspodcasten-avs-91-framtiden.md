@@ -16,8 +16,3 @@ Följ med panelen på en resa in i framtiden! Spekulationerna haglar och argume
 för säkerhetsbranschen.
 
 Inspelat: 2017-04-13. Längd: 00:45:51.
-
-## Länkar
-
-Kommer snart.
-

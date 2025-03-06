@@ -17,8 +17,3 @@ mycket mer dissekeras i detalj! Vi lottar också ut biljetter till Sec-T i Stock
 så gå in och tävla på twitter! Använd #ilovesect
 
 Inspelat: 2015-08-27. Längd: 1:09:18.
-
-## Länkar
-
-Kommer snart.
-

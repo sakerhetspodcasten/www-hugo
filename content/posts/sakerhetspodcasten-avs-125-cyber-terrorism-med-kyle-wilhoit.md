@@ -17,8 +17,3 @@ I dagens avsnitt intervjuar Mattias och Rikard Kyle Wilhoit efter hans talk om C
 Terrorism på Sec-T 2017.
 
 Inspelat: 2017-09-29. Längd: 00:15:32.
-
-## Länkar
-
-Kommer snart.
-

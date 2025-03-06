@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:26:20'
 tags:
 - guest
 - Mark Hillick
+- SecurityFest
 title: "S\xE4kerhetspodcasten avs.59 - Mark Hillick"
 ---
 ## Lyssna
@@ -16,8 +17,3 @@ Inspelat på Security Fest 2016, Mattias intervjuar Mark Hillick från Riot Game
 hans talk om att bygga en feedback-kultur för att höja säkerhetsnivån i ett bolag.
 
 Inspelat: 2016-06-02. Längd: 00:24:39.
-
-## Länkar
-
-Kommer snart.
-

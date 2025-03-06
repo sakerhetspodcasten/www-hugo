@@ -5,6 +5,7 @@ tags:
 - guest
 - Joe Slowik
 - Robin von Post
+- CS3Sthlm
 title: "S\xE4kerhetspodcasten avs.121 - Strategic Network Defense in ICS med Joe Slowik"
 ---
 ## Lyssna
@@ -16,8 +17,3 @@ iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/RVPintro_-_cs3sth
 I dagens avsnitt intervjuar Robin von Post Joe Slowik efter hans talk på CS3Sthlm.
 
 Inspelat: 2017-10-24. Längd: 00:13:31.
-
-## Länkar
-
-Kommer snart.
-

@@ -19,12 +19,3 @@ F1nux Tech Weekly och svarar på lyssnarfrågor, diskuterar säkerhetsnyheter oc
 buggar, bland annat på flygplan...
 
 Inspelat: 2015-09-18. Längd: 40:05.
-
-## Länkar
-
-
-
-
-
-Kommer snart.
-

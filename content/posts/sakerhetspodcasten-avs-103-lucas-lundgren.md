@@ -17,8 +17,3 @@ I dagens avsnitt av Säkerhetspodcasten intervjuar vi Lucas Lundgren efter hans 
 på Sec-T 2017. Vi pratar om hur man äger andras hårddiskar på internet genom ISCSI.
 
 Inspelat: 2017-09-29. Längd: 00:16:27.
-
-## Länkar
-
-Kommer snart.
-

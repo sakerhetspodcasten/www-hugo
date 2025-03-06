@@ -15,8 +15,3 @@ Panelen djupdyker i ämnet IDS och IPS. Vad är det, vad skiljer dem åt, hur an
 dem, hur __bör__ de användas, och mycket mer!
 
 Inspelat: 2016-06-30. Längd: 00:45:33.
-
-## Länkar
-
-Kommer snart.
-

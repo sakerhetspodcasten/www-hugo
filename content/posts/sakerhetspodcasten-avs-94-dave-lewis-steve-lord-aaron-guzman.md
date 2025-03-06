@@ -20,8 +20,3 @@ tre intervjuer med Dave Lewis, Steve Lord och Aaron Guzman, tre av talarna unde
 konferensen. Timestamps för intervjuer: 0:00 Dave Lewis, 8:20 Steve Lord, 22:45 Aaron Guzman.
 
 Inspelat: 2017-06-01. Längd: 00:41:00.
-
-## Länkar
-
-Kommer snart.
-

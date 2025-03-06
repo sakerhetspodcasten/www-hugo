@@ -16,8 +16,3 @@ Capture-The-Flag-tävling? Hur går den till? Hur vinner man? Hur börjar man? A
 detta och mycket mer!
 
 Inspelat: 2017-11-09. Längd: 00:27:12.
-
-## Länkar
-
-Kommer snart.
-

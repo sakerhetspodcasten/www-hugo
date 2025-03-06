@@ -17,8 +17,3 @@ Inspelat på Sec-T 2017 kommer denna intervju med Carly Schneider som arbetar me
 säkerhet på Spotify om ämnet Google Cloud Security.
 
 Inspelat: 2017-09-29. Längd: 00:19:09.
-
-## Länkar
-
-Kommer snart.
-

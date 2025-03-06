@@ -15,8 +15,3 @@ iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakp2015-v6-ander
 Detta är det femtonde intervjuavsnittet av Säkerhetspodcasten, i vilket panelen diskuterar
 malware, hur antivirus fungerar på riktigt, vad man ska tänka på som konsument och
 mycket mer tillsammans med Anders Nilsson från antivirusbolaget ESET.
-
-## Länkar
-
-Kommer snart.
-

@@ -16,8 +16,3 @@ I dagens avsnitt av Säkerhetspodcasten går panelen igenom det vi förutspådde
 2017 och gör nya gissningar inför 2018!
 
 Inspelat: 2017-01-11. Längd: 01:08:38.
-
-## Länkar
-
-Kommer snart.
-

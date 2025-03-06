@@ -15,8 +15,3 @@ eller mindre genomtänkta tips på bra böcker, sajter och övningar man kan anv
 för att lära sig mer inom det fantastiska ämnet IT-Säkerhet!
 
 Inspelat: 2014-12-11. Längd: 41:03.
-
-## Länkar
-
-Kommer snart.
-

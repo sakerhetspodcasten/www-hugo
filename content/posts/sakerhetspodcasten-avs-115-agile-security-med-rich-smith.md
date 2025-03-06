@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:19:35'
 tags:
 - guest
 - Robin von Post
+- Rich Smith
 title: "S\xE4kerhetspodcasten avs.115 - Agile Security med Rich Smith"
 ---
 ## Lyssna
@@ -15,8 +16,3 @@ iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/RVPintro_-_Nordic
 I dagens avsnitt av Säkerhetspodcasten intervjuar Robin von Post Rich Smith om Agile Security.
 
 Inspelat: 2017-10-24. Längd: 00:29:32.
-
-## Länkar
-
-Kommer snart.
-

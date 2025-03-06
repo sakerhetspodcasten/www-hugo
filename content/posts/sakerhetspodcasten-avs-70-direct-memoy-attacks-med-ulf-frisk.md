@@ -22,8 +22,3 @@ skapa nya för att kunna logga in på en nedlåst dator. Om detta och mycket mer
 avsnitt av Säkerhetspodcasten!
 
 Inspelat: 2016-09-07. Längd: 00:19:19.
-
-## Länkar
-
-Kommer snart.
-

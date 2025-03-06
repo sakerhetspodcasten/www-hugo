@@ -16,8 +16,3 @@ den senaste tidens nyheter, bland annat Panda antivirus som försökte äta sig 
 Lenovos Superfish, nya attacker mot SSL och mycket mer.
 
 Inspelat: 2015-03-12. Längd: 1:08:05.
-
-## Länkar
-
-Kommer snart.
-

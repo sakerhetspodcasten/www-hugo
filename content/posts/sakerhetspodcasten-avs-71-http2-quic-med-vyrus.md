@@ -18,8 +18,3 @@ protokollet som Google har deployat worldwide. Varför är det coolt. hur kan d
 för pentester, data exfiltration, proxy escaping och mycket mer.
 
 Inspelat: 2016-09-07. Längd: 00:26:31.
-
-## Länkar
-
-Kommer snart.
-

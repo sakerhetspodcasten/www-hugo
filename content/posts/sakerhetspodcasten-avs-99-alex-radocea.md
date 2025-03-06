@@ -17,8 +17,3 @@ Dagens intervjuavsnitt av Säkerhetspodcasten spelades in på Sec-T 2017 och är
 intervju med Alex Radocea som talade på konferensen.
 
 Inspelat: 2017-09-14. Längd: 00:10:19.
-
-## Länkar
-
-Kommer snart.
-

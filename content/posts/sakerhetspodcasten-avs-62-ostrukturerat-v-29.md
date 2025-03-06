@@ -18,8 +18,3 @@ säkerhetsmjukvara inte nödvändigtvis är säker mjukvara, hur TP-Link tappade
 sina domäner, och mycket mer.
 
 Inspelat: 2016-07-07. Längd: 00:51:51.
-
-## Länkar
-
-Kommer snart.
-

@@ -2,7 +2,9 @@
 date: '2015-02-09T05:33:26'
 lastmod: '2018-09-26T08:28:36'
 tags:
+- guest
 - ostrukturerat
+- Anders Nilsson
 title: "S\xE4kerhetspodcasten #39 - Ostrukturerat V.6"
 
 ---
@@ -23,8 +25,3 @@ krypto på internet i sin helhet. Med andra ord en perfekt start på ett nytt å
 säkerhetsrelaterad podcastande!
 
 Inspelat: 2015-02-05. Längd: 1:05:54.
-
-## Länkar
-
-Kommer snart.
-

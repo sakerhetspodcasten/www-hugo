@@ -17,8 +17,3 @@ vs. Apple, Nissangate, NSA/Skynet och en hel del Internet of Shit! På iTunes oc
 sakerhetspodcasten.se!
 
 Inspelat: 2016-03-10. Längd: 01:13:30.
-
-## Länkar
-
-Kommer snart.
-

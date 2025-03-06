@@ -14,8 +14,3 @@ Vad ska du tänka på när du lämnar Sverige för soligare breddgrader? Var kan
 sig till internet, vilka fällor ska man undvika, kort och gott: hur skyddar man sig på semestern?
 
 Inspelat: 2015-06-24. Längd: 53:07.
-
-## Länkar
-
-Kommer snart.
-

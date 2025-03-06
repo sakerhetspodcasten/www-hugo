@@ -18,8 +18,3 @@ Sec-T 2017. Vi pratar om hur man bygger en säkerhetsorganisation och kultur med
 av godis, kärlek och salty milky balls.
 
 Inspelat: 2017-09-29. Längd: 00:11:24.
-
-## Länkar
-
-Kommer snart.
-

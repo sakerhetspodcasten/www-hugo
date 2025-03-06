@@ -16,8 +16,3 @@ I dagens avsnitt pratar vi AMDFlaws, nya lagförslag om hemlig dataavläsning, l
 privacyförbättringar i Firefox och en ny sårbarhet i SAMBA 4.
 
 Inspelat: 2018-03-14. Längd: 01:01:40.
-
-## Länkar
-
-Kommer snart.
-

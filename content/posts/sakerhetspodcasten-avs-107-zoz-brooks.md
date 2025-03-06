@@ -17,8 +17,3 @@ Bomber och granater! I dagens intervjuavsnitt pratar Peter och Rikard med Zoz Br
 De diskuterar massa kreativa metoder för att destruera data.
 
 Inspelat: 2017-09-29. Längd: 00:19:00.
-
-## Länkar
-
-Kommer snart.
-

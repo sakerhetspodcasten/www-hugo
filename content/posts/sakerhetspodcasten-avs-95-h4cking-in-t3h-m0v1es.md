@@ -16,8 +16,3 @@ sågar och hyllar klassiska hackingfilmer enligt en påhittad skala baserad på 
 och underhållningsvärde. Mycket nöje!
 
 Inspelat: 2017-06-08. Längd: 00:52:30.
-
-## Länkar
-
-Kommer snart.
-

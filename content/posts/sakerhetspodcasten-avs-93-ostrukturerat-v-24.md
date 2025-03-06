@@ -16,8 +16,3 @@ Panelen diskuterar frågor från publiken! Hur man dealar med oresonliga VDar, v
 konferenser man inte får missa, och hur man bör bete sig på dem.
 
 Inspelat: 2017-06-08. Längd: 01:02:18.
-
-## Länkar
-
-Kommer snart.
-

@@ -17,8 +17,3 @@ Panelen tar hjälp av Jonas Lejon för att tackla den senaste tidens säkerhetsn
 Hackade youtube-videor, kapade sirener, ett gäng allvarliga sårbarheter och mycket mer!
 
 Inspelat: 2017-04-12. Längd: 01:05:27.
-
-## Länkar
-
-Kommer snart.
-

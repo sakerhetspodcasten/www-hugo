@@ -18,8 +18,3 @@ I dagens avsnitt av Säkerhetspodcasten intervjuar vi Arron Finnon efter hans ke
 på Sec-T 2017. Vi snackar privacy genom historien, som sig bör!
 
 Inspelat: 2017-09-29. Längd: 00:38:07.
-
-## Länkar
-
-Kommer snart.
-

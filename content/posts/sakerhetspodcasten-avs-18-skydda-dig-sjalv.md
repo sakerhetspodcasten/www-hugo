@@ -17,8 +17,3 @@ sitt nätverk mot ondsinta angripare eller irriterade grannar. Avsnittet spelade
 in den 2e december 2013.
 
 Inspelat: 2013-12-02. Längd: 1:18:44.
-
-## Länkar
-
-Kommer snart.
-

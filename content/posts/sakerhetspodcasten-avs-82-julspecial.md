@@ -16,8 +16,3 @@ God jul och gott nytt år! Vi ringer ut 2016 med gravad lax och julöl och invä
 med spänning säkerhetsåret 2017. Mycket nöje!
 
 Inspelat: 2016-12-14. Längd: 00:46:30.
-
-## Länkar
-
-Kommer snart.
-

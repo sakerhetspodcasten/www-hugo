@@ -17,8 +17,3 @@ tidens nyheter. Vi diskuterar Apple vs. FBI, Badlock/Sadlock, Panama-skandalen, 
 PokerBot-algoritmer, Ransomware och mycket mer!
 
 Inspelat: 2016-04-14. Längd: 00:41:40.
-
-## Länkar
-
-Kommer snart.
-

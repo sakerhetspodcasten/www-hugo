@@ -16,8 +16,3 @@ iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Adde14i4.mp3)
 Andreas "Adde" Lindh gästar podcasten och utsätts för en djuplodande intervju angående hans arbete och tankar kring säkerhet, defender/attacker economics, bug bounties och mycket annat. Adde hittar man med fördel på [@addelindh](https://twitter.com/addelindh) .
 
 Inspelat: 2016-04-14. Längd: 00:59:34.
-
-## Länkar
-
-Kommer snart.
-

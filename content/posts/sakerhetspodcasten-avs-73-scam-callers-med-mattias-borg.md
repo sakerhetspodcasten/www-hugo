@@ -19,8 +19,3 @@ Borg hjälper oss reda ut begreppen och missa inte ett äkta inspelat scam-call,
 under Sec-T 2016, med vår egen Rikard Bodforss, som ligger sist i dagens avsnitt!
 
 Inspelat: 2016-09-08. Längd: 00:32:25.
-
-## Länkar
-
-Kommer snart.
-

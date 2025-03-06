@@ -17,8 +17,3 @@ I detta avsnittet intervjuas Adam Laurie efter hans talk på Sec-T 2016. Hur ma
 digital-TV, hur storskaligt man kan göra det, och annat kul!
 
 Inspelat: 2016-09-08. Längd: 00:26:31.
-
-## Länkar
-
-Kommer snart.
-

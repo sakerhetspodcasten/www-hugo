@@ -16,8 +16,3 @@ hackergrupper. Allting från regeringsunderstödda grupper som utför avancerade
 till script kiddies från Syrien.
 
 Inspelat: 2014-05-07. Längd: 01:28:22.
-
-## Länkar
-
-Kommer snart.
-

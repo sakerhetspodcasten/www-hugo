@@ -16,8 +16,3 @@ Meltdown för att försöka förklara hur de fungerar, vilka som är drabbade, h
 skyddar sig och vad en potentiell impact av dem kommer bli i framtiden.
 
 Inspelat: 2017-01-11. Längd: 01:03:16.
-
-## Länkar
-
-Kommer snart.
-

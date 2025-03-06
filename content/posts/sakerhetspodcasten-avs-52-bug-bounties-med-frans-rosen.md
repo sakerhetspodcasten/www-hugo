@@ -5,6 +5,8 @@ tags:
 - guest
 - "Frans Ros\xE9n"
 - fransrosen
+- kodsnack
+- Fredrik Björeman
 title: "S\xE4kerhetspodcasten avs.52 - Bug Bounties med Frans Ros\xE9n"
 ---
 ## Lyssna
@@ -20,8 +22,3 @@ i detta veckas avsnitt av Säkerhetspodcasten. Gästpanelist Fredrik Björeman (
 mfl) är också med på ett hörn.
 
 Inspelat: 2016-02-11. Längd: 50:22.
-
-## Länkar
-
-Kommer snart.
-

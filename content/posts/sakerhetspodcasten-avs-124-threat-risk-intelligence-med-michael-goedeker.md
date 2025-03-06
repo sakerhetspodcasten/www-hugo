@@ -17,8 +17,3 @@ I dagens avsnitt intervjuar Rikard och Jesper Michael Goedeker om hans talk på 
 2017, Snakeoil Factory Inc: Risk Intelligence and Threat Intelligence.
 
 Inspelat: 2017-09-29. Längd: 00:31:48.
-
-## Länkar
-
-Kommer snart.
-

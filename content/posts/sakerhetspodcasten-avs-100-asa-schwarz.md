@@ -16,8 +16,3 @@ Dagens intervjuavsnitt av Säkerhetspodcasten spelades in under bokmässan i Gö
 2017 och är en intervju med Åsa Schwarz om hennes nya bok De Sju Nycklarna.
 
 Inspelat: 2017-09-29. Längd: 00:37:29.
-
-## Länkar
-
-Kommer snart.
-

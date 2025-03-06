@@ -20,8 +20,3 @@ varandra i stora installationer med olika infrastrukturer (brandväggar, HA, seg
 blandade leverantörer etc).
 
 Inspelat: 2016-09-07. Längd: 00:38:40.
-
-## Länkar
-
-Kommer snart.
-

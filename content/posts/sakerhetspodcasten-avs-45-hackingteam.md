@@ -18,8 +18,3 @@ kring Hacking Team-läckan och går på djupet kring de moraliska aspekterna rö
 deras affärsmodell.
 
 Inspelat: 2015-08-27. Längd: 1:07:19.
-
-## Länkar
-
-Kommer snart.
-

@@ -19,8 +19,3 @@ exponeras mot internet utan någon som helst säkerhet, vilket ledde till att ha
 göra allt från att öppna fängelsedörrar, skapa "jordbävningar" eller stjäla pengar. Mycket nöje.
 
 Inspelat: 2016-09-08. Längd: 00:22:36.
-
-## Länkar
-
-Kommer snart.
-

@@ -18,8 +18,3 @@ från Mandiant efter hans talk på Sec-T 2017. Det pratas Powershell evasion och
 for good and evil.
 
 Inspelat: 2017-09-29. Längd: 00:29:38.
-
-## Länkar
-
-Kommer snart.
-

@@ -16,8 +16,3 @@ Det är dags för 2016 års sommaravsnitt av Säkerhetspodcasten! Mattias, Johan
 Jesper diskuterar planerna för sommaren, hur man överlever säkerhetskonferenser och mycket mer!
 
 Inspelat: 2016-07-07. Längd: 00:39:26.
-
-## Länkar
-
-Kommer snart.
-

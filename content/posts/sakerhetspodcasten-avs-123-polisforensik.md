@@ -17,8 +17,3 @@ hos polisen. Vi ställer alla dumma frågor du någonsin velat ställa om hur po
 arbetar med IT-Forensik, hur beslag går till, vad man fokuserar på etc.
 
 Inspelat: 2018-03-14. Längd: 00:54:42.
-
-## Länkar
-
-Kommer snart.
-

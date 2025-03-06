@@ -16,8 +16,3 @@ Det är sommar! Det är ett sommaravsnitt! Vi rekommenderar saker att göra på 
 Och annat somrigt!
 
 Inspelat: 2017-07-13. Längd: 00:38:34.
-
-## Länkar
-
-Kommer snart.
-

@@ -115,8 +115,3 @@ Hur ser framtidens forensiker ut?
 
 
 Inspelat: 2017-02-09. Längd: 01:13:07.
-
-## Länkar
-
-Kommer snart.
-
