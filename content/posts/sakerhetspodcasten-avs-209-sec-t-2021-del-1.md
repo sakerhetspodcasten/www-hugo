@@ -12,7 +12,7 @@ title: "S\xE4kerhetspodcasten avs.209 \u2013 Sec-T 2021 Del 1"
 ---
 ## Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/sec-t_2021_part1.mp3)
+[mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/sec-t_2021_part1.mp3)
 
 ## Innehåll
 

@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.176 \u2013 Zero Trust"
 ---
 Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-02-05_Zero_Trust.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-02-05_Zero_Trust.mp3)
 
 Innehåll
 

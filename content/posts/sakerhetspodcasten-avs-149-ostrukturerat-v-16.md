@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.149 \u2013 Ostrukturerat V.16"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-04-10_Sakerhetspodcasten.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-04-10_Sakerhetspodcasten.mp3)
 
 ## Innehåll
 

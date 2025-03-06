@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.150 \u2013 Reverse Engineering"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-04-10_Reverse_Engineering.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-04-10_Reverse_Engineering.mp3)
 
 ## Innehåll
 

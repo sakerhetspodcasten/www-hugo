@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.169 \u2013 OSINT"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-11-13_OSINT_Open_Source_Intelligence.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-11-13_OSINT_Open_Source_Intelligence.mp3)
 
 ## Innehåll
 

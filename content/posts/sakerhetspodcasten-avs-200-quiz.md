@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.200 \u2013 Quiz!"
 ---
 ## Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-03-10_Quiz.mp3)
+[mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-03-10_Quiz.mp3)
 
 ## Innehåll
 

@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.163 \u2013 Hacking the cloud"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-09-11_AWS_Sakerhet.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-09-11_AWS_Sakerhet.mp3)
 
 ## Innehåll
 

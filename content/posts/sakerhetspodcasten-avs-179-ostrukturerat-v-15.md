@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.179 \u2013 Ostrukturerat V.15"
 ---
 Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-04-01_Sakerhetspodcasten.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-04-01_Sakerhetspodcasten.mp3)
 
 Innehåll
 

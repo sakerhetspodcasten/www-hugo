@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.192 \u2013 \xC5tta\xE5rsjubileum!"
 ---
 Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-11-04_Sakerhetspodcasten-8ar.mp3)
+[mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-11-04_Sakerhetspodcasten-8ar.mp3)
 
 Innehåll
 

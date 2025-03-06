@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.198 \u2013 Schrems II"
 ---
 ## Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/Schrems_2021-02-10.mp3)
+[mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/Schrems_2021-02-10.mp3)
 
 ## Innehåll
 

@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.154 \u2013 Ostrukturerat V.23"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-05-29_Ostrukturerat.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-05-29_Ostrukturerat.mp3)
 
 ## Innehåll
 

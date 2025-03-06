@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.168 \u2013 James Harrison"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2019-006_James_Harrison.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2019-006_James_Harrison.mp3)
 
 ## Innehåll
 

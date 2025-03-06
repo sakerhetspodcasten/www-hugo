@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.195 \u2013 Ostrukturerat V.3"
 ---
 ## Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-01-13_Sakerhetspodcasten_ostrukt.mp3)
+[mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-01-13_Sakerhetspodcasten_ostrukt.mp3)
 
 ## Innehåll
 

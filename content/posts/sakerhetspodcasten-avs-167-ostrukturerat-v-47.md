@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.167 \u2013 Ostrukturerat V.47"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-11-13_Sakerhetspodcasten.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-11-13_Sakerhetspodcasten.mp3)
 
 ## Innehåll
 

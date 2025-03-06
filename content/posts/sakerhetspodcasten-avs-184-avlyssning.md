@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.184 \u2013 Avlyssning"
 ---
 Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-05-27_Avlyssning.mp3)
+[mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-05-27_Avlyssning.mp3)
 
 Innehåll
 

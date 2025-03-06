@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.182 \u2013 Mobilappar"
 ---
 Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-04-29_Mobilappar.mp3)
+[mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-04-29_Mobilappar.mp3)
 
 Innehåll
 

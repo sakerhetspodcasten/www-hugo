@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.162 \u2013 Ostrukturerat V.38"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-09-11_Ostrukturerat.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-09-11_Ostrukturerat.mp3)
 
 ## Innehåll
 

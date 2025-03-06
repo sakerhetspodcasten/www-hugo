@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.187 \u2013 Ostrukturerat V.37"
 ---
 Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-09-09-Ostrukturerat.mp3)
+[mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-09-09-Ostrukturerat.mp3)
 
 Innehåll
 
