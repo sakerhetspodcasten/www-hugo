@@ -2,6 +2,9 @@
 date: '2023-09-05T12:45:00'
 tags:
 - tema
+- webauthn
+- passkeys
+- fido
 title: "S\xE4kerhetspodcasten #247 - Passkeys"
 ---
 ## Lyssna
