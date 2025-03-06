@@ -1,5 +1,7 @@
 ---
 date: '2022-01-31T17:35:01'
+tags:
+- SEC-T
 title: "S\xE4kerhetspodcasten #218 - Sec-T 2021 Del 2"
 ---
 ## Lyssna

@@ -5,6 +5,7 @@ tags:
 - guest
 - avlidienbrunn
 - Mathias Karlsson
+- SEC-T
 title: 'Intervjuavsnitt #12 - Mathias "Avlidienbrunn" Karlsson'
 ---
 ## Lyssna

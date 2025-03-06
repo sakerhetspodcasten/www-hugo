@@ -1,5 +1,7 @@
 ---
 date: '2024-03-18T15:53:00'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten #258 - Opsec Fails"
 ---
 ## Lyssna

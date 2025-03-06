@@ -1,5 +1,7 @@
 ---
 date: '2024-10-07T08:29:00'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten #267 - Ostrukturerat V.41"
 ---
 ## Lyssna
@@ -126,12 +128,12 @@ I gamla avnsitt 241 avhandlades flera av argumenten för varför Sverige/EU
 bör förbli ett fritt samhälle, utan att stadsmakter skall ha bakdörrar
 in i din privata kommunikation.
 De avgränsade argumenten för är ett bräckjärn från polisväsendet; det finns
-massa gamla ledtrådar som exempelvis amerikanska "Lawful Access Bill" - 
+massa gamla ledtrådar som exempelvis amerikanska "Lawful Access Bill" -
 det långsiktiga polisiära målet tycks vara frikostigt bruk av bakdörrar.
 
 * [2020-06-23 Justice.gov: Statement from Attorney General William P. Barr on Introduction of Lawful Access Bill in Senate](https://www.justice.gov/opa/pr/statement-attorney-general-william-p-barr-introduction-lawful-access-bill-senate)
 * [2023-06-08 Säkerhetspodcasten #241 - Chat Control](https://sakerhetspodcasten.se/posts/sakerhetspodcasten_241_chat_control/)
-* [2024-09-26 Dagens Nyheter: Grönt ljus till ”chat control” – igen](https://www.dn.se/sverige/gront-ljus-till-chat-control-igen/) 
+* [2024-09-26 Dagens Nyheter: Grönt ljus till ”chat control” – igen](https://www.dn.se/sverige/gront-ljus-till-chat-control-igen/)
 
 Några bra citat från DN:
 

@@ -1,6 +1,8 @@
 ---
 date: '2018-12-31T12:27:23'
 lastmod: '2018-12-31T12:27:23'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten avs.141 \u2013 Software Defined Radio"
 ---
 ## Lyssna

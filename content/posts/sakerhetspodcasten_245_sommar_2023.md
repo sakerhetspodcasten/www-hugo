@@ -1,5 +1,8 @@
 ---
 date: '2023-08-16T11:28:00'
+tags:
+- tema
+- sommar
 title: "S\xE4kerhetspodcasten #245 - Sommar 2023"
 ---
 ## Lyssna

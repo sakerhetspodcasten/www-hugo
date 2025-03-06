@@ -1,6 +1,8 @@
 ---
 date: '2015-01-12T13:53:50'
 lastmod: '2018-09-26T08:30:30'
+tags:
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.37 - S\xE4kerhetskonferenser"
 ---
 ## Lyssna

@@ -1,6 +1,8 @@
 ---
 date: '2018-09-24T07:23:37'
 lastmod: '2018-09-26T08:15:31'
+tags:
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.134 \u2013 Sec-T Community Night"
 ---
 ## Lyssna

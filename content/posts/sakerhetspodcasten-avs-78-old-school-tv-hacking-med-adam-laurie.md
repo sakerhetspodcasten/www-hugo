@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:24:17'
 tags:
 - guest
 - Adam Laurie
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.78 \u2013 Old School TV-Hacking med Adam Laurie"
 ---
 ## Lyssna

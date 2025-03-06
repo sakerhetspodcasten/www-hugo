@@ -6,6 +6,7 @@ tags:
 - Trammell Hudson
 - Dani Goland
 - Mohsan Farid
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.170 \u2013 Trammell Hudson, Dani Goland & Mohsan\
   \ Farid"
 ---

@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:18:34'
 tags:
 - Robin von Post
 - guest
+- SecurityFest
 title: "S\xE4kerhetspodcasten avs.130 \u2013 Security Fest CTF!"
 ---
 ## Lyssna

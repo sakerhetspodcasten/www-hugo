@@ -1,6 +1,8 @@
 ---
 date: '2018-10-08T07:36:40'
 lastmod: '2018-10-08T07:36:40'
+tags:
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.135 \u2013 Sec-T 2018 Day 1"
 ---
 ## Lyssna

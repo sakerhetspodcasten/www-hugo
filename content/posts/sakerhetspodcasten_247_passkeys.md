@@ -1,5 +1,7 @@
 ---
 date: '2023-09-05T12:45:00'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten #247 - Passkeys"
 ---
 ## Lyssna
@@ -10,7 +12,7 @@ title: "S\xE4kerhetspodcasten #247 - Passkeys"
 I dagens avsnitt har vi finbesök i studion i form av Emil Lundberg från Yubico som
 är på plats för att snacka passkeys, WebAuthn, FIDO och annat kul!
 
-## Recap och vad är nytt? 
+## Recap och vad är nytt?
 
 * Vad har hänt runt WebAuthn / FIDO sen 2019 ?
   * U2F, andra faktor. Lagringslös.
@@ -45,7 +47,7 @@ Inte behöva ange username när man loggar in.
 
 Utökat fiske-skydd i t.ex. WebAuthn
 * Skall vara synnerligen svårt (nästan omöjligt) med phising attacker.
-* Sajt (domänamn) hänger ihop med vilka nycklar WebAuthn kan tillgängliggöra. 
+* Sajt (domänamn) hänger ihop med vilka nycklar WebAuthn kan tillgängliggöra.
 * Det räcker inte att enbart lura användaren vilken sajt den lurar.
 * Du måste också lura **webbläsaren** om vilken sajt det är.
 

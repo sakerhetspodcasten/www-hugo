@@ -1,5 +1,7 @@
 ---
 date: '2024-11-25T09:58:00'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten #271 - Ostrukturerat V.48"
 ---
 ## Lyssna

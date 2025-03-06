@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:30:51'
 tags:
 - guest
 - David Jacoby
+- SEC-T
 title: 'Intervjuavsnitt #11 - David Jacoby'
 ---
 ## Lyssna

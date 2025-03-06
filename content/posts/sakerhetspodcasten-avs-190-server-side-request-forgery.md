@@ -1,6 +1,8 @@
 ---
 date: '2020-11-09T11:19:51'
 lastmod: '2020-11-09T11:19:51'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten avs.190 \u2013 Server Side Request Forgery"
 ---
 Lyssna

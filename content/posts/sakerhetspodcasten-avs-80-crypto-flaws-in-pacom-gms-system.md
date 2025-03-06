@@ -1,6 +1,8 @@
 ---
 date: '2016-12-12T13:10:53'
 lastmod: '2018-09-26T08:24:13'
+tags:
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.80 \u2013 Crypto flaws in Pacom GMS System"
 ---
 ## Lyssna

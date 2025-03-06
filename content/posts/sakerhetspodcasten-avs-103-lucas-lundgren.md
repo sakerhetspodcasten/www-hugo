@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:21:44'
 tags:
 - guest
 - Lucas Lundgren
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.103 - Lucas Lundgren"
 ---
 ## Lyssna

@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:18:59'
 tags:
 - guest
 - Kyle Wilhoit
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.125 - Cyber Terrorism med Kyle Wilhoit"
 ---
 ## Lyssna

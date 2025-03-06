@@ -1,6 +1,8 @@
 ---
 date: '2018-01-15T08:56:24'
 lastmod: '2018-09-26T08:21:12'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten avs.113 - Spectre & Meltdown"
 ---
 ## Lyssna

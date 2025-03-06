@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:27:58'
 tags:
 - guest
 - Jakob H Heidelberg
+- SEC-T
 title: 'Intervjuavsnitt #16 - Jakob H. Heidelberg'
 ---
 ## Lyssna

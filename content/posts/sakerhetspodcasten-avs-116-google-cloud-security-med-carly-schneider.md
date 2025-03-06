@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:19:32'
 tags:
 - guest
 - Carly Schneider
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.116 - Google Cloud Security med Carly Schneider"
 ---
 ## Lyssna

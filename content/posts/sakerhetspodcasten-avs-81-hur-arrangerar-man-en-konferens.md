@@ -1,6 +1,8 @@
 ---
 date: '2016-12-19T13:23:10'
 lastmod: '2018-09-26T08:24:12'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten avs.81 - Hur arrangerar man en konferens?"
 ---
 ## Lyssna

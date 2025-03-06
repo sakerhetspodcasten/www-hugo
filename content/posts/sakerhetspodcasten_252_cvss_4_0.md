@@ -1,5 +1,7 @@
 ---
 date: '2023-11-29T14:49:00'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten #252 - CVSS 4.0"
 ---
 ## Lyssna

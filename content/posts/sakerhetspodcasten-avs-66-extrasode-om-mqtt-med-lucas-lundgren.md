@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:25:57'
 tags:
 - guest
 - Lucas Lundgren
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.66 - Extrasode om MQTT med Lucas Lundgren"
 ---
 ## Lyssna

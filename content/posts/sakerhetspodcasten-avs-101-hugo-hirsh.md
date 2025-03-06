@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:21:52'
 tags:
 - guest
 - Hugo Hirsh
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.101 \u2013 Hugo Hirsh"
 ---
 ## Lyssna

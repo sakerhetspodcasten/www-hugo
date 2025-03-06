@@ -1,5 +1,8 @@
 ---
 date: '2023-06-28T09:45:00'
+tags:
+- tema
+- SecurityFest
 title: "S\xE4kerhetspodcasten #243 - SecurityFest 2023"
 ---
 ## Lyssna

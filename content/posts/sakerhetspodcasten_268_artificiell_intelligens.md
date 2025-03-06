@@ -1,5 +1,7 @@
 ---
 date: '2024-10-21T08:31:00'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten #268 - Artificiell Intelligens"
 ---
 ## Lyssna
@@ -112,7 +114,7 @@ Vi kan faktiskt inte enbart anfalla, vi måste skydda också!
 
 För den som vill ha lite kul underhållning runt AI.
 
-* [Vedal987@Twitch: Neuro-sama / Evil-Neuro](https://www.twitch.tv/vedal987) - `video` 
+* [Vedal987@Twitch: Neuro-sama / Evil-Neuro](https://www.twitch.tv/vedal987) - `video`
   Utvecklare med några tokiga AI vtubers.
 * [Internet Historian: Tay A.I. - The People's Chatbot](https://www.youtube.com/watch?v=HsLup7yy-6I) - `video`
 

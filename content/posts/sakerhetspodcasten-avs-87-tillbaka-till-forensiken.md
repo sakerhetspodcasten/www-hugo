@@ -1,6 +1,8 @@
 ---
 date: '2017-02-27T15:40:52'
 lastmod: '2018-09-26T08:23:54'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten avs.87 -  Tillbaka till Forensiken"
 ---
 ## Lyssna
@@ -64,7 +66,7 @@ Var bitlocker/filevault/efs/etc. slutet för forensik?
 
 
 
-Vad är framtidens hinder för forensik? AMD SEM, Intel SGX / MEE, m.m.  
+Vad är framtidens hinder för forensik? AMD SEM, Intel SGX / MEE, m.m.
 
 
 

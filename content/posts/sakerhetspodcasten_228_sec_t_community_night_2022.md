@@ -1,5 +1,7 @@
 ---
 date: '2022-10-31T09:49:00'
+tags:
+- SEC-T
 title: "S\xE4kerhetspodcasten #228 - Sec-T Community Night 2022"
 ---
 ## Lyssna

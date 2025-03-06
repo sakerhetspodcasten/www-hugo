@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:21:57'
 tags:
 - guest
 - Alex Radocea
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.99 - Alex Radocea"
 ---
 ## Lyssna

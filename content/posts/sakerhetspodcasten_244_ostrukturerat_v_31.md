@@ -1,5 +1,7 @@
 ---
 date: '2023-07-31T08:15:00'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten #244 - Ostrukturerat V.31"
 ---
 ## Lyssna
@@ -12,7 +14,7 @@ title: "S\xE4kerhetspodcasten #244 - Ostrukturerat V.31"
 * [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://eprint.iacr.org/2023/923.pdf) - akademiskt papper
 * [arstechnica: Hackers can steal cryptographic keys by video-recording power LEDs 60 feet away](https://arstechnica.com/information-technology/2023/06/hackers-can-steal-cryptographic-keys-by-video-recording-connected-power-leds-60-feet-away/)
 
-## Ny ios rapid security response 
+## Ny ios rapid security response
 
 * [Naked Security: Apple silently pulls its latest zero-day update – what now?](https://nakedsecurity.sophos.com/2023/07/11/apple-silently-pulls-its-latest-zero-day-update-what-now/)
 

@@ -1,5 +1,7 @@
 ---
 date: '2023-03-27T12:34:00'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten #237 - Jobba i s\xE4kerhetsbranschen"
 ---
 ## Lyssna

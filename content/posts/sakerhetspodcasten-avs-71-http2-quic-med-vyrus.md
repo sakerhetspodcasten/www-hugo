@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:25:35'
 tags:
 - guest
 - vyrus
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.71 - HTTP2 & Quic med Vyrus"
 ---
 ## Lyssna

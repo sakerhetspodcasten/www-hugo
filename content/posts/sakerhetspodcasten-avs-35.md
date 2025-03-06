@@ -1,6 +1,12 @@
 ---
 date: '2014-11-10T13:34:08'
 lastmod: '2018-09-26T08:30:35'
+tags:
+- guest
+- Anna Ryde
+- bubblewire
+- Hanna Lidzell
+- plastfolie
 title: "S\xE4kerhetspodcasten avs.35"
 ---
 ## Lyssna

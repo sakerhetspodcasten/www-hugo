@@ -1,5 +1,7 @@
 ---
 date: '2022-12-19T13:23:00'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten #231 - Ostrukturerat V.51"
 ---
 ## Lyssna

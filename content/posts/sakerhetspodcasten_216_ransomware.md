@@ -1,5 +1,7 @@
 ---
 date: '2022-01-10T09:41:59'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten #216 - Ransomware"
 ---
 ## Lyssna

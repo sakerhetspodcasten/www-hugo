@@ -1,6 +1,9 @@
 ---
 date: '2018-11-05T09:53:05'
 lastmod: '2018-11-05T09:53:05'
+tags:
+- SEC-T
+- Ulf Frisk
 title: "S\xE4kerhetspodcasten avs.137 \u2013 Sec-T 2018 Day 2"
 ---
 ## Lyssna

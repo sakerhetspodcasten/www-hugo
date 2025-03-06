@@ -1,6 +1,8 @@
 ---
 date: '2014-09-04T14:23:29'
 lastmod: '2018-09-26T08:31:03'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten avs.31 - SANS SEC 560"
 ---
 ## Lyssna

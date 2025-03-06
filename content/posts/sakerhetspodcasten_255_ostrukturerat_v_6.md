@@ -1,5 +1,7 @@
 ---
 date: '2024-02-05T15:55:00'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten #255 - Ostrukturerat V.6"
 ---
 ## Lyssna

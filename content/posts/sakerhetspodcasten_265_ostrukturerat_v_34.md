@@ -1,5 +1,7 @@
 ---
 date: '2024-08-19T08:54:00'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten #265 - Ostrukturerat V.34"
 ---
 ## Lyssna
@@ -10,7 +12,7 @@ title: "S\xE4kerhetspodcasten #265 - Ostrukturerat V.34"
 8.5 miljoner Windows Datorer som körde CrowdStrike blåskärmade.
 
 Man hade under en timme tryckt ut en dålig Channel File 291
-som fick kundernas CrowdStrike drivis att krasha inne i Windows kernel mode. 
+som fick kundernas CrowdStrike drivis att krasha inne i Windows kernel mode.
 
 Denna historien har ALLT:
 RegExp, null pointers, minnesmappning, kernel mode, CI/CD, Continous Delivery, DevOps, risk analys ...

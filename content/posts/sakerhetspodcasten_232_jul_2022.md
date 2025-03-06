@@ -1,5 +1,8 @@
 ---
 date: '2023-01-09T09:38:00'
+tags:
+- tema
+- jul
 title: "S\xE4kerhetspodcasten #232 - Jul 2022"
 ---
 ## Lyssna

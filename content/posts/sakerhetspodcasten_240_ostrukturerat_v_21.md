@@ -1,5 +1,7 @@
 ---
 date: '2023-05-23T16:15:00'
+tags:
+- ostrukturerat
 title: "S\xE4kerhetspodcasten #240 - Ostrukturerat V.21"
 ---
 ## Lyssna

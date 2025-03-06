@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:21:26'
 tags:
 - guest
 - Ulf Frisk
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.109 - Ulf Frisk"
 ---
 ## Lyssna

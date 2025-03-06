@@ -1,6 +1,9 @@
 ---
 date: '2016-10-03T10:30:09'
 lastmod: '2018-09-26T08:25:42'
+tags:
+- SEC-T
+- Ulf Frisk
 title: "S\xE4kerhetspodcasten avs.70 - Direct Memoy Attacks med Ulf Frisk"
 ---
 ## Lyssna

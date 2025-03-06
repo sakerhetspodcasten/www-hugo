@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:21:40'
 tags:
 - guest
 - Daniel Bohannon
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.105 - Daniel Bohannon"
 ---
 ## Lyssna

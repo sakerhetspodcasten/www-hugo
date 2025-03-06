@@ -1,5 +1,7 @@
 ---
 date: '2022-10-17T11:48:00'
+tags:
+- SEC-T
 title: "S\xE4kerhetspodcasten #227 - Ostrukturerat V.42"
 ---
 ## Lyssna

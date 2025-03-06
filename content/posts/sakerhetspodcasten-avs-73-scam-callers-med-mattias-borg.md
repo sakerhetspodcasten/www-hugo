@@ -4,6 +4,7 @@ lastmod: '2018-09-26T08:25:35'
 tags:
 - guest
 - Mattias Borg
+- SEC-T
 title: "S\xE4kerhetspodcasten avs.73 - Scam Callers med Mattias Borg"
 ---
 ## Lyssna

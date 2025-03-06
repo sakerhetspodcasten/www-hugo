@@ -1,5 +1,8 @@
 ---
 date: '2022-06-20T11:08:14'
+tags:
+- ostrukturerat
+- SecurityFest
 title: "S\xE4kerhetspodcasten #225 - Ostrukturerat V.25"
 ---
 ## Lyssna

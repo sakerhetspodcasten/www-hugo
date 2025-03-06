@@ -1,5 +1,7 @@
 ---
 date: '2023-11-06T13:27:00'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten #250 - DevSecOps"
 ---
 ## Lyssna

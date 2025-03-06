@@ -1,5 +1,7 @@
 ---
 date: '2021-12-20T14:46:13'
+tags:
+- tema
 title: "S\xE4kerhetspodcasten #215 - Log4Shell"
 ---
 ## Lyssna
