@@ -3,6 +3,7 @@ date: '2018-02-25T00:00:56'
 lastmod: '2018-09-26T08:19:22'
 tags:
 - tema
+- CS3STHLM
 title: "S\xE4kerhetspodcasten avs.119 - Insider Threat Detection med Dieter Sarrazyn"
 ---
 ## Lyssna

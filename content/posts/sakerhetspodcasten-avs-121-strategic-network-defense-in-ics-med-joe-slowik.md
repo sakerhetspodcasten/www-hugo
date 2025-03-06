@@ -5,7 +5,7 @@ tags:
 - guest
 - Joe Slowik
 - Robin von Post
-- CS3Sthlm
+- CS3STHLM
 title: "S\xE4kerhetspodcasten avs.121 - Strategic Network Defense in ICS med Joe Slowik"
 ---
 ## Lyssna
