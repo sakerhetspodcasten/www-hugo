@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.110 - S\xE4kerhet i media med Linus Larsson"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/RVPintro_-_Nordic_IT_Security_17_-_Linus_Larsson.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/RVPintro_-_Nordic_IT_Security_17_-_Linus_Larsson.mp3)
 
 ## Innehåll
 

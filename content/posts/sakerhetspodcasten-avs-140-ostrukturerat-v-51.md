@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.140 \u2013 Ostrukturerat V.51"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2018-12-12_Sakerhetspodcasten.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2018-12-12_Sakerhetspodcasten.mp3)
 
 ## Innehåll
 

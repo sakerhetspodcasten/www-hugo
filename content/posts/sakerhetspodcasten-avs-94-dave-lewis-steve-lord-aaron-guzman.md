@@ -11,7 +11,7 @@ title: "S\xE4kerhetspodcasten avs.94 - Dave Lewis, Steve Lord, Aaron Guzman"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SecurityFest_intervjuer.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/SecurityFest_intervjuer.mp3)
 
 ## Innehåll
 

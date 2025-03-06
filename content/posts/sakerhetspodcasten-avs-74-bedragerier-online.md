@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.74 - Bedr\xE4gerier Online"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Bedragerier_online.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Bedragerier_online.mp3)
 
 ## Innehåll
 

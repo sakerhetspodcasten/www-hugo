@@ -9,7 +9,7 @@ title: 'Intervjuavsnitt #11 - David Jacoby'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-t_david_jakobi_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-t_david_jakobi_mixdown.mp3)
 
 ## Innehåll
 

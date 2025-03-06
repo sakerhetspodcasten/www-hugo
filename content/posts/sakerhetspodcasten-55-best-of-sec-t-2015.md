@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten #55 - Best of Sec-T 2015"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakerhetspodcasten-BestOfSec-t-128kbps-stereo.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakerhetspodcasten-BestOfSec-t-128kbps-stereo.mp3)
 
 ## Innehåll
 

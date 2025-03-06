@@ -10,7 +10,7 @@ title: "S\xE4kerhetspodcasten avs.51 - Ostrukturerat V.6"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v6_2016.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v6_2016.mp3)
 
 ## Innehåll
 

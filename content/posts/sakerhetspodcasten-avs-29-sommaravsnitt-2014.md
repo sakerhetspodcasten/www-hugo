@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.29 - Sommaravsnitt 2014"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sommar_2014_2_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sommar_2014_2_mixdown.mp3)
 
 ## Innehåll
 

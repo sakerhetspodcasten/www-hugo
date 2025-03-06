@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.141 \u2013 Software Defined Radio"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2018-12-12_SDR_Software_Defined_Radio.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2018-12-12_SDR_Software_Defined_Radio.mp3)
 
 ## Innehåll
 

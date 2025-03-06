@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.25 - Bodrum, Turkiet"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcast_bodrum_mixdown_2.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcast_bodrum_mixdown_2.mp3)
 
 ## Innehåll
 

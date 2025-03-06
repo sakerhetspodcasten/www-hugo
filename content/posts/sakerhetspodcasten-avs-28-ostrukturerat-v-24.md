@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.28 - Ostrukturerat V.24"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_v24_2014_-_ostrukt_mixdown_2.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_v24_2014_-_ostrukt_mixdown_2.mp3)
 
 ## Innehåll
 

@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.73 - Scam Callers med Mattias Borg"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Mattias_Borg_-_SCAM_CALLER_Call_Dropped.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Mattias_Borg_-_SCAM_CALLER_Call_Dropped.mp3)
 
 ## Innehåll
 

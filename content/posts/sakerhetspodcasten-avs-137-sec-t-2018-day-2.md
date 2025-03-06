@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.137 \u2013 Sec-T 2018 Day 2"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_0xB_Day_2.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_0xB_Day_2.mp3)
 
 ## Innehåll
 

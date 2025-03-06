@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.135 \u2013 Sec-T 2018 Day 1"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_0xB_Day1.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_0xB_Day1.mp3)
 
 ## Innehåll
 

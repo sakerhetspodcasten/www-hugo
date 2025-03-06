@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.42 - Ostrukturerat V.25"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakp2105v24_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakp2105v24_mixdown.mp3)
 
 ## Innehåll
 Detta är det fyrtioandra avsnittet av Säkerhetspodcasten, i vilket panelen är lite

@@ -6,7 +6,7 @@ tags: [Nyår]
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2019_Spaningar.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2019_Spaningar.mp3)
 
 ## Innehåll
 

@@ -12,7 +12,7 @@ title: 'Intervjuavsnitt #10 - James Lyne'
 
 
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/intervjujameslyne_mixdown_1.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/intervjujameslyne_mixdown_1.mp3)
 
 
 

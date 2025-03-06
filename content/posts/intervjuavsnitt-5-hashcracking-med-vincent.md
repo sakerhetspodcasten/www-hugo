@@ -8,7 +8,7 @@ title: 'Intervjuavsnitt #5 - Hashcracking med Vincent'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcastVincent.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcastVincent.mp3)
 
 ## Innehåll
 

@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.78 \u2013 Old School TV-Hacking med Adam Lauri
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Adam_Laurie_DVB-T_Black_Button_Pivot.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Adam_Laurie_DVB-T_Black_Button_Pivot.mp3)
 
 ## Innehåll
 

@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.47 - Ostrukturerat V.46"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v46_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v46_mixdown.mp3)
 
 ## Innehåll
 

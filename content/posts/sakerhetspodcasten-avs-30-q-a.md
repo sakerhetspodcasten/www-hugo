@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.30 - Q & A"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_v24_2014_-_QnA_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_v24_2014_-_QnA_mixdown.mp3)
 
 ## Innehåll
 

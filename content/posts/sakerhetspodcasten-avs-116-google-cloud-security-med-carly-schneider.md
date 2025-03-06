@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.116 - Google Cloud Security med Carly Schneide
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Carly_Schneider.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Carly_Schneider.mp3)
 
 ## Innehåll
 

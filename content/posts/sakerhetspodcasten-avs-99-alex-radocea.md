@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.99 - Alex Radocea"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Alex_Radocea.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Alex_Radocea.mp3)
 
 ## Innehåll
 

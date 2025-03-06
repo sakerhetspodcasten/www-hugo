@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.83 - Ostrukturerat V.2"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2016-12-29.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2016-12-29.mp3)
 
 ## Innehåll
 

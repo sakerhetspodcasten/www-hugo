@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.34 - Mobilappar"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten_v41_Mobilappar_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten_v41_Mobilappar_mixdown.mp3)
 
 ## Innehåll
 

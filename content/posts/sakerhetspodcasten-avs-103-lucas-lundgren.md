@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.103 - Lucas Lundgren"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Lucas_Lundgren.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Lucas_Lundgren.mp3)
 
 ## Innehåll
 

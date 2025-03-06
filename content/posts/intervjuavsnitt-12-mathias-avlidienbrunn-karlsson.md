@@ -10,7 +10,7 @@ title: 'Intervjuavsnitt #12 - Mathias "Avlidienbrunn" Karlsson'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-t_Avlidienbrun_Angularjs_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-t_Avlidienbrun_Angularjs_mixdown.mp3)
 
 ## Innehåll
 

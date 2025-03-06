@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.119 - Insider Threat Detection med Dieter Sarr
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/RVPintro_-_cs3sthlm_Dieter_Sarrazyn_DIY_insider_threat_detection-prevention_within_ICS_enviroments.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/RVPintro_-_cs3sthlm_Dieter_Sarrazyn_DIY_insider_threat_detection-prevention_within_ICS_enviroments.mp3)
 
 ## Innehåll
 

@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.102 \u2013 Ostrukturerat V.42"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2017-10-12.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2017-10-12.mp3)
 
 ## Innehåll
 

@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.114 - Ostrukturerat V.4"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2018-01-11.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2018-01-11.mp3)
 
 ## Innehåll
 

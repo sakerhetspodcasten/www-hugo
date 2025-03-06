@@ -11,7 +11,7 @@ title: "S\xE4kerhetspodcasten avs.35"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_1106_Ostrukturerat_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_1106_Ostrukturerat_mixdown.mp3)
 
 ## Innehåll
 

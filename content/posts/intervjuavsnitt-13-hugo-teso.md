@@ -9,7 +9,7 @@ title: 'Intervjuavsnitt #13 - Hugo Teso'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-t_Hugo_Teso_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-t_Hugo_Teso_mixdown.mp3)
 
 ## Innehåll
 

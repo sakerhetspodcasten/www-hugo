@@ -8,7 +8,7 @@ title: 'Intervjuavsnitt #8 - Per Thorsheim'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_owasp_lo_senord_18-02-14_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_owasp_lo_senord_18-02-14_mixdown.mp3)
 
 ## Innehåll
 

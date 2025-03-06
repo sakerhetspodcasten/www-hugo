@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.40 - Ostrukturerat V.12"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sak2015v11-ostrukturerat_mixdown_16lufs.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sak2015v11-ostrukturerat_mixdown_16lufs.mp3)
 
 ## Innehåll
 Detta är det fyrtionde avsnittet av Säkerhetspodcasten, i vilket panelen diskuterar

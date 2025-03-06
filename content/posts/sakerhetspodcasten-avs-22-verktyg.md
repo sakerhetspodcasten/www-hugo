@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.22 - Verktyg"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten_Verktyg_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten_Verktyg_mixdown.mp3)
 
 ## Innehåll
 

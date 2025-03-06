@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.58 - Ostrukturerat V.19"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/OstruktureratV19-2016_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/OstruktureratV19-2016_mixdown.mp3)
 
 ## Innehåll
 

@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.67 - The Shadow Brokers och Equation Group"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/The_Shadow_Brokers_-_Equation_Group_-_NSA_TAO.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/The_Shadow_Brokers_-_Equation_Group_-_NSA_TAO.mp3)
 
 ## Innehåll
 

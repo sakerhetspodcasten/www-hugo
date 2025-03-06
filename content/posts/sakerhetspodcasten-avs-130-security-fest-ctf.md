@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.130 \u2013 Security Fest CTF!"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_SecurityFest2018.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_SecurityFest2018.mp3)
 
 ## Innehåll
 

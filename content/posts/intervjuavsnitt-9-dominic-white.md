@@ -8,7 +8,7 @@ title: 'Intervjuavsnitt #9 - Dominic White'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/DomWhiteHITBCleanUp2_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/DomWhiteHITBCleanUp2_mixdown.mp3)
 
 ## Innehåll
 

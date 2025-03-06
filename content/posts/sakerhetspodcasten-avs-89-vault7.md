@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.89 - Vault7"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2017-03-09_Vault7.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2017-03-09_Vault7.mp3)
 
 ## Innehåll
 

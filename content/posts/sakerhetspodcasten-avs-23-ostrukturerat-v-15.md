@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.23 - Ostrukturerat V.15"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpv15_ostrukturerat_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpv15_ostrukturerat_mixdown.mp3)
 
 ## Innehåll
 

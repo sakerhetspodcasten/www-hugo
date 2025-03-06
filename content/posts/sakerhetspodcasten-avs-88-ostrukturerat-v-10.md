@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.88 - Ostrukturerat V.10"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2017-03-09_Ostrukturerat.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2017-03-09_Ostrukturerat.mp3)
 
 ## Innehåll
 

@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.91 \u2013 Framtiden"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Framtiden.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Framtiden.mp3)
 
 ## Innehåll
 

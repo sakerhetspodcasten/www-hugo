@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.71 - HTTP2 & Quic med Vyrus"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Vyrus_-_HTTP2__QUIC__TEACHING_GOOD_PROTOCOLS_TO_DO_BAD_THINGS.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Vyrus_-_HTTP2__QUIC__TEACHING_GOOD_PROTOCOLS_TO_DO_BAD_THINGS.mp3)
 
 ## Innehåll
 

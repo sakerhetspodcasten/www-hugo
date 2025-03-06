@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.59 - Mark Hillick"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/markhillick.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/markhillick.mp3)
 
 ## Innehåll
 

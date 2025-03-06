@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.15 - Ostrukturerat V.26"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_AvsnittX_-_Ostrukturerat_Sommaravsnitt.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_AvsnittX_-_Ostrukturerat_Sommaravsnitt.mp3)
 
 ## Innehåll
 

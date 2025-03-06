@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.70 - Direct Memoy Attacks med Ulf Frisk"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Ulf_Frisk_-_DIRECT_MEMORY_ATTACK_THE_KERNEL.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Ulf_Frisk_-_DIRECT_MEMORY_ATTACK_THE_KERNEL.mp3)
 
 ## Innehåll
 

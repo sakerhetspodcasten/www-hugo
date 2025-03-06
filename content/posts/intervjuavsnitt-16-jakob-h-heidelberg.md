@@ -9,7 +9,7 @@ title: 'Intervjuavsnitt #16 - Jakob H. Heidelberg'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/0x08_Sec-T_Jakob_H_Heidelberg_mixdown_v2.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/0x08_Sec-T_Jakob_H_Heidelberg_mixdown_v2.mp3)
 
 ## Innehåll
 

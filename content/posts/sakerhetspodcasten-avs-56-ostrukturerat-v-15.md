@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.56 - Ostrukturerat V.15"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostruktu14i4.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostruktu14i4.mp3)
 
 ## Innehåll
 

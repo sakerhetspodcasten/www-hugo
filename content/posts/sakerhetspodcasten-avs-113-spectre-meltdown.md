@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.113 - Spectre & Meltdown"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Spectre_Meltdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Spectre_Meltdown.mp3)
 
 ## Innehåll
 

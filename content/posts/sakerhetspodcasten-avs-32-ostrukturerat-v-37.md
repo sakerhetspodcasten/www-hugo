@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.32 - Ostrukturerat V.37"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_v37_edit_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_v37_edit_mixdown.mp3)
 
 ## Innehåll
 

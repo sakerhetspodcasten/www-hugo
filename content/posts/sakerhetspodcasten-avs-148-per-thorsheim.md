@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.148 \u2013 Per Thorsheim"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-03-14_Per_Thorsheim.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-03-14_Per_Thorsheim.mp3)
 
 ## Innehåll
 

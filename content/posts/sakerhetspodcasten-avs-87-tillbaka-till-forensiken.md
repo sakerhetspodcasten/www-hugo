@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.87 -  Tillbaka till Forensiken"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Forensik_2017_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Forensik_2017_mixdown.mp3)
 
 ## Innehåll
 

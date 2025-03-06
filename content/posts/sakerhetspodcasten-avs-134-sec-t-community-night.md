@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.134 \u2013 Sec-T Community Night"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_0xB_CommunityNight.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_0xB_CommunityNight.mp3)
 
 ## Innehåll
 

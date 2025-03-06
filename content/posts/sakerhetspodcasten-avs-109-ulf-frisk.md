@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.109 - Ulf Frisk"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Ulf_Frisk.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Ulf_Frisk.mp3)
 
 ## Innehåll
 

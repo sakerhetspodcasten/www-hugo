@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.120 - Om kvantumkalabalik med Jonathan Jogenfo
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Jonathan_Jogenfors_Quantum1Net_Kvantkrypton_kvantsakrakrypton_kryptovalutor.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Jonathan_Jogenfors_Quantum1Net_Kvantkrypton_kvantsakrakrypton_kryptovalutor.mp3)
 
 ## Innehåll
 

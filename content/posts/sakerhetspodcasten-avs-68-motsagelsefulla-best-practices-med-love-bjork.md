@@ -10,7 +10,7 @@ title: "S\xE4kerhetspodcasten avs.68 - Mots\xE4gelsefulla Best Practices med Lov
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Love_Bjork_-_Best_practice_the_inconsistency_of_doing_it_the_right_way.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-T_0x09_Love_Bjork_-_Best_practice_the_inconsistency_of_doing_it_the_right_way.mp3)
 
 ## Innehåll
 

@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.86 \u2013 Ostrukturerat V.7"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2017-02-09_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2017-02-09_mixdown.mp3)
 
 ## Innehåll
 

@@ -11,7 +11,7 @@ title: "S\xE4kerhetspodcasten avs.127 - Om Industroyer med Anton Cherepanov och 
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/RVPintro_-_cs3sthlm_ESET_The_Industroyer_Robert_Lipovsky_Anton_Cherepanov.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/RVPintro_-_cs3sthlm_ESET_The_Industroyer_Robert_Lipovsky_Anton_Cherepanov.mp3)
 
 ## Innehåll
 Dagens avsnitt är en intervju inspelad under CS3 2017. Säkerhetspodcastens flygande

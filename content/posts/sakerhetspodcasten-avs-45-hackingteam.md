@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.45 \u2013 HackingTeam"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/hacking_team_mixdown.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/hacking_team_mixdown.mp3)
 
 ## Innehåll
 

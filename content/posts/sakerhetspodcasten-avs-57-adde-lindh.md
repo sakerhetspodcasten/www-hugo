@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.57 - Adde Lindh"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Adde14i4.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Adde14i4.mp3)
 
 ## Innehåll
 

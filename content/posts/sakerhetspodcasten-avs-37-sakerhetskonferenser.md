@@ -12,7 +12,7 @@ title: "S\xE4kerhetspodcasten avs.37 - S\xE4kerhetskonferenser"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcastenredteam2.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcastenredteam2.mp3)
 
 ## Innehåll
 

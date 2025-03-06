@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.61 - Ostrukturerat V.27"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v26_2016.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v26_2016.mp3)
 
 ## Innehåll
 

@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.125 - Cyber Terrorism med Kyle Wilhoit"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Kyle_Wilhoit.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/SEC-T_2017_Kyle_Wilhoit.mp3)
 
 ## Innehåll
 

@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.64 \u2013 IDS & IPS"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/IDS_IPS_tema.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/IDS_IPS_tema.mp3)
 
 ## Innehåll
 

@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.41 - S\xE4kerhetslitteratur"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetslitteratur141211_3.mp3)
+[mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetslitteratur141211_3.mp3)
 
 ## Innehåll
 Detta är det fyrtioförsta avsnittet av Säkerhetspodcasten, i vilket panelen ger mer
