@@ -5,6 +5,9 @@ tags:
 - webauthn
 - passkeys
 - fido
+- Emil Lundberg
+- Yubico
+- guest
 title: "S\xE4kerhetspodcasten #247 - Passkeys"
 ---
 ## Lyssna
