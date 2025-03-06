@@ -2,7 +2,7 @@
 date: '2014-07-25T13:37:21'
 lastmod: '2018-09-26T08:31:10'
 tags:
-- SEC-T
+- tema
 title: "S\xE4kerhetspodcasten avs.30 - Q & A"
 ---
 ## Lyssna
