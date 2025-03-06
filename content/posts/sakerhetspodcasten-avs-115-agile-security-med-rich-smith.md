@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.115 - Agile Security med Rich Smith"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/RVPintro_-_Nordic_IT_Security_17_-_Rich_Smith_-_Agile_Security.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/RVPintro_-_Nordic_IT_Security_17_-_Rich_Smith_-_Agile_Security.mp3)
 
 ## Innehåll
 

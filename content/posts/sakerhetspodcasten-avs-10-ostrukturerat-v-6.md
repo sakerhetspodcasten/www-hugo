@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs. 10 - Ostrukturerat V.6"
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten-10-ostrukturerat/id576469997?i=133579609&l=en&mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/pod10ostrukt5feb.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten-10-ostrukturerat/id576469997?i=133579609&l=en&mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/pod10ostrukt5feb.mp3)
 
 ## Innehåll
 

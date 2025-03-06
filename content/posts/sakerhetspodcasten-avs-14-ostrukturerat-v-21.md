@@ -20,7 +20,7 @@ Inspelat 2013-05-22. Längd 1:07:00.
 ## Länkar
 [FBI spionerar på Fox News](http://www.wired.com/threatlevel/2013/05/feds-tracked-fox-news-reporter/)
 
-DoJ spionerar på AP [#1](http://www.wired.com/threatlevel/2013/05/doj-got-reporter-phone-records/)  [#2](http://bigstory.ap.org/article/govt-obtains-wide-ap-phone-records-probe)
+DoJ spionerar på AP [#1](http://www.wired.com/threatlevel/2013/05/doj-got-reporter-phone-records/)  [#2](http://bigstory.ap.org/article/govt-obtains-wide-ap-phone-records-probe)
 
 [Amerikansk lag skyddar historiska telefonlistor men realtisdata har .gov fritt blås att spionera på](http://www.gpo.gov/fdsys/pkg/CFR-2010-title28-vol2/pdf/CFR-2010-title28-vol2-sec50-10.pdf)
 
@@ -30,7 +30,7 @@ DoJ spionerar på AP [#1](http://www.wired.com/threatlevel/2013/05/doj-got-repor
 
 [Anakata hackar Nordea och Logica](http://translate.google.com/translate?sl=fi&tl=en&js=n&prev=_t&hl=fi&ie=UTF-8&eotf=1&u=http%3A%2F%2Fwww.tietoviikko.fi%2Fkaikki_uutiset%2Fnordean%2Bitjarjestelmiin%2Bmurtauduttiin%2B%2Bpankki%2Bei%2Bilmoittanut%2Bpoliisille%2Fa901973)
 
-MtCox “under attack” av DHS [#1](http://betabeat.com/2013/05/department-of-homeland-security-shuts-down-dwolla-payments-to-and-from-mt-gox/)  [#2](https://mtgox.com/pdf/20130503_coinlab_lawsuit.pdf)
+MtCox “under attack” av DHS [#1](http://betabeat.com/2013/05/department-of-homeland-security-shuts-down-dwolla-payments-to-and-from-mt-gox/)  [#2](https://mtgox.com/pdf/20130503_coinlab_lawsuit.pdf)
 
 [JS bitcoin miner med webgl stöd](http://bitcoin.biniok.net/gl.html)
 

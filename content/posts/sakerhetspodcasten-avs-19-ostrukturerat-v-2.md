@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.19 \u2013 Ostrukturerat V.2"
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_v2_2014_mixdown.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_v2_2014_mixdown.mp3)
 
 ## Innehåll
 
@@ -20,21 +20,21 @@ Inspelat: 2013-01-09. Längd: 1:26:12.
 
 ## Länkar
 
-[DEFCON Conference - Youtube kanal](http://www.youtube.com/user/DEFCONConference/)   Här finns samtliga talks från Defcon 21.
+[DEFCON Conference - Youtube kanal](http://www.youtube.com/user/DEFCONConference/)   Här finns samtliga talks från Defcon 21.
 
-[DEFCON 16 - Matt Wier & Sudhir Aggarwal: Password Cracking on a Budget](http://www.youtube.com/watch?v=Ykb3eTWBIRQ)  Här diskuteras lösenords listor och smarta filter.
+[DEFCON 16 - Matt Wier & Sudhir Aggarwal: Password Cracking on a Budget](http://www.youtube.com/watch?v=Ykb3eTWBIRQ)  Här diskuteras lösenords listor och smarta filter.
 
-[OWASP GBG på youtube](http://www.youtube.com/user/owaspgbg)  Här hittar ni en rad intressanta föredrag från OWASP göteborgs events.
+[OWASP GBG på youtube](http://www.youtube.com/user/owaspgbg)  Här hittar ni en rad intressanta föredrag från OWASP göteborgs events.
 
-[The Holy Book Of Passwords](http://www.fubiz.net/en/2014/01/06/the-holy-book-of-password/)  En magisk bok skapad av samtliga läckta lösenord från Linkedin.
+[The Holy Book Of Passwords](http://www.fubiz.net/en/2014/01/06/the-holy-book-of-password/)  En magisk bok skapad av samtliga läckta lösenord från Linkedin.
 
-[SHODAN Computer Search Engine](http://www.shodanhq.com/)  Sökmotor som listar internet of things.
+[SHODAN Computer Search Engine](http://www.shodanhq.com/)  Sökmotor som listar internet of things.
 
-[http://istruecryptauditedyet.com/](http://istruecryptauditedyet.com/)  Auditarbete av truecrypt.
+[http://istruecryptauditedyet.com/](http://istruecryptauditedyet.com/)  Auditarbete av truecrypt.
 
-[http://keepass.info/](http://keepass.info/)  Lösenordshantering.
+[http://keepass.info/](http://keepass.info/)  Lösenordshantering.
 
-[Hack RF](http://ossmann.blogspot.se/2012/06/introducing-hackrf.html)  Ossmanss blog där man kan läsa allt om Hack RF
+[Hack RF](http://ossmann.blogspot.se/2012/06/introducing-hackrf.html)  Ossmanss blog där man kan läsa allt om Hack RF
 
 
 

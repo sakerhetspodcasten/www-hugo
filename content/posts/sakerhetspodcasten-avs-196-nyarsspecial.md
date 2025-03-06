@@ -6,7 +6,7 @@ tags: [Nyår]
 ---
 ## Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-01-13_Nyar.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-01-13_Nyar.mp3)
 
 ## Innehåll
 

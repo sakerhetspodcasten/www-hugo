@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.87 -  Tillbaka till Forensiken"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Forensik_2017_mixdown.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Forensik_2017_mixdown.mp3)
 
 ## Innehåll
 
@@ -102,7 +102,7 @@ Hur är domstolarnas/juristernas kompetens kring IT?
 
 Hur ser framtidens forensiker ut?
 
-* IT forensik på en bil, IoT, GPS-klockor, etc…  (Mattias tittar på detta, typ)
+* IT forensik på en bil, IoT, GPS-klockor, etc…  (Mattias tittar på detta, typ)
 
 * Vilka digitala spår finns att hitta i pryl-X?
 

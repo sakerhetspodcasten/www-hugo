@@ -11,7 +11,7 @@ title: "S\xE4kerhetspodcasten avs.52 - Bug Bounties med Frans Ros\xE9n"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/bugbounties_frans_rosen.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/bugbounties_frans_rosen.mp3)
 
 ## Innehåll
 

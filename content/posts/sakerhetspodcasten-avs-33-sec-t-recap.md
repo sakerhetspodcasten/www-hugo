@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.33 - Sec-T Recap"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-TRecap_mixdown.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sec-TRecap_mixdown.mp3)
 
 ## Innehåll
 

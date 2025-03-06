@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.189 \u2013 Ostrukturerat V.42"
 ---
 ## Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-10-07_Sakerhetspodcasten_Ostrukt.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-10-07_Sakerhetspodcasten_Ostrukt.mp3)
 
 ## Innehåll
 

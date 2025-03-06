@@ -12,7 +12,7 @@ title: "Intervjuavsnitt #1 - Robin Blokker, Michael Boman, Fredrik Sj\xF6str\xF6
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/intervjuavsnittet/id576469997?i=126106263)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/IntervjuavsnittetLOUD.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/intervjuavsnittet/id576469997?i=126106263)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/IntervjuavsnittetLOUD.mp3)
 
 ## Innehåll
 
@@ -25,7 +25,7 @@ Inspelat 2012-11-22. Längd 51:56.
 
 ## Länkar
 
-[OWASP Göteborg](https://www.owasp.org/index.php/Gothenburg)  (slides, video kommer)
+[OWASP Göteborg](https://www.owasp.org/index.php/Gothenburg)  (slides, video kommer)
 
 [PinPad Pwn](http://www.blackhat.com/usa/bh-us-12-briefings.html#Nils)  på BlackHat
 

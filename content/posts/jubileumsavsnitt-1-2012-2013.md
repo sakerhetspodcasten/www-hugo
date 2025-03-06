@@ -7,7 +7,7 @@ title: 'Jubileumsavsnitt #1 2012-2013'
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Jubileumsavsnitt.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Jubileumsavsnitt.mp3)
 
 ## Innehåll
 

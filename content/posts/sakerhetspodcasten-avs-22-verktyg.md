@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.22 - Verktyg"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten_Verktyg_mixdown.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten_Verktyg_mixdown.mp3)
 
 ## Innehåll
 
@@ -31,7 +31,7 @@ Inspelat: 2014-03-13. Längd: 1:07:20.
 
 * [nexpose](http://www.rapid7.com/products/nexpose/)
 
-* [netcat ](http://en.wikipedia.org/wiki/Netcat)
+* [netcat ](http://en.wikipedia.org/wiki/Netcat)
 
 * [tcpdump](http://www.tcpdump.org/)  [wireshark](https://www.wireshark.org/)  [tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
 
@@ -39,7 +39,7 @@ Inspelat: 2014-03-13. Längd: 1:07:20.
 
 * [nipper studio](https://www.titania.com/nipperstudio)
 
-* [google avancerad sökning](http://www.google.com/advanced_search)  (se även [google dorks](http://www.exploit-db.com/google-dorks/) )
+* [google avancerad sökning](http://www.google.com/advanced_search)  (se även [google dorks](http://www.exploit-db.com/google-dorks/) )
 
 * [burp suite](http://portswigger.net/burp/)
 
@@ -57,7 +57,7 @@ Inspelat: 2014-03-13. Längd: 1:07:20.
 
 * [forensics case notes](http://digital-forensics.sans.org/blog/2010/08/19/digital-forensics-reporting-casenotes-walkthroughreview/)
 
-* [maltego](https://www.paterva.com/web6/products/maltego.php)  ([video om den](https://www.youtube.com/watch?v=SEbIaLWQ-K4) )
+* [maltego](https://www.paterva.com/web6/products/maltego.php)  ([video om den](https://www.youtube.com/watch?v=SEbIaLWQ-K4) )
 
 * [metasploit](http://www.metasploit.com/)
 

@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.63 \u2013 Sommaravsnitt"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sommaravsnitt2016.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sommaravsnitt2016.mp3)
 
 ## Innehåll
 

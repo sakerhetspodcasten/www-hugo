@@ -10,7 +10,7 @@ title: "S\xE4kerhetspodcasten avs.50 - LIVE p\xE5 Sec-T med F1nux"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/0x08_Sec-T_Sakerhetspodcasten_and_Finux_Tech_Weekly_mixdown.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/0x08_Sec-T_Sakerhetspodcasten_and_Finux_Tech_Weekly_mixdown.mp3)
 
 ## Innehåll
 

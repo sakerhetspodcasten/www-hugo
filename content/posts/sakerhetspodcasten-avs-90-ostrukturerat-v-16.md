@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.90 - Ostrukturerat V.16"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2017-04-13_Ostrukt.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2017-04-13_Ostrukt.mp3)
 
 ## Innehåll
 
@@ -89,7 +89,7 @@ Jakob Humble - Mammas dator
 
 Nyheter
 
-Ulf Lundin - Swemal - letar efter malware på svensk webb  [https://gitlab.com/swemal/swemal/tree/master](https://gitlab.com/swemal/swemal/tree/master)
+Ulf Lundin - Swemal - letar efter malware på svensk webb  [https://gitlab.com/swemal/swemal/tree/master](https://gitlab.com/swemal/swemal/tree/master)
 
 
 

@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.79 - Ostrukturerat V.48"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/20161201_Ostrukturerat_v48_mixdown_01.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/20161201_Ostrukturerat_v48_mixdown_01.mp3)
 
 ## Innehåll
 

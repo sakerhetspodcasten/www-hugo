@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.43 - Semestertips!"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/semestertips.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/semestertips.mp3)
 
 ## Innehåll
 Vad ska du tänka på när du lämnar Sverige för soligare breddgrader? Var kan man ansluta

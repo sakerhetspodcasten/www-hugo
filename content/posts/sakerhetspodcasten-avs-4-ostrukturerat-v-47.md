@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs. 4 - Ostrukturerat V.47"
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten-4-ostrukturerat/id576469997?i=125335373&l=en)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_Avs._4_-_Ostrukturerat_V.47.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten-4-ostrukturerat/id576469997?i=125335373&l=en)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_Avs._4_-_Ostrukturerat_V.47.mp3)
 
 ## Innehåll
 

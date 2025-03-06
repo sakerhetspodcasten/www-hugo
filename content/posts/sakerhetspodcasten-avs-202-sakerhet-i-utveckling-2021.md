@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.202 \u2013 S\xE4kerhet i utveckling 2021"
 ---
 ## Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-04-07_PrioITchefMellanStortBolag.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-04-07_PrioITchefMellanStortBolag.mp3)
 
 ## Innehåll
 

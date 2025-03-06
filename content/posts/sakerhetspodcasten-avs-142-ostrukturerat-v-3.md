@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.142 \u2013 Ostrukturerat V.3"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2019-01-09.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2019-01-09.mp3)
 
 ## Innehåll
 

@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.47 - Ostrukturerat V.46"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v46_mixdown.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v46_mixdown.mp3)
 
 ## Innehåll
 
@@ -20,7 +20,7 @@ Inspelat: 2015-11-12. Längd: 49:12.
 
 ## Länkar
 
-OWASP security tapas och owaspgbg videos: [https://www.youtube.com/user/
+OWASP security tapas och owaspgbg videos: [https://www.youtube.com/user/
 owaspgbg](https://www.youtube.com/user/owaspgbg)
 
 OWASP Security Day:

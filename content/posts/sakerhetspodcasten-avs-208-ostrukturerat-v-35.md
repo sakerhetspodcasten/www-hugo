@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.208 \u2013 Ostrukturerat V.35"
 ---
 ## Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-08-25_Sakerhetspodcasten.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-08-25_Sakerhetspodcasten.mp3)
 
 ## Innehåll
 

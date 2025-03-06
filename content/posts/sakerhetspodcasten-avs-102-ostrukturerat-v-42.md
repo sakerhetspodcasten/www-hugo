@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.102 \u2013 Ostrukturerat V.42"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2017-10-12.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2017-10-12.mp3)
 
 ## Innehåll
 
@@ -30,7 +30,7 @@ Inspelat: 2017-10-12. Längd: 00:53:54.
 
 
 
-## Nytt Datalagringsförslag  -
+## Nytt Datalagringsförslag  -
 [http://www.gp.se/nyheter/sverige/kritik-mot-nytt-datalagringsf%C3%B6rslag-1.4720580](http://www.gp.se/nyheter/sverige/kritik-mot-nytt-datalagringsf%C3%B6rslag-1.4720580)
 
 

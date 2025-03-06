@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.86 \u2013 Ostrukturerat V.7"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2017-02-09_mixdown.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_2017-02-09_mixdown.mp3)
 
 ## Innehåll
 
@@ -61,9 +61,9 @@ Inspelat: 2017-02-09. Längd: 00:58:35.
 
 [https://blogs.akamai.com/2017/01/improving-credential-abuse-threat-mitigation.html](https://blogs.akamai.com/2017/01/improving-credential-abuse-threat-mitigation.html)
 
-## Netgear Routers  [https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2017-5521--Bypassing-Authentication-on-NETGEAR-Routers/](https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2017-5521--Bypassing-Authentication-on-NETGEAR-Routers/)
+## Netgear Routers  [https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2017-5521--Bypassing-Authentication-on-NETGEAR-Routers/](https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2017-5521--Bypassing-Authentication-on-NETGEAR-Routers/)
 
-## XSS i  Steam
+## XSS i  Steam
 
 
 [https://twitter.com/cra0kalo/status/828947326425133057](https://twitter.com/cra0kalo/status/828947326425133057)

@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.17 - Ostrukturerat V.49"
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/ostrukt2dec.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/ostrukt2dec.mp3)
 
 ## Innehåll
 
@@ -50,13 +50,13 @@ Video
 
 Twitter-personligheter
 
-* [@0xabadidea](https://twitter.com/0xabad1dea)  Melissa Elliott
+* [@0xabadidea](https://twitter.com/0xabad1dea)  Melissa Elliott
 
-* [@thegrugq](https://twitter.com/thegrugq)  The Grugq
+* [@thegrugq](https://twitter.com/thegrugq)  The Grugq
 
-* [@i0n1c](https://twitter.com/i0n1c)  Stefan Esser
+* [@i0n1c](https://twitter.com/i0n1c)  Stefan Esser
 
-* [@0x6D6172696F](https://twitter.com/0x6D6172696F)  Mario Heiderich
+* [@0x6D6172696F](https://twitter.com/0x6D6172696F)  Mario Heiderich
 
 
 
@@ -72,7 +72,7 @@ Twitter-personligheter
 
 [Twitter](https://blog.twitter.com/2013/forward-secrecy-at-twitter-0)  beefar upp säkerheten
 
-[BadBios](http://arstechnica.com/security/2013/10/meet-badbios-the-mysterious-mac-and-pc-malware-that-jumps-airgaps/)  [ErrataSec](http://blog.erratasec.com/2013/10/badbios-features-explained.html)
+[BadBios](http://arstechnica.com/security/2013/10/meet-badbios-the-mysterious-mac-and-pc-malware-that-jumps-airgaps/)  [ErrataSec](http://blog.erratasec.com/2013/10/badbios-features-explained.html)
 
 [M2M Risk Assessment Guide](http://www.youtube.com/watch?v=o8k2p8vTrKs)
 

@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.145 \u2013 Ostrukturerat V.9"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2019-02-21.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2019-02-21.mp3)
 
 ## Innehåll
 

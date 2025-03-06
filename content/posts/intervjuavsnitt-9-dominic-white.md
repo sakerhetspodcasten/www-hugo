@@ -8,7 +8,7 @@ title: 'Intervjuavsnitt #9 - Dominic White'
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/DomWhiteHITBCleanUp2_mixdown.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/DomWhiteHITBCleanUp2_mixdown.mp3)
 
 ## Innehåll
 
@@ -27,7 +27,7 @@ BIRP - [https://github.com/sensepost/birp](https://github.com/sensepost/birp)
 Dominics GitHub - [https://github.com/singe](https://github.com/singe)
 Hercules - [http://www.hercules-390.eu/ ](http://www.hercules-390.eu/) DeZhi cloud mainframe - [http://www.efglobe.com/ ](http://www.efglobe.com/) SensePost Blog - [http://www.sensepost.com/blog/](http://www.sensepost.com/blog/)
 Hack In The Box - [http://www.hitb.org/](http://www.hitb.org/)
-TN3270 -  [http://en.wikipedia.org/wiki/IBM_3270 ](http://en.wikipedia.org/wiki/IBM_3270)
+TN3270 -  [http://en.wikipedia.org/wiki/IBM_3270 ](http://en.wikipedia.org/wiki/IBM_3270)
 
 
 

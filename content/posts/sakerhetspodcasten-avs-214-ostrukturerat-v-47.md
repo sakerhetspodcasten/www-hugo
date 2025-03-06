@@ -13,7 +13,7 @@ title: "S\xE4kerhetspodcasten avs.214 \u2013 Ostrukturerat V.47"
 
 
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-11-17_Ostrukturerat.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-11-17_Ostrukturerat.mp3)
 
 
 

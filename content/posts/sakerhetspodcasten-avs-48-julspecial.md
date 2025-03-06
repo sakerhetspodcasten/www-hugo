@@ -15,12 +15,12 @@ title: "S\xE4kerhetspodcasten avs.48 - Julspecial"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Jul_Special_2015_mixdown.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Jul_Special_2015_mixdown.mp3)
 
 ## Innehåll
 
 Säkerhetspodcasten firar Jul! Panelen går igenom sina nyårslöften och diskuterar
-den senaste tidens säkerhetsnyheter. Bland annat har podden
+den senaste tidens säkerhetsnyheter. Bland annat har podden
 varit på OWASP Gothenburg Day 2015 och fick med sig intervjuer med
 **Michele Orrù** `@antisnatchor`, **Sean Duggan** `@Duggan4Sean` och
 **Marie Moe** `@MarieGMoe` som också finns med i slutet av denna julspecial.

@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.211 \u2013 Asymptotiska Risker"
 ---
 ## Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-09-22_Asymptotiska_Risker.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-09-22_Asymptotiska_Risker.mp3)
 
 ## Innehåll
 

@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs. 2 - Licensskydd och Piratkopiering"
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten-2-licensskydd/id576469997?i=123598103&l=en)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcast_2_-_Piratkopiering_och_licensskydd.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten-2-licensskydd/id576469997?i=123598103&l=en)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcast_2_-_Piratkopiering_och_licensskydd.mp3)
 
 ## Innehåll
 
@@ -20,5 +20,5 @@ Inspelad 2012-10-30. Längd 44:14.
 
 ## Länkar
 
-Hacking MMORPGs for Fun and Mostly Profit -  [http://www.youtube.com/watch?v=hABj_mrP-no](http://www.youtube.com/watch?v=hABj_mrP-no)
+Hacking MMORPGs for Fun and Mostly Profit -  [http://www.youtube.com/watch?v=hABj_mrP-no](http://www.youtube.com/watch?v=hABj_mrP-no)
 

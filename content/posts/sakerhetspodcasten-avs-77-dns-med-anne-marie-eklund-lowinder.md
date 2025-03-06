@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.77 - DNS med Anne-Marie Eklund L\xF6winder"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/DNS_och_DNSSEC_-_Anne-Marie_Eklund_Lowinder.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/DNS_och_DNSSEC_-_Anne-Marie_Eklund_Lowinder.mp3)
 
 ## Innehåll
 

@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.161 \u2013 Vad litar vi p\xE5?"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-08-14_Root_of_Trust_-_Vad_litar_vi_pa.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-08-14_Root_of_Trust_-_Vad_litar_vi_pa.mp3)
 
 ## Innehåll
 

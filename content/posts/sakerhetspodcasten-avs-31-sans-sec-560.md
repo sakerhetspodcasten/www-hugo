@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.31 - SANS SEC 560"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sans560mixdown_1.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sans560mixdown_1.mp3)
 
 ## Innehåll
 

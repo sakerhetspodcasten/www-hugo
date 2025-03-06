@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.151 \u2013 Lagar och regler"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-03-13_Sakerhetsskydd-och-lag.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-03-13_Sakerhetsskydd-och-lag.mp3)
 
 ## Innehåll
 

@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.18 - Skydda dig sj\xE4lv!"
 ---
 ## Lyssna
 
-[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/hemmasakerhet.mp3)
+[iTunes](https://itunes.apple.com/se/podcast/sakerhetspodcasten/id576469997?mt=2)  \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/hemmasakerhet.mp3)
 
 ## Innehåll
 

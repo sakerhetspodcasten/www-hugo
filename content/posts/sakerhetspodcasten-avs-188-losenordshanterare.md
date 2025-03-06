@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.188 \u2013 L\xF6senordshanterare"
 ---
 ## Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-09-09_Losenordshanterare.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-09-09_Losenordshanterare.mp3)
 
 ## Innehåll
 

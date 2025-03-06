@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.139 \u2013 Bakd\xF6rrar"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_Backdoors.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_Backdoors.mp3)
 
 ## Innehåll
 

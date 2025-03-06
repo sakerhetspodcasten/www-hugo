@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.96 - Ostrukturerat V.29"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2017-07-13_Ostrukturerat.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2017-07-13_Ostrukturerat.mp3)
 
 ## Innehåll
 

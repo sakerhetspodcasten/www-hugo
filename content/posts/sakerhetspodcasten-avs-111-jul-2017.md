@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.111 - Jul 2017"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_Jul_2017.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_Jul_2017.mp3)
 
 ## Innehåll
 

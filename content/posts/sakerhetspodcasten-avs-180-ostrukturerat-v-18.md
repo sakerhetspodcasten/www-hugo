@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.180 \u2013 Ostrukturerat V.18"
 ---
 Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-04-22_Sakerhetspodcasten_ostrukt.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-04-22_Sakerhetspodcasten_ostrukt.mp3)
 
 Innehåll
 

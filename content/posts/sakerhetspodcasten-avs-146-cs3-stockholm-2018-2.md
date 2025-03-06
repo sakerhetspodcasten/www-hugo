@@ -11,7 +11,7 @@ title: "S\xE4kerhetspodcasten avs.146 \u2013 CS3 Stockholm 2018  #2"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/CS3STHLM2018_-_Joe_Slowik_Kai_Thomsen_Patrick_Miller.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/CS3STHLM2018_-_Joe_Slowik_Kai_Thomsen_Patrick_Miller.mp3)
 
 ## Innehåll
 

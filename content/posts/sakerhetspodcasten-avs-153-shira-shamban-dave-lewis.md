@@ -10,7 +10,7 @@ title: "S\xE4kerhetspodcasten avs.153 \u2013 Shira Shamban & Dave Lewis"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-05-24_SecurityFest.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-05-24_SecurityFest.mp3)
 
 ## Innehåll
 

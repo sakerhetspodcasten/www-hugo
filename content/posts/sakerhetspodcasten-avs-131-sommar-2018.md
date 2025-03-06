@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.131 \u2013 Sommar 2018!"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sommaravsnitt_18.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sommaravsnitt_18.mp3)
 
 ## Innehåll
 

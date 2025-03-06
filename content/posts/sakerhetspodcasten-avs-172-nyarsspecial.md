@@ -6,7 +6,7 @@ tags: [Nyår]
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-12-11_Nyar_2019.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-12-11_Nyar_2019.mp3)
 
 ## Innehåll
 

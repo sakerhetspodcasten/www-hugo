@@ -10,12 +10,12 @@ title: "S\xE4kerhetspodcasten avs.51 - Ostrukturerat V.6"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v6_2016.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v6_2016.mp3)
 
 ## Innehåll
 
 Fredrik Björeman från bland annat Kodsnack gästar podden! Security Fest, säkerhetskonferensen
-i Juni i Göteborg. presenteras av Jesper & Johan.  Två olika webbläsarfiasko presenteras:
+i Juni i Göteborg. presenteras av Jesper & Johan.  Två olika webbläsarfiasko presenteras:
 opatchade WebKit kloner, samt Chromodo den helt trasiga versionen av Chrome.
 
 Övriga Nyheter: Java Deserialization är mycket värre än du tror enligt PayPal. Bedragare
@@ -34,7 +34,7 @@ Inspelat: 2016-02-11. Längd: 01:05:16.
 
 Projekt & plugs:
 
-* Security Fest 2016 [https://securityfest.com/](https://securityfest.com/)
+* Security Fest 2016 [https://securityfest.com/](https://securityfest.com/)
 
 * Peter om scan-build [http://clang-analyzer.llvm.org/scan-build.html](http://clang-analyzer.llvm.org/scan-build.html)
 

@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.97 - Peter om Podcasting"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Peter_om_podcasting.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Peter_om_podcasting.mp3)
 
 ## Innehåll
 

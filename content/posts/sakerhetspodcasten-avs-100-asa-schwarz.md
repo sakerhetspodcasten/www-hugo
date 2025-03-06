@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.100 - \xC5sa Schwarz"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/asa_schwarz.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/asa_schwarz.mp3)
 
 ## Innehåll
 

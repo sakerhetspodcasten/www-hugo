@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.205 \u2013 Ostrukturerat V.23"
 ---
 ## Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-06-02_Sakerhetspodcasten.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2021-06-02_Sakerhetspodcasten.mp3)
 
 ## Innehåll
 

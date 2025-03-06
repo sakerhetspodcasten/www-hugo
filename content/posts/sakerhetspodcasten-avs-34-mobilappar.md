@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.34 - Mobilappar"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten_v41_Mobilappar_mixdown.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakpodcasten_v41_Mobilappar_mixdown.mp3)
 
 ## Innehåll
 
@@ -20,7 +20,7 @@ Inspelat: 2014-10-09. Längd: 52:31.
 ## Länkar
 
 
-* IDA Pro: [https://www.hex-rays.com/products/ida/](https://www.hex-rays.com/products/ida/)
+* IDA Pro: [https://www.hex-rays.com/products/ida/](https://www.hex-rays.com/products/ida/)
 
 * [Hopper](http://www.hopperapp.com/) , billigare alternativ till IDA.
 

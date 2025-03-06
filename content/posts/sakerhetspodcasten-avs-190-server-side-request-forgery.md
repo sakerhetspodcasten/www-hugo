@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.190 \u2013 Server Side Request Forgery"
 ---
 Lyssna
 
-Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-10-07_Sakerhetspodcasten-SSRF.mp3)
+Spotify \| [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2020-10-07_Sakerhetspodcasten-SSRF.mp3)
 
 Innehåll
 

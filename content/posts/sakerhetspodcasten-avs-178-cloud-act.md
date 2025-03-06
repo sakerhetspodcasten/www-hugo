@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.178 \u2013 CLOUD Act"
 ---
 Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-03-11_CloudAct.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2020-03-11_CloudAct.mp3)
 
 Innehåll
 

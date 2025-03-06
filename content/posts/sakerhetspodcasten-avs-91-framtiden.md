@@ -7,11 +7,11 @@ title: "S\xE4kerhetspodcasten avs.91 \u2013 Framtiden"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Framtiden.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Framtiden.mp3)
 
 ## Innehåll
 
-Följ med panelen på en resa in i framtiden! Spekulationerna haglar och argumenten
+Följ med panelen på en resa in i framtiden! Spekulationerna haglar och argumenten
 är både mer och mindre genomtänkta när vi plockar fram spåkulan och funderar på framtiden
 för säkerhetsbranschen.
 

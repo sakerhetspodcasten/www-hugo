@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.75 - Ostrukturerat V.44"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v44_2016.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v44_2016.mp3)
 
 ## Innehåll
 

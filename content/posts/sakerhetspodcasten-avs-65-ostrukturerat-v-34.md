@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.65 \u2013 Ostrukturerat V.34"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v34-2016.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Ostrukturerat_v34-2016.mp3)
 
 ## Innehåll
 

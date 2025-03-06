@@ -9,7 +9,7 @@ title: "S\xE4kerhetspodcasten avs.159 \u2013 Om Shodan Monitor med Jonas Lejon"
 ---
 ## Lyssna
 
-Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-05-21_Jonas_Lejon.mp3)
+Spotify \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/2019-05-21_Jonas_Lejon.mp3)
 
 ## Innehåll
 

@@ -24,29 +24,29 @@ Inspelat: 2013-10-12. Längd: 56:24.
 
 * Dan, G+: [https://plus.google.com/+DanBerghJohnsson/posts](https://plus.google.com/+DanBerghJohnsson/posts)
 
-* Dan, Twitter: [https://twitter.com/danbjson](https://twitter.com/danbjson)
+* Dan, Twitter: [https://twitter.com/danbjson](https://twitter.com/danbjson)
 
-* Agile Manifesto [http://agilemanifesto.org/](http://agilemanifesto.org/)
+* Agile Manifesto [http://agilemanifesto.org/](http://agilemanifesto.org/)
 
-* Domain Driven Design Community [http://dddcommunity.org/](http://dddcommunity.org/)
+* Domain Driven Design Community [http://dddcommunity.org/](http://dddcommunity.org/)
 
-* Domain Driven Security video interview med Dan: [https://www.youtube.com/watch?v=Vx69xh7aE-M](https://www.youtube.com/watch?v=Vx69xh7aE-M)
+* Domain Driven Security video interview med Dan: [https://www.youtube.com/watch?v=Vx69xh7aE-M](https://www.youtube.com/watch?v=Vx69xh7aE-M)
 
-* Business Logic Testing [https://www.owasp.org/index.php/Testing_for_business_logic_(OWASP-BL-001)](https://www.owasp.org/index.php/Testing_for_business_logic_(OWASP-BL-001))  [https://www.owasp.org/index.php/Business_Logic_Security_Cheat_Sheet](https://www.owasp.org/index.php/Business_Logic_Security_Cheat_Sheet)
+* Business Logic Testing [https://www.owasp.org/index.php/Testing_for_business_logic_(OWASP-BL-001)](https://www.owasp.org/index.php/Testing_for_business_logic_(OWASP-BL-001))  [https://www.owasp.org/index.php/Business_Logic_Security_Cheat_Sheet](https://www.owasp.org/index.php/Business_Logic_Security_Cheat_Sheet)
 
-* Design by Contract [http://en.wikipedia.org/wiki/Design_by_contract](http://en.wikipedia.org/wiki/Design_by_contract)
+* Design by Contract [http://en.wikipedia.org/wiki/Design_by_contract](http://en.wikipedia.org/wiki/Design_by_contract)
 
-* Input Validation [https://www.owasp.org/index.php/Input_Validation_Cheat_Sheet](https://www.owasp.org/index.php/Input_Validation_Cheat_Sheet)
+* Input Validation [https://www.owasp.org/index.php/Input_Validation_Cheat_Sheet](https://www.owasp.org/index.php/Input_Validation_Cheat_Sheet)
 
-* Secure Coding Guidelines for the Java Programming Language, Version 4.0 [http://www.oracle.com/technetwork/java/seccodeguide-139067.html](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
+* Secure Coding Guidelines for the Java Programming Language, Version 4.0 [http://www.oracle.com/technetwork/java/seccodeguide-139067.html](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 
-* The CERT Oracle Secure Coding Standard for Java [https://www.securecoding.cert.org/confluence/display/java/The+CERT+Oracle+Secure+Coding+Standard+for+Java](https://www.securecoding.cert.org/confluence/display/java/The+CERT+Oracle+Secure+Coding+Standard+for+Java)
+* The CERT Oracle Secure Coding Standard for Java [https://www.securecoding.cert.org/confluence/display/java/The+CERT+Oracle+Secure+Coding+Standard+for+Java](https://www.securecoding.cert.org/confluence/display/java/The+CERT+Oracle+Secure+Coding+Standard+for+Java)
 
-* Round Off Error [http://en.wikipedia.org/wiki/Round-off_error](http://en.wikipedia.org/wiki/Round-off_error)
+* Round Off Error [http://en.wikipedia.org/wiki/Round-off_error](http://en.wikipedia.org/wiki/Round-off_error)
 
-* Machine Epsilon [http://en.wikipedia.org/wiki/Machine_epsilon](http://en.wikipedia.org/wiki/Machine_epsilon)
+* Machine Epsilon [http://en.wikipedia.org/wiki/Machine_epsilon](http://en.wikipedia.org/wiki/Machine_epsilon)
 
-* OWASP Top 10 [https://www.owasp.org/index.php/Top_10_2013-Top_10](https://www.owasp.org/index.php/Top_10_2013-Top_10)
+* OWASP Top 10 [https://www.owasp.org/index.php/Top_10_2013-Top_10](https://www.owasp.org/index.php/Top_10_2013-Top_10)
 
 
 

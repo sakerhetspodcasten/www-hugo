@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.133 \u2013 Vi reder ut begreppen"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Pentest_rant__mm.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Pentest_rant__mm.mp3)
 
 ## Innehåll
 

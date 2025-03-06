@@ -8,7 +8,7 @@ title: "S\xE4kerhetspodcasten avs.129 \u2013 Ostrukturerat V.25"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_ostrukt_18_06_18.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_ostrukt_18_06_18.mp3)
 
 ## Innehåll
 

@@ -22,15 +22,15 @@ Inspelat 2013-01-15. Längd 0:55:22.
 
 [Snoopy](http://www.sensepost.com/blog/7557.html)
 
-[wigle.net](http://wigle.net/)  - top 1000 SSID
+[wigle.net](http://wigle.net/)  - top 1000 SSID
 
-[random.org](http://www.random.org)  - true randomness
+[random.org](http://www.random.org)  - true randomness
 
 [xkcd](http://xkcd.com/936/)
 
 Reaver [Google Code](https://code.google.com/p/reaver-wps/)
 
-[Hacking WPS for fun and profit](http://vimeo.com/35980306)  - Craig Heffner - Shmoocon 2012 - Firetalk
+[Hacking WPS for fun and profit](http://vimeo.com/35980306)  - Craig Heffner - Shmoocon 2012 - Firetalk
 
 Robin Wood - [Jasager](http://www.digininja.org/jasager/)
 

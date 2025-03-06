@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.92 \u2013 Live p\xE5 Vetenskapsfestivalen"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_Live_At_Vetenskapsfestivalen_ML.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_Live_At_Vetenskapsfestivalen_ML.mp3)
 
 ## Innehåll
 

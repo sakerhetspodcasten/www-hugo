@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.27 - Hackergrupper"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SkerhetspodcastenHackerGroups20140507-MIX1.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SkerhetspodcastenHackerGroups20140507-MIX1.mp3)
 
 ## Innehåll
 

@@ -8,12 +8,12 @@ title: "S\xE4kerhetspodcasten avs.26 - Ostrukturerat V.20"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SakerhetspodcastenOstrukturerad20140507-mix2-3.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/SakerhetspodcastenOstrukturerad20140507-mix2-3.mp3)
 
 ## Innehåll
 
-Detta är det tjugosjätte avsnittet av Säkerhetspodcasten, i vilket panelen diskuterar
-Heartbleed, den senaste IE buggen, hur man stänger ned flygtrafiken med en integer
+Detta är det tjugosjätte avsnittet av Säkerhetspodcasten, i vilket panelen diskuterar
+Heartbleed, den senaste IE buggen, hur man stänger ned flygtrafiken med en integer
 overflow och mycket mer.
 
 Inspelat: 2014-05-07. Längd: 49:33.
@@ -31,7 +31,7 @@ Inspelat: 2014-05-07. Längd: 49:33.
 
 * [Revocation Still Doesn\'t Work](https://www.imperialviolet.org/2014/04/29/revocationagain.html)
 
-* [FireEye om IE9-11 exploit](http://www.fireeye.com/blog/uncategorized/2014/04/new-zero-day-exploit-targeting-internet-explorer-versions-9-through-11-identified-in-targeted-attacks.html)  (uppdaterades senare med info om [Windows XP variant](http://www.fireeye.com/blog/technical/targeted-attack/2014/05/operation-clandestine-fox-now-attacking-windows-xp-using-recently-discovered-ie-vulnerability.html) )
+* [FireEye om IE9-11 exploit](http://www.fireeye.com/blog/uncategorized/2014/04/new-zero-day-exploit-targeting-internet-explorer-versions-9-through-11-identified-in-targeted-attacks.html)  (uppdaterades senare med info om [Windows XP variant](http://www.fireeye.com/blog/technical/targeted-attack/2014/05/operation-clandestine-fox-now-attacking-windows-xp-using-recently-discovered-ie-vulnerability.html) )
 
 * [Krisinformation om IE exploitet](http://www.krisinformation.se/web/Pages/NewsPage____75419.aspx)
 

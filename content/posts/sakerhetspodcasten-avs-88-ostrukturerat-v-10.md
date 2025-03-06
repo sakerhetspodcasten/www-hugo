@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.88 - Ostrukturerat V.10"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2017-03-09_Ostrukturerat.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/Sakerhetspodcasten_2017-03-09_Ostrukturerat.mp3)
 
 ## Innehåll
 
@@ -57,7 +57,7 @@ Inspelat: 2017-03-09. Längd: 00:50:15.
 
 * Zero days: fulländat proffs exploit tar 22 dagar att utveckla efter sårbarhet hittad. 6.9 år lever en zero dat. I en zeroday stockpile bränns 6% exploits per år [http://www.rand.org/pubs/research_reports/RR1751.html](http://www.rand.org/pubs/research_reports/RR1751.html)
 
-* JTAG debug via USB3 ?!?  [http://conference.hitb.org/hitbsecconf2017ams/sessions/commsec-intel-dci-secrets/](http://conference.hitb.org/hitbsecconf2017ams/sessions/commsec-intel-dci-secrets/)   [http://blog.asset-intertech.com/test_data_out/2016/04/new-closed-chassis-controller-gives-sourcepoint-quick-access-for-software-debug-on-intel-platforms-w.html](http://blog.asset-intertech.com/test_data_out/2016/04/new-closed-chassis-controller-gives-sourcepoint-quick-access-for-software-debug-on-intel-platforms-w.html)
+* JTAG debug via USB3 ?!?  [http://conference.hitb.org/hitbsecconf2017ams/sessions/commsec-intel-dci-secrets/](http://conference.hitb.org/hitbsecconf2017ams/sessions/commsec-intel-dci-secrets/)   [http://blog.asset-intertech.com/test_data_out/2016/04/new-closed-chassis-controller-gives-sourcepoint-quick-access-for-software-debug-on-intel-platforms-w.html](http://blog.asset-intertech.com/test_data_out/2016/04/new-closed-chassis-controller-gives-sourcepoint-quick-access-for-software-debug-on-intel-platforms-w.html)
 
 
 

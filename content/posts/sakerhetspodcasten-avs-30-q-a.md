@@ -7,7 +7,7 @@ title: "S\xE4kerhetspodcasten avs.30 - Q & A"
 ---
 ## Lyssna
 
-iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_v24_2014_-_QnA_mixdown.mp3)
+iTunes \| [mp3](http://traffic.libsyn.com/sakerhetspodcasten/sakpodcasten_v24_2014_-_QnA_mixdown.mp3)
 
 ## Innehåll
 
@@ -23,17 +23,17 @@ Inspelat: 2014-06-12. Längd: 1:18:28.
 ## Länkar
 
 
-* MP3 Bitrates [http://computer.howstuffworks.com/mp32.htm](http://computer.howstuffworks.com/mp32.htm)  [http://blog.signalleaf.com/blog/2013/12/18/mp3-bit-rates/](http://blog.signalleaf.com/blog/2013/12/18/mp3-bit-rates/)
+* MP3 Bitrates [http://computer.howstuffworks.com/mp32.htm](http://computer.howstuffworks.com/mp32.htm)  [http://blog.signalleaf.com/blog/2013/12/18/mp3-bit-rates/](http://blog.signalleaf.com/blog/2013/12/18/mp3-bit-rates/)
 
-* Diginotar [http://www.scmagazineuk.com/diginotar-hack-details-revealed-by-dutch-government/article/266739/](http://www.scmagazineuk.com/diginotar-hack-details-revealed-by-dutch-government/article/266739/)
+* Diginotar [http://www.scmagazineuk.com/diginotar-hack-details-revealed-by-dutch-government/article/266739/](http://www.scmagazineuk.com/diginotar-hack-details-revealed-by-dutch-government/article/266739/)
 
-* Diginotar Foxit slutgiltliga Black Tulip rapport, 100 sidor: [http://www.rijksoverheid.nl/documenten-en-publicaties/rapporten/2012/08/13/black-tulip-update.html](http://www.rijksoverheid.nl/documenten-en-publicaties/rapporten/2012/08/13/black-tulip-update.html)  [http://www.rijksoverheid.nl/bestanden/documenten-en-publicaties/rapporten/2012/08/13/black-tulip-update/black-tulip-update.pdf](http://www.rijksoverheid.nl/bestanden/documenten-en-publicaties/rapporten/2012/08/13/black-tulip-update/black-tulip-update.pdf)
+* Diginotar Foxit slutgiltliga Black Tulip rapport, 100 sidor: [http://www.rijksoverheid.nl/documenten-en-publicaties/rapporten/2012/08/13/black-tulip-update.html](http://www.rijksoverheid.nl/documenten-en-publicaties/rapporten/2012/08/13/black-tulip-update.html)  [http://www.rijksoverheid.nl/bestanden/documenten-en-publicaties/rapporten/2012/08/13/black-tulip-update/black-tulip-update.pdf](http://www.rijksoverheid.nl/bestanden/documenten-en-publicaties/rapporten/2012/08/13/black-tulip-update/black-tulip-update.pdf)
 
 * [Encase Enterprise](https://www.guidancesoftware.com/products/Pages/encase-enterprise/overview.aspx)
 
 * [Access data e-discovery](http://accessdata.com/resources/e-discovery)
 
-* OCSP världens svåraste förkortning? [http://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol](http://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol)
+* OCSP världens svåraste förkortning? [http://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol](http://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol)
 
 * [ChangeCipherSpec sårbarheten](https://www.imperialviolet.org/2014/06/05/earlyccs.html)
 
@@ -53,9 +53,9 @@ Inspelat: 2014-06-12. Längd: 1:18:28.
 
 * Bug Bounty program [https://bugcrowd.com/list-of-bug-bounty-programs](https://bugcrowd.com/list-of-bug-bounty-programs)
 
-* [Katie Moussouris](https://twitter.com/k8em0)  tidigiare Microsoft Security numera [Hackerone](https://hackerone.com/)
+* [Katie Moussouris](https://twitter.com/k8em0)  tidigiare Microsoft Security numera [Hackerone](https://hackerone.com/)
 
-* Katies ISO-standarder: vulnerability disclosure (29147), secure development (27034),
+* Katies ISO-standarder: vulnerability disclosure (29147), secure development (27034),
 penetration testing (20004-2) and Vulnerability Handling Processes (30111)
 
 *
