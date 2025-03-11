@@ -116,6 +116,19 @@ Tankar om vad som hänt nu:
   Räcker inte med EO 14086 och TADPF men EU tyckte det.
   Nu rasar strukturen.
 
+### Tips om EU alternativ
+
+_Jonas H_ skrev in `25 feb. 2025` (direkt efter avsnittet släpptes!)
+med detta tips i respons:
+
+> Hallå! Fick nyligen syn på den här sidan som ni kanske är
+> intresserade av, efter diskussionen kring GDPR, safe harbor, etc
+> i senaste avsnittet
+> [european-alternatives.eu/alternatives-to](https://european-alternatives.eu/alternatives-to)
+>
+> Kommer själv ha den som referens för framtiden, om man får
+> möjlighet att påverka val av den här typen av tjänster.
+
 ## DOGE
 
 `00:20:00`
