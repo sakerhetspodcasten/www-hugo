@@ -2,6 +2,7 @@
 date: '2024-11-04T09:43:00'
 tags:
 - ostrukturerat
+- CI/CD
 title: "S\xE4kerhetspodcasten #269 - Ostrukturerat V.45"
 ---
 ## Lyssna

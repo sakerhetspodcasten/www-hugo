@@ -2,6 +2,7 @@
 date: '2024-12-02T10:56:00'
 tags:
 - tema
+- CI/CD
 title: "S\xE4kerhetspodcasten #272 - Betydelsefulla s\xE5rbarheter"
 ---
 ## Lyssna

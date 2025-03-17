@@ -3,6 +3,7 @@ date: '2025-02-17T06:44:00'
 tags:
 - "Ny\xE5r"
 - tema
+- CI/CD
 title: "S\xE4kerhetspodcasten #276 - Ny\xE5r 2024"
 ---
 ## Lyssna

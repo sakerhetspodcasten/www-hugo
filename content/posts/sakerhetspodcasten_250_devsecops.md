@@ -4,6 +4,7 @@ tags:
 - tema
 - SBOM
 - Software Bill Of Materials
+- CI/CD
 title: "S\xE4kerhetspodcasten #250 - DevSecOps"
 ---
 ## Lyssna

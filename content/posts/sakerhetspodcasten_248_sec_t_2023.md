@@ -2,6 +2,7 @@
 date: '2023-10-16T09:28:00'
 tags:
 - SEC-T
+- CI/CD
 title: "S\xE4kerhetspodcasten #248 - Sec-T 2023"
 ---
 ## Lyssna

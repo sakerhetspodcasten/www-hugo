@@ -2,6 +2,7 @@
 date: '2024-05-13T14:07:00'
 tags:
 - tema
+- CI/CD
 title: "S\xE4kerhetspodcasten #261 - CI/CD Security"
 ---
 ## Lyssna

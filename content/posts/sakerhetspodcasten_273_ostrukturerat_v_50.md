@@ -2,6 +2,7 @@
 date: '2024-12-09T19:16:00'
 tags:
 - ostrukturerat
+- CI/CD
 title: "S\xE4kerhetspodcasten #273 - Ostrukturerat V.50"
 ---
 ## Lyssna

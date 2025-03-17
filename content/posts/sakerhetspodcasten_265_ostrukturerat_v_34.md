@@ -2,6 +2,7 @@
 date: '2024-08-19T08:54:00'
 tags:
 - ostrukturerat
+- CI/CD
 title: "S\xE4kerhetspodcasten #265 - Ostrukturerat V.34"
 ---
 ## Lyssna
