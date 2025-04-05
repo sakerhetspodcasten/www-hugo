@@ -119,6 +119,10 @@ Länk:
 
 * [Göteborgs-Posten: Datorer stulna – personuppgifter kan ha röjts - Göteborgs stad utesluter inte att känsliga personuppgifter kan ha kommit på villovägar i samband med ett inbrott i helgen.](https://www.gp.se/nyheter/goteborg/datorer-stulna-pa-overformyndarnamnden-kansliga-personuppgifter-kan-ha-rojts.1bc122f6-b4a4-4e3d-b412-6a866c48be99)
 
+**Notering**
+Se _Återkoppling om förmyndarskap, God man och förvaltare_
+angående feedback vi fått om ordval m.m. runt God man.
+
 ## Policy wars: Kriget mot crypto
 
 `00:31:59`
@@ -274,6 +278,106 @@ Länkar:
 * [23andMe, Inc.: 23andMe Initiates Voluntary Chapter 11 Process to Maximize Stakeholder Value Through Court-Supervised Sale Process](https://investors.23andme.com/news-releases/news-release-details/23andme-initiates-voluntary-chapter-11-process-maximize)
 * [YouTube: Gavin Webber](https://www.youtube.com/@GavinWebber)
   _Johans ost-referens, kanske?_
+
+## Återkoppling om förmyndarskap, God man och förvaltare
+
+_Uppdatering pga feedback från David S, 3:e april;_
+
+När vi pratade om Överförmyndarnämnden kunde vi uttryckt oss
+bättre / mer korrekt / mer utförligt.
+
+Ordval gick att tolka på sätt som inte var vår avsikt;
+
+**David S:**
+
+> Jag lyssnade på ert segment gällande dom stulna datorerna hos
+> överförmyndarnämnden i Göteborg stad.
+>
+> Jag känner dock att jag vill komma med några klargöranden, då
+> jag själv har ett hobbyintresse av IT-säkerhet samt att jag själv
+> står under förvaltare. Vilket är en av två typer av förmyndarskap
+> som en överförmyndare kan delge.
+>
+> Som jag nämnde så finns det två typer av förmyndarskap.
+>
+> God man och förvaltare.
+>
+> Oavsett om man har förvaltare eller god man så betraktas man som
+> myndig.
+>
+> Skillnaden mellan god man och förvaltare är att en god man är som
+> en rådgivare.
+> Det vill säga att om man vill göra inköp, teckna abonnemang
+> eller ta andra ekonomiska beslut så kan en god man inte neka till
+> det, oavsett vad slutresultatet av det hela blir.
+> En god man kan bara ge råd att det här är ett bra beslut/det
+> här är inte ett bra beslut.
+>
+> Har man förvaltare så har man ingen juridisk rätt att ingå
+> avtal alls. Det finns dock ett undantag och det är att man får
+> ingå avtal om anställning.
+>
+> I övrigt så har man rösträtt, man har rätt att gifta sig så
+> man är myndig enligt lag, fast med vissa begränsningar.
+>
+> Jag vill avsluta mitt mail med att jag inte vill hacka på enskild
+> poddare.
+>
+> Anledningen till att jag tar kontakt med er är för att jag vill
+> upplysa er om hur det faktiskt fungerar då jag själv varit i
+> situationer där samhället inte har haft nödvändig kunskap om
+> vad det innebär att ha en ställföreträdare, och på grund av
+> det så vill jag sprida upplysning om vad det faktiskt innebär.
+>
+> För övrigt gör ni ett superbra jobb med podden.
+
+**Säkerhetspodcasten (Peter)** svarar,
+
+> Tack! Podden är normalt sätt mer eller mindre helt oklippt så
+> det som sägs är precis vad som sägs, det är mest rent
+> ljudkvalité vi ordnar i mixen, själva innehållet är väldigt
+> rått exakt vad vi sa.
+>
+> Jag tror både jag och Rickard försökte säga att det är någon
+> som hjälper en att utöva sin myndiga roll, om man av olika skäl
+> har svårt att utöva den själv.
+>
+> Var det specifikt att vi inte tog upp `<god man>` vs
+> `<förvaltare>` som föranleder din fråga?
+> Eller var det något annat som kunde sagts bättre av oss, som
+> inte uttrycktes så bra?
+
+**David S** förtydligar:
+
+> Tack för ert svar.
+>
+> Det jag reagerade på var att jag tyckte det var otydligt vad man
+> menade med "myndiga roll". Alltså att trots att man har någon som
+> hjälper till med ekonomiska aspekter så är man trots allt myndig
+> och grundläggande rättigheter. 🙂
+>
+> Jag har som sagt full förståelse för att ni kanske inte har full
+> koll på vad det innebär att ha en ställföreträdare och jag vill
+> bara informera och upplysa. 😊
+>
+> Podden är alltid välkommen att höra av er om det är något mer
+> ni undrar över gällande förmyndare. 🙂
+>
+> För övrigt så håller jag med om att det verkar bra konstigt att
+> man inte rapporterade denna incident till IMY/berörd ombudsman.
+>
+> En annan sak som kanske är intressant att veta är att dom
+> personer som har uppdragen som förmyndare inte omfattas av
+> sekretess och tystnadsplikt.
+> Detta då dessa personer arbetar på frivillig basis, till
+> skillnad från överförmyndarnämnden som dessa rapporterar till.
+>
+> Åter igen så är jag inte ute efter att gå till angrepp mot
+> någon, utan jag vill bara ge en mera nyanserad bild av vad det
+> innebär.
+>
+> Ni är fria att publicera min information som ni själva anser
+> vara lämpligt, jag behöver inte vara anonym. 🙂
 
 ## Galen AI transkribering
 
