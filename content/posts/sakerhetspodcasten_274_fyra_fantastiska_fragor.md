@@ -5,6 +5,7 @@ tags:
 - fido
 - SBOM
 - Software Bill Of Materials
+- privacy
 title: "S\xE4kerhetspodcasten #274 - Fyra fantastiska fr\xE5gor"
 ---
 ## Lyssna

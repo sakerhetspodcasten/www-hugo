@@ -2,6 +2,7 @@
 date: '2025-03-31T08:00:00'
 tags:
 - ostrukturerat
+- privacy
 title: "S\xE4kerhetspodcasten #279 - Ostrukturerat V.14"
 ---
 

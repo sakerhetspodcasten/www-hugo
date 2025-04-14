@@ -4,6 +4,7 @@ tags:
 - ostrukturerat
 - CVSS
 - Common Vulnerability Scoring System
+- privacy
 title: "S\xE4kerhetspodcasten #249 - Ostrukturerat V.43"
 ---
 ## Lyssna

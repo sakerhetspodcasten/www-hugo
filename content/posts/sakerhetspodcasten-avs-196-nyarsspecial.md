@@ -1,8 +1,10 @@
 ---
 date: '2021-02-01T08:51:46'
 lastmod: '2021-02-01T08:51:46'
+tags:
+- "Ny\xE5r"
+- privacy
 title: "S\xE4kerhetspodcasten avs.196 \u2013 Ny\xE5rsspecial"
-tags: [Nyår]
 ---
 ## Lyssna
 

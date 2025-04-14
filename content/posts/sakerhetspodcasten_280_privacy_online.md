@@ -2,6 +2,7 @@
 date: '2025-04-14T09:05:00'
 tags:
 - tema
+- privacy
 title: "S\xE4kerhetspodcasten #280 - Privacy online"
 ---
 Privacy online - hot och möjligheter.
@@ -46,7 +47,7 @@ Vem borde intressera sig, vem riktar vi oss till?
   * Kontant "Cash is king"
   * Digitala valutor
     * Riskerna med public ledger / blockchain (bitcoin, etherium)
-    * Digitala valutor som försöker vara mer privacy-preserving än 
+    * Digitala valutor som försöker vara mer privacy-preserving än
       klassisk public ledger, ex. Monero, ZCash...
 * Sociala medier
 * Speciella hot runt whistleblowing

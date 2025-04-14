@@ -6,6 +6,7 @@ tags:
 - f1nux
 - Arron Finnon
 - SEC-T
+- privacy
 title: "S\xE4kerhetspodcasten avs.104 \u2013 Arron \"f1nux\" Finnon"
 ---
 ## Lyssna

@@ -3,6 +3,7 @@ date: '2023-02-06T10:07:00'
 tags:
 - "Ny\xE5r"
 - CI/CD
+- privacy
 title: "S\xE4kerhetspodcasten #234 - Ny\xE5r 2022"
 ---
 ## Lyssna
