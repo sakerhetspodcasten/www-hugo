@@ -127,6 +127,19 @@ Meddelandetjänster:
 * [WhatsApp.com: WhatsApp | Secure and Reliable Free Private Messaging and Calling](https://www.whatsapp.com/)
 * [Signal >> Home](https://signal.org/)
 
+Browsers:
+
+* [Mullvad Browser](https://mullvad.net/en/browser)
+  _Free the internet. With the Mullvad Browser. [...]
+  However, by using a trustworthy VPN in combination with a
+  privacy-focused browser, you can put up a better resistance
+  against the mass surveillance of today. That's why we partnered
+  with the Tor Project to develop Mullvad Browser – a browser
+  designed to minimize tracking and fingerprints._
+  * [YouTube/ Mental Outlaw: Mullvad and Tor Linked Up to Make a Web Browser](https://www.youtube.com/watch?v=nMcLMTmOGls) `video`
+* [Tor Project | Download](https://www.torproject.org/download/)
+* [PCMag UK: Lose the Trackers - The Best Private Browsers for 2025](https://uk.pcmag.com/browsers/134703/stop-trackers-dead-the-best-private-browsers-for-2021)
+
 Guider:
 
 * [YouTube/ Ekoparty Security Conference: OPSEC - Because Jail is for wuftpd - The Grugq - Ekoparty 2012](https://www.youtube.com/watch?v=S8GPTvq1m-w) `video`
