@@ -5,6 +5,7 @@ tags:
 - CVSS
 - Common Vulnerability Scoring System
 - privacy
+- Schrems
 title: "S\xE4kerhetspodcasten #277 - Ostrukturerat V.9"
 ---
 ## Lyssna
