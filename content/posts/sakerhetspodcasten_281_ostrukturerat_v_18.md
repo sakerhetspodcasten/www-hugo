@@ -5,7 +5,7 @@ tags:
 title: "S\xE4kerhetspodcasten #281 - Ostrukturerat V.18"
 ---
 
-CVE, CISA kaos, 4chan ghostscript hack, captcha self-exec, HPE RMI, Erlang OTP, ondregelfil, TLS 47 dagar, Curl säker C-kod.
+CVE, CISA kaos, 4chan ghostscript hack, captcha self-exec, HPE RMI, Erlang OTP, ond Cursor regelfil, TLS 47 dagar, Curl säker C-kod.
 
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2025-04-23_Sakerhetspodcasten_2.mp3?dest-id=117848), längd: 01:02:36
