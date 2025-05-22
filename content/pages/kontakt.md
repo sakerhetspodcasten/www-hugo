@@ -85,5 +85,5 @@ Säkerhetspodcasten
 c/o Assured
 
 Norra Allégatan 7
-SE-413 01 Göteborg
+SE-413 30 Göteborg
 ```
