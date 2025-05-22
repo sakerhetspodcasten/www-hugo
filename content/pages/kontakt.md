@@ -41,7 +41,9 @@ Om du vill kontakta Podcasten seriöst så är det:
 **Stora fina tankar vill** vi helst ha till mejlen, t.ex:
 * Tema-förslag
 * Förbättringsförslag
-* Samarbeten, intervjuförslag m.m.
+* Samarbeten, intervjuförslag m.m.\
+  (_Vi svarar oftast nej,
+  och är inte alltid supersnabba i respons_)
 
 Podden drivs på helt icke-kommersiell basis.
 Innehåll väljs utifrån intresse och rekommendationer.
@@ -59,7 +61,7 @@ Att tänka på om man vill kontakta oss:
   tänk gärna att **ung student** som är intresserad av ämnet och
   språkbruk.
 * Vi vill helst göra intervjuer på plats i någon av våra studios i
-  **Göteborg**, vi gär väldigt lite fjärr-poddande.
+  **Göteborg**, vi gör väldigt lite fjärr-poddande.
 
 ### Dåliga samarbeten och intervjuer
 
