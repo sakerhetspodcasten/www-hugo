@@ -6,6 +6,7 @@ tags:
 - SBOM
 - Software Bill Of Materials
 - privacy
+- BankID
 title: "S\xE4kerhetspodcasten #274 - Fyra fantastiska fr\xE5gor"
 ---
 ## Lyssna

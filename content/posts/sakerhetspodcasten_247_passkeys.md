@@ -9,6 +9,7 @@ tags:
 - Yubico
 - guest
 - privacy
+- BankID
 title: "S\xE4kerhetspodcasten #247 - Passkeys"
 ---
 ## Lyssna

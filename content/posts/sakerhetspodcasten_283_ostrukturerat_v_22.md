@@ -3,6 +3,7 @@ date: '2025-05-26T11:54:00'
 tags:
 - ostrukturerat
 - actuator
+- BankID
 title: "S\xE4kerhetspodcasten #283 - Ostrukturerat V.22"
 ---
 TeleMessage/Signalgate, DOGE/Infostealer, Hangul, ASUS, Airborn,
