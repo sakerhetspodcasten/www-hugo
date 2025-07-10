@@ -2,6 +2,7 @@
 date: '2023-06-12T09:25:00'
 tags:
 - ostrukturerat
+- keepass
 title: "S\xE4kerhetspodcasten #242 - Ostrukturerat V.24"
 ---
 ## Lyssna
@@ -55,7 +56,8 @@ hos Toyota, hur angripare drar nytta av ChatGPTs hallucinationer och mycket mer.
 
 * [Infosecurity Magazine: New ChatGPT Attack Technique Spreads Malicious Packages](https://www.infosecurity-magazine.com/news/chatgpt-spreads-malicious-packages/)
 
-## KeyPass 2.X C# Managed String sårbarhet
+## KeePass 2.X C\# Managed String sårbarhet
+
 * [Naked Security: That KeePass “master password crack”, and what we can learn from it](https://nakedsecurity.sophos.com/2023/05/31/serious-security-that-keepass-master-password-crack-and-what-we-can-learn-from-it/)
 * [vdohney: KeePass 2.X Master Password Dumper](https://github.com/vdohney/keepass-password-dumper)
 * [CVE-2023-32784](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-32784)
