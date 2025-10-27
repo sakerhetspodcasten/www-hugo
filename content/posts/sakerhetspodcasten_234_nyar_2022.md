@@ -4,6 +4,7 @@ tags:
 - "Ny\xE5r"
 - CI/CD
 - privacy
+- Kubernetes
 title: "S\xE4kerhetspodcasten #234 - Ny\xE5r 2022"
 ---
 ## Lyssna

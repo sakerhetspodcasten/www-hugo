@@ -5,6 +5,7 @@ tags:
 - SBOM
 - Software Bill Of Materials
 - CI/CD
+- Kubernetes
 title: "S\xE4kerhetspodcasten #250 - DevSecOps"
 ---
 ## Lyssna

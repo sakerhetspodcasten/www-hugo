@@ -3,6 +3,7 @@ date: '2025-03-17T06:33:00'
 tags:
 - CI/CD
 - tema
+- Kubernetes
 title: "S\xE4kerhetspodcasten #278 - Automatiseringens Akillesh\xE4l"
 ---
 

@@ -2,6 +2,7 @@
 date: '2025-06-16T10:55:00'
 tags:
 - tema
+- Kubernetes
 title: "S\xE4kerhetspodcasten #284 - Attack Paths"
 ---
 Attack Paths och verktyg för att jobba med dem!

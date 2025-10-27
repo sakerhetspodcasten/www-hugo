@@ -5,6 +5,7 @@ tags:
 - tema
 - CI/CD
 - privacy
+- Kubernetes
 title: "S\xE4kerhetspodcasten #276 - Ny\xE5r 2024"
 ---
 ## Lyssna

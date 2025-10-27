@@ -2,6 +2,7 @@
 date: '2023-12-11T09:43:00'
 tags:
 - ostrukturerat
+- Kubernetes
 title: "S\xE4kerhetspodcasten #253 - Ostrukturerat V.50"
 ---
 ## Lyssna

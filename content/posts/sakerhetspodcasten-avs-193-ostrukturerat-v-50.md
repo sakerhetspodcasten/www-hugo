@@ -4,6 +4,7 @@ lastmod: '2020-12-07T14:15:52'
 tags:
 - ostrukturerat
 - privacy
+- Kubernetes
 title: "S\xE4kerhetspodcasten avs.193 \u2013 Ostrukturerat V.50"
 ---
 ## Lyssna

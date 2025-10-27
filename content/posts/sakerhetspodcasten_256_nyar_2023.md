@@ -3,6 +3,7 @@ date: '2024-02-26T14:22:00'
 tags:
 - "Ny\xE5r"
 - privacy
+- Kubernetes
 title: "S\xE4kerhetspodcasten #256 - Ny\xE5r 2023"
 ---
 ## Lyssna

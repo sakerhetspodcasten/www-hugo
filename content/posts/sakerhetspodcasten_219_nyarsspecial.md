@@ -3,6 +3,7 @@ date: '2022-02-14T12:33:11'
 tags:
 - "Ny\xE5r"
 - privacy
+- Kubernetes
 title: "S\xE4kerhetspodcasten #219 - Ny\xE5rsspecial"
 ---
 ## Lyssna
