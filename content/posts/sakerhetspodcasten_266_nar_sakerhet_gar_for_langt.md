@@ -55,7 +55,7 @@ Lyssnaren **Mikael** hör av sig om krav:
   * [DNV: TISAX® - Informationssäkerhet inom fordonssektorn](https://www.dnv.com/se/services/tisax-r-informationssakerhet-inom-fordonssektorn-186269/)
 * [Telephone game](https://en.wikipedia.org/wiki/Telephone_game)
 
-## Galen AI Transkribrering!
+## Galen AI Transkribering!
 
 Vi lät en AI försöka förstå vad vi sa.
 

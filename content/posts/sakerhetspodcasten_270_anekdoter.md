@@ -67,7 +67,7 @@ Lyssnarbrev från Linus M, från i maj:
   släppa loss sin dator helt...
 * Tester mot test-miljö som stör produktions-miljö...
 
-## Galen AI transkribrering
+## Galen AI Transkribering
 
 Ta inte så seriöst på den, den är helt galen!
 

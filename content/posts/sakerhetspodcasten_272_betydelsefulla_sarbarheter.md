@@ -64,7 +64,7 @@ Panelen diskuterar bland annat:
   * [moby apparmor template.go](https://github.com/moby/moby/blob/master/profiles/apparmor/template.go) skyddade.
   * Men säkra defaults hjälper inte om du istället körde din egna hemmasnickrade mindre säkra profil.
 
-## Galen AI transkrivbering
+## Galen AI transkribering
 
 Google försöker förstå oss, och det går fantastiskt. Spårar direkt!
 

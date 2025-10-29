@@ -191,7 +191,7 @@ Länkar:
 * [VirusTotal: 8c6c3f9b3fd849...](https://www.virustotal.com/gui/file/8c6c3f9b3fd8497322cd9e798790aa3485a44f9c5418bb4aa97b630a3fb8cead/)
 * [VirusTotal: /671c26b7d17db...](https://www.virustotal.com/gui/file/671c26b7d17db3af70f7ad24e48cf9eabdbac68a9604fa1b803608cff8a5df79)
 
-## Galen AI Transkribrering
+## Galen AI Transkribering
 
 Google försöker igen :)
 
