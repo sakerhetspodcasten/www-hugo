@@ -3,7 +3,7 @@ date: '2025-10-27T13:32:00'
 tags:
 - tema
 - Kubernetes
-title: "S\xE4kerhetspodcasten #291 - Kubernetes Drivers"
+title: 'Säkerhetspodcasten #291 - Kubernetes Drivers'
 ---
 
 Kubernetes och CSI/CNI/...  driver-infrastrukturen,
