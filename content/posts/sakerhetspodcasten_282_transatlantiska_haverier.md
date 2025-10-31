@@ -242,318 +242,8732 @@ Navigering med GPS, GPS-SA, Europeiska Galileo, flyg med GPS-RNAV:
 * [GPS.gov: Selective Availability](https://www.gps.gov/systems/gps/modernization/sa/)
 * [Defence Industry and Space: Galileo | Satellite Navigation - European Commission - In 2016, the European Union launched its own GNSS called Galileo. Since then, the system has been providing improved positioning, navigation and timing information to over four billion users across the globe.](https://defence-industry-space.ec.europa.eu/eu-space/galileo-satellite-navigation_en)
 
-## Galen AI transkribering
 
-Vi ber AI försöka förstå vad vi sa!
+## AI transkribering
 
-### 1 00:00:00,100 --> 00:00:53,400
-med mig Har jag Jesper larsson.se så även av knowledyran som vi har.se och de fortfars konsulting som vi hitta på e Wow innan vi drar igång så har vi några plugs Eh vad är det för dag idag Jag skrevs 24:e filnamnen så Jag laddar upp men april så är det 20 kg 25 Nordens Varför säger man en så det känns konstigt
+_AI försöker förstå oss... Ha överseende med galna feltranskriberingar._
 
-### 2 00:00:56,800 --> 00:01:15,700
-ja så att strukturerat avsnitt eh och innan vi drar igång våra sorterade avsnitt så brukar vi ju vilja ta en plats och ska vi göra det då Och vi börjar med gay
+`1 00:00:00,000 --> 00:00:02,100`
+Hej och välkommen till Säkerhetspodcasten.
 
-### 3 00:01:16,600 --> 00:02:11,100
-17 maj Vi kommer vara jävligt snart när vi släppa Detta stämmer det kommer vara under för vecka med typ lbtqia plus eller någonting men typ om man om du tillhör regnbådens färger Så är du väldigt välkomna Vet du vad man kan lösa mer om dettabellen tack pung gbg.com va Ja kommer släppa detta en 12 maj Jag är i så fall är ju det bara på lördag när ni gör det här Så då så här samma dag sen Göteborgsvarvet i skolan eh sen därefter så Är väl nästa stora event Jesper Yey där kommer vi tillbaka Det är en liten Twist i år för vi kör inte som vi tidigare gjort i samband med Vad heter den Sveriges dag
 
-### 4 00:02:11,900 --> 00:03:11,800
-men det finns fler i teamet som har Karl uppenbarligen Men varför pluggar Vi Securit finns det egentligen kolla på Peter stream kolla på Peter stream även dyker upp det är ju fan ni kan ta er in en off and challenge man kan säga det också på ventilistan och det finns faktiskt en möjligt att köpa biljetter Det är nämligen så att vi har biljetter kvar till en utav våra tradings och det är inte så många men ifall
 
-### 5 00:03:11,800 --> 00:04:01,800
-köper dem nu för han är ju chans exakt så det går faktiskt att komma försöker hitta om man också då Eh slå till på en training precis och hur fan man behöver sätta upp sig på väntelistan så gör man det genom att mejla Hello ett securitz.com så det kan faktiskt vara värt att göra det där och i sista sekunden så brukar vi skaka fram grejer exakt men efter det då tänker jag mig att då måste det vara nära hummusson riktigt så långt bort utan tionde till 11 juni då är det sightse event Det är mycket möjligt Jajamensan Umeå Universitet eh och Peter ska åka dit Det går kanske inte riktigt med jag har sagt det eller jag vet inte jag tänkte bara att det är långt så jag tänkte att det skicka Peter
+`2 00:00:02,160 --> 00:00:03,580`
+Jag som pratar heter Johan Ryberg.
 
-### 6 00:04:03,800 --> 00:04:35,700
-risken eller Jajamen så är det faktiskt men sen är det med en Summit säsongen Nu börjar vi som sagt det lägger jag närma oss humor säsongen efter eh september Vad händer då är det ju säkert biljetterna Jag kommer vara där du kommer vara där Jag har inte köpt biljett Jag har inte heller men ja Det här brukar ju krocka med när jag måste gå ner i Berlin
 
-### 7 00:04:36,700 --> 00:05:14,000
-Vilket allt är den helgen i september men ifall inte sker så kommer jag försöka vara där in och handla på oss lite stickers så kom fram och säg hej vi kommer inte köra någon intervju kör i år vad jag vet Ja det blir så jäkla mycket Springare runt annars eh så jag känner nog att jag vill ni muta lite så vi ses i vimlet i alla fall jag och Peter kommer vara där greja lite
 
-### 8 00:05:22,300 --> 00:05:31,700
-någon har undgått ett noterat det är lite
+`3 00:00:03,720 --> 00:00:05,500`
+Med mig har jag Jesper Larsson.
 
-### 9 00:05:33,000 --> 00:05:36,400
-det är lite jobbigt just nu i den globala politiken
 
-### 10 00:05:44,900 --> 00:06:13,100
-massa pingviner med med det där stjärnor och snöflingor och på den här uppe vidare Eh jag kan ju gå på Kuba blick här bakom kulisserna så är det ju så att vi vi roterar
 
-### 11 00:06:14,300 --> 00:06:19,200
-vem som har ansvar för att gå hitta på i tema och den här gången så föll det ansvaret på mig
+`4 00:00:05,560 --> 00:00:06,720`
+Jaja, Petsan.
 
-### 12 00:06:20,700 --> 00:06:40,800
-det jag skrev i våran våran internachat här att det här temat ska vara Vad betyder säkerhet när de transatlantiska relationerna bryter samman flera uppslagsverk för att förstå den här reformuleringen Jag har fått en Vad sa du exakt Eh Men transform
 
-### 13 00:06:42,100 --> 00:07:24,300
-Ja exakt Peters typ utav Kom ihåg språk jag har ett mina första minnen med Peter det är när vi ska eh köra sist Jag vet inte ens vad det står för tråkigt så vi har någon genomgång där och det här är ju det här är ju många år sedan så jag och Peter Står bred varandra Vi har ju inte pratat så mycket med varandra men vi står och bredvid varandra och så är det någon som har långa utläggning om någonting inom sist vad vet jag och Peter typ stannade upp titta på mig om det är sådana här draken och så har han en utläggning om en drake i 15 minuter
 
-### 14 00:07:25,500 --> 00:07:56,800
-och sen gå Peter men jag är en annan brant grej där det var det var någon som så att det var möjligt Kom ihåg pinkoden för att komma in i byggnaden och ja han sa nej men det enkelt och bara komma ihåg det Det är det året som eh de slog som de kidnappar de israeliska eh Atleterna där vi gjorde och då säger då säger man killen upprörd men det är inte det året som en kod än jag
+`5 00:00:06,900 --> 00:00:07,700`
+Peter Magnusson.
 
-### 15 00:07:57,800 --> 00:08:51,300
-på riktigt på du vet terroristationen olympiska spelet och sen så tänkte bara lite extra efter det Fusion på det där var jättebra men den finns på någon sån streamingkanal just nu tror jag eh går in i sedan det var i alla fall atlantiska förbindelserna hur Jesper Vad tror du kan hända eller vad tror du kan ställa till med lite problem för oss ifall nu den orangea Mannen bestämmer sig för att dra den stora pluggen jag kommer säga Microsoft Google Ni får inte längre leverera molntjänster till Europa Ja det blir det ju problematiskt ganska snabbt
 
-### 16 00:08:52,100 --> 00:09:01,400
-och det Ja det är redan ganska problematiskt för att vara helt ärlig just det har jag SOS Okej ja men tänk om dig i den orange Magnus värld Men varför skulle han
 
-### 17 00:09:02,300 --> 00:09:24,800
-Varför skulle han fatta ett sånt beslut och ja men han skulle ju få Microsoft mm Google de skulle bli rätt upprörda Eh Men det är det som jag tycker jag har bara sett intressant med med Trump 2.0 Alltså andra term Han verkar ju inte bry sig så mycket om hur upprörda just eh kapital
+`6 00:00:08,160 --> 00:00:10,000`
+Din execute command line-funktion.
 
-### 18 00:09:25,600 --> 00:10:25,500
-Nej men så här Det var ju det man ändå trodde att säga någonting så är det väl att stryk kapitalet sitter i samma båt nej fan inte nu Eh Men på riktigt så här Man kan ju vända Jag har förnöjd ganska mycket på det här för jag Jag är ju inte Ja men det ska bli ett seriösa då Det gör vi hela tiden som jag märker så blir man ju lite upprörd som använder av amerikanska tjänster att det känns inte eh värderingsmässigt en bra idé att stoppa in pengarna där så känner jag privat och då tänker man alternativ kanske inte är att eh Det finns en executive order som säger att Google och Microsoft inte får leverera eller Amazon från levererar måntjänster den större Risken är väl att i Europa bestämmer sig för att det här är ingenting Det är här ingen plats vi kan lägga vår hemliga data längre också eh som
 
-### 19 00:10:25,600 --> 00:11:25,300
-Vi har ju haft shreams ett och sämst två och nu kommer väl snart sämst tre Då privacy Shield eller vad fan senaste inkarnationen heter att den är out of window och då har vi ju uppenbara gdpr problem med och överhuvudtaget använder den amerikanska leverantör eh så att Eh och med en jävligt volotil regering på andra sidan så känns som att amerikan eller icke amerikanska intressen är oviktigare någonsin ur deras perspektiv Och då är det ju bra och klok business och inte lägga sina sina data där Alltså du Du bör känslig data så bör du leta efter eh Vi har ju också även Vi har ju också potentiella Hotet från oss själva för att det är en omöjligt att vi väljer att lägga jättemycket härifrån eller motsvarande beskattning på service som kommer från amerikanska bolagen som möjligt men sen så är det här är ju också bara en lek med ord
 
-### 20 00:11:25,600 --> 00:12:25,300
-och papperstiglar så att vi pratar ju mycket om Absolut men vi pratar ju nu då om eh Vart ska data lagras eh Jo men vi väljer att bara använda lokationer som avs Amazon eh Microsoft azure eller så Googles Google Cloud har i Europa men det Det spelar ingen roll för det är ett amerikanskt bolag så att så här måste du lämna oss Lämna dem helt nytt ekosystem så att och det finns ju det finns ju en rad europeiska leverantörer Det är bara det att de inte har samma Vi har inte promotat dem för att man inte kunnat slå sig in det är bra det som sker nu att vi i Europa som konsumenter och som bolag börja titta efter allt annat alternativtime på att bygga upp den typen av kapabilitet och inser ju motsvarande eh stora målleverantörer det finns ju också nya leverantörer som ploppar upp sen är det ju bara frågan Hur mycket järn de lyckas eh fick ju vi fick ju en lyssna jag kan
+`7 00:00:10,240 --> 00:00:11,420`
+Och Mattias Hidhager.
 
-### 21 00:12:25,600 --> 00:12:36,000
-inte för mitt liv komma på namnet på honom just nu men för mailadas för några månaden sen de här eu-alternativs tog som just och den var ju en del men inte alla Det finns ju en rad stora eh
 
-### 22 00:12:36,800 --> 00:13:13,700
-flaggskepp som är på gång jag vet bland annat ever och som kommer bli en en stor målarvertal som kommer bara titta på europeiskt dålig bad för de som eh behöver titta över sina avtal Vad har de för avtal med de stora amerikanska målleveratörerna Det handlar om att ta med sig sin data ut ur molntjänsten det Det är det är en Jag tycker det är skitbra att eh att den här att det nu blir så här vad fan ska det här kan ju realiseras så inlogsfaktor har ju varit en grej exakt så det Det är väldigt intressant det där lite som Peter var inne på det här om Nu tarifferna ökar dem med 30 40 % Ja då finns det ju ingen då finns det ju
 
-### 23 00:13:14,400 --> 00:14:00,700
-ingen idé att vara kvar Då är det billigare att ha egna järn kanske eh så får man ju säga att det hela eh hela den leveransskedjan då vad vi är tillbaks till de lokala datahallarna min lever igen Det är inte perfekt Jag ser jättemycket utav mina kunder i särskilt inom Ja nej men att de tittar på hybridlösningarna att köra grejer om Preem igen eh så de orkesterar eh och sedan så vad ska man säga annonserar dem så de har alltså eh orkestering på mer än ett ställe eh och det handlar ju inte bara om att köra i sina egna järnet utan det kan vara att man har flera mål leverantörer
+`8 00:00:12,700 --> 00:00:14,020`
+Rickard Bordfors är inte här.
 
-### 24 00:14:01,300 --> 00:14:51,200
-just för att kunna skifta till din morgonen som faktiskt är billigast för stunden då och det är där tror jag på sen ekonomi och att prislappen går upp 2030 % kommer nog sätt eld på på det migräningsarbetet snabbt Men det kanske java igen då Det vill säga program ones deploy Anywhere eller Ja det gick ju alltid bra eh men Ja det här är ju svårt att förutspåm såklart men jag antar att det finns en hel del företag och förhoppningsvis även ehm mindre ett städa eller region stödda initiativ på det här temat för detta Det är kallt Vi har bra Infrastruktur och mycket internet att Microsoft bestämde sig för att dra sig ur den upphandling av datahalla i Sverige
 
-### 25 00:14:52,200 --> 00:15:37,100
-det gör de lika bra i kanske Vad har du apropå skatt på eller tull då på tjänster Har du hört någonting om det alltså när vi snackar om EU ska svara med med tullare tillbaks Eh har tjänster varit med i snackat Ja det hade ju varit det har man pratat om som att eh jag skulle kunna vara en grej som är alltså eh att om vi vill byta Ta bita tillbaks hårt så dels kan man gripa serviceindustrin och sen så kan man sluta vara så himla väl Var ligger i amerikanska ip-rättighetsgrejer och sånt eh så det jag pratat men men alltså så här
 
-### 26 00:15:38,200 --> 00:16:22,800
-Jag vet ju bara vad är det man har hört på The Great Grapevine eller vad man säger det är inte så att jag sitter och Polar med högsta husen i EU och vet vad de egentligen tänker att du fikar med dem på daglig dag och basis men jag vill inte gå ut målleverans perspektiv så tror jag att det är verkligen en ny Klondike idé att vara en europeisk målleverantör och se till att ha järnet stående på våran del utav världen Det tror jag verkligen kommer vara någonting som eh har skulle kunna ta det här för långt Det vill säga istället för att göra en pann-europeisk måntjänst
+`9 00:00:14,340 --> 00:00:14,760`
+Det är ju synd.
 
-### 27 00:16:23,400 --> 00:17:23,200
-Hon tar den ner till nationsnivå investera i det Varför exakt alla våra ägg i den här korgen i USA eller ABS eller tjänst ibjudandet som en nation utan det är mer bara Jag tror att kost kommer driva kommer driva förändring och hela marknaden eh så det man vill nog eh riktar sig åt alla sen kan det vara så att enskilda spelare och enskilda dataset till exempel eh sånt Solidar under patientdatalagen tror jag älskar Sanna inom Sveriges gränser eller någonting har jag för mig Eh nu kille Storbritannien som då blev ledande men i molntjänst de har ju redan visat att de inte är jättesurna på bara med den stora EU i Molin
 
-### 28 00:17:23,400.0000000001164 --> 00:17:55,700
-Jag har svårt att se någon ett eu-land skulle eller i ett bolag verksamhet i EU land skulle flytta sin data från ett amerikanskt mål till ett brittisk mål även om det är en bra flyttning så är det en jävla smärta att göra det Varför inte då hitta en EU leverantör direkt istället och slippa alla problem Exakt Nej men det Jag tycker det är bra igen det Det blir en att vi drar igång en dialog och det är ond där man säger att vi behöver nog kanske se efter vårt eget hus och börja producera egna tjänster Ja jag gillar också att det finns en eh eh Det finns en motvikt lite grann för det har ju varit en sådan eh
 
-### 29 00:17:57,700 --> 00:17:57,900
-vad säger
+`10 00:00:15,280 --> 00:00:16,460`
+Ja, det är väldigt synd.
 
-### 30 00:17:59,500 --> 00:18:59,000
-Ja det vart en ganska marschakt med allting ska jag till molnet utan att man tänker efter jag menar om du har samhällskritisk Infrastruktur eh så kanske det är så att Eh det är dåligt om linan mellan Sverige och ditt mål leverantör Irland försvinner tillfälligt och det skulle ju kunna hända det kanske är bättre att du har lokalt eller i alla fall semi lokalt en din tjänst eller för att du behöv för att ta bort de pennenzies menar jag från från saker du inte har kontroll över eh och nu finns det i alla fall en motvikt Nu är det någon som tänker den tanken i alla fall Innan har det varit liksom Nu kör vi bara Eh det är billigt och bra i målet men Där ser man ju också paradigmskifte när alltså som molntjänsten du utvecklas eller har utvecklats under tio års tid eh så har jag också kostnads eh faktorn det vill säga att man går från någon Preem till månen Den har ju den cykeln har ju liksom varit på något sätt man har tatt den första besparingen Och nu kommer ju nästa sinusvåg egentligen då där man ser hur vilken inlåstningsfaktor man får
 
-### 31 00:18:59,500 --> 00:19:59,100
-eh baserat på vilka tjänsteman the player så nu handlade jag om att man ska använda rätt typ av tjänster inom målleverantörens direktiv för att få det kostnaderna för det är det Det är samma typ problem egentligen som återuppstår fast i en annan form och sen lägger vi på lite världs eh problematik uppe på det där som bara så här Det Det tror jag är bra så man får upp ett risktänk och fundera lite över vart äggen ligger men som du sa Johan frågan är i vad du Eh hur hur möjligt är det ens om jag ska Om jag nu vill jag har ett stort företag och helt plötsligt fattar beslutat Okej min gamla datahall Den ser inte så tom längre utan jag vill ha en jävla massa server där uppställa igen Ja exakt fint introduktion och vem är det som producerade och Vem kontrollerar dem leveranserierna och hur kan man hantera Nej men det är intressant för det Det är en intressant diskussion för att skulle det bli totalitärt det vill säga att morotsmannen vaknar upp och säger nej rycker internet
 
-### 32 00:19:59,400 --> 00:20:59,200
-men liksom ehm då då är det ju det blir ju det är ju otrolig Kaskad av saker och ting som kommer ske eh känns erbjudandet kommer ju inte upp här från de mål leverantörerna man har för de har ju de är ju uppenbart spridda över många ekonomiska zoner eller hela världen liksom Men men det kommer ju skapa en efterfrågan som vi nog inte har produktion att ge eller i alla fall inte produktion eller i alla fall inte möjlighet att gapa tillräckligt snabbt Eh det är väl det som är problemet är bra för då har vi då kommit fram till att ja just det det är dumt om det är en Shetland som producerar allt vad vi har sett med när USA börjar tveka kring hur mycket de som säger det är Nato Alltså det är precis den typen av motsvarande investeringar som vi ser i försvaret som vi borde egentligen se in dem infrastrukturen Vad gäller internet Vi kommer inte gå tillbaks till den här verkligheten Jag kommer ihåg när vi satt och gjorde business Continue till plans och det var att man hade av
+`11 00:00:17,260 --> 00:00:19,340`
+Vet inte vad han gör, men det är upp till honom att det är.
 
-### 33 00:20:59,400 --> 00:21:02,300
-tal med en hårdvarul leverantör så de kunde snabbt skaffa järn om någonting
 
-### 34 00:21:04,400 --> 00:21:28,500
-Men sen är det roliga också så här det det som är intressant det är också så här kommersen bygger ju också på tillgång i efterfrågan och det är där Vi är på väg i det landet därborta itet should not be name than you more Eh det det bygger ju också för att folk kan göra något jobba eh ni har ju alla sett den här kinesiska mimen eller
 
-### 35 00:21:29,200 --> 00:22:29,000
-Vi ska ta hem allt arbete till USA som sitter massa fet amerikaner och försöker ratta in sidan ska leverera till domestic inte över landsgränserna Vem är då kunden finns jättemycket stora amerikanska provocerande men det är en intressant Det är en intressant frågeställning Jag tycker är en bra idé att det här diskuteras att man funderar igenom Vad gör vi nu och inte en inte kanske bara ur ett moln leverantörsperspektiv Det är egentligen skit i det liksom det kommer att plocka upp som svampar ändå Men just så här Vad är min data Hur ser jag till att integritet kontrollera min data ut militärplaner på signal
+`12 00:00:19,740 --> 00:00:20,800`
+Om han inte gömmer sig här inne.
 
-### 36 00:22:29,200 --> 00:23:18,500
-men när det här är det här är ju lite så med det är som en dåligt skriven film men men det här är lätt alltså liksom Att vi typ började avveckla militären och så sen långt långt senare börjar vi komma fram där Det här var inte så bra Beslut det är skedde lite ändringar och det det är ju lite den här vi har varit så hade alltihopa till Finland som bygger guns n'damo i Sverige också att Finland har mark-truppen och vi har the Tanks Det är inte så men jag tror att Finland finska staten köpte väl svenska kanontillverkare gjorde vi inte det Och tillverkar eh försvarsalliansen eh den enda strong Nu tycker jag att vi har kommit alldeles för långt ner i det här är inte tricks historia på den Men det skulle kun
 
-### 37 00:23:20,500 --> 00:23:21,700
-na bli tillbaka då Till eh
 
-### 38 00:23:24,400 --> 00:24:10,400
-byta till ett närliga ämneveratörer men jag Det finns ju en hel radda andra tjänster som våran online inför struktur bygger på och en Södra som handlar om namnuppslagning kanske majoriteten av dem är baserade i USA kan inte lätt inte så tekniskt Men eh DNS var ju någonting som jag tänkte direkt på när vi pratade om transatlantiska relation Breakdown men jag ska jag ska spoila med en gång och säga att det är inte ett problem
+`13 00:00:20,800 --> 00:00:22,260`
+Han sa inte mig vad han gör.
 
-### 39 00:24:11,300 --> 00:24:39,000
-Det är nämligen så här att eh i alla fall DNS eller framförallt i en säck håller de här de sju nycklarna som äger Internet och så vidare Det är ju ICA i kan eh som ju en amerikansk organisation eller rättare sagt det är ett något större i ett för då Internet förmodligen internet Eh det är internet Corporation for a side names and numbers
 
-### 40 00:24:39,900 --> 00:25:39,100
-namnet nummer till Jana och jag tror det i etf som har IP rangerna men vi kommer stanna vid dns-namnen egentligen för de har ju roten eh till det ja till derasic och en jävla massa coola hemliga nycklar och ann-marie Lövin det gör det Ja och så vidare Men eh Det är faktiskt safe Jag trodde att det här skulle vara ett problem för att det amerikanska men det är så att de är de här organiserade under Kalifornien något för profit public Benefit Corporation Law då är det lugnt Bore kärlek till Bullen public purposes Men eh som vanligt så är det ju så här Ja det kan ju så här teoretisk Kan det vara problem för det är ett Kaliforniens bolag då Men rent fundingmässigt som jag brukar vara det maktmedlet som används så är det inte ett problem för de är helt fristående om Aktuellt är att
 
-### 41 00:25:39,900 --> 00:25:49,900
-när du flyger in till USA för att låsa upp det här med din hemliga nyckel då kom vi in här nu börjar det bli farligt på riktigt liksom fast det är ganska långt därifrån alltså
+`14 00:00:23,460 --> 00:00:24,360`
+Han var upptagen.
 
-### 42 00:25:51,400 --> 00:26:51,300
-det är över 50 personer inblandade i signing processen eh och det finns eh typ backup till backupet till backappen mer eller mindre eh och utan och jag tror att uttala de där 50 så är det väl 28 som är jag tror det är fyra av varje som har de här sju nycklarna så att räcker att en av de fyra för varje sjundedel så att säga på plats eller något sånt här Så jag gissar på att det är att det kommer ordna sig men bra punkt en tänkte jag faktiskt inte på att folk inte ens kan åka dit det hade kunnat varit problem för att det är ju multinationellt det finns ju folk från eh typ alla världens länder med eller mindre smid blandad i det här eh och den styrs också den här organisationen av är det folk från alla världens hörn och det är uttalat att det är en multinationell organisation och fan ingen kommer helt och hållet från Eh den egna radiestaren så alltså när vi köper Dotcom
 
-### 43 00:26:51,300 --> 00:27:51,100
-och så vidare så att det känns som att det sedan Eh det har inte alltid varit så här nämligen utan det är fram till 20:16 första oktober för 2016 så var det en del av Department of Commerce eh så då hade det ju varit en issue men sen då nio år tillbaks eller 7-8 år tillbaks så är det en helt fristående organisation som dessutom sen december har en svensk president Wow eller ålänning om du frågar honom eh säga han är inte bättre podcast än vad det är svensk Curt Erik Kurtis Lindqvist eh ja precis Han bland annat varit chef över nettord i Sverige jättemånga år och sen efter det så tror jag det var någon London exchange han hade under lång tid också om man om man tittar på rotsövrarna för den fanns en karta över dem på den här Eh vad fan heter otherst att komma eller nån sajt hade de eh för utsöverna så kan man klicka runt och titta och Tydligen så har vi en tre styck
 
-### 44 00:27:51,300 --> 00:27:58,700
-en rot zebra som ska vara lokalisera i Göteborgsområdet och så har vi en hel drös i Stockholm även om Ingen bryr sig om som finns i Stockholm
+`15 00:00:24,760 --> 00:00:25,820`
+Han är inte här i alla fall.
 
-### 45 00:28:02,000 --> 00:29:01,900
-eh nettor heter de här och så och sen var det någon som skulle tillhöra i ican och så sen kommer jag inte har varit en tredje var för något men jag fattar det som att de hsm Men alltså har rotnyckeln de finns väl bara i USA för mig att svara tre olika priser men det är ju en helt annan sak Det är ju själva deras infrastrukturen är inte säkerhet inte signeringskrönkan så eh Jag tror att just det ens eh efter att ha läst på lite gör mig inte det är klart det kan det kan gå dåligt men det gör inte Super nervös i alla fall Nej men det skulle ju vara då ifall man då väljer att ge ett inreseförbud eller äta Ice börja stormen deras kontor liksom det var det man kan säga vi Eh det jag jobbar så har vi vi jobbar under vissa Grants Egentligen så vi vi har till exempel Vi jobbar metor-projektet och tror projektet är ju ideellt och det är de får ju pengar från diverse donatorer överallt bland annat USA och där har vi ett Grant som vi har fakturerat emot och det är granted går ut på att man ska
 
-### 46 00:29:03,000 --> 00:30:02,800
-Eh ja Vad står det egentligen i det Det är väl att pengarna som vi får genom detta ska gå till att säkerställa att journalister och utsatta personer i politiska istället politisk utsattställning kan kon Ah mer eller mindre kommunicera på ett säkert sätt jävligt fluffigt egentligen och det vi gör då med de pengarna det är att vi testar olika tjänster och det blir indraget samma dag egentligen eller dagen efter att han blev vinsmuren men för två veckor sedan så kom det faktiskt tillbaka så att det blev inställt kongressen sa satte ner foten mot hela den här USA Eh jag tror det är det och då så allt försvann inte det är osäkerheten som är problemet för det är ju också en startsträcka då Det är ju då de tre fyra veckorna off utan det här är ju en kund så i vårat fall så handlar det ju om att man planerar in när arbetet ska ske och det gör man ju liksom inte två veckor innan arbetet sker utan det är
 
-### 47 00:30:03,000 --> 00:30:17,400
-skivet och vår innan alla leverantörer som arbetar med någon form av osäkerhetsvakten gör ju att vi kommer inte kunna leverera på det brentet detta året för att vi visste inte att det fanns exakt men ifall
+`16 00:00:26,340 --> 00:00:28,120`
+Vi ska nämna att vi är sponsrade av Ashore.
 
-### 48 00:30:18,500 --> 00:30:26,800
-eh byter fort litegrann bara till att se någonting som ligger lite närmare oss som säkerhets eh tekniska säkerhetspersoner
 
-### 49 00:30:27,900 --> 00:31:07,800
-Vad tror du om hela cv-strukturen det här är det här avsnittet spelet ju in efter det outades och sen det outades Jag tror till och med att vi har med det på våran nyhetslista på avsnitt vi kommer spela in om en timme som kommer släppas för en vecka sedan Inception men Låt oss ta lite av det ändå och då Eh kortfattat så är det ju eh meetre gick ju i ut och så att Eh jobb by the way Vi får inga pengar längre från Us gav så vi kommer inte kunna underhålla sig vid databasen så går det hände på Och det händer på onsdag man ska alltså
 
-### 50 00:31:08,200 --> 00:32:08,000
-tyckte inte det här var en bra idé säger snubben som har det värsta cubenetiskt hacket i bagaget någonsin där hela deras kubenetersinstans Eh Mina recrypto är typ sju dagar innan Hon upptäckte det Ja hej varför ska vi ha cv är databasen Ja så att det blev ju lite panik där Åh ser vi är all säkerhet kommer dö eh och sedan samma dag så kom det ju ut någon eh the cvi-foundation annonser att de har blivit skapare nu som en separatör organisation som ska ta hand om sig ved databasen Vilket då råkade vi stå av typ 80 % av de som satt i CV borden just nu Eh oklart med Fanning och så vidare Men de skulle lösa det här Eh det började pratades väldigt mycket om EU vunnubility base som launchades i juni och nu kanske den skulle kunna ta över rollen för folk gick in i lösningsmord då Men sen så slutar man det tog väl minnen idag så kom sisa och så fearnot här har ni deg i alla fall i alla fall
+`17 00:00:28,120 --> 00:00:29,720`
+Läs mer om dem på ashore.se.
 
-### 51 00:32:08,100 --> 00:32:55,000
-Per månader ehm så då började jag gräva lite detta eh och det är ju så att det är ju sisa som normalt betalar mittre för detta eh och varför de inte har betalat innan vet jag inte men det kanske är dog och gänget för det är nämligen så här det snack om att sisar ska få mycket mindre pengar CC då i morotsherren och hans hantlangare Vad är det de heter det är cyber security infrastructure någonting agency tror jag eller nåt här Det vill säga det är den behövs inte de är ansvariga för typ eh och då Det är en underavdelning till Department of Homeland Security
 
-### 52 00:32:55,700 --> 00:33:55,500
-picka de får fortfarande i alla fall eh vi kommer mera in på vad det är för någonting lite senare men i alla fall så de har betalat Mitt3 för att underhålla sig ved databasen egentligen och det är första frågan är egentligen vad är det de har köpt det fram i3 egentligen Ja det är ganska Basic men det är alltså håll koll på cwe siffrorna mer eller mindre alltså eh räkna upp Hardcore på alla CV entrycks då Eh det har de koll på också De har även koll på det som kallas cna:er det är en cv-lista hävdar de själva Vi är en list Det är en databas eh och eh alla c&a står vad heter det heter eh azorothy number is it någonting se numbering Ja det kanske det är Eh TV i number to är det så att det betyder egentligen att det finns ett antal företag eh organisationer som du kan höra av dig till
 
-### 53 00:33:55,700 --> 00:34:31,900
-finns exakt 4503 så det är väldigt många företagare den andra delen heter Ja det finns bara en av dep då Men ser du har det finns det då 453 stycken de är alltså ansvarig för och ge ut cvr under ett visst scope curl då till exempel har ju ansvar för gjutse VR under curlskåpet det vill säga att det är curl som är drabbat så så och red hat för Red hats och så vidare
+`18 00:00:29,720 --> 00:00:32,040`
+Så även av 0x4a.
 
-### 54 00:34:33,100 --> 00:35:18,400
-Så ser ni har en gör det mesta registreranden men cvn mittre håller då i databasen eh och ger ut eh lista tror jag De kallar det fucking du hämtar också ur sig själv Det är en data va däremot Ja du hämtar och ut nummer ifrån ehm Mittra helt enkelt eh så de håller state på något sätt Sen finns det över en adp då Eh och det är en offerized data publisher men om du bara finns en så måste det vara sysa då det är sysa som är Vilket är också märkligt då sisa betalar alltså mittare från hålla i databasen men de har även avtal på vad en artries data publisher och det är rätt nytt Det är bara från sent förra året season
 
-### 55 00:35:19,300 --> 00:36:19,100
-har ju inte enbart briljerat i rollen som hade pengar de tog en öl på en till Exception i ett kalender omverkan en specifik funktion i kalendern för ett Exception du beskrev just ett normalt Jag var i och den rankade de sen en värsta sår bara äta genom alla tider Och det det ringde rutt på så jävla många Java fabriker som helst och vad gör du nu adp Jo jag undrar jobbar med en richment alltså ser vi eller omitre de håller egentligen bara i databasen eller rätt rudimentär Eh Men en adp då gör lägger på information här och det finns till och med en hel datastruktur för det här har jag lärt mig det Det finns en adp container för den informationen då Ja det får du till en speciell som delar vi som bloggen som den heter standarden Ja mycket riktigt så vad gör du och sisa hur de lägger på Stay holder specific var nobility ketograisation eh Vilket egentligen
 
-### 56 00:36:19,300 --> 00:36:35,200
-är ett Fancy set att de försöker klassen Ja det är de tar de tar på sig hatten av om vi har missat på sig hatten Jag är en amerikansk myndighet eh och är det här då lever oss
+`19 00:00:32,180 --> 00:00:33,320`
+Som finns på 0x4a.se.
 
-### 57 00:36:36,300 --> 00:37:20,900
-ja se väskorning är också någonting de kan göra de håller även på eh någonting som heter season kevnone exploitible Bon abilities en databas med alla Starbucks som man vet utnyttjas aktivt för det är en Richard om ser vi igen men han lägger det som är lite ratings och sånt Men men vi kan väl säga så här att vi är ju också i ett förändringsskede där eh där Det går ifrån det är så säkert nu för länge sedan som var ju meetre de total längre hela cv-grejen sen har ju de här nvdnist människan har fått blanda sig och så har vi börjat göra det att det ska bli mer pluginbart av flera ska bli aktiva och kunna delta i det här och
 
-### 58 00:37:22,400 --> 00:37:58,600
-det är ju runt det här att fler människor och fler puckon får pilla i det här har det ju varit så himla långt huvud att det ska bli snabbare och så vill man ju inte ska bli pannkaka så när det har blivit ett antal gånger Det senaste eh snabbare utan pannkaka Tack så därför ni är ju inte jättebra eh om om Mitra är de enda som är vuxna och kan få det här att funka för närvarande så det så det är inte så bra om de och de skulle lämna väldigt snabbt innan världen har klarat av att liksom exittautum
 
-### 59 00:37:59,800 --> 00:38:59,500
-precis För att det är också en jävla intressant så sisa är du adp De har som jobb och en riche och för fina beskrivningarna På cv-na eh De sätter alltså en annan typ fem åriga interner på att göra det arbetet Äh det låter ju osagt kvalitén på det här men de lägger faktiskt om ni under saknas cvss till exempel lägger dem in på en sån de klassar den med CW e-rating då lägger även i cpe eh grejer och så vidare ni kommer känna igen precis det här men det det är sånt som season det p gör det kommer vi till nvd då nationalbility base så de typ är samma sak men det här är ju då departments of Commerce som eh fundar nice standard organisationen som i sin tur har då byggt mvd som hämtar cvi data från mitret och sisa men sen gör de sin egen richment men de är ju nån anledning
+`20 00:00:33,420 --> 00:00:36,800`
+Och av Bordfors Consulting som ni hittar på bordfors.se.
 
-### 60 00:38:59,700 --> 00:39:59,600
-Det är en adp och den verkar vara väldigt noga med det här alltså att en vd är fristående och gör sin grej och mitare och sisa grej och aldrig må de mötas Det var ohört svårt och ens se de refererar till varandra någonstans Jag fick lägga det var långt ner i sajterna men typ som dålig grej Nej men det är ju återigen samma jävla datorn i min bok så änder det en uppenbar och DP eh för de gör en Richmond de gör precis det som sisa säger att de gör de gör de gör de lägger på cvss för det är inte med från mitten normalt och de ligger på C W och lägger på cpe eh och gör klassificering Eh det är precis som jag och sen exponerad om ett API eh som nästan alla verktyg i hela världen som använder sig vr-data hänt i sin dator från nvd Vet du vad jag hörde eh slantly av toppen tangent men på Risky business var det
 
-### 61 00:39:59,600 --> 00:40:59,600
-pratar om att det är några som satte system att de de hittar till den kinesiska versionen så ibland när du inte kan få ut någon vettig information om faktiskt vill veta vad sa var att gör och den är typ nonsens Det finns tydligen folk som vet hur man kommer till den kinesiska versionen och ibland är den kinesisk informationen mycket bättre än vad västerländska så emellanåt då Det är tips från coacherna Hitta till en till en kinesiska och lär dig översätta kinesiska som man gör det finns även reddati också väldigt duktiga på att synka sina bulletins snabbare någon annan så är man taggad eh så kan man redda eh Följer ofta sin det är ju inte ovanligt att du har du kan ha till exempel säkerhetskolle i rava som är att obegripligt och så klickar du runt och så går du och se vm-listan och så klickar du iväg till räddhat och när du liksom tillhör man klick bort så är du deras buggtackare så exakt vad Svarar
 
-### 62 00:40:59,600 --> 00:41:45,300
-exakt men det kan vara till och med innan allokeringen och kommit liksom om vi är hårdrade Vad är då problematiken och för att komma dit så måste vi väl tänka på hur fungerar det här innan Eh den här typen av så vidare Den är från mitten Jaha Jag tror de heller men okej men men typ inte hade ett en gemensam de gemensamt när man kultur för såbarheter som folk visste Eh det vill säga när nånting dök upp med alla kunde vara överallt så ville vi vara överens om är det samma subarhet som jag fixat patch notes då Vad är fan är det ni har lagat då exakt
+`21 00:00:37,620 --> 00:00:39,400`
+Innan vi drar igång så har vi några plugs.
 
-### 63 00:41:47,000 --> 00:42:46,700
-weird crossfit beskrivet eller är det bara cv250 under hela den tiden jag varit yrkesaktiv och där håller vi med om allihopa att se Vi är och cvss är inte perfekt men det är det absolut bästa vi har Och det är värt mycket cvss I don't know CV Absolut jag och det det är ju inte så att vi ska alltså skulle samma som regelorare det finns en sajten man kan bocka i skulle det alltså finns det ju konkurren om det system Det är bara det att alla inte överens om vilket för det vi har gjort securited spelade dödsindex Nej men det är ju det Alltså självklart så kan du Självklart kan du skapa en en konkurrerande lista då för att använda sol Eh Men hela poängen med detta är
 
-### 64 00:42:47,000 --> 00:43:13,200
-exakt men hela poängen med det här är ju att även om det här inte är perfekt så är det någonting vi alla överens om att det här är the sorcial true eh och skulle det dö eller bara bli så pass långsamt på grund av bristande founding så att det inte längre levererar värdet på då har vi ett problem och det är dessutom problematiskt att
 
-### 65 00:43:15,000 --> 00:43:20,400
-funding och annat i osäkert just nu när vi är det förändringsskydd och som
+`22 00:00:39,720 --> 00:00:40,900`
+Vad är det för dag idag?
 
-### 66 00:43:22,200 --> 00:44:21,900
-det kanske inte vart katastrof men inte gott smärtfritt I hvert fall Ja vi håller på att tanka världsekonomin Okej lite anledningen till detta är ju bara för att sisa håller på att tappa funding och det märker man på fler olika sätt De har börjat kancellera kontrakt De har ju tydligen jävligt många folk om anställer Konsult basis för era fetthånting och sånt Ja men de har köpt eh verktyg ifrån både Google och Sensys för att göra ett rätthäntning för aktivt hitta problem då Det har de som var och ställde in dem och sagt upp avtalet med Google och men Sensys så de har inga verktyg nu och de har ställt ställt sätt ut de flesta kontrakten med de här trett hunting konsulterna nu så när man knappt något folk de kan göra det sen har de flera initiativ så utöver detta Det finns ett stort som heter secure by Design som har släppt en jävligt massa Jag tror det är typ nära fem och tio rapporter som heter typ eh eliminating x och då är x buffer Overflow cross Night scripting som
 
-### 67 00:44:22,100 --> 00:44:59,900
-liksom nästan recept på hur kan du videon organisation bli av med alla dina cirkulelection problem eh som är drivna av två personer som har fått riktigt mycket cred och typ så här hade de jobbat privat hade de blivit miljonärer men de väljer nu att jobba för publik eh för publikens bästa intresse istället nu Har de sagt upp sig från sida och dra därifrån så nu tror jag det här är ju det funkat förut så här Hur gör man för att man inte får se på indection well jo nej men ja Men problemet är väl så här vem vilken organisation är det som kommer släppa upp och ta den här manten då men det blir lite tydligt att Eh alltså
 
-### 68 00:45:02,200 --> 00:45:09,500
-den här Rörelsen som man till exempel är det sig att det blev en i kan och att det blev en internationell organisation och sånt Det är eh
+`23 00:00:41,120 --> 00:00:42,140`
+Vad är det för dag idag?
 
-### 69 00:45:11,400 --> 00:46:10,600
-Jag kanske inte tyckte varit så superviktigt historiskt liksom hur fan grejer hålls och så där då man man är lite alarimistiska Man antar att det bara kan bli kaos från Ena dagen till den andra men det har ju säkert så kan de här världens står på börsen ligger uppe på dig Jag funderat och eh internationellt styrt liksom säger att vi behöver World government men ja men jag kan vara polis vem det är som driver the crusade mot sisar nu då Berätta är det ett rum men det är en tjej som heter Kristin Noam som hon är ju en utav trumpsutvalda då Ja hon är ju Ah fuck nu tappade jag bort min site Hur som helst så
 
-### 70 00:46:11,300 --> 00:46:32,200
-så de gör den gamla chefen precis av försöker döda honom typ Prebz Ja eh Det var nog såg det började tror jag alltså att crabs blev valt att chef precis så typ precis har skapare spaken i dig och Trump valde honom att du som försöker döda sitt liksom sitt eget superförsvar Eh det det har ju det är ju liksom inte riktigt
 
-### 71 00:46:36,100 --> 00:47:14,700
-är typ För det det är ju en en grej som är faktiskt viktiga påpekat Han var ju chef då för detta eh och jobbade om för Vad heter företaget eh som eh precis och blev ju eller kände sig väl tvingad då att att gå ner från sin vad han var väl tio år där eh i det bolaget på grund av påtryckningar från Trump det vill säga Vi Vi kommer gå efter det med allt vi har eh så det här är ju 100 % politisk justitiemord det är det det är liksom Men det var ju länge sen han fick kicken eh
+`24 00:00:42,560 --> 00:00:43,880`
+Det är 23 va?
 
-### 72 00:47:15,400 --> 00:47:49,200
-Ja men men men nej det är ju kommit ut en säkert i vårder som bara hatar på honom efter honom personlighet Vilket är bara det är ju väldigt previously on season 2 exakt det är liksom Ja men alltså det här är ett jävla hit på land Alltså hur vi kan inte lägga den här typen av macken persons händer för att kolla vad som händer alltså det det ser så bra det är inte så sjukt
 
-### 73 00:47:51,800 --> 00:48:34,400
-eh som nu valt visa lilla mot eh så vill ju Trump att han skulle säga att valet var riggat men han sa ju att nej election security eh election security ser bra ut eh och då fick han kicken eh och sen dess så har han vart på eh Trumps mörka sida kan jag väl säga eh och Sen fortsatte sisa att även efter kräbs så fortsätter de att jobba mot missinformation och det är därför de nu jagas av det publikanerna för att de lever ju på min information så att eh så att det är därför de ligger under kniven just nu Eh ska vi byta Fokus lite och prata om eh andra
 
-### 74 00:48:36,800 --> 00:48:42,900
-saker andra saker som sprider Miss information enligt Trump exempel
+`25 00:00:44,200 --> 00:00:46,860`
+Jag skrev 24, det är filnamnen som jag laddade upp.
 
-### 75 00:49:22,800 --> 00:49:54,600
-min far faktiskt
 
-### 76 00:49:55,600 --> 00:50:13,300
-stort Han är läkare och jobbar mycket med forskning och vi kommer in på på Ja hela där transatlantiska debaclet som man gör och det är han valde att ta upp i den diskussionen var ganska intressant men om du vet
 
-### 77 00:50:14,400 --> 00:50:34,600
-dö ifall människor som inte hade behövt dö kommer att dö för han sa det att det är de som
+`26 00:00:47,120 --> 00:00:47,720`
+23 april.
 
-### 78 00:50:36,800 --> 00:50:50,100
-jobbar med forskning inom medicin är mest rädda för just nu är att pub med det vill säga den största globala databasen eh för biomedicinska publikationer
 
-### 79 00:50:51,000 --> 00:51:12,200
-kommer vinna av i USA för att så ska vi inte jobba
 
-### 80 00:51:13,300 --> 00:51:29,800
-eh och det här är ju ganska läskigt för att i stort sett all medicinsk och biovetenskaplig forskning i Europa exempelvis använder sig av pub med som grundresurge för det är där alla publikationer finns
+`27 00:00:48,600 --> 00:00:48,960`
+Så är det.
 
-### 81 00:51:33,300 --> 00:51:51,600
-det här som de forskare läkare just nu i Europa sitter och funderar på Hur fan ska vi lösa det här Hur Hur fixar vi en motsvarighet så här det är på riktigt
 
-### 82 00:51:53,300 --> 00:52:25,400
-Microsoft Det här är inte ett samhäll där potentiellt ske problem utan med tanke på vår Dodge gjorde eh på NH hittills så har de själva gått ut och sagt att vi inte säker på att vi kan upprätta hålla de här databasen Den här tjänsten Vilket hade varit fullständigt katastrofiskt för hela världen men alltså
 
-### 83 00:52:27,100 --> 00:52:53,800
-Vi är ju redan då med massa bra liksom gamla dokument om vi tills med till exempel de här om att vi börjar med Rusta woman i sig så att det kan vi ju inte publicera att hon var med var för gay för att få ligga ute på riktigt
+`28 00:00:49,760 --> 00:00:50,760`
+Nådens år 2025.
 
-### 84 00:53:04,000 --> 00:53:25,100
-hur var det nu Hur var det nu stjärnan som är fällde över Nagasaki Den var faktiskt lite för inkluderande och det är ett problem
 
-### 85 00:53:28,600 --> 00:53:55,400
-men det är som sagt skulle vi prata något mer som fanns på listan GPS har jag fått Instagram reklam om köp din egen Bunker här seriöst Svensson som säger bunkrar
 
-### 86 00:53:55,600 --> 00:54:31,300
-alltså och jag var ju tvungen så här Det här Det här är det är någon som liksom gör en rolig grej Det kan inte vara på riktigt man ändå varit verksamma länge jag har ändå en skaplig omsättning Det är de här bygger bunkrar som man gräver ner bunker i mitt körkort på Hemnet alltid eh slutat sälja alla de här bunkerna liksom Nej men Nej men Eh jag vet inte vad man ska säga det ska man inte säga att det eller gråta men ifall vi går över till Ja men exempelvis GPS då eller för den delen
+`29 00:00:51,280 --> 00:00:52,620`
+Nådens, varför säger man inte så?
 
-### 87 00:54:32,900 --> 00:54:40,900
-precis eller för den delen NASA så övervakningstjänst för att se till när det kommer komma stora stormar över världen Det som ligger under Noa
 
-### 88 00:54:42,900 --> 00:55:20,400
-ja ja Göteborg Europa Europa har alldeles för få krigsfartyg och alldeles för få satelliter verkar vara två identifierade problem eh och satelliterna då det är att vi har ju haft visionen om att det ska finnas ett europeiskt Eh navigeringssystem Men vi har ju aldrig tryckt ut genom mina sidorna tillräckligt mycket järn i rymden nej precis Eh Men för återgå till medicin fem sekunder jag satt och pratade med min vän Kajsa idag Nej men jag tycker det här är viktigt
 
-### 89 00:55:33,000 --> 00:56:20,300
-inte bra saker då hon jobbar som ingenting med GPS att göra eller väder rymden Förlåt jag försökt Kajsa Hon jobbar på Sahlgrenska ehm på blodcanceravdelningen där eh Nej men och sätt och snackar kring detta Hon sa det att Ja nej men ifall det är ju inte så långt bort att Trump hade kunnat inför tariffer på mediciner exempelvis Det är ju en en röd linje som man inte har passerat ännu men vem vet den har 145 % tycker jag tariffer på Kina så varför inte mediciner
+`30 00:00:52,680 --> 00:00:53,320`
+Det känns konstigt.
 
-### 90 00:56:21,100 --> 00:56:47,400
-eh och Hon berättade om bara så här en väldigt specifik del av hennes eh yrkesroll är att ta ut t-celler från cancerpatienter skickar dem till USA för ett genomgå någon form av jämförhandling Jag vet inte exakt hur det här fungerar poängen är att när de kommer tillbaka så kan de båt till introducera dem i patienterna så att de dödar cancerceller blir döttmä
 
-### 91 00:56:47,900 --> 00:57:00,700
-mest och TC av att vi har den här relationen med USA
 
-### 92 00:57:01,800 --> 00:57:15,500
-Hur lång tid att bygga upp den här typen av kapabilitet i Europa Vi har inte nämnt vi sen forskningen här
+`31 00:00:53,500 --> 00:00:54,860`
+För att vi är för gamla.
 
-### 93 00:57:20,900 --> 00:58:20,500
-vi hade brist i april på på vad heter det vätskor alltså dropp eh vanlig vätskeersättning på grund av ett hälften av det produceras i USA till exempel hur sårbar våran värld är när efterfrågan eh helt plötsligt över Ja men du vet ändå ett par månader blir omställd Hur extremt oförmögna Vi är på att ställa om våra Logistik mönster Ja det det alltså det är en bra sak för det lära oss saker och ting är att ja just det vi kan inte ta saker och ting för givet behöver också ta ett ansvar så det är någonstans en bra sak Sen är det Otroligt värdelöst om folk dör på cupen men det är också så här på riktigt
 
-### 94 00:58:20,900 --> 00:59:20,400
-men det det har ju varit hela tiden Det är bara att vi har valt att skita i den risken Jag har inte varit tillräckligt nära och det är tyvärr det här som driver hoppen i jorden Jag menar det måste bli dåligt för din för den breda massan för att vi ska göra något för det kosta ju det mycket väl låter det kosta och nu har vi nog något när personen Så här eller världens högbar i bara helt plötsligt tänker att Men jag eldar upp kapitalism för det känns jävligt rimligt och sen får vi se vad som händer så det var Det var inne på förutsätt så här Det är ju osäkerheten som är problematiken förut så har jag hört samma omnist till exempel Alltså om nice helt plötsligt försvinner offline då och tappar vi ju extremt mycket forskningspapper och standard och så vidare så att det finns på riktigt eh aktivitet som pågår på liksom downloada skiten för helvete Ja men liksom webb scrapers men inte bara det utan så här Hur kommer Per review fungera ifall vi inte kan publicera på de platserna där
 
-### 95 00:59:20,800 --> 01:00:20,700
-de stora eh universiteten finns Och den här frågeställningen som du tar upp nu generellt det går jag applicera på vad vi ärenan pratat om här är en väldigt bra frågeställning att eh att hitta på där det är rimligt att eh internetorgan som styr internet globalt inte är nationsberoende de ska vara globalt beroende Det är ju en följd av en en idé om den här risken då Och det tänker jag är jävligt viktigt att vi tänker på när vi tar beslut det är ju en jättebra idé Samtidigt så har du Jag menar Vilken organisation skulle ta gå i bräschen för det här är det FN med de har en budget som är mindre än New York Alltså det Det hade det hade varit lättlös så hade det väl redan kickat in tänker jag det är det jag är svåra saker eller tyvärr Behöver du göra ont För att diskutera sig motivering att göra det men jag kan bara gå till mig själv så där jag satt nu är det några
+`32 00:00:54,860 --> 00:00:56,080`
+Det är inte så något seriösa.
 
-### 96 01:00:20,800 --> 01:00:29,300
-veckor sedan och bara så här Okej jag ska bort från Google Ja men det är Google sekosystem det är svårt Det är svårt att hitta någon som kan ge mig det erbjudandet eh
 
-### 97 01:00:30,800 --> 01:00:33,200
-Men det jag är ändå okej med en kompromiss liksom
 
-### 98 01:00:33,900 --> 01:00:59,700
-det tror jag Jag tror att jag är nog inte den första Agera så Godnatt Men det blir jobbigt när det handlar om cancer handlingar eh i liksom Din vardag så att säga det det Ja
+`33 00:00:57,000 --> 00:00:57,600`
+Varför säger man det?
 
-### 99 01:01:03,900 --> 01:01:21,400
-något vägs ände tror vi alltså alltid skit och värdet blir det men vi har en liten förhoppning om att vi har den här böcker 20 % av ange säkerhetsfulka den World Doom Nej det var ett skämt
 
-### 100 01:01:35,700 --> 01:01:54,600
-eller för att avsluta med Jurassic Park referansen nature files away life life Tack så mycket Eh jag som pratade här vad Johan nu behöver du med mig hade jag Mattias idag Ja
 
-### 101 01:01:54,900 --> 01:02:00,100
-Oh Peter Magnusson selected available till i din navigering och Jesper Larsson
+`34 00:00:57,600 --> 00:00:59,500`
+Det är en andra podcast.
 
-### 102 01:02:04,500 --> 01:02:34,800
-och jag skulle gärna vilja höra fler Vad sägs om att vi tillsammans kautsåsar in lite anekdotter för Jag gissar att det finns fler som har har på lager så om ni skickar in ljudfiler med era historier korta långa Jag har ingen aning och sen kan gänget klippa ihop det här och släppa det kanske under sommaren så vi får möjligt avgjutar dem tillsammans med en grillön
 
-### 103 01:02:36,500 --> 01:02:38,600
-det var lite önskan från Johan banker
 
-### 104 01:02:40,700 --> 01:02:52,000
-byten bästa roll okej
+`35 00:00:59,720 --> 00:01:03,720`
+Vi säger inte så, det är en sån här vag förhoppning om att det var nådans år.
+
+
+
+`36 00:01:03,720 --> 00:01:11,600`
+Det här är ett strukturerat avsnitt och innan vi drar igång vårt strukturerade avsnitt så brukar vi vilja ta honom på plats.
+
+
+
+`37 00:01:11,600 --> 00:01:12,100`
+Exakt.
+
+
+
+`38 00:01:12,100 --> 00:01:13,320`
+Och ska vi göra det då?
+
+
+
+`39 00:01:13,320 --> 00:01:13,820`
+Det tycker jag.
+
+
+
+`40 00:01:13,820 --> 00:01:15,820`
+Och vi börjar med Gebi Gay.
+
+
+
+`41 00:01:17,240 --> 00:01:17,740`
+17 maj.
+
+
+
+`42 00:01:17,740 --> 00:01:19,740`
+Det kommer vara jävligt snart när vi släpper detta va?
+
+
+
+`43 00:01:19,740 --> 00:01:20,940`
+Ja, det stämmer.
+
+
+
+`44 00:01:20,940 --> 00:01:22,940`
+Ja, det kommer vara ungefär två veckor.
+
+
+
+`45 00:01:22,940 --> 00:01:29,300`
+De har ju den där ramsan med typ LBTQTIA plus eller någonting men typ om man...
+
+
+
+`46 00:01:29,300 --> 00:01:29,700`
+Gebi T menar han.
+
+
+
+`47 00:01:29,720 --> 00:01:33,220`
+Om du tillhör regnbårdens färger så är du väldigt välkommen där.
+
+
+
+`48 00:01:33,220 --> 00:01:35,220`
+Vet du vad man kan läsa mer om detta?
+
+
+
+`49 00:01:35,220 --> 00:01:37,220`
+Ehh, punkt...
+
+
+
+`50 00:01:37,220 --> 00:01:37,720`
+Fuck.
+
+
+
+`51 00:01:37,720 --> 00:01:38,220`
+Punkt...
+
+
+
+`52 00:01:38,220 --> 00:01:38,720`
+Gebi Gay.
+
+
+
+`53 00:01:38,720 --> 00:01:39,220`
+Gebi Gay.
+
+
+
+`54 00:01:39,220 --> 00:01:40,220`
+Gebi Gay. Dot com va?
+
+
+
+`55 00:01:40,220 --> 00:01:40,720`
+Ja, jag tror det.
+
+
+
+`56 00:01:40,720 --> 00:01:41,220`
+Ja, jag tror det.
+
+
+
+`57 00:01:41,220 --> 00:01:42,220`
+Gött att börja med en punkt.
+
+
+
+`58 00:01:42,220 --> 00:01:46,720`
+Jag killgissar att vi kommer släppa detta den 12 maj och i så fall är ju det bara på lördag när ni hör det här.
+
+
+
+`59 00:01:46,720 --> 00:01:47,220`
+Exakt.
+
+
+
+`60 00:01:47,220 --> 00:01:47,720`
+Så då...
+
+
+
+`61 00:01:47,720 --> 00:01:48,220`
+Så här.
+
+
+
+`62 00:01:48,220 --> 00:01:49,720`
+Samma dag som jag tar bort svervet.
+
+
+
+`63 00:01:49,720 --> 00:01:50,720`
+Ta på dig skolan och dra.
+
+
+
+`64 00:01:50,720 --> 00:01:51,220`
+Precis.
+
+
+
+`65 00:01:51,220 --> 00:01:51,720`
+Precis.
+
+
+
+`66 00:01:51,720 --> 00:01:53,720`
+Eller skit i skolan om det är varmt.
+
+
+
+`67 00:01:53,720 --> 00:01:54,220`
+Eller skit i skolan om det är varmt.
+
+
+
+`68 00:01:54,220 --> 00:01:58,220`
+Sen därefter så är väl nästa stora event, Jesper.
+
+
+
+`69 00:01:58,220 --> 00:01:58,720`
+Securityfest.
+
+
+
+`70 00:01:58,720 --> 00:01:59,220`
+Jajamän.
+
+
+
+`71 00:01:59,220 --> 00:01:59,720`
+Yay.
+
+
+
+`72 00:01:59,720 --> 00:02:00,720`
+Där kommer vi kanske att vara.
+
+
+
+`73 00:02:00,720 --> 00:02:01,720`
+När går det i avstapeln?
+
+
+
+`74 00:02:01,720 --> 00:02:03,720`
+Det är ju en liten twist i år.
+
+
+
+`75 00:02:03,720 --> 00:02:04,220`
+Mm.
+
+
+
+`76 00:02:04,220 --> 00:02:06,220`
+För vi kör inte som vi tidigare har gjort.
+
+
+
+`77 00:02:06,220 --> 00:02:06,720`
+Exakt.
+
+
+
+`78 00:02:06,720 --> 00:02:09,220`
+Vi har ju gjort det här i samband med...
+
+
+
+`79 00:02:09,220 --> 00:02:10,220`
+Vad heter den?
+
+
+
+`80 00:02:10,220 --> 00:02:11,720`
+Sveriges dag.
+
+
+
+`81 00:02:11,720 --> 00:02:12,720`
+Nationaldag.
+
+
+
+`82 00:02:12,720 --> 00:02:13,720`
+Nationaldag.
+
+
+
+`83 00:02:13,720 --> 00:02:14,720`
+Exakt.
+
+
+
+`84 00:02:14,720 --> 00:02:16,220`
+Den dagen vi firar Sverige.
+
+
+
+`85 00:02:16,220 --> 00:02:17,220`
+Exakt, exakt.
+
+
+
+`86 00:02:17,220 --> 00:02:20,220`
+Den dagen har ju typ fallit in där normalt sett.
+
+
+
+`87 00:02:20,220 --> 00:02:21,720`
+Så vi har tidigare lagt det.
+
+
+
+`88 00:02:21,720 --> 00:02:24,220`
+Så det är alltså 23-24 maj va?
+
+
+
+`89 00:02:24,220 --> 00:02:24,720`
+Nej.
+
+
+
+`90 00:02:24,720 --> 00:02:25,220`
+Nej.
+
+
+
+`91 00:02:25,220 --> 00:02:25,720`
+Nej.
+
+
+
+`92 00:02:25,720 --> 00:02:26,220`
+Inte alls.
+
+
+
+`93 00:02:26,220 --> 00:02:26,720`
+Nej, inte det.
+
+
+
+`94 00:02:26,720 --> 00:02:27,220`
+Nej, inte det.
+
+
+
+`95 00:02:27,220 --> 00:02:27,720`
+Inte nära.
+
+
+
+`96 00:02:27,720 --> 00:02:28,220`
+Inte nära.
+
+
+
+`97 00:02:28,220 --> 00:02:29,720`
+Jag vet ju fan att jag har tyckt det.
+
+
+
+`98 00:02:29,720 --> 00:02:30,220`
+När är det då?
+
+
+
+`99 00:02:30,220 --> 00:02:32,720`
+Som jag vet så är det den fjärde och femte juni.
+
+
+
+`100 00:02:32,720 --> 00:02:33,220`
+Japp.
+
+
+
+`101 00:02:33,220 --> 00:02:33,720`
+Ja, just det.
+
+
+
+`102 00:02:33,720 --> 00:02:34,220`
+Just det.
+
+
+
+`103 00:02:34,220 --> 00:02:34,720`
+Det är precis innan.
+
+
+
+`104 00:02:34,720 --> 00:02:35,220`
+Tidigare i veckan är det.
+
+
+
+`105 00:02:35,220 --> 00:02:36,220`
+Sade du, det är tidigare i veckan.
+
+
+
+`106 00:02:36,220 --> 00:02:36,720`
+Så är det.
+
+
+
+`107 00:02:36,720 --> 00:02:37,720`
+Killen med koll.
+
+
+
+`108 00:02:37,720 --> 00:02:38,720`
+Nej, jag har inte det.
+
+
+
+`109 00:02:38,720 --> 00:02:39,720`
+Jag har nog om andra grejer.
+
+
+
+`110 00:02:39,720 --> 00:02:40,720`
+Det är lugnt.
+
+
+
+`111 00:02:40,720 --> 00:02:43,720`
+Men det finns fler i teamet som har koll, uppenbarligen.
+
+
+
+`112 00:02:43,720 --> 00:02:44,220`
+Men...
+
+
+
+`113 00:02:44,220 --> 00:02:46,720`
+Men varför pluggar vi Securityfest egentligen?
+
+
+
+`114 00:02:46,720 --> 00:02:48,220`
+Ja, för det är ju slutsånt.
+
+
+
+`115 00:02:48,220 --> 00:02:49,720`
+Kolla på Peters stream.
+
+
+
+`116 00:02:49,720 --> 00:02:50,220`
+Mm.
+
+
+
+`117 00:02:50,220 --> 00:02:51,220`
+Kolla på Peters stream.
+
+
+
+`118 00:02:51,220 --> 00:02:52,720`
+Jag menar, dyk upp.
+
+
+
+`119 00:02:52,720 --> 00:02:54,720`
+Se ifall ni kan ta er in ändå.
+
+
+
+`120 00:02:54,720 --> 00:02:55,220`
+Oh\!
+
+
+
+`121 00:02:55,220 --> 00:02:56,220`
+Ernst eller Ernst.
+
+
+
+`122 00:02:56,720 --> 00:02:57,220`
+Ja.
+
+
+
+`123 00:02:57,220 --> 00:02:58,720`
+Jag är expert, jag behöver något att göra.
+
+
+
+`124 00:02:58,720 --> 00:02:59,220`
+Ja, exakt.
+
+
+
+`125 00:02:59,220 --> 00:03:00,220`
+Jag behöver leta upp er.
+
+
+
+`126 00:03:00,220 --> 00:03:01,220`
+För vi har ingenting att göra.
+
+
+
+`127 00:03:01,220 --> 00:03:03,220`
+Det finns ingen väntelista eller någonting att kota där.
+
+
+
+`128 00:03:03,220 --> 00:03:03,720`
+Det gör det faktiskt.
+
+
+
+`129 00:03:03,720 --> 00:03:06,720`
+Man kan signa upp sig på väntelistan och det finns faktiskt en möjlighet att köpa biljetter.
+
+
+
+`130 00:03:06,720 --> 00:03:10,220`
+Det är nämligen så att vi har biljetter kvar till en utav våra trainings.
+
+
+
+`131 00:03:10,220 --> 00:03:13,220`
+Och det är inte så många, men ifall ni köper dem nu så har ni en chans.
+
+
+
+`132 00:03:13,220 --> 00:03:18,220`
+Exakt, så det går faktiskt att komma på Securityfest om man också då slår till på en training.
+
+
+
+`133 00:03:18,220 --> 00:03:18,720`
+Precis.
+
+
+
+`134 00:03:18,720 --> 00:03:23,720`
+Och ifall man behöver sätta upp sig på väntelistan så gör man det genom att mejla hello at securityfest.com.
+
+
+
+`135 00:03:23,720 --> 00:03:24,720`
+Exakt så är det faktiskt.
+
+
+
+`136 00:03:24,720 --> 00:03:27,720`
+Hello, who's it me you're looking for?
+
+
+
+`137 00:03:27,720 --> 00:03:31,720`
+Jag vet att det rör på sig lite där, så det kan faktiskt vara värt att göra det där.
+
+
+
+`138 00:03:31,720 --> 00:03:33,720`
+Och i sista sekund så brukar vi skaka fram grejer.
+
+
+
+`139 00:03:33,720 --> 00:03:36,720`
+Vi får avbokningar och då kan det lösa sig.
+
+
+
+`140 00:03:36,720 --> 00:03:38,720`
+Men efter det, Jesper.
+
+
+
+`141 00:03:38,720 --> 00:03:41,720`
+Då tänker jag mig att då måste det vara nära hummelsäsong.
+
+
+
+`142 00:03:41,720 --> 00:03:42,720`
+Ja, inte riktigt så långt bort.
+
+
+
+`143 00:03:42,720 --> 00:03:45,720`
+Utan tionde till elfte juni.
+
+
+
+`144 00:03:45,720 --> 00:03:46,720`
+Ja, okej.
+
+
+
+`145 00:03:46,720 --> 00:03:47,720`
+Då är det ett B-Sides-event.
+
+
+
+`146 00:03:47,720 --> 00:03:49,720`
+Är det i Umeå eller?
+
+
+
+`147 00:03:49,720 --> 00:03:50,720`
+Umeå?
+
+
+
+`148 00:03:50,720 --> 00:03:51,720`
+Det är mycket möjligt.
+
+
+
+`149 00:03:51,720 --> 00:03:53,720`
+Jajamansan, Umeå universitet.
+
+
+
+`150 00:03:53,720 --> 00:03:55,720`
+Och Peter ska åka dit?
+
+
+
+`151 00:03:55,720 --> 00:03:57,720`
+Det går kanske drygt om det. Har jag sagt det eller?
+
+
+
+`152 00:03:57,720 --> 00:04:01,720`
+Nej, jag vet inte. Jag tänkte bara att det är långt, så jag tänkte att jag skickar Peter.
+
+
+
+`153 00:04:01,720 --> 00:04:03,720`
+Gå till Umeå för att träffa Peter.
+
+
+
+`154 00:04:03,720 --> 00:04:04,720`
+Kanske.
+
+
+
+`155 00:04:04,720 --> 00:04:06,720`
+Ja, eventuellt.
+
+
+
+`156 00:04:06,720 --> 00:04:07,720`
+Jag tycker att Peter ska åka dit.
+
+
+
+`157 00:04:07,720 --> 00:04:08,720`
+Nobody knows.
+
+
+
+`158 00:04:08,720 --> 00:04:09,720`
+Jag skulle säga att det är värt risken.
+
+
+
+`159 00:04:09,720 --> 00:04:10,720`
+Ja, chansen.
+
+
+
+`160 00:04:10,720 --> 00:04:11,720`
+Ja, amen.
+
+
+
+`161 00:04:11,720 --> 00:04:14,720`
+Så är det faktiskt. Men sen närmar vi oss hummelsäsongen.
+
+
+
+`162 00:04:14,720 --> 00:04:17,720`
+Nu börjar vi, som sagt, lägga närma oss hummelsäsongen.
+
+
+
+`163 00:04:17,720 --> 00:04:19,720`
+Men det är inte det vi ska prata om.
+
+
+
+`164 00:04:19,720 --> 00:04:20,720`
+September. Vad händer då?
+
+
+
+`165 00:04:20,720 --> 00:04:21,720`
+Då är det ju 60.
+
+
+
+`166 00:04:21,720 --> 00:04:22,720`
+Det är ju det.
+
+
+
+`167 00:04:22,720 --> 00:04:23,720`
+Billeterna är släppta.
+
+
+
+`168 00:04:23,720 --> 00:04:24,720`
+Kommer du att vara där i år?
+
+
+
+`169 00:04:24,720 --> 00:04:25,720`
+Jag kommer att vara där.
+
+
+
+`170 00:04:25,720 --> 00:04:26,720`
+Du kommer att vara där?
+
+
+
+`171 00:04:26,720 --> 00:04:27,720`
+Jag har inte köpt biljett.
+
+
+
+`172 00:04:27,720 --> 00:04:28,720`
+Jag har inte heller köpt biljett.
+
+
+
+`173 00:04:28,720 --> 00:04:30,720`
+Jag har köpt biljett.
+
+
+
+`174 00:04:30,720 --> 00:04:35,720`
+Det här brukar ju krocka med när jag måste vara nere i Berlin.
+
+
+
+`175 00:04:35,720 --> 00:04:39,720`
+Vilket alltid är den helgen i september.
+
+
+
+`176 00:04:39,720 --> 00:04:41,720`
+Men ifall det inte sker så kommer jag försöka vara där.
+
+
+
+`177 00:04:41,720 --> 00:04:44,720`
+Det gör du helt rätt i. Jag tror att det finns biljetter kvar faktiskt.
+
+
+
+`178 00:04:44,720 --> 00:04:47,720`
+Då in och handla.
+
+
+
+`179 00:04:47,720 --> 00:04:51,720`
+Men vi kommer att vara där så vi får ladda på oss lite stickers.
+
+
+
+`180 00:04:51,720 --> 00:04:53,720`
+Så kom fram och säg hej.
+
+
+
+`181 00:04:53,720 --> 00:04:56,720`
+Vi kommer inte att köra någon intervjukör i år.
+
+
+
+`182 00:04:56,720 --> 00:04:57,720`
+Vad jag vet.
+
+
+
+`183 00:04:57,720 --> 00:04:58,720`
+Om vi inte får feeling.
+
+
+
+`184 00:04:58,720 --> 00:04:59,720`
+Ja.
+
+
+
+`185 00:04:59,720 --> 00:05:01,720`
+Om vi inte får feeling men inget organiserat.
+
+
+
+`186 00:05:01,720 --> 00:05:03,720`
+Jag vill gå på en egen con.
+
+
+
+`187 00:05:03,720 --> 00:05:05,720`
+Det blir så jäkla mycket springa runt annars.
+
+
+
+`188 00:05:05,720 --> 00:05:06,720`
+Det är sant.
+
+
+
+`189 00:05:06,720 --> 00:05:08,720`
+Så jag känner nog att jag vill njuta lite.
+
+
+
+`190 00:05:08,720 --> 00:05:10,720`
+Så vi ses i vimlet.
+
+
+
+`191 00:05:10,720 --> 00:05:12,720`
+I alla fall jag och Peter kommer att vara där.
+
+
+
+`192 00:05:12,720 --> 00:05:13,720`
+Greja lite.
+
+
+
+`193 00:05:13,720 --> 00:05:15,720`
+Och eventuellt jag.
+
+
+
+`194 00:05:15,720 --> 00:05:16,720`
+Gött.
+
+
+
+`195 00:05:16,720 --> 00:05:17,720`
+Nåväl.
+
+
+
+`196 00:05:17,720 --> 00:05:19,720`
+Det här är ju ett så kallat temavsnitt.
+
+
+
+`197 00:05:19,720 --> 00:05:20,720`
+Exakt.
+
+
+
+`198 00:05:20,720 --> 00:05:21,720`
+Strukturerat sådant.
+
+
+
+`199 00:05:21,720 --> 00:05:22,720`
+Oj, oj, oj.
+
+
+
+`200 00:05:22,720 --> 00:05:23,720`
+Vad är det vi ska prata om?
+
+
+
+`201 00:05:23,720 --> 00:05:25,720`
+Jo.
+
+
+
+`202 00:05:25,720 --> 00:05:35,720`
+Jag vet inte ifall någon har undgått att notera att det är lite jobbigt just nu i den globala politiken.
+
+
+
+`203 00:05:35,720 --> 00:05:38,720`
+Du tänker på den morotsfärgade mannen på andra sidan Atlanten.
+
+
+
+`204 00:05:38,720 --> 00:05:39,720`
+Jag vill inte säga det.
+
+
+
+`205 00:05:39,720 --> 00:05:40,720`
+Jag vill inte säga det.
+
+
+
+`206 00:05:40,720 --> 00:05:41,720`
+Men absolut inte.
+
+
+
+`207 00:05:41,720 --> 00:05:44,720`
+Har ni sett pingvinfilmen?
+
+
+
+`208 00:05:44,720 --> 00:05:47,720`
+De förklarar totalt krig mot honom.
+
+
+
+`209 00:05:47,720 --> 00:05:50,720`
+Jag tänkte på den där Pingu, hette den inte det?
+
+
+
+`210 00:05:50,720 --> 00:05:57,720`
+Ja, men det är typ massor av pingviner med röda stjärnor och snöflingor.
+
+
+
+`211 00:05:57,720 --> 00:05:58,720`
+P.B. Magnusson.
+
+
+
+`212 00:05:58,720 --> 00:05:59,720`
+Är det kommunistpingviner?
+
+
+
+`213 00:05:59,720 --> 00:06:00,720`
+Jajamensan.
+
+
+
+`214 00:06:00,720 --> 00:06:02,720`
+Åh, bästa sorten.
+
+
+
+`215 00:06:02,720 --> 00:06:03,720`
+Kuban.
+
+
+
+`216 00:06:03,720 --> 00:06:04,720`
+De kanske bor på Kuba.
+
+
+
+`217 00:06:04,720 --> 00:06:05,720`
+Nej, men så här är det ju.
+
+
+
+`218 00:06:05,720 --> 00:06:08,720`
+För att ge en liten inblick här bakom kulisserna.
+
+
+
+`219 00:06:08,720 --> 00:06:16,720`
+Så är det ju så att vi roterar vem som har ansvar för att skita på i teman.
+
+
+
+`220 00:06:16,720 --> 00:06:19,720`
+Och den här gången så föll det ansvaret på mig.
+
+
+
+`221 00:06:19,720 --> 00:06:25,720`
+Så jag skrev i våran interna chatt här att det här temat ska vara
+
+
+
+`222 00:06:25,720 --> 00:06:29,720`
+Vad betyder säkerhet när de transatlantiska relationerna bryter samman?
+
+
+
+`223 00:06:29,720 --> 00:06:33,720`
+Jag har använt flera uppslagsverk för att förstå den här formuleringen.
+
+
+
+`224 00:06:33,720 --> 00:06:34,720`
+Visst är den svår?
+
+
+
+`225 00:06:34,720 --> 00:06:35,720`
+Men jag har fått en...
+
+
+
+`226 00:06:35,720 --> 00:06:36,720`
+Vad sa chatten GPT?
+
+
+
+`227 00:06:36,720 --> 00:06:37,720`
+Exakt.
+
+
+
+`228 00:06:37,720 --> 00:06:41,720`
+Men trans som är transformer.
+
+
+
+`229 00:06:41,720 --> 00:06:42,720`
+Ja, exakt.
+
+
+
+`230 00:06:42,720 --> 00:06:43,720`
+Nu kommer det Peter-logik här.
+
+
+
+`231 00:06:43,720 --> 00:06:44,720`
+Optimus Prime.
+
+
+
+`232 00:06:44,720 --> 00:06:45,720`
+Håll i er.
+
+
+
+`233 00:06:45,720 --> 00:06:46,720`
+Håll i er.
+
+
+
+`234 00:06:46,720 --> 00:06:47,720`
+Optimus Primes.
+
+
+
+`235 00:06:47,720 --> 00:06:48,720`
+Okej.
+
+
+
+`236 00:06:48,720 --> 00:06:50,720`
+Ska vi ta en liten sidequest här?
+
+
+
+`237 00:06:50,720 --> 00:06:53,720`
+Peters typ av kom-ihåg-språk.
+
+
+
+`238 00:06:53,720 --> 00:06:55,720`
+Mina första minnen med Peter.
+
+
+
+`239 00:06:55,720 --> 00:06:58,720`
+Det är när vi ska köra CISP.
+
+
+
+`240 00:06:58,720 --> 00:07:00,720`
+Jag vet inte ens vad det står för.
+
+
+
+`241 00:07:00,720 --> 00:07:02,720`
+Tråkigt står det för.
+
+
+
+`242 00:07:02,720 --> 00:07:04,720`
+Så vi har någon genomgång där.
+
+
+
+`243 00:07:04,720 --> 00:07:06,720`
+Och det här är många år sedan.
+
+
+
+`244 00:07:06,720 --> 00:07:08,720`
+Så jag och Peter står bredvid varandra.
+
+
+
+`245 00:07:08,720 --> 00:07:11,720`
+Vi har inte pratat så mycket med varandra men vi står bredvid varandra.
+
+
+
+`246 00:07:11,720 --> 00:07:15,720`
+Och så är det någon som har en lång jäkla utläggning om någonting inom CISP.
+
+
+
+`247 00:07:15,720 --> 00:07:16,720`
+Vad vet jag.
+
+
+
+`248 00:07:16,720 --> 00:07:19,720`
+Och Peter typ stannar upp och tittar på mig.
+
+
+
+`249 00:07:19,720 --> 00:07:21,720`
+Ja men det är sån här draken.
+
+
+
+`250 00:07:21,720 --> 00:07:24,720`
+Och så har han en utläggning om en drake i 15 minuter.
+
+
+
+`251 00:07:24,720 --> 00:07:26,720`
+Och sen går Peter.
+
+
+
+`252 00:07:26,720 --> 00:07:30,720`
+Men jag har en annan briljant grej där.
+
+
+
+`253 00:07:30,720 --> 00:07:33,720`
+Där var det någon som...
+
+
+
+`254 00:07:33,720 --> 00:07:34,720`
+Tänk av dig.
+
+
+
+`255 00:07:34,720 --> 00:07:35,720`
+Det var möjligt.
+
+
+
+`256 00:07:35,720 --> 00:07:38,720`
+Jag kommer ihåg PIN-koden för att komma in i byggnaden.
+
+
+
+`257 00:07:38,720 --> 00:07:39,720`
+Och jag sa.
+
+
+
+`258 00:07:39,720 --> 00:07:41,720`
+Nej men det är enkelt att bara komma ihåg.
+
+
+
+`259 00:07:41,720 --> 00:07:51,720`
+Det är det året som de kidnappade de israeliska atleterna.
+
+
+
+`260 00:07:51,720 --> 00:07:54,720`
+Och då säger den här killen upprörd.
+
+
+
+`261 00:07:54,720 --> 00:07:57,720`
+Men det är ju inte det året som är koden.
+
+
+
+`262 00:07:57,720 --> 00:07:59,720`
+Det är bra.
+
+
+
+`263 00:08:01,720 --> 00:08:03,720`
+Säkerhet by terror.
+
+
+
+`264 00:08:03,720 --> 00:08:05,720`
+Det är fucking obscurity på riktigt.
+
+
+
+`265 00:08:05,720 --> 00:08:06,720`
+Exakt.
+
+
+
+`266 00:08:06,720 --> 00:08:07,720`
+Off by everything.
+
+
+
+`267 00:08:07,720 --> 00:08:09,720`
+Du behöver ju bara tänka på terroristaktioner under olympiska spel.
+
+
+
+`268 00:08:09,720 --> 00:08:10,720`
+Det är ju det senaste nu.
+
+
+
+`269 00:08:10,720 --> 00:08:13,720`
+Och sen tänk bara lite extra efter det.
+
+
+
+`270 00:08:13,720 --> 00:08:15,720`
+Och sen bara fjusa ihop och få synapser på det där.
+
+
+
+`271 00:08:15,720 --> 00:08:18,720`
+Jag såg den filmen nyligen. Den var jättebra.
+
+
+
+`272 00:08:18,720 --> 00:08:21,720`
+Den finns på någon sån streamingkanal just nu tror jag.
+
+
+
+`273 00:08:21,720 --> 00:08:22,720`
+Ja.
+
+
+
+`274 00:08:22,720 --> 00:08:23,720`
+Gå in och se den.
+
+
+
+`275 00:08:23,720 --> 00:08:24,720`
+Det var en sidequest.
+
+
+
+`276 00:08:24,720 --> 00:08:26,720`
+I alla fall. Det här är ett strukturerat avsnitt.
+
+
+
+`277 00:08:26,720 --> 00:08:28,720`
+Vi failar rätt hårt.
+
+
+
+`278 00:08:28,720 --> 00:08:31,720`
+Jans atlantiska förbindelserna.
+
+
+
+`279 00:08:31,720 --> 00:08:32,720`
+Jajamen.
+
+
+
+`280 00:08:32,720 --> 00:08:33,720`
+Så Jesper.
+
+
+
+`281 00:08:33,720 --> 00:08:34,720`
+Mm.
+
+
+
+`282 00:08:34,720 --> 00:08:35,720`
+Vad tror du kan hända?
+
+
+
+`283 00:08:35,720 --> 00:08:42,720`
+Eller vad tror du kan ställa till med lite problem för oss ifall nu den orangea mannen bestämmer sig för att dra den stora pluggen?
+
+
+
+`284 00:08:42,720 --> 00:08:48,720`
+Han kommer säga Microsoft, Google, ni får inte längre leverera molntjänster till Europa.
+
+
+
+`285 00:08:48,720 --> 00:08:51,720`
+Ja, då blir det ju problematiskt ganska snabbt.
+
+
+
+`286 00:08:51,720 --> 00:08:54,720`
+Ja, det är redan ganska problematiskt för att vara helt ärlig.
+
+
+
+`287 00:08:54,720 --> 00:08:56,720`
+Men frågan är, just det...
+
+
+
+`288 00:08:56,720 --> 00:08:59,720`
+Okej, men allt kan ju hända i den orangea mannens värld.
+
+
+
+`289 00:08:59,720 --> 00:09:01,720`
+Men varför skulle han...
+
+
+
+`290 00:09:01,720 --> 00:09:03,720`
+Varför skulle han fatta ett sånt beslut?
+
+
+
+`291 00:09:03,720 --> 00:09:04,720`
+Men han skulle ju få Microsoft...
+
+
+
+`292 00:09:04,720 --> 00:09:05,720`
+Alltså, varför inte...
+
+
+
+`293 00:09:05,720 --> 00:09:09,720`
+Men Microsoft, det jag menar, Microsoft, AWS och Google, de skulle ju bli rätt upprörda.
+
+
+
+`294 00:09:09,720 --> 00:09:10,720`
+Ja.
+
+
+
+`295 00:09:10,720 --> 00:09:11,720`
+Men...
+
+
+
+`296 00:09:11,720 --> 00:09:18,720`
+Det är ju det som jag tycker har varit intressant med Trump 2.0, alltså hans andra term.
+
+
+
+`297 00:09:18,720 --> 00:09:25,720`
+Han verkar ju inte bry sig så mycket om hur upprörda just kapitalet blir.
+
+
+
+`298 00:09:25,720 --> 00:09:28,720`
+Nej, men det var ju det man ändå trodde.
+
+
+
+`299 00:09:28,720 --> 00:09:31,720`
+Att såhär, ifall man kommer göra någonting så är det väl att stryka kapitalet med hår.
+
+
+
+`300 00:09:31,720 --> 00:09:32,720`
+Om man säger såhär...
+
+
+
+`301 00:09:32,720 --> 00:09:34,720`
+Staten och kapitalet sitter i samma båt.
+
+
+
+`302 00:09:34,720 --> 00:09:36,720`
+Nej, fan inte nu.
+
+
+
+`303 00:09:36,720 --> 00:09:37,720`
+Nej, så är det ju.
+
+
+
+`304 00:09:37,720 --> 00:09:39,720`
+Vi är inte ens i samma fucking ocean.
+
+
+
+`305 00:09:39,720 --> 00:09:41,720`
+Men på riktigt såhär, man kan ju vända...
+
+
+
+`306 00:09:41,720 --> 00:09:45,720`
+Jag har funderat ganska mycket på det här, för jag är ju inte...
+
+
+
+`307 00:09:45,720 --> 00:09:47,720`
+Om man ska bli lite seriösare då.
+
+
+
+`308 00:09:47,720 --> 00:09:49,720`
+Det är vi hela tiden, som ni märker.
+
+
+
+`309 00:09:49,720 --> 00:09:54,720`
+Så blir man ju lite upprörd som användare av amerikanska tjänster.
+
+
+
+`310 00:09:54,720 --> 00:10:01,720`
+Att det känns inte värderingsmässigt en bra idé att stoppa in pengar där.
+
+
+
+`311 00:10:01,720 --> 00:10:03,720`
+Så känner jag privat.
+
+
+
+`312 00:10:03,720 --> 00:10:05,720`
+Och då tänker man alternativ.
+
+
+
+`313 00:10:05,720 --> 00:10:13,720`
+För den större risken kanske inte är att det finns en executive order som säger att Google och Microsoft inte får leverera...
+
+
+
+`314 00:10:13,720 --> 00:10:15,720`
+Eller Amazon får leverera molntjänster.
+
+
+
+`315 00:10:15,720 --> 00:10:20,720`
+Den större risken är väl att Europa bestämmer sig för att det här är ingenting...
+
+
+
+`316 00:10:20,720 --> 00:10:23,720`
+Det är här ingen plats vi kan lägga våra hemliga data längre.
+
+
+
+`317 00:10:23,720 --> 00:10:25,720`
+Jag kan tänka mig också som en...
+
+
+
+`318 00:10:25,720 --> 00:10:29,720`
+Vi har ju haft Shrems 1 och Shrems 2 och nu kommer väl snart Shrems 3 då.
+
+
+
+`319 00:10:29,720 --> 00:10:30,720`
+Privacy Shield.
+
+
+
+`320 00:10:30,720 --> 00:10:32,720`
+Den senaste inkarnationen heter att den är out the window.
+
+
+
+`321 00:10:32,720 --> 00:10:37,720`
+Och då har vi ju uppenbara GDPR-problem med att överhuvudtaget använda en amerikansk leverantör.
+
+
+
+`322 00:10:37,720 --> 00:10:40,720`
+Så att...
+
+
+
+`323 00:10:40,720 --> 00:10:44,720`
+Och med en jävligt volatil regering på andra sidan...
+
+
+
+`324 00:10:44,720 --> 00:10:51,720`
+Så känns det som att icke-amerikanska intressen är oviktigare än någonsin ur deras perspektiv.
+
+
+
+`325 00:10:51,720 --> 00:10:57,720`
+Och då är det ju bra och klok business att inte lägga sina data där.
+
+
+
+`326 00:10:57,720 --> 00:10:58,720`
+Alltså du behöver...
+
+
+
+`327 00:10:58,720 --> 00:10:59,720`
+Du bör...
+
+
+
+`328 00:10:59,720 --> 00:11:01,720`
+Om du har känslig data så bör du leta efter...
+
+
+
+`329 00:11:01,720 --> 00:11:03,720`
+Vi har ju också även...
+
+
+
+`330 00:11:03,720 --> 00:11:07,720`
+Vi har ju också potentiella hotet från oss själva för att...
+
+
+
+`331 00:11:07,720 --> 00:11:16,720`
+Det är ju inte omöjligt att vi väljer att lägga jättemycket tariffer eller motsvarande beskattning på service som kommer från de amerikanska bolagen.
+
+
+
+`332 00:11:16,720 --> 00:11:17,720`
+Ja, precis.
+
+
+
+`333 00:11:17,720 --> 00:11:19,720`
+Det är ju den stora släggen som Europa har.
+
+
+
+`334 00:11:19,720 --> 00:11:20,720`
+Det är ju det.
+
+
+
+`335 00:11:20,720 --> 00:11:21,720`
+Det är ju det.
+
+
+
+`336 00:11:21,720 --> 00:11:22,720`
+Men sen så är det ju...
+
+
+
+`337 00:11:22,720 --> 00:11:26,720`
+Det här är ju också bara en lek med ord och papperstiglar.
+
+
+
+`338 00:11:26,720 --> 00:11:27,720`
+Så att...
+
+
+
+`339 00:11:27,720 --> 00:11:28,720`
+Ja, det är ju det.
+
+
+
+`340 00:11:28,720 --> 00:11:29,720`
+Vi pratar ju mycket om...
+
+
+
+`341 00:11:29,720 --> 00:11:30,720`
+Ja, absolut.
+
+
+
+`342 00:11:30,720 --> 00:11:35,720`
+Men vi pratar ju nu då om vart ska data lagras.
+
+
+
+`343 00:11:35,720 --> 00:11:46,720`
+Jo, men vi väljer att bara använda lokationer som AWS, Amazon, Microsoft, Azure eller Google Cloud har i Europa.
+
+
+
+`344 00:11:46,720 --> 00:11:49,720`
+Men det spelar ingen roll för att det är ett amerikanskt bolag.
+
+
+
+`345 00:11:49,720 --> 00:11:50,720`
+Ja, ja, ja.
+
+
+
+`346 00:11:50,720 --> 00:11:52,720`
+Nej, du måste lämna dem helt.
+
+
+
+`347 00:11:52,720 --> 00:11:54,720`
+Du behöver ett helt nytt ekosystem.
+
+
+
+`348 00:11:54,720 --> 00:11:55,720`
+Exakt.
+
+
+
+`349 00:11:55,720 --> 00:11:56,720`
+Och det finns ju.
+
+
+
+`350 00:11:56,720 --> 00:11:58,720`
+Det finns ju en rad europeiska leverantörer.
+
+
+
+`351 00:11:58,720 --> 00:12:00,720`
+Det är bara det att de inte har samma...
+
+
+
+`352 00:12:00,720 --> 00:12:03,720`
+Vi har inte promotat dem för de har inte kunnat slå sig in.
+
+
+
+`353 00:12:03,720 --> 00:12:08,720`
+Det är bra det som sker nu att vi i Europa som konsumenter och som bolag börjar titta efter en allt annan alternativ.
+
+
+
+`354 00:12:08,720 --> 00:12:12,720`
+Men vad har vi för lead time på att bygga upp den typen av kapabilitet?
+
+
+
+`355 00:12:12,720 --> 00:12:13,720`
+Det kommer nog att ta tid.
+
+
+
+`356 00:12:13,720 --> 00:12:16,720`
+Och det finns ju motsvarande stora målleverantörer.
+
+
+
+`357 00:12:16,720 --> 00:12:18,720`
+Det finns ju också nya leverantörer som ploppar upp.
+
+
+
+`358 00:12:18,720 --> 00:12:21,720`
+Sen är ju bara frågan hur mycket järn de lyckas...
+
+
+
+`359 00:12:21,720 --> 00:12:24,720`
+Vi fick ju en lyssnare.
+
+
+
+`360 00:12:24,720 --> 00:12:27,720`
+Jag kan inte för mitt liv komma på namnet på någon just nu.
+
+
+
+`361 00:12:27,720 --> 00:12:31,720`
+Men som mejlade oss för någon månad sedan om den här EU Alternatives 2 som just...
+
+
+
+`362 00:12:31,720 --> 00:12:33,720`
+Och den innehåller ju en del men inte alla.
+
+
+
+`363 00:12:33,720 --> 00:12:37,720`
+Det finns ju en rad stora flaggskepp som är på gång.
+
+
+
+`364 00:12:37,720 --> 00:12:42,720`
+Jag vet bland annat Evroc som kommer bli en stor målleverantör som kommer bara titta på europeiskt.
+
+
+
+`365 00:12:42,720 --> 00:12:48,720`
+Men frågan är, det här kommer ju bli ett stålbad för dem som behöver titta över sina avtal.
+
+
+
+`366 00:12:48,720 --> 00:12:53,720`
+Vad har de för avtal med de stora amerikanska målleverantörerna när det handlar om att ta med sig sin data ut ur molntjänsterna?
+
+
+
+`367 00:12:53,720 --> 00:12:54,720`
+Exakt.
+
+
+
+`368 00:12:54,720 --> 00:13:02,720`
+Jag tycker det är skitbra att det nu blir så här, det här kan ju realiseras.
+
+
+
+`369 00:13:02,720 --> 00:13:05,720`
+Inlånsfaktorn har ju varit en grej.
+
+
+
+`370 00:13:05,720 --> 00:13:09,720`
+Det är väldigt intressant det där, lite som Peter var inne på.
+
+
+
+`371 00:13:09,720 --> 00:13:15,720`
+Om nu tarifferna ökar med 30-40% då finns ju ingen idé vad kvar.
+
+
+
+`372 00:13:15,720 --> 00:13:17,720`
+Då är det billigare att ha egna järn kanske.
+
+
+
+`373 00:13:17,720 --> 00:13:23,720`
+Ja men sen så får man ju se till hela den leveranskedjan då.
+
+
+
+`374 00:13:23,720 --> 00:13:27,720`
+Och helt plötsligt såg jag att vi är tillbaka till de lokala datahallarna.
+
+
+
+`375 00:13:27,720 --> 00:13:30,720`
+Sysadmin lever igen.
+
+
+
+`376 00:13:30,720 --> 00:13:34,720`
+Var det inte det här någonting vi kanske förutspådde?
+
+
+
+`377 00:13:34,720 --> 00:13:39,720`
+Jag ser ju jättemycket utav mina kunder, särskilt inom...
+
+
+
+`378 00:13:39,720 --> 00:13:40,720`
+Home location.
+
+
+
+`379 00:13:40,720 --> 00:13:45,720`
+Ja, nej men att de tittar på hybridlösningar, att köra grejer on-prem igen.
+
+
+
+`380 00:13:45,720 --> 00:13:51,720`
+Så de orkestrerar och sedan så, vad ska man säga, annonserar dem.
+
+
+
+`381 00:13:51,720 --> 00:13:55,720`
+Så de har alltså orkestrering på mer än ett ställe.
+
+
+
+`382 00:13:55,720 --> 00:13:58,720`
+Och det handlar ju inte bara om att köra det i sina egna järn.
+
+
+
+`383 00:13:58,720 --> 00:14:01,720`
+Utan det kan vara att man har flera molnleverantörer.
+
+
+
+`384 00:14:01,720 --> 00:14:05,720`
+Just för att kunna skifta till din molnleverantör som faktiskt är billigast för stunden då.
+
+
+
+`385 00:14:05,720 --> 00:14:07,720`
+Och det där tror jag på.
+
+
+
+`386 00:14:07,720 --> 00:14:16,720`
+Sen ekonomi och att prislappen går upp 20-30% kommer nog sätta eld på det migreringsarbetet snabbt.
+
+
+
+`387 00:14:16,720 --> 00:14:19,720`
+Men det kanske är dags för Java igen då.
+
+
+
+`388 00:14:19,720 --> 00:14:22,720`
+Jag skulle vilja säga program once, deploy anywhere.
+
+
+
+`389 00:14:22,720 --> 00:14:25,720`
+Alltså det gick ju alltid bra.
+
+
+
+`390 00:14:25,720 --> 00:14:30,720`
+Men det här är ju svårt att förutspå såklart.
+
+
+
+`391 00:14:30,720 --> 00:14:40,720`
+Men jag antar att det finns en hel del företag och förhoppningsvis även myndighetsstödda eller regimestödda initiativ på det här temat.
+
+
+
+`392 00:14:40,720 --> 00:14:42,720`
+Sverige är ju ett bra land för detta.
+
+
+
+`393 00:14:42,720 --> 00:14:45,720`
+Det är kallt, vi har bra infrastruktur och mycket internet.
+
+
+
+`394 00:14:45,720 --> 00:14:48,720`
+Jag läste idag att Microsoft bestämde sig för att dra sig ur en upphandling.
+
+
+
+`395 00:14:48,720 --> 00:14:51,720`
+En upphandling av datahallar i Sverige.
+
+
+
+`396 00:14:51,720 --> 00:14:53,720`
+Det gör de lika bra i kanske.
+
+
+
+`397 00:14:53,720 --> 00:14:54,720`
+Ja, kanske.
+
+
+
+`398 00:14:54,720 --> 00:15:00,720`
+Apropå skatt eller tull på tjänster, har du hört någonting om det?
+
+
+
+`399 00:15:00,720 --> 00:15:04,720`
+Alltså när vi snackar om att EU ska svara med tullare tillbaks.
+
+
+
+`400 00:15:04,720 --> 00:15:07,720`
+Har tjänster varit med i snacket?
+
+
+
+`401 00:15:07,720 --> 00:15:09,720`
+Ja, det har det ju varit.
+
+
+
+`402 00:15:09,720 --> 00:15:15,720`
+Det har man pratat om som att det skulle kunna vara en grej som är...
+
+
+
+`403 00:15:15,720 --> 00:15:17,720`
+Alltså att...
+
+
+
+`404 00:15:17,720 --> 00:15:22,720`
+Om EU vill bita tillbaks hårt så...
+
+
+
+`405 00:15:22,720 --> 00:15:32,720`
+Dels kan man angripa serviceindustrin och sen så kan man sluta vara så himla välvarlig i amerikanska IP-rättighetsgrejer och sånt.
+
+
+
+`406 00:15:32,720 --> 00:15:35,720`
+Så det har pratats...
+
+
+
+`407 00:15:35,720 --> 00:15:37,720`
+Men alltså såhär...
+
+
+
+`408 00:15:37,720 --> 00:15:39,720`
+Jag vet ju bara...
+
+
+
+`409 00:15:39,720 --> 00:15:42,720`
+Vad är det man har hört på The Great Grapevine eller vad de säger.
+
+
+
+`410 00:15:42,720 --> 00:15:46,720`
+Det är ju inte så att jag sitter och polar med högsta hundsen i EU.
+
+
+
+`411 00:15:46,720 --> 00:15:48,720`
+Och vet vad de egentligen tänker.
+
+
+
+`412 00:15:48,720 --> 00:15:52,720`
+Det säger du bara. Vi vet ju att du fikar med dem på daglig basis.
+
+
+
+`413 00:15:52,720 --> 00:15:55,720`
+Ja, men jag vill inte gå ut med det.
+
+
+
+`414 00:15:55,720 --> 00:15:57,720`
+Nej, men det vill inte jag förstå.
+
+
+
+`415 00:15:57,720 --> 00:15:58,720`
+Visst.
+
+
+
+`416 00:15:58,720 --> 00:16:05,720`
+Nej, men så ur ett målleveransperspektiv så tror jag att det är verkligen en ny klondike idé.
+
+
+
+`417 00:16:05,720 --> 00:16:07,720`
+Att vara en europeisk målleverantör.
+
+
+
+`418 00:16:07,720 --> 00:16:12,720`
+Och se till att ha hjärnet stående på våran del av världen.
+
+
+
+`419 00:16:12,720 --> 00:16:14,720`
+Det tror jag verkligen kommer vara någonting som...
+
+
+
+`420 00:16:14,720 --> 00:16:15,720`
+Tror ni att de europeiska...
+
+
+
+`421 00:16:15,720 --> 00:16:19,720`
+Att de europeiska länderna skulle kunna ta det här för långt.
+
+
+
+`422 00:16:19,720 --> 00:16:23,720`
+Det vill säga istället för att göra en paneuropeisk molntjänst.
+
+
+
+`423 00:16:23,720 --> 00:16:25,720`
+Ta det ner till en nationsnivå.
+
+
+
+`424 00:16:25,720 --> 00:16:30,720`
+Kanske. Ja, du tänker att nationerna själva investerar i det.
+
+
+
+`425 00:16:30,720 --> 00:16:31,720`
+Varför?
+
+
+
+`426 00:16:31,720 --> 00:16:32,720`
+Ja, exakt.
+
+
+
+`427 00:16:32,720 --> 00:16:36,720`
+Ja, men man skulle kunna tänka sig ett läge där de inser att...
+
+
+
+`428 00:16:36,720 --> 00:16:40,720`
+Här har vi lagt alla våra ägg i den här korgen i USA.
+
+
+
+`429 00:16:40,720 --> 00:16:44,720`
+Ja, jag tror inte att man ser Microsoft eller AVS.
+
+
+
+`430 00:16:44,720 --> 00:16:47,720`
+Eller tjänstetbjudandet som en nation.
+
+
+
+`431 00:16:47,720 --> 00:16:48,720`
+Utan det är mer bara...
+
+
+
+`432 00:16:48,720 --> 00:16:51,720`
+Jag tror att kost kommer driva förändring.
+
+
+
+`433 00:16:51,720 --> 00:16:54,720`
+Jag tror att man vill nå hela marknaden.
+
+
+
+`434 00:16:54,720 --> 00:16:56,720`
+Man vill nog rikta sig åt alla.
+
+
+
+`435 00:16:56,720 --> 00:17:00,720`
+Sen kan det vara så att enskilda spelare och enskilda datasätt.
+
+
+
+`436 00:17:00,720 --> 00:17:05,720`
+Till exempel sådant som lider under patientdatalagen.
+
+
+
+`437 00:17:05,720 --> 00:17:08,720`
+Tror jag helst ska stanna inom Sveriges gränser.
+
+
+
+`438 00:17:08,720 --> 00:17:11,720`
+Hur bra gick det då?
+
+
+
+`439 00:17:11,720 --> 00:17:12,720`
+Nej.
+
+
+
+`440 00:17:12,720 --> 00:17:17,720`
+Låt säga att det är Storbritannien som då blev ledande med en ny molntjänst.
+
+
+
+`441 00:17:17,720 --> 00:17:23,720`
+De har ju redan visat att de inte är jättesugna på att vara med i den stora EU-hegemonin.
+
+
+
+`442 00:17:23,720 --> 00:17:24,720`
+Så är det ju.
+
+
+
+`443 00:17:24,720 --> 00:17:32,720`
+Jag har svårt att se att ett bolag eller verksamhet i EU-land skulle flytta sin data från ett amerikanskt moln till ett brittiskt moln.
+
+
+
+`444 00:17:32,720 --> 00:17:35,720`
+Även om det är en bra flyttning så är det ju en jävla smärta att göra det.
+
+
+
+`445 00:17:35,720 --> 00:17:39,720`
+Varför inte då hitta en EU-leverantör direkt istället och slippa alla problem?
+
+
+
+`446 00:17:39,720 --> 00:17:40,720`
+Exakt så.
+
+
+
+`447 00:17:40,720 --> 00:17:41,720`
+Nej, men det jag tycker är bra är att...
+
+
+
+`448 00:17:41,720 --> 00:17:43,720`
+Det blir en...
+
+
+
+`449 00:17:43,720 --> 00:17:49,720`
+Att vi drar igång en dialog och en opposition där man säger att vi behöver nog kanske se efter vårt eget hus och börja producera egna tjänster.
+
+
+
+`450 00:17:49,720 --> 00:17:51,720`
+Och jag gillar också att det finns en...
+
+
+
+`451 00:17:51,720 --> 00:17:53,720`
+Det finns en motvikt lite grann.
+
+
+
+`452 00:17:53,720 --> 00:17:55,720`
+För det har ju varit en sådan...
+
+
+
+`453 00:17:59,720 --> 00:18:05,720`
+Ja, det har varit en ganska rask margtakt med allting ska till molnet utan att man tänker efter.
+
+
+
+`454 00:18:05,720 --> 00:18:09,720`
+Jag menar, om du har samhällskritisk infrastruktur så kanske det är så att...
+
+
+
+`455 00:18:09,720 --> 00:18:15,720`
+Det är dåligt om linan mellan Sverige och ditt molnleverantör i Irland försvinner tillfälligt.
+
+
+
+`456 00:18:15,720 --> 00:18:17,720`
+Och det skulle ju kunna hända.
+
+
+
+`457 00:18:17,720 --> 00:18:21,720`
+Det kanske är bättre att du har lokalt eller iallafall semilokalt din tjänst.
+
+
+
+`458 00:18:21,720 --> 00:18:22,720`
+Eller för att du behöver...
+
+
+
+`459 00:18:22,720 --> 00:18:24,720`
+För att ta bort dependencies menar jag.
+
+
+
+`460 00:18:24,720 --> 00:18:26,720`
+Från saker du inte har kontroll över.
+
+
+
+`461 00:18:26,720 --> 00:18:28,720`
+Och nu finns det iallafall en motvikt.
+
+
+
+`462 00:18:28,720 --> 00:18:30,720`
+Nu är det någon som tänker den tanken iallafall.
+
+
+
+`463 00:18:30,720 --> 00:18:32,720`
+Innan har det varit liksom, nu kör vi bara.
+
+
+
+`464 00:18:32,720 --> 00:18:34,720`
+Det är billigt och bra i molnet.
+
+
+
+`465 00:18:34,720 --> 00:18:35,720`
+Mm.
+
+
+
+`466 00:18:35,720 --> 00:18:37,720`
+Men där ser man ju också paradigmskiften där allt som molntjänster nu utvecklas.
+
+
+
+`467 00:18:37,720 --> 00:18:38,720`
+Mm.
+
+
+
+`468 00:18:38,720 --> 00:18:41,720`
+Eller har utvecklats under tio års tid.
+
+
+
+`469 00:18:41,720 --> 00:18:47,720`
+Så har ju också kostnadsfaktorn, det vill säga att man går från on-prem till molnet.
+
+
+
+`470 00:18:47,720 --> 00:18:50,720`
+Den cykeln har ju liksom varit på något sätt.
+
+
+
+`471 00:18:50,720 --> 00:18:54,720`
+Man har tagit den första besparingen och nu kommer ju nästa sinusvåg egentligen då.
+
+
+
+`472 00:18:54,720 --> 00:18:58,720`
+Där man ser vilken inlåsningsfaktor man får.
+
+
+
+`473 00:18:58,720 --> 00:19:00,720`
+Baserat på vilka tjänster man deployar.
+
+
+
+`474 00:19:00,720 --> 00:19:06,720`
+Så nu handlar det ju om att man ska använda rätt typ av tjänster inom molnleverantörens direktiv för att få de här kostnaderna.
+
+
+
+`475 00:19:06,720 --> 00:19:07,720`
+Mm.
+
+
+
+`476 00:19:07,720 --> 00:19:13,720`
+Så att det är samma typ av problem egentligen som återuppstår fast i en annan form.
+
+
+
+`477 00:19:13,720 --> 00:19:20,720`
+Och sen lägger vi på lite världsproblematik uppe på det där som bara så här, det tror jag är bra.
+
+
+
+`478 00:19:20,720 --> 00:19:24,720`
+Man får upp ett risktänk och funderar lite över vart äggen ligger.
+
+
+
+`479 00:19:24,720 --> 00:19:29,720`
+Men som du sa Johan, frågan är hur möjligt är det ens?
+
+
+
+`480 00:19:29,720 --> 00:19:36,720`
+Om jag är ett stort företag och helt plötsligt fattar beslut att okej min gamla datahallen ska inte stå tom längre utan jag vill ha en jävla massa servrar där.
+
+
+
+`481 00:19:36,720 --> 00:19:38,720`
+Nu är det dags att beställa igen.
+
+
+
+`482 00:19:38,720 --> 00:19:39,720`
+Ja, exakt.
+
+
+
+`483 00:19:39,720 --> 00:19:41,720`
+Finns det ens produktion?
+
+
+
+`484 00:19:41,720 --> 00:19:45,720`
+Och vem är det som producerar det och vem kontrollerar de leveranskedjorna?
+
+
+
+`485 00:19:45,720 --> 00:19:46,720`
+Mm.
+
+
+
+`486 00:19:46,720 --> 00:19:48,720`
+Och hur många tariffer kan man hantera?
+
+
+
+`487 00:19:48,720 --> 00:19:49,720`
+Ja, exakt.
+
+
+
+`488 00:19:49,720 --> 00:19:57,720`
+Nej men det är intressant för att det är en intressant diskussion för att skulle det bli totalitärt, det vill säga att morotsmannen vaknar upp och säger nej.
+
+
+
+`489 00:19:57,720 --> 00:19:59,720`
+Rycker internetkabeln liksom.
+
+
+
+`490 00:19:59,720 --> 00:20:05,720`
+Då är det ju, det blir ju en otrolig kaskad av saker.
+
+
+
+`491 00:20:05,720 --> 00:20:17,720`
+Tjänstedbjudandet kommer ju inte upphöra från de målleverantörerna man har för de är ju uppenbart spridda över många ekonomiska zoner eller över hela världen liksom.
+
+
+
+`492 00:20:17,720 --> 00:20:23,720`
+Men det kommer ju skapa en efterfrågan som vi nog inte har produktion att ge.
+
+
+
+`493 00:20:23,720 --> 00:20:28,720`
+Eller i alla fall inte möjlighet att skapa tillräckligt snabbt.
+
+
+
+`494 00:20:28,720 --> 00:20:29,720`
+Nej.
+
+
+
+`495 00:20:29,720 --> 00:20:31,720`
+Det är väl det som är problemet.
+
+
+
+`496 00:20:31,720 --> 00:20:33,720`
+Och det är den övningen jag tycker är bra.
+
+
+
+`497 00:20:33,720 --> 00:20:38,720`
+Att man går fram till att, ja just det, det är dumt om det är ett land som producerar allt.
+
+
+
+`498 00:20:38,720 --> 00:20:44,720`
+Egentligen är det ju motsvarande vad vi har sett med när USA börjar tveka kring hur mycket de ska sälja i NATO.
+
+
+
+`499 00:20:44,720 --> 00:20:45,720`
+Ja.
+
+
+
+`500 00:20:45,720 --> 00:20:53,720`
+Alltså det är precis den typen av motsvarande investeringar som vi ser i försvaret som vi borde egentligen se inom infrastrukturen vad gäller internet.
+
+
+
+`501 00:20:53,720 --> 00:21:02,720`
+Fan vi kommer ju inte gå tillbaka till den här verkligheten. Jag kommer ihåg när vi satt och gjorde business continuity plans och det var att man hade avtal med en hårdvaruleverantör så de kunde snabbt skaffa järn om någonting kändes.
+
+
+
+`502 00:21:02,720 --> 00:21:03,720`
+Precis.
+
+
+
+`503 00:21:03,720 --> 00:21:05,720`
+We're back baby\!
+
+
+
+`504 00:21:05,720 --> 00:21:14,720`
+Men sen är det ju roligt också såhär, eller det som är intressant är ju också såhär, kommersen bygger ju också på tillgång och efterfrågan.
+
+
+
+`505 00:21:14,720 --> 00:21:21,720`
+Och det är där vi är på väg i det landet där borta, it that should not be named anymore.
+
+
+
+`506 00:21:21,720 --> 00:21:25,720`
+Det bygger ju också på att folk kan göra något, jobba.
+
+
+
+`507 00:21:25,720 --> 00:21:28,720`
+Ni har ju alla sett den här kinesiska mimen eller?
+
+
+
+`508 00:21:28,720 --> 00:21:30,720`
+Vilken av dem?
+
+
+
+`509 00:21:30,720 --> 00:21:32,720`
+Vi ska ta hem allt arbete till...
+
+
+
+`510 00:21:32,720 --> 00:21:33,720`
+Ja just det, ja.
+
+
+
+`511 00:21:33,720 --> 00:21:36,720`
+Till USA och så sitter det en massa feta amerikaner och försöker ratta in sig.
+
+
+
+`512 00:21:36,720 --> 00:21:39,720`
+Och de feta amerikanerna är J.D. Vance och Elon Musk.
+
+
+
+`513 00:21:39,720 --> 00:21:44,720`
+Exakt, det går ganska dåligt så att det är liksom, det är det jag menar så att det är såhär, det är ett ganska skönt system.
+
+
+
+`514 00:21:44,720 --> 00:21:47,720`
+Ja men det där är ju hålhyvet och vi behöver inte gå in på den politiken nödvändigtvis.
+
+
+
+`515 00:21:47,720 --> 00:21:57,720`
+Men det är det jag tänker då att om vi då bara ska, om målleverantörerna ska leverera till domestic och inte över landsgränserna, vem är då kunden?
+
+
+
+`516 00:21:57,720 --> 00:21:58,720`
+Ja, jo absolut.
+
+
+
+`517 00:21:58,720 --> 00:22:01,720`
+Det är ju såhär, det är klart det finns jättemycket stora amerikanska konglomerator.
+
+
+
+`518 00:22:01,720 --> 00:22:02,720`
+The rare earth minerals.
+
+
+
+`519 00:22:02,720 --> 00:22:03,720`
+Exakt.
+
+
+
+`520 00:22:03,720 --> 00:22:07,720`
+Och det är också provocerande men det är en intressant, det är en intressant frågeställning.
+
+
+
+`521 00:22:07,720 --> 00:22:12,720`
+Jag tycker det är en bra idé att det här diskuteras och man funderar igenom, vad gör vi nu?
+
+
+
+`522 00:22:12,720 --> 00:22:19,720`
+Och inte kanske bara ur ett målleverantörsperspektiv, det är egentligen, skit i det liksom, det kommer ploppa upp som svampar ändå.
+
+
+
+`523 00:22:19,720 --> 00:22:21,720`
+Men just såhär, vad är min data?
+
+
+
+`524 00:22:21,720 --> 00:22:22,720`
+Mm.
+
+
+
+`525 00:22:22,720 --> 00:22:24,720`
+Hur ser jag till att integritetskontrollerar min data?
+
+
+
+`526 00:22:24,720 --> 00:22:28,720`
+Hur ser jag till att inte lägga ut militärplaner på Signal?
+
+
+
+`527 00:22:28,720 --> 00:22:30,720`
+Men det här är ju lite som...
+
+
+
+`528 00:22:30,720 --> 00:22:33,720`
+Det är som en dåligt skriven film.
+
+
+
+`529 00:22:33,720 --> 00:22:45,720`
+Men det här är ju lite som att vi typ började avveckla militären och så sen, långt långt senare började vi komma fram till att det här var inte så bra beslut, det skedde lite ändringar.
+
+
+
+`530 00:22:45,720 --> 00:22:49,720`
+Och det är ju lite den här, vi outsourcade alltihopa till...
+
+
+
+`531 00:22:49,720 --> 00:22:53,720`
+Det är väl Finland som bygger Guns and Ammo i Sverige också?
+
+
+
+`532 00:22:53,720 --> 00:22:58,720`
+Ja men nu är det väl så att Finland har Marktruppen och vi har The Tanks, är det inte så?
+
+
+
+`533 00:22:58,720 --> 00:22:59,720`
+Ja.
+
+
+
+`534 00:22:59,720 --> 00:23:04,720`
+Men jag tror att Finland, finska staten köpte väl svenska kanontillverkare, gjorde de inte det?
+
+
+
+`535 00:23:04,720 --> 00:23:06,720`
+Och tillverkar...
+
+
+
+`536 00:23:06,720 --> 00:23:11,720`
+Jag vet inte, den pannordiska försvarsalliansen, den är ändå strong.
+
+
+
+`537 00:23:11,720 --> 00:23:14,720`
+Nu tycker jag att vi har kommit alldeles för långt ner i...
+
+
+
+`538 00:23:14,720 --> 00:23:15,720`
+Det här är ju ändå...
+
+
+
+`539 00:23:15,720 --> 00:23:17,720`
+Det här är inte krigshistoriepodden.
+
+
+
+`540 00:23:17,720 --> 00:23:19,720`
+Nej, men det skulle kunna bli.
+
+
+
+`541 00:23:19,720 --> 00:23:21,720`
+Men okej, ska vi cirkla tillbaka då till...
+
+
+
+`542 00:23:21,720 --> 00:23:23,720`
+Ja, för jag vill faktiskt...
+
+
+
+`543 00:23:24,720 --> 00:23:26,720`
+\...byta till ett närliggande ämne.
+
+
+
+`544 00:23:26,720 --> 00:23:28,720`
+Snorkel och fenor.
+
+
+
+`545 00:23:28,720 --> 00:23:29,720`
+Exakt.
+
+
+
+`546 00:23:29,720 --> 00:23:30,720`
+Fimma ner och klippa av fiberkanon.
+
+
+
+`547 00:23:30,720 --> 00:23:37,720`
+Vi har pratat lite om infrastruktur i stora drag vad gäller våra målleveratörer.
+
+
+
+`548 00:23:37,720 --> 00:23:42,720`
+Men det finns ju en hel radda andra tjänster som...
+
+
+
+`549 00:23:42,720 --> 00:23:43,720`
+Tretton stycken.
+
+
+
+`550 00:23:43,720 --> 00:23:45,720`
+\...vår online-infrastruktur bygger på.
+
+
+
+`551 00:23:45,720 --> 00:23:49,720`
+Tretton stycken små servrar som har hand om namnuppslagning kanske.
+
+
+
+`552 00:23:49,720 --> 00:23:50,720`
+Exakt.
+
+
+
+`553 00:23:50,720 --> 00:23:54,720`
+Majoriteten av dem är baserade i USA och kan inte...
+
+
+
+`554 00:23:54,720 --> 00:23:55,720`
+Rot-DNS-er.
+
+
+
+`555 00:23:55,720 --> 00:23:56,720`
+Berätta lite om detta.
+
+
+
+`556 00:23:56,720 --> 00:23:57,720`
+Jag ska prata lite grann.
+
+
+
+`557 00:23:57,720 --> 00:23:58,720`
+Inte så tekniskt.
+
+
+
+`558 00:23:58,720 --> 00:24:05,720`
+Men DNS var ju någonting som jag tänkte direkt på när vi pratade om transatlantiska relation breakdown.
+
+
+
+`559 00:24:05,720 --> 00:24:06,720`
+Som så, säger bara...
+
+
+
+`560 00:24:06,720 --> 00:24:10,720`
+Men jag ska spoila mig en gång och säga att det är inte ett problem.
+
+
+
+`561 00:24:10,720 --> 00:24:12,720`
+Det är nämligen så här att...
+
+
+
+`562 00:24:12,720 --> 00:24:14,720`
+Almarie kommer lösa det här.
+
+
+
+`563 00:24:14,720 --> 00:24:17,720`
+Inte längre, det är väl Pia Gruve som har tagit över.
+
+
+
+`564 00:24:17,720 --> 00:24:18,720`
+Okej, i alla fall.
+
+
+
+`565 00:24:18,720 --> 00:24:24,720`
+DNS, eller framförallt DNSSEC och alla de här sju nycklarna som äger internet och så vidare.
+
+
+
+`566 00:24:24,720 --> 00:24:26,720`
+Det är ju ICAN.
+
+
+
+`567 00:24:26,720 --> 00:24:28,720`
+Som ju är en amerikansk organisation.
+
+
+
+`568 00:24:28,720 --> 00:24:30,720`
+Eller rättare sagt, det är ett...
+
+
+
+`569 00:24:30,720 --> 00:24:32,720`
+Vad står IET för då?
+
+
+
+`570 00:24:32,720 --> 00:24:33,720`
+Internet.
+
+
+
+`571 00:24:33,720 --> 00:24:35,720`
+Förmodligen internet.
+
+
+
+`572 00:24:35,720 --> 00:24:39,720`
+The Internet Corporation for Assigned Names and Numbers.
+
+
+
+`573 00:24:39,720 --> 00:24:41,720`
+Namn och nummer, det vet man ju.
+
+
+
+`574 00:24:41,720 --> 00:24:43,720`
+Inte hållande upp mig.
+
+
+
+`575 00:24:43,720 --> 00:24:45,720`
+Och numren tror jag...
+
+
+
+`576 00:24:45,720 --> 00:24:46,720`
+Impossible.
+
+
+
+`577 00:24:46,720 --> 00:24:49,720`
+Numren har de lejt ut till IANA.
+
+
+
+`578 00:24:49,720 --> 00:24:50,720`
+Just det.
+
+
+
+`579 00:24:50,720 --> 00:24:51,720`
+Som är portnumren.
+
+
+
+`580 00:24:51,720 --> 00:24:54,720`
+Och jag tror det är IETF som har IP-rangerna.
+
+
+
+`581 00:24:54,720 --> 00:24:55,720`
+Något sådär.
+
+
+
+`582 00:24:55,720 --> 00:24:57,720`
+Men vi kommer stanna vid DNS-namnen egentligen.
+
+
+
+`583 00:24:57,720 --> 00:25:00,720`
+För de har ju roten...
+
+
+
+`584 00:25:00,720 --> 00:25:01,720`
+Rötterna.
+
+
+
+`585 00:25:01,720 --> 00:25:02,720`
+Ja, till DNSSEC.
+
+
+
+`586 00:25:02,720 --> 00:25:04,720`
+Och en jävla massa här coola hemliga nycklar.
+
+
+
+`587 00:25:04,720 --> 00:25:06,720`
+Och Anmarie Lövin där jadda jadda och så vidare.
+
+
+
+`588 00:25:06,720 --> 00:25:08,720`
+Men...
+
+
+
+`589 00:25:08,720 --> 00:25:09,720`
+Det är faktiskt...
+
+
+
+`590 00:25:09,720 --> 00:25:10,720`
+Safe.
+
+
+
+`591 00:25:10,720 --> 00:25:11,720`
+Jag trodde att det här skulle vara ett problem.
+
+
+
+`592 00:25:11,720 --> 00:25:12,720`
+För det är ju amerikanskt.
+
+
+
+`593 00:25:12,720 --> 00:25:14,720`
+Men det är ju så att de är...
+
+
+
+`594 00:25:14,720 --> 00:25:16,720`
+De är organiserade under Kalifornien.
+
+
+
+`595 00:25:16,720 --> 00:25:20,720`
+Not for profit public benefit corporation law.
+
+
+
+`596 00:25:20,720 --> 00:25:21,720`
+Då är det lugnt.
+
+
+
+`597 00:25:21,720 --> 00:25:23,720`
+For charitable and public purposes.
+
+
+
+`598 00:25:23,720 --> 00:25:24,720`
+Men som vanligt så är det ju...
+
+
+
+`599 00:25:24,720 --> 00:25:25,720`
+Inga morotsproblem.
+
+
+
+`600 00:25:25,720 --> 00:25:26,720`
+Nej.
+
+
+
+`601 00:25:26,720 --> 00:25:27,720`
+Ja, det kan ju...
+
+
+
+`602 00:25:27,720 --> 00:25:28,720`
+Teoretiskt kan det ju vara ett problem.
+
+
+
+`603 00:25:28,720 --> 00:25:31,720`
+För det är ett Kalifornienskt bolag då.
+
+
+
+`604 00:25:31,720 --> 00:25:34,720`
+Men rent fundingmässigt som ju brukar vara det maktmedlet som används.
+
+
+
+`605 00:25:34,720 --> 00:25:35,720`
+Så är det inte ett problem.
+
+
+
+`606 00:25:35,720 --> 00:25:37,720`
+För de är helt fristående.
+
+
+
+`607 00:25:37,720 --> 00:25:39,720`
+Och maktmedlet som används är att...
+
+
+
+`608 00:25:39,720 --> 00:25:42,720`
+När du flyger in till USA för att låsa upp det här med din hemliga nyckel.
+
+
+
+`609 00:25:42,720 --> 00:25:44,720`
+Ja, men då kommer vi inte till det här.
+
+
+
+`610 00:25:44,720 --> 00:25:46,720`
+Nu börjar det bli fånigt på riktigt liksom.
+
+
+
+`611 00:25:46,720 --> 00:25:47,720`
+Ja, fast vi är ju...
+
+
+
+`612 00:25:47,720 --> 00:25:48,720`
+Ganska fånigt.
+
+
+
+`613 00:25:48,720 --> 00:25:49,720`
+Så långt därifrån alltså.
+
+
+
+`614 00:25:49,720 --> 00:25:50,720`
+Nej.
+
+
+
+`615 00:25:50,720 --> 00:25:51,720`
+Ja, nej.
+
+
+
+`616 00:25:51,720 --> 00:25:52,720`
+Det skulle kunna hända.
+
+
+
+`617 00:25:52,720 --> 00:25:53,720`
+Men det finns...
+
+
+
+`618 00:25:53,720 --> 00:25:56,720`
+Är du här för att jobba eller är du här för tourist reasons?
+
+
+
+`619 00:25:56,720 --> 00:25:58,720`
+Men jag vet att de har ju...
+
+
+
+`620 00:25:58,720 --> 00:25:59,720`
+En salvador.
+
+
+
+`621 00:25:59,720 --> 00:26:02,720`
+Det är ju över 50 personer inblandade i signing-processen.
+
+
+
+`622 00:26:02,720 --> 00:26:07,720`
+Och det finns typ backupper till backupper till backupper mer eller mindre.
+
+
+
+`623 00:26:07,720 --> 00:26:09,720`
+Famous last words.
+
+
+
+`624 00:26:09,720 --> 00:26:13,720`
+Och jag tror att utav de där 50 så är det väl 28 som är...
+
+
+
+`625 00:26:13,720 --> 00:26:15,720`
+Jag tror det är fyra av varje som har de här sju nycklarna.
+
+
+
+`626 00:26:15,720 --> 00:26:21,720`
+Så att det räcker att en av de fyra för varje sjundedel så att säga är på plats eller något sådär.
+
+
+
+`627 00:26:21,720 --> 00:26:23,720`
+Så jag gissar på att det är...
+
+
+
+`628 00:26:23,720 --> 00:26:24,720`
+Det kommer att ordna sig.
+
+
+
+`629 00:26:24,720 --> 00:26:25,720`
+Men bra punkten tänkte jag faktiskt inte på.
+
+
+
+`630 00:26:25,720 --> 00:26:27,720`
+Att folk inte ens kan åka dit.
+
+
+
+`631 00:26:27,720 --> 00:26:29,720`
+Det hade ju kunnat vara ett problem.
+
+
+
+`632 00:26:29,720 --> 00:26:31,720`
+För att det är ju multinationellt.
+
+
+
+`633 00:26:31,720 --> 00:26:35,720`
+Det finns ju folk från typ alla världens länder mer eller mindre som är inblandade i det här.
+
+
+
+`634 00:26:35,720 --> 00:26:41,720`
+Och den styrs också den här organisationen av folk från alla världens hörn.
+
+
+
+`635 00:26:41,720 --> 00:26:44,720`
+Och det är uttalat att det är en multinationell organisation.
+
+
+
+`636 00:26:44,720 --> 00:26:49,720`
+Och fundingen kommer helt och hållet från den egna Readystars alltså.
+
+
+
+`637 00:26:49,720 --> 00:26:51,720`
+Alltså när vi köper dotcom-domäner och så vidare.
+
+
+
+`638 00:26:51,720 --> 00:26:52,720`
+Så att det känns som att...
+
+
+
+`639 00:26:52,720 --> 00:26:56,720`
+Det har inte alltid varit så här nämligen.
+
+
+
+`640 00:26:56,720 --> 00:26:58,720`
+Utan det är fram till 2016.
+
+
+
+`641 00:26:58,720 --> 00:27:00,720`
+Första oktober för 2016.
+
+
+
+`642 00:27:00,720 --> 00:27:02,720`
+Så var det en del av Department of Commerce.
+
+
+
+`643 00:27:02,720 --> 00:27:04,720`
+Så då hade det ju varit en issue.
+
+
+
+`644 00:27:04,720 --> 00:27:08,720`
+Men sen då nio år tillbaks eller sju, åtta år tillbaks.
+
+
+
+`645 00:27:08,720 --> 00:27:10,720`
+Så är det en helt fristående organisation.
+
+
+
+`646 00:27:10,720 --> 00:27:15,720`
+Som dessutom sen december har en svensk president.
+
+
+
+`647 00:27:15,720 --> 00:27:16,720`
+Wow.
+
+
+
+`648 00:27:16,720 --> 00:27:18,720`
+Eller ålänning om du frågar honom.
+
+
+
+`649 00:27:18,720 --> 00:27:20,720`
+Men det är bättre podcast om han är svensk.
+
+
+
+`650 00:27:20,720 --> 00:27:21,720`
+Kurt-Erik Kurtis.
+
+
+
+`651 00:27:21,720 --> 00:27:23,720`
+Kurt-Erik Kurtis Lindqvist.
+
+
+
+`652 00:27:23,720 --> 00:27:24,720`
+Kurtis?
+
+
+
+`653 00:27:24,720 --> 00:27:25,720`
+Ja, precis.
+
+
+
+`654 00:27:25,720 --> 00:27:28,720`
+Han har bland annat varit chef över Nettnord i Sverige jättemånga år.
+
+
+
+`655 00:27:28,720 --> 00:27:32,720`
+Och sen efter det så tror jag det var någon London Exchange han hade under lång tid också.
+
+
+
+`656 00:27:32,720 --> 00:27:34,720`
+Då känner jag mig faktiskt trygg.
+
+
+
+`657 00:27:34,720 --> 00:27:37,720`
+Om man tittar på rotsövrarna.
+
+
+
+`658 00:27:37,720 --> 00:27:40,720`
+För det fanns en karta över dem på den här...
+
+
+
+`659 00:27:40,720 --> 00:27:43,720`
+Fan, hon heter rotserge.com eller...
+
+
+
+`660 00:27:43,720 --> 00:27:45,720`
+Någon sajt hade dem för rotsövrarna.
+
+
+
+`661 00:27:45,720 --> 00:27:47,720`
+Så kan man klicka runt och titta.
+
+
+
+`662 00:27:47,720 --> 00:27:49,720`
+Och tydligen så har vi en...
+
+
+
+`663 00:27:49,720 --> 00:27:53,720`
+Tre stycken rotsövrar som ska vara lokaliserade i Göteborgsområdet.
+
+
+
+`664 00:27:53,720 --> 00:27:56,720`
+Och så har vi en hel drös i Stockholm.
+
+
+
+`665 00:27:56,720 --> 00:27:58,720`
+Även om ingen bryr sig om vad som finns i Stockholm.
+
+
+
+`666 00:27:58,720 --> 00:28:01,720`
+Men där var de här.
+
+
+
+`667 00:28:01,720 --> 00:28:03,720`
+Nettnord det heter de här.
+
+
+
+`668 00:28:03,720 --> 00:28:07,720`
+Och sen var det någon som skulle tillhörda ICAN.
+
+
+
+`669 00:28:07,720 --> 00:28:09,720`
+Och sen kommer jag inte ihåg vad den tredje var för något.
+
+
+
+`670 00:28:09,720 --> 00:28:13,720`
+Men jag fattar det som att de HSM-erna som har rotnyckeln.
+
+
+
+`671 00:28:13,720 --> 00:28:15,720`
+De finns väl bara i USA för mig?
+
+
+
+`672 00:28:15,720 --> 00:28:18,720`
+Ja, men rotsövrarna är ju en helt annan sak.
+
+
+
+`673 00:28:18,720 --> 00:28:21,720`
+Det är ju själva DNS-infrastrukturen som är inte säkert.
+
+
+
+`674 00:28:21,720 --> 00:28:23,720`
+Inte signeringskrunkan.
+
+
+
+`675 00:28:23,720 --> 00:28:26,720`
+Så, jag tror att just DNS...
+
+
+
+`676 00:28:26,720 --> 00:28:28,720`
+Efter att ha läst på lite gör mig inte...
+
+
+
+`677 00:28:28,720 --> 00:28:30,720`
+Det är klart att det kan gå dåligt.
+
+
+
+`678 00:28:30,720 --> 00:28:32,720`
+Men det gör mig inte supernervös iallafall.
+
+
+
+`679 00:28:32,720 --> 00:28:36,720`
+Nej, men det skulle ju vara då ifall man väljer att ge ett inreseförbud.
+
+
+
+`680 00:28:36,720 --> 00:28:40,720`
+Eller att ICE börjar storma deras kontor liksom.
+
+
+
+`681 00:28:40,720 --> 00:28:42,720`
+Det man kan säga...
+
+
+
+`682 00:28:42,720 --> 00:28:44,720`
+Där jag jobbar så har vi...
+
+
+
+`683 00:28:44,720 --> 00:28:46,720`
+Vi jobbar under vissa grants egentligen.
+
+
+
+`684 00:28:46,720 --> 00:28:47,720`
+Så vi har...
+
+
+
+`685 00:28:47,720 --> 00:28:49,720`
+Till exempel, vi jobbar med Tor-projektet.
+
+
+
+`686 00:28:49,720 --> 00:28:51,720`
+Och Tor-projektet är ju ideellt.
+
+
+
+`687 00:28:51,720 --> 00:28:54,720`
+Och de får ju pengar från diverse donatorer överallt.
+
+
+
+`688 00:28:54,720 --> 00:28:55,720`
+Bland annat USA.
+
+
+
+`689 00:28:55,720 --> 00:28:59,720`
+Och där har vi ett grant som vi har fakturerat emot.
+
+
+
+`690 00:28:59,720 --> 00:29:02,720`
+Och det grantet går ut på att man ska...
+
+
+
+`691 00:29:02,720 --> 00:29:04,720`
+Ja, vad står det egentligen i det?
+
+
+
+`692 00:29:04,720 --> 00:29:08,720`
+Det är väl att pengarna som vi får genom detta
+
+
+
+`693 00:29:08,720 --> 00:29:12,720`
+ska gå till att säkerställa att journalister och utsatta personer
+
+
+
+`694 00:29:12,720 --> 00:29:15,720`
+i politiskt utsatt ställning
+
+
+
+`695 00:29:15,720 --> 00:29:20,720`
+kan mer eller mindre kommunicera på ett säkert sätt.
+
+
+
+`696 00:29:20,720 --> 00:29:22,720`
+Jävligt fluffigt egentligen.
+
+
+
+`697 00:29:22,720 --> 00:29:25,720`
+Och det vi gör då med de pengarna är att vi testar olika tjänster.
+
+
+
+`698 00:29:25,720 --> 00:29:27,720`
+Och det blir ju indraget samma dag egentligen.
+
+
+
+`699 00:29:27,720 --> 00:29:29,720`
+Eller dagen efter att han blev insfuran.
+
+
+
+`700 00:29:29,720 --> 00:29:32,720`
+Men för två veckor sedan så kom det faktiskt tillbaka.
+
+
+
+`701 00:29:32,720 --> 00:29:34,720`
+Så att det blev inställt...
+
+
+
+`702 00:29:34,720 --> 00:29:38,720`
+Det är väl när kongressen satte ner foten mot hela den här USAID...
+
+
+
+`703 00:29:38,720 --> 00:29:40,720`
+Exakt. Så jag tror det är det.
+
+
+
+`704 00:29:40,720 --> 00:29:42,720`
+Och då...
+
+
+
+`705 00:29:42,720 --> 00:29:43,720`
+Allt försvann inte.
+
+
+
+`706 00:29:43,720 --> 00:29:44,720`
+Men det är ju det här som man säger.
+
+
+
+`707 00:29:44,720 --> 00:29:46,720`
+Det är ju osäkerheten som är problemet.
+
+
+
+`708 00:29:46,720 --> 00:29:48,720`
+Verkligen. För det är ju också en startsträcka då.
+
+
+
+`709 00:29:48,720 --> 00:29:50,720`
+Det är ju då de 3-4 veckorna...
+
+
+
+`710 00:29:50,720 --> 00:29:52,720`
+Du switchar ju inte bara on och off.
+
+
+
+`711 00:29:52,720 --> 00:29:54,720`
+Nej. Och i vårat fall så är det ju din kund.
+
+
+
+`712 00:29:54,720 --> 00:29:58,720`
+Så i vårat fall så handlar det ju om att man planerar in när arbetet ska ske.
+
+
+
+`713 00:29:58,720 --> 00:30:01,720`
+Och det gör man ju liksom inte två veckor innan arbetet sker.
+
+
+
+`714 00:30:01,720 --> 00:30:03,720`
+Utan det sker ju ett år innan.
+
+
+
+`715 00:30:03,720 --> 00:30:07,720`
+Och så där är det ju med alla leverantörer som arbetar med någon form av...
+
+
+
+`716 00:30:07,720 --> 00:30:09,720`
+Så det är ju en väldigt bra poäng där att osäkerhetsfaktorn gör ju att
+
+
+
+`717 00:30:09,720 --> 00:30:12,720`
+vi kommer ju inte kunna leverera på det grantet detta året
+
+
+
+`718 00:30:12,720 --> 00:30:13,720`
+för att vi visste inte att det fanns.
+
+
+
+`719 00:30:13,720 --> 00:30:14,720`
+Vi visste inte att det fanns.
+
+
+
+`720 00:30:14,720 --> 00:30:15,720`
+Kunde inte planera efter det.
+
+
+
+`721 00:30:15,720 --> 00:30:16,720`
+Exakt.
+
+
+
+`722 00:30:16,720 --> 00:30:22,720`
+Men ifall vi byter fot lite grann bara till att se någonting som ligger lite närmare oss
+
+
+
+`723 00:30:22,720 --> 00:30:26,720`
+som säkerhetstekniska säkerhetspersoner.
+
+
+
+`724 00:30:26,720 --> 00:30:31,720`
+Vad tror vi om hela CVE-infrastrukturen?
+
+
+
+`725 00:30:31,720 --> 00:30:37,720`
+Ja, det här avsnittet spelas ju in efter det outades.
+
+
+
+`726 00:30:37,720 --> 00:30:40,720`
+Ja, det både outades och sen de-outades.
+
+
+
+`727 00:30:40,720 --> 00:30:41,720`
+Exakt.
+
+
+
+`728 00:30:41,720 --> 00:30:43,720`
+Jag tror till och med att vi har med det på vår nyhetslista
+
+
+
+`729 00:30:43,720 --> 00:30:48,720`
+avsnitt vi kommer spela in om en timme som kommer släppas för en vecka sen.
+
+
+
+`730 00:30:48,720 --> 00:30:49,720`
+Ja, just det.
+
+
+
+`731 00:30:49,720 --> 00:30:50,720`
+Inception.
+
+
+
+`732 00:30:50,720 --> 00:30:53,720`
+Men, låt oss ta lite av det ändå då.
+
+
+
+`733 00:30:53,720 --> 00:30:55,720`
+Kortfattat så är det ju...
+
+
+
+`734 00:30:55,720 --> 00:30:57,720`
+Mitre gick ju in ut och sa att
+
+
+
+`735 00:30:57,720 --> 00:31:00,720`
+By the way, vi får inga pengar längre från US Gov
+
+
+
+`736 00:31:00,720 --> 00:31:03,720`
+så vi kommer inte kunna underhålla CVE-databasen.
+
+
+
+`737 00:31:03,720 --> 00:31:05,720`
+Och det hände på onsdag.
+
+
+
+`738 00:31:05,720 --> 00:31:06,720`
+Exakt.
+
+
+
+`739 00:31:06,720 --> 00:31:09,720`
+Mask och en sandplanga. Jag tyckte inte det här var en bra idé.
+
+
+
+`740 00:31:09,720 --> 00:31:10,720`
+Nej.
+
+
+
+`741 00:31:10,720 --> 00:31:12,720`
+Säger snubben som har det värsta Kubernetes-hacket i bagaget.
+
+
+
+`742 00:31:12,720 --> 00:31:20,720`
+Någonsin där hela deras Kubernetes-instans minade krypto i typ sju dagar innan någon upptäckte det.
+
+
+
+`743 00:31:20,720 --> 00:31:23,720`
+Ja, hej, varför ska vi ha CVE-databasen?
+
+
+
+`744 00:31:23,720 --> 00:31:25,720`
+Du, hej, ifall ingen har namngett det så finns det inget.
+
+
+
+`745 00:31:25,720 --> 00:31:26,720`
+Nej, det är sant.
+
+
+
+`746 00:31:26,720 --> 00:31:28,720`
+Så det blev ju lite panik där.
+
+
+
+`747 00:31:28,720 --> 00:31:30,720`
+Åh, CVE, all säkerhet kommer att dö.
+
+
+
+`748 00:31:30,720 --> 00:31:35,720`
+Och redan samma dag så kom det ut någon...
+
+
+
+`749 00:31:35,720 --> 00:31:41,720`
+The CVE Foundation annonsade att de har blivit skapare nu som en separat organisation som ska ta hand om CVE-databasen.
+
+
+
+`750 00:31:41,720 --> 00:31:46,720`
+Vilket då råkade bestå av typ 80% av dem som satt i CVE-borden just nu.
+
+
+
+`751 00:31:46,720 --> 00:31:50,720`
+Oklart med funding och så vidare, men de skulle lösa det här.
+
+
+
+`752 00:31:50,720 --> 00:31:56,720`
+Det började pratas väldigt mycket om EU Vulnerability Database som launchades i juni.
+
+
+
+`753 00:31:56,720 --> 00:31:58,720`
+Och nu kanske den skulle kunna ta över rollen.
+
+
+
+`754 00:31:58,720 --> 00:32:00,720`
+För folk gick ju in i lösningsmode då.
+
+
+
+`755 00:32:00,720 --> 00:32:04,720`
+Men sen så i slutändan, det tog väl mindre än en dag, så kom CISA och sa
+
+
+
+`756 00:32:04,720 --> 00:32:08,720`
+Fair not, här har ni det i alla fall för elva månader.
+
+
+
+`757 00:32:08,720 --> 00:32:09,720`
+Mm.
+
+
+
+`758 00:32:09,720 --> 00:32:12,720`
+Så då började jag gräva lite detta.
+
+
+
+`759 00:32:12,720 --> 00:32:18,720`
+Och det är ju så att det är ju CISA som normalt betalar MITRE för detta.
+
+
+
+`760 00:32:18,720 --> 00:32:24,720`
+Och varför de inte har betalat innan vet jag inte, men det kanske är Doge och gänget.
+
+
+
+`761 00:32:24,720 --> 00:32:27,720`
+För det är nämligen så här, det är snack om att CISA ska få mycket mindre pengar.
+
+
+
+`762 00:32:27,720 --> 00:32:29,720`
+CISA är då...
+
+
+
+`763 00:32:29,720 --> 00:32:31,720`
+Det är morotsherren och hans hantlagare.
+
+
+
+`764 00:32:31,720 --> 00:32:32,720`
+Vad är det de heter?
+
+
+
+`765 00:32:32,720 --> 00:32:33,720`
+Garanterat.
+
+
+
+`766 00:32:33,720 --> 00:32:37,720`
+Det är Cyber Security Infrastructure... Någonting Agency tror jag det är.
+
+
+
+`767 00:32:37,720 --> 00:32:38,720`
+Det vill säga det är...
+
+
+
+`768 00:32:38,720 --> 00:32:40,720`
+Den behövs inte.
+
+
+
+`769 00:32:40,720 --> 00:32:43,720`
+De är ansvariga för typ...
+
+
+
+`770 00:32:43,720 --> 00:32:44,720`
+Pool Importance och så.
+
+
+
+`771 00:32:44,720 --> 00:32:45,720`
+För att planera...
+
+
+
+`772 00:32:45,720 --> 00:32:48,720`
+Försvaret av USA bland annat.
+
+
+
+`773 00:32:48,720 --> 00:32:49,720`
+Just det.
+
+
+
+`774 00:32:49,720 --> 00:32:54,720`
+Det är en underavdelning till Department of Homeland Security.
+
+
+
+`775 00:32:54,720 --> 00:32:56,720`
+Så de får sin funding därifrån.
+
+
+
+`776 00:32:56,720 --> 00:32:57,720`
+Pick.
+
+
+
+`777 00:32:57,720 --> 00:33:00,720`
+Pick, ja de får fortfarande i alla fall i viss mån.
+
+
+
+`778 00:33:00,720 --> 00:33:03,720`
+Vi kommer mer in på vad det är för någonting lite senare.
+
+
+
+`779 00:33:03,720 --> 00:33:04,720`
+Men i alla fall.
+
+
+
+`780 00:33:04,720 --> 00:33:07,720`
+Så de har betalat MITRE för att underhålla CW-databasen egentligen.
+
+
+
+`781 00:33:07,720 --> 00:33:08,720`
+Och det är...
+
+
+
+`782 00:33:08,720 --> 00:33:09,720`
+Första frågan är egentligen.
+
+
+
+`783 00:33:09,720 --> 00:33:11,720`
+Vad är det de har köpt ifrån MITRE egentligen?
+
+
+
+`784 00:33:11,720 --> 00:33:13,720`
+Ja, det är ju ganska basic.
+
+
+
+`785 00:33:13,720 --> 00:33:15,720`
+Men det är alltså...
+
+
+
+`786 00:33:15,720 --> 00:33:18,720`
+Håll koll på CW-siffrorna.
+
+
+
+`787 00:33:18,720 --> 00:33:19,720`
+Mer eller mindre.
+
+
+
+`788 00:33:19,720 --> 00:33:20,720`
+Alltså...
+
+
+
+`789 00:33:20,720 --> 00:33:21,720`
+Räkna upp.
+
+
+
+`790 00:33:21,720 --> 00:33:24,720`
+Ja, och håll koll på alla CW-entrys då.
+
+
+
+`791 00:33:24,720 --> 00:33:25,720`
+Det har de koll på också.
+
+
+
+`792 00:33:25,720 --> 00:33:28,720`
+De har även koll på det som kallas för CNA.
+
+
+
+`793 00:33:28,720 --> 00:33:30,720`
+Det är en CW-lista hävdar de själva.
+
+
+
+`794 00:33:30,720 --> 00:33:31,720`
+Okej.
+
+
+
+`795 00:33:31,720 --> 00:33:32,720`
+CW-list.
+
+
+
+`796 00:33:32,720 --> 00:33:34,720`
+Jag skulle säga att det är en databas.
+
+
+
+`797 00:33:34,720 --> 00:33:35,720`
+Ja.
+
+
+
+`798 00:33:35,720 --> 00:33:36,720`
+Och alla CNAs då.
+
+
+
+`799 00:33:36,720 --> 00:33:37,720`
+Vad heter det?
+
+
+
+`800 00:33:37,720 --> 00:33:38,720`
+Det heter...
+
+
+
+`801 00:33:38,720 --> 00:33:39,720`
+Authority.
+
+
+
+`802 00:33:39,720 --> 00:33:40,720`
+Numbering.
+
+
+
+`803 00:33:40,720 --> 00:33:41,720`
+Cooling.
+
+
+
+`804 00:33:41,720 --> 00:33:42,720`
+Någonting.
+
+
+
+`805 00:33:42,720 --> 00:33:43,720`
+C-numbering authority.
+
+
+
+`806 00:33:43,720 --> 00:33:44,720`
+Inte...
+
+
+
+`807 00:33:44,720 --> 00:33:45,720`
+Ja.
+
+
+
+`808 00:33:45,720 --> 00:33:47,720`
+Ja, det kanske det är.
+
+
+
+`809 00:33:47,720 --> 00:33:48,720`
+Det finns ju...
+
+
+
+`810 00:33:48,720 --> 00:33:49,720`
+CW-numbering authority är det.
+
+
+
+`811 00:33:49,720 --> 00:33:50,720`
+Så det betyder egentligen att...
+
+
+
+`812 00:33:50,720 --> 00:33:55,720`
+Det finns ett antal företag, organisationer som du kan höra av dig till.
+
+
+
+`813 00:33:55,720 --> 00:33:57,720`
+Det finns exakt 453 stycken.
+
+
+
+`814 00:33:57,720 --> 00:33:59,720`
+Curl är väl en sån till exempel.
+
+
+
+`815 00:33:59,720 --> 00:34:01,720`
+Red Hat var en av de absolut första.
+
+
+
+`816 00:34:01,720 --> 00:34:02,720`
+Google är en annan.
+
+
+
+`817 00:34:02,720 --> 00:34:03,720`
+Enisa är en...
+
+
+
+`818 00:34:03,720 --> 00:34:04,720`
+Det är rätt många.
+
+
+
+`819 00:34:04,720 --> 00:34:05,720`
+Återigen, det är 453.
+
+
+
+`820 00:34:05,720 --> 00:34:06,720`
+Det är de som...
+
+
+
+`821 00:34:06,720 --> 00:34:08,720`
+Så det är väldigt många företag.
+
+
+
+`822 00:34:08,720 --> 00:34:09,720`
+Låt dig göra registreringen.
+
+
+
+`823 00:34:09,720 --> 00:34:10,720`
+Men...
+
+
+
+`824 00:34:10,720 --> 00:34:11,720`
+Nu vet jag inte...
+
+
+
+`825 00:34:11,720 --> 00:34:14,720`
+Är det väl ADP-er den andra delen ni äter?
+
+
+
+`826 00:34:14,720 --> 00:34:16,720`
+Ja, det finns bara en ADP då.
+
+
+
+`827 00:34:16,720 --> 00:34:18,720`
+Men CNA-er finns det då, 453 stycken.
+
+
+
+`828 00:34:18,720 --> 00:34:23,720`
+De är alltså ansvariga för att ge ut CW-er under ett visst scope.
+
+
+
+`829 00:34:23,720 --> 00:34:27,720`
+Curl då till exempel har ju ansvar för att ge ut CW-er under Curl-scopet.
+
+
+
+`830 00:34:27,720 --> 00:34:29,720`
+Det vill säga att det är Curl som är drabbat.
+
+
+
+`831 00:34:29,720 --> 00:34:32,720`
+Och Red Hat för Red Hats distro och så vidare.
+
+
+
+`832 00:34:32,720 --> 00:34:35,720`
+Så CNA-erna gör det mesta registrerande.
+
+
+
+`833 00:34:35,720 --> 00:34:36,720`
+Men CW-er...
+
+
+
+`834 00:34:36,720 --> 00:34:39,720`
+Mitre håller då i databasen och ger ut...
+
+
+
+`835 00:34:39,720 --> 00:34:40,720`
+Försöka...
+
+
+
+`836 00:34:40,720 --> 00:34:42,720`
+Lista tror jag de kallar det.
+
+
+
+`837 00:34:42,720 --> 00:34:43,720`
+Fuck you.
+
+
+
+`838 00:34:43,720 --> 00:34:44,720`
+Och de...
+
+
+
+`839 00:34:44,720 --> 00:34:47,720`
+Och du hämtar också ut CW-er.
+
+
+
+`840 00:34:47,720 --> 00:34:49,720`
+Men NVD är en databas däremot.
+
+
+
+`841 00:34:49,720 --> 00:34:50,720`
+Ja.
+
+
+
+`842 00:34:50,720 --> 00:34:54,720`
+Du hämtar då ut nummer ifrån Mitre helt enkelt.
+
+
+
+`843 00:34:54,720 --> 00:34:56,720`
+Så de håller det state där på något sätt.
+
+
+
+`844 00:34:56,720 --> 00:34:59,720`
+Sen finns det även en ADP då.
+
+
+
+`845 00:34:59,720 --> 00:35:03,720`
+Och det är en Authorized Data Publisher.
+
+
+
+`846 00:35:03,720 --> 00:35:04,720`
+Men om det bara finns en så måste det vara CISA då?
+
+
+
+`847 00:35:04,720 --> 00:35:06,720`
+Det är CISA som är...
+
+
+
+`848 00:35:06,720 --> 00:35:07,720`
+Vilket är också märkligt då.
+
+
+
+`849 00:35:07,720 --> 00:35:09,720`
+CISA betalar alltså Mitre för att hålla i databasen.
+
+
+
+`850 00:35:09,720 --> 00:35:13,720`
+Men de har även avtal på att vara en Authorized Data Publisher.
+
+
+
+`851 00:35:13,720 --> 00:35:16,720`
+Och det är rätt nyttigt det bara från sent förra året.
+
+
+
+`852 00:35:16,720 --> 00:35:22,720`
+CISA har ju inte enbart briljerat i rollen som ADP.
+
+
+
+`853 00:35:22,720 --> 00:35:28,720`
+De tog en null pointer exception i ett kalenderomverk.
+
+
+
+`854 00:35:28,720 --> 00:35:32,720`
+Om du anropar en specifik funktion i ett kalenderomverk med null pointer.
+
+
+
+`855 00:35:32,720 --> 00:35:33,720`
+Kunde du få ett exception.
+
+
+
+`856 00:35:33,720 --> 00:35:35,720`
+Du beskrev just ett normalt Java API.
+
+
+
+`857 00:35:35,720 --> 00:35:39,720`
+Och den rankade de som den värsta sårbarheten genom alla tider.
+
+
+
+`858 00:35:39,720 --> 00:35:44,720`
+Och det ringde rött på så jävla många Java fabriker som helst.
+
+
+
+`859 00:35:44,720 --> 00:35:46,720`
+Och vad gör då en ADP?
+
+
+
+`860 00:35:46,720 --> 00:35:48,720`
+Jo, de jobbar med enrichment.
+
+
+
+`861 00:35:48,720 --> 00:35:52,720`
+Alltså CVE och Mitre de håller egentligen bara i databasen.
+
+
+
+`862 00:35:52,720 --> 00:35:54,720`
+Den är rätt rudimentär.
+
+
+
+`863 00:35:54,720 --> 00:35:58,720`
+Men en ADP då lägger på information här.
+
+
+
+`864 00:35:58,720 --> 00:36:01,720`
+Och det finns till och med en hel datastruktur för det här har jag lärt mig.
+
+
+
+`865 00:36:01,720 --> 00:36:02,720`
+Det finns en ADP kontakt.
+
+
+
+`866 00:36:02,720 --> 00:36:05,720`
+Det finns en ADP container för den informationen då.
+
+
+
+`867 00:36:05,720 --> 00:36:08,720`
+Jaja, det får du ut i en speciell del av JISAM-bloggen.
+
+
+
+`868 00:36:08,720 --> 00:36:10,720`
+CVE JISOM som den heter standarden.
+
+
+
+`869 00:36:10,720 --> 00:36:11,720`
+Japp, mycket riktigt.
+
+
+
+`870 00:36:11,720 --> 00:36:13,720`
+Så vad gör då CISA?
+
+
+
+`871 00:36:13,720 --> 00:36:17,720`
+Jo, de lägger på Stakeholder Specific Vulnerability Categorization.
+
+
+
+`872 00:36:17,720 --> 00:36:21,720`
+Vilket egentligen är ett fancy sätt att de försöker klassa...
+
+
+
+`873 00:36:21,720 --> 00:36:23,720`
+Vem är det här viktigt för?
+
+
+
+`874 00:36:23,720 --> 00:36:26,720`
+Ja, de tar på sig hatten av...
+
+
+
+`875 00:36:26,720 --> 00:36:28,720`
+Det är för att skapa mervärde.
+
+
+
+`876 00:36:28,720 --> 00:36:30,720`
+De tar på sig hatten.
+
+
+
+`877 00:36:30,720 --> 00:36:32,720`
+Det är en amerikansk myndighet.
+
+
+
+`878 00:36:32,720 --> 00:36:34,720`
+Och är det här då ett problem för oss?
+
+
+
+`879 00:36:34,720 --> 00:36:36,720`
+CVS-scoring.
+
+
+
+`880 00:36:36,720 --> 00:36:38,720`
+Ja, CVS-scoring är också någonting de kan göra.
+
+
+
+`881 00:36:38,720 --> 00:36:41,720`
+De håller även på någonting som heter CISA-KEV.
+
+
+
+`882 00:36:41,720 --> 00:36:43,720`
+Known Exploitable Vulnerabilities.
+
+
+
+`883 00:36:43,720 --> 00:36:47,720`
+En databas med alla sårbarheter som man vet utnyttjas aktivt.
+
+
+
+`884 00:36:47,720 --> 00:36:52,720`
+Så det enrichar dem, CVE, med lite ratings och sånt.
+
+
+
+`885 00:36:52,720 --> 00:36:57,720`
+Men vi kan ju säga så här att vi är ju också i ett förändringsskede.
+
+
+
+`886 00:36:57,720 --> 00:36:58,720`
+Där...
+
+
+
+`887 00:36:58,720 --> 00:36:59,720`
+Där det går ifrån...
+
+
+
+`888 00:37:00,720 --> 00:37:02,720`
+Det blir inga mer sårbarheter.
+
+
+
+`889 00:37:02,720 --> 00:37:04,720`
+Det är så säkert nu.
+
+
+
+`890 00:37:04,720 --> 00:37:08,720`
+Så länge sen så var ju Mitre, de totalägde hela CVE-grejen.
+
+
+
+`891 00:37:08,720 --> 00:37:13,720`
+Sen har ju de här NVD- och NIST-människorna fått blanda sig i.
+
+
+
+`892 00:37:13,720 --> 00:37:20,720`
+Och så har vi börjat göra det att det ska bli mer pluginbart och fler ska bli aktiva och kunna delta i det här.
+
+
+
+`893 00:37:20,720 --> 00:37:22,720`
+Och...
+
+
+
+`894 00:37:22,720 --> 00:37:28,720`
+Det är ju runt det här att fler människor och fler puckor får pilla i det här har det ju varit...
+
+
+
+`895 00:37:28,720 --> 00:37:29,720`
+Det tar så himla lång tid.
+
+
+
+`896 00:37:29,720 --> 00:37:30,720`
+Ja, men...
+
+
+
+`897 00:37:30,720 --> 00:37:31,720`
+Men nu...
+
+
+
+`898 00:37:31,720 --> 00:37:32,720`
+Men nu...
+
+
+
+`899 00:37:32,720 --> 00:37:34,720`
+Men det var ett av målen nu att det ska bli snabbare.
+
+
+
+`900 00:37:34,720 --> 00:37:39,720`
+Och så vill man ju att det inte ska bli pannkaka som det har blivit ett antal gånger det senaste.
+
+
+
+`901 00:37:39,720 --> 00:37:40,720`
+Snabbare utan pannkaka, tack.
+
+
+
+`902 00:37:40,720 --> 00:37:41,720`
+Så...
+
+
+
+`903 00:37:41,720 --> 00:37:42,720`
+Så...
+
+
+
+`904 00:37:42,720 --> 00:37:49,720`
+Så därför är det ju inte jättebra om Mitre är de enda som är vuxna och kan få det här att funka för närmare.
+
+
+
+`905 00:37:49,720 --> 00:37:51,720`
+Så det är ju inte så bra om de...
+
+
+
+`906 00:37:51,720 --> 00:37:56,720`
+Om de skulle lämna väldigt snabbt innan världen har klarat av att liksom...
+
+
+
+`907 00:37:56,720 --> 00:37:57,720`
+Exita ut dem.
+
+
+
+`908 00:37:57,720 --> 00:37:58,720`
+Vuxna utan pengar.
+
+
+
+`909 00:37:58,720 --> 00:37:59,720`
+Ja.
+
+
+
+`910 00:37:59,720 --> 00:38:00,720`
+Ja, men det är ju det som...
+
+
+
+`911 00:38:00,720 --> 00:38:01,720`
+Det är ju det vi är rädda för.
+
+
+
+`912 00:38:01,720 --> 00:38:03,720`
+Ja, för det känns lite som att de är spindeln i nätet.
+
+
+
+`913 00:38:03,720 --> 00:38:06,720`
+Vi kommer till NVD och NIST för att det är ju också en jävla intressant...
+
+
+
+`914 00:38:06,720 --> 00:38:07,720`
+Men i alla fall.
+
+
+
+`915 00:38:07,720 --> 00:38:09,720`
+Så CISA är ju ADP.
+
+
+
+`916 00:38:09,720 --> 00:38:14,720`
+De har sån jobb att enricha och förfina beskrivningarna på CVE-erna.
+
+
+
+`917 00:38:14,720 --> 00:38:19,720`
+Och de sätter alltså sedan typ femåriga interner på att göra det här arbetet.
+
+
+
+`918 00:38:19,720 --> 00:38:21,720`
+Ja, det låter ju osagt kvaliteten på det här.
+
+
+
+`919 00:38:21,720 --> 00:38:22,720`
+Men de lägger faktiskt...
+
+
+
+`920 00:38:22,720 --> 00:38:25,720`
+Om du saknar CVSS till exempel lägger de in det på en sådan.
+
+
+
+`921 00:38:25,720 --> 00:38:27,720`
+De klassar den med CWE-rating.
+
+
+
+`922 00:38:27,720 --> 00:38:28,720`
+Då lägger de även in CVS.
+
+
+
+`923 00:38:28,720 --> 00:38:31,720`
+Då lägger de även in CPE-grejer och så vidare.
+
+
+
+`924 00:38:31,720 --> 00:38:33,720`
+Ni kommer känna igen precis det här.
+
+
+
+`925 00:38:33,720 --> 00:38:35,720`
+Men det är sånt som CISA och ADP gör.
+
+
+
+`926 00:38:35,720 --> 00:38:37,720`
+Sen kommer vi till NVD då.
+
+
+
+`927 00:38:37,720 --> 00:38:38,720`
+National Vulnerability Database.
+
+
+
+`928 00:38:38,720 --> 00:38:40,720`
+Sån typ är samma sak.
+
+
+
+`929 00:38:40,720 --> 00:38:47,720`
+Men det här är då Department of Commerce som fundar NIST, standardorganisationen.
+
+
+
+`930 00:38:47,720 --> 00:38:49,720`
+Som i sin tur har då byggt NVD.
+
+
+
+`931 00:38:49,720 --> 00:38:55,720`
+Som hämtar CVE-data från Mitre och CISA.
+
+
+
+`932 00:38:55,720 --> 00:38:57,720`
+Men sen gör de sin egen enrichment.
+
+
+
+`933 00:38:57,720 --> 00:39:00,720`
+Men de är av någon anledning inte en ADP.
+
+
+
+`934 00:39:00,720 --> 00:39:02,720`
+Och de korrelerar med publikexploit.
+
+
+
+`935 00:39:02,720 --> 00:39:04,720`
+Och båda verkar vara väldigt noga med det här.
+
+
+
+`936 00:39:04,720 --> 00:39:07,720`
+Alltså att NVD är fristående och gör sin grej.
+
+
+
+`937 00:39:07,720 --> 00:39:10,720`
+Och Mitre och CISA gör sin grej.
+
+
+
+`938 00:39:10,720 --> 00:39:12,720`
+Och aldrig mår de mötas.
+
+
+
+`939 00:39:12,720 --> 00:39:15,720`
+Det var oerhört svårt att ens se dem referera till varandra någonstans.
+
+
+
+`940 00:39:15,720 --> 00:39:17,720`
+Så jag fick gräva långt ner i sajterna.
+
+
+
+`941 00:39:17,720 --> 00:39:18,720`
+Men...
+
+
+
+`942 00:39:18,720 --> 00:39:20,720`
+Det är ju inte nödvändigtvis en dålig grej.
+
+
+
+`943 00:39:20,720 --> 00:39:22,720`
+Nej, men det är ju återigen typ samma jävla data.
+
+
+
+`944 00:39:22,720 --> 00:39:24,720`
+Under förutsättning att båda inte ligger i USA.
+
+
+
+`945 00:39:24,720 --> 00:39:25,720`
+Men jag kan säga att det NVD gör...
+
+
+
+`946 00:39:25,720 --> 00:39:28,720`
+I min bok så är NVD en uppenbar ADP.
+
+
+
+`947 00:39:28,720 --> 00:39:30,720`
+För de gör enrichment.
+
+
+
+`948 00:39:30,720 --> 00:39:33,720`
+De gör precis det som CISA säger att de gör.
+
+
+
+`949 00:39:33,720 --> 00:39:35,720`
+De lägger på CVSS.
+
+
+
+`950 00:39:35,720 --> 00:39:38,720`
+För det är inte med från Mitre normalt.
+
+
+
+`951 00:39:38,720 --> 00:39:39,720`
+De lägger på CWE.
+
+
+
+`952 00:39:39,720 --> 00:39:41,720`
+De lägger på CPE.
+
+
+
+`953 00:39:41,720 --> 00:39:43,720`
+Och gör klassificering.
+
+
+
+`954 00:39:43,720 --> 00:39:46,720`
+Och sen exporterar de ett API.
+
+
+
+`955 00:39:46,720 --> 00:39:50,720`
+Som nästan alla verktyg i hela världen som använder CVE-data.
+
+
+
+`956 00:39:50,720 --> 00:39:52,720`
+Hämtar ju sin data från NVD.
+
+
+
+`957 00:39:52,720 --> 00:39:54,720`
+Men vet du vad jag hörde?
+
+
+
+`958 00:39:54,720 --> 00:39:55,720`
+Eh...
+
+
+
+`959 00:39:55,720 --> 00:39:57,720`
+Slightly off-toppet tangent.
+
+
+
+`960 00:39:57,720 --> 00:40:00,720`
+Men på ryska business var det några som pratade om att...
+
+
+
+`961 00:40:00,720 --> 00:40:02,720`
+Det är några som satt i system.
+
+
+
+`962 00:40:02,720 --> 00:40:05,720`
+Att de hittar till den kinesiska versionen.
+
+
+
+`963 00:40:05,720 --> 00:40:10,720`
+Så ibland när du inte kan få ut någon vettig information.
+
+
+
+`964 00:40:10,720 --> 00:40:12,720`
+Och du faktiskt vill veta vad en sårbarhet gör.
+
+
+
+`965 00:40:12,720 --> 00:40:14,720`
+Och den är typ nonsens.
+
+
+
+`966 00:40:14,720 --> 00:40:18,720`
+Det finns tydligen folk som vet hur man kommer till den kinesiska versionen.
+
+
+
+`967 00:40:18,720 --> 00:40:22,720`
+Och ibland är den kinesiska informationen mycket bättre än den västerländska.
+
+
+
+`968 00:40:22,720 --> 00:40:24,720`
+Så emellanåt då.
+
+
+
+`969 00:40:24,720 --> 00:40:26,720`
+Tips från coachen.
+
+
+
+`970 00:40:26,720 --> 00:40:28,720`
+Hitta till den kinesiska.
+
+
+
+`971 00:40:28,720 --> 00:40:30,720`
+Och lär dig översätta kinesiska.
+
+
+
+`972 00:40:30,720 --> 00:40:31,720`
+Som man gör.
+
+
+
+`973 00:40:31,720 --> 00:40:32,720`
+Som man gör.
+
+
+
+`974 00:40:32,720 --> 00:40:33,720`
+Det finns ju även...
+
+
+
+`975 00:40:33,720 --> 00:40:37,720`
+Red Hat är ju också väldigt duktiga på att synka sina bulletins.
+
+
+
+`976 00:40:37,720 --> 00:40:40,720`
+Snabbare än någon annan så är man taggad.
+
+
+
+`977 00:40:40,720 --> 00:40:42,720`
+Så kan man...
+
+
+
+`978 00:40:42,720 --> 00:40:44,720`
+Red Hat följer oftast under serien.
+
+
+
+`979 00:40:44,720 --> 00:40:46,720`
+Det är ju inte ovanligt att du har...
+
+
+
+`980 00:40:46,720 --> 00:40:48,720`
+Du kan ha till exempel ett säkerhetsskål i Java.
+
+
+
+`981 00:40:48,720 --> 00:40:50,720`
+Som är helt obegripligt.
+
+
+
+`982 00:40:50,720 --> 00:40:51,720`
+Och så klickar du runt.
+
+
+
+`983 00:40:51,720 --> 00:40:52,720`
+Och så går du CVE-listan.
+
+
+
+`984 00:40:52,720 --> 00:40:53,720`
+Och så klickar du iväg till Red Hat.
+
+
+
+`985 00:40:53,720 --> 00:40:54,720`
+Och när du...
+
+
+
+`986 00:40:54,720 --> 00:40:57,720`
+Liksom till och med man klickar bort så är du i Red Hats bug-tracker.
+
+
+
+`987 00:40:57,720 --> 00:40:59,720`
+Där det står exakt vad sårbarheten är.
+
+
+
+`988 00:40:59,720 --> 00:41:01,720`
+Och det kan vara till och med innan allokeringen har kommit.
+
+
+
+`989 00:41:01,720 --> 00:41:03,720`
+Det är väl det här som vi måste liksom...
+
+
+
+`990 00:41:03,720 --> 00:41:04,720`
+Om vi hårdrar det.
+
+
+
+`991 00:41:04,720 --> 00:41:05,720`
+Vad är då problematiken?
+
+
+
+`992 00:41:05,720 --> 00:41:06,720`
+Och för att...
+
+
+
+`993 00:41:06,720 --> 00:41:09,720`
+För att komma dit så måste vi väl tänka på...
+
+
+
+`994 00:41:09,720 --> 00:41:12,720`
+Hur fungerar det här innan...
+
+
+
+`995 00:41:12,720 --> 00:41:14,720`
+Den här typen av CVE-tracking?
+
+
+
+`996 00:41:14,720 --> 00:41:15,720`
+Ursprungligen.
+
+
+
+`997 00:41:15,720 --> 00:41:16,720`
+Alltså CVE-listan är väl uråldrig.
+
+
+
+`998 00:41:16,720 --> 00:41:17,720`
+Den är från...
+
+
+
+`999 00:41:17,720 --> 00:41:18,720`
+99.
+
+
+
+`1000 00:41:18,720 --> 00:41:19,720`
+Är den så...
+
+
+
+`1001 00:41:19,720 --> 00:41:20,720`
+Jaha, jag tror den var äldre.
+
+
+
+`1002 00:41:20,720 --> 00:41:21,720`
+Men okej, men typ...
+
+
+
+`1003 00:41:21,720 --> 00:41:22,720`
+Problematiken är ju...
+
+
+
+`1004 00:41:22,720 --> 00:41:24,720`
+Problematiken är ju att du inte hade ett...
+
+
+
+`1005 00:41:24,720 --> 00:41:26,720`
+En gemensam...
+
+
+
+`1006 00:41:26,720 --> 00:41:27,720`
+Nomenklatur.
+
+
+
+`1007 00:41:27,720 --> 00:41:30,720`
+En gemensam nomenklatur för sårbarheter som folk visste.
+
+
+
+`1008 00:41:30,720 --> 00:41:33,720`
+Det vill säga, när någonting dök upp...
+
+
+
+`1009 00:41:33,720 --> 00:41:35,720`
+Så hade vi inte någonting som vi alla kunde vara överens om.
+
+
+
+`1010 00:41:35,720 --> 00:41:37,720`
+Om en sårbarhet var fixad så ville vi vara överens om om...
+
+
+
+`1011 00:41:37,720 --> 00:41:39,720`
+Är det samma sårbarhet som är fixad?
+
+
+
+`1012 00:41:39,720 --> 00:41:40,720`
+Exakt, är det här patchat?
+
+
+
+`1013 00:41:40,720 --> 00:41:42,720`
+Som till exempel när man läser Red Hat Patch Notes då.
+
+
+
+`1014 00:41:42,720 --> 00:41:44,720`
+Vad fan är det ni har lagat då?
+
+
+
+`1015 00:41:44,720 --> 00:41:45,720`
+Exakt.
+
+
+
+`1016 00:41:45,720 --> 00:41:46,720`
+Är det här...
+
+
+
+`1017 00:41:46,720 --> 00:41:48,720`
+Weird cross-site scripting, blablabla.
+
+
+
+`1018 00:41:48,720 --> 00:41:50,720`
+Esoteriskt beskrivet.
+
+
+
+`1019 00:41:50,720 --> 00:41:52,720`
+Eller är det bara CVE-tracking?
+
+
+
+`1020 00:41:52,720 --> 00:41:54,720`
+Eller är det 25.05.03?
+
+
+
+`1021 00:41:54,720 --> 00:42:00,720`
+Det här är ju nästan det enda som har varit solit och funkat under hela den tiden jag varit yrkesaktiv.
+
+
+
+`1022 00:42:00,720 --> 00:42:05,720`
+Och där håller vi med om allihopa att CVE och CVSS är inte perfekt.
+
+
+
+`1023 00:42:05,720 --> 00:42:07,720`
+Men det är det absolut bästa vi har.
+
+
+
+`1024 00:42:07,720 --> 00:42:09,720`
+Och det är värt mycket.
+
+
+
+`1025 00:42:09,720 --> 00:42:10,720`
+CVSS, I don't know.
+
+
+
+`1026 00:42:10,720 --> 00:42:12,720`
+CVE, absolut.
+
+
+
+`1027 00:42:12,720 --> 00:42:14,720`
+Jag...
+
+
+
+`1028 00:42:14,720 --> 00:42:15,720`
+Jag älskar inte CVE.
+
+
+
+`1029 00:42:15,720 --> 00:42:17,720`
+Det är ju inte så att vi skulle...
+
+
+
+`1030 00:42:17,720 --> 00:42:19,720`
+Det är samma som Regiexplorer.
+
+
+
+`1031 00:42:19,720 --> 00:42:21,720`
+Det finns en sajt där man kan bocka i.
+
+
+
+`1032 00:42:21,720 --> 00:42:25,720`
+Men skulle det här talas så finns det ju konkurrerande system.
+
+
+
+`1033 00:42:25,720 --> 00:42:27,720`
+Det är bara det att alla inte är överens om vilket.
+
+
+
+`1034 00:42:27,720 --> 00:42:29,720`
+Nej, och det är ju det som är hela poängen.
+
+
+
+`1035 00:42:29,720 --> 00:42:31,720`
+Hela poängen med att CVE-systemet är alla överens om.
+
+
+
+`1036 00:42:31,720 --> 00:42:34,720`
+Så det är det vi ska lobba för nu, Jeppes dödsindex.
+
+
+
+`1037 00:42:34,720 --> 00:42:35,720`
+Nej, men det är ju det.
+
+
+
+`1038 00:42:35,720 --> 00:42:36,720`
+Självklart så kan du...
+
+
+
+`1039 00:42:36,720 --> 00:42:37,720`
+Ond, bråd, internet, död.
+
+
+
+`1040 00:42:37,720 --> 00:42:41,720`
+Självklart kan du skapa en konkurrerande lista då.
+
+
+
+`1041 00:42:41,720 --> 00:42:43,720`
+För att använda...
+
+
+
+`1042 00:42:43,720 --> 00:42:44,720`
+Var det inte en datapass?
+
+
+
+`1043 00:42:44,720 --> 00:42:45,720`
+Men hela poängen med detta är...
+
+
+
+`1044 00:42:45,720 --> 00:42:46,720`
+Du var inte överens.
+
+
+
+`1045 00:42:46,720 --> 00:42:47,720`
+Exakt.
+
+
+
+`1046 00:42:47,720 --> 00:42:49,720`
+Men hela poängen med det här är ju att...
+
+
+
+`1047 00:42:49,720 --> 00:42:50,720`
+Även om det här inte är perfekt...
+
+
+
+`1048 00:42:50,720 --> 00:42:53,720`
+Så är det någonting vi alla är överens om.
+
+
+
+`1049 00:42:53,720 --> 00:42:55,720`
+Det här är the source of truth.
+
+
+
+`1050 00:42:57,720 --> 00:43:00,720`
+Skulle det dö eller bara bli så pass långsamt...
+
+
+
+`1051 00:43:00,720 --> 00:43:02,720`
+På grund av bristande funding...
+
+
+
+`1052 00:43:02,720 --> 00:43:07,720`
+Så att det inte längre levererar värde...
+
+
+
+`1053 00:43:07,720 --> 00:43:09,720`
+Då har vi ett problem.
+
+
+
+`1054 00:43:09,720 --> 00:43:13,720`
+Och det är dessutom problematiskt att...
+
+
+
+`1055 00:43:14,720 --> 00:43:16,720`
+Funding och annat är osäkert just nu...
+
+
+
+`1056 00:43:16,720 --> 00:43:18,720`
+När vi är i ett förändringsskeende.
+
+
+
+`1057 00:43:18,720 --> 00:43:19,720`
+Och...
+
+
+
+`1058 00:43:19,720 --> 00:43:20,720`
+Som...
+
+
+
+`1059 00:43:20,720 --> 00:43:23,720`
+Det kanske inte har varit katastrof...
+
+
+
+`1060 00:43:23,720 --> 00:43:25,720`
+Men det har inte gått smärtfritt i vart fall.
+
+
+
+`1061 00:43:25,720 --> 00:43:27,720`
+Ja, alltså vi håller på att tanka världsekonomin.
+
+
+
+`1062 00:43:27,720 --> 00:43:31,720`
+Okej, nu bytte fokus.
+
+
+
+`1063 00:43:31,720 --> 00:43:33,720`
+Fun fact här är ju att...
+
+
+
+`1064 00:43:33,720 --> 00:43:36,720`
+Lite anledning till detta är ju...
+
+
+
+`1065 00:43:36,720 --> 00:43:38,720`
+Bara för att CISA håller på att tappa funding.
+
+
+
+`1066 00:43:38,720 --> 00:43:40,720`
+Och det märker man på flera olika sätt.
+
+
+
+`1067 00:43:40,720 --> 00:43:42,720`
+De har börjat cancellera kontrakt.
+
+
+
+`1068 00:43:42,720 --> 00:43:45,720`
+De har ju tydligen jävligt många folk de anställer på konsultbasis.
+
+
+
+`1069 00:43:45,720 --> 00:43:47,720`
+För att göra threat hunting och sånt.
+
+
+
+`1070 00:43:47,720 --> 00:43:49,720`
+De har köpt...
+
+
+
+`1071 00:43:49,720 --> 00:43:51,720`
+Verktyg från både Google och Censys.
+
+
+
+`1072 00:43:51,720 --> 00:43:52,720`
+För att göra threat hunting.
+
+
+
+`1073 00:43:52,720 --> 00:43:54,720`
+För att aktivt hitta problem då.
+
+
+
+`1074 00:43:54,720 --> 00:43:55,720`
+Det håller de så på att ställa in.
+
+
+
+`1075 00:43:55,720 --> 00:43:58,720`
+De har sagt upp avtalet med Google och Censys.
+
+
+
+`1076 00:43:58,720 --> 00:43:59,720`
+De har inga verktyg nu.
+
+
+
+`1077 00:43:59,720 --> 00:44:03,720`
+Och de har sagt upp de flesta kontrakten med de här threat hunting konsulterna nu.
+
+
+
+`1078 00:44:03,720 --> 00:44:06,720`
+Så de har knappt något folk som kan göra det.
+
+
+
+`1079 00:44:06,720 --> 00:44:08,720`
+Sen har de flera initiativ CISA utöver detta.
+
+
+
+`1080 00:44:08,720 --> 00:44:10,720`
+Det finns ett stort som heter Secure by Design.
+
+
+
+`1081 00:44:10,720 --> 00:44:12,720`
+Som har släppt en jävligt massa...
+
+
+
+`1082 00:44:12,720 --> 00:44:14,720`
+Jag tror det är typ nära fem och tio...
+
+
+
+`1083 00:44:14,720 --> 00:44:16,720`
+Rapporter som heter typ...
+
+
+
+`1084 00:44:16,720 --> 00:44:18,720`
+Eliminating X.
+
+
+
+`1085 00:44:18,720 --> 00:44:21,720`
+Och då är X buffer overflow, cross-site scripting.
+
+
+
+`1086 00:44:21,720 --> 00:44:26,720`
+Som är nästan recept på hur kan du i din organisation bli av med dina SQL injection problem.
+
+
+
+`1087 00:44:26,720 --> 00:44:30,720`
+Som är drivna av två personer som har fått riktigt mycket cred.
+
+
+
+`1088 00:44:30,720 --> 00:44:31,720`
+Och typ så här...
+
+
+
+`1089 00:44:31,720 --> 00:44:33,720`
+Hade de jobbat privat hade de blivit miljonärer.
+
+
+
+`1090 00:44:33,720 --> 00:44:37,720`
+Men de väljer nu att jobba för publikens bästa intresse istället.
+
+
+
+`1091 00:44:37,720 --> 00:44:39,720`
+Nu har de sagt upp sig från CISA.
+
+
+
+`1092 00:44:39,720 --> 00:44:40,720`
+Och dratt därifrån.
+
+
+
+`1093 00:44:40,720 --> 00:44:41,720`
+Så nu tror ju alla...
+
+
+
+`1094 00:44:41,720 --> 00:44:43,720`
+Det här har ju funkat förut.
+
+
+
+`1095 00:44:43,720 --> 00:44:46,720`
+Hur gör man för att man inte får SQL injection?
+
+
+
+`1096 00:44:46,720 --> 00:44:47,720`
+Well...
+
+
+
+`1097 00:44:47,720 --> 00:44:48,720`
+Jo...
+
+
+
+`1098 00:44:48,720 --> 00:44:49,720`
+Nej men...
+
+
+
+`1099 00:44:49,720 --> 00:44:50,720`
+Ja men problemet är väl så här...
+
+
+
+`1100 00:44:50,720 --> 00:44:51,720`
+Vem...
+
+
+
+`1101 00:44:51,720 --> 00:44:55,720`
+Vilken organisation det är som kommer att steppa upp och ta den här manteln då?
+
+
+
+`1102 00:44:55,720 --> 00:44:57,720`
+Men det blir lite tydligt att...
+
+
+
+`1103 00:44:57,720 --> 00:44:58,720`
+Ehm...
+
+
+
+`1104 00:44:58,720 --> 00:44:59,720`
+Alltså...
+
+
+
+`1105 00:45:01,720 --> 00:45:04,720`
+Den här rörelsen som man till exempel rörde sig i.
+
+
+
+`1106 00:45:04,720 --> 00:45:07,720`
+Att det blev en ICAN och att det blev en internationell organisation och sånt.
+
+
+
+`1107 00:45:07,720 --> 00:45:08,720`
+Det...
+
+
+
+`1108 00:45:08,720 --> 00:45:09,720`
+Ehm...
+
+
+
+`1109 00:45:10,720 --> 00:45:14,720`
+Jag kanske inte tyckte det vart så superviktigt historiskt sett.
+
+
+
+`1110 00:45:14,720 --> 00:45:16,720`
+Liksom hur fan grejer hålls och sådär.
+
+
+
+`1111 00:45:16,720 --> 00:45:17,720`
+Och man...
+
+
+
+`1112 00:45:17,720 --> 00:45:21,720`
+Man är lite alarmistisk och man antar att det bara kan bli kaos från ena dagen till den andra.
+
+
+
+`1113 00:45:21,720 --> 00:45:22,720`
+Men...
+
+
+
+`1114 00:45:22,720 --> 00:45:24,720`
+Men det har vi ju säkrat nu liksom.
+
+
+
+`1115 00:45:24,720 --> 00:45:25,720`
+Att det...
+
+
+
+`1116 00:45:25,720 --> 00:45:27,720`
+Ja uppenbarligen tyvärr så...
+
+
+
+`1117 00:45:27,720 --> 00:45:28,720`
+Kan de här farorna...
+
+
+
+`1118 00:45:28,720 --> 00:45:30,720`
+Det som hela världen står på...
+
+
+
+`1119 00:45:30,720 --> 00:45:33,720`
+Vänta lite så ska jag ta bort stenen som ligger uppe på dig.
+
+
+
+`1120 00:45:33,720 --> 00:45:34,720`
+Vänta, vänta.
+
+
+
+`1121 00:45:34,720 --> 00:45:35,720`
+Nej men...
+
+
+
+`1122 00:45:35,720 --> 00:45:40,720`
+Det bör vara fundat och internationellt styrt liksom.
+
+
+
+`1123 00:45:40,720 --> 00:45:42,720`
+Ja eller göras på ett sätt som...
+
+
+
+`1124 00:45:42,720 --> 00:45:43,720`
+Ja men exakt alltså...
+
+
+
+`1125 00:45:43,720 --> 00:45:44,720`
+Det måste vara globalt.
+
+
+
+`1126 00:45:44,720 --> 00:45:46,720`
+Det är inte bara den som säger att vi behöver ett world government men...
+
+
+
+`1127 00:45:46,720 --> 00:45:48,720`
+American world police.
+
+
+
+`1128 00:45:48,720 --> 00:45:49,720`
+Vet ni...
+
+
+
+`1129 00:45:49,720 --> 00:45:50,720`
+Vet ni vem det är nu?
+
+
+
+`1130 00:45:50,720 --> 00:45:51,720`
+I wish.
+
+
+
+`1131 00:45:51,720 --> 00:45:52,720`
+Vet ni...
+
+
+
+`1132 00:45:52,720 --> 00:45:55,720`
+Vet ni vem det är som driver The Crusade mot CISA nu då?
+
+
+
+`1133 00:45:55,720 --> 00:45:56,720`
+Berätta allt om det.
+
+
+
+`1134 00:45:56,720 --> 00:45:57,720`
+Är det Trump tyvärr nu?
+
+
+
+`1135 00:45:57,720 --> 00:45:58,720`
+Nej.
+
+
+
+`1136 00:45:58,720 --> 00:46:00,720`
+Det är en tjej som heter Kristi Noem.
+
+
+
+`1137 00:46:00,720 --> 00:46:01,720`
+Som...
+
+
+
+`1138 00:46:01,720 --> 00:46:03,720`
+Hon är ju en utav Trumps utvalda då.
+
+
+
+`1139 00:46:03,720 --> 00:46:04,720`
+Ja hon...
+
+
+
+`1140 00:46:04,720 --> 00:46:05,720`
+Ja.
+
+
+
+`1141 00:46:05,720 --> 00:46:06,720`
+Hon är ju...
+
+
+
+`1142 00:46:06,720 --> 00:46:07,720`
+Ah fuck.
+
+
+
+`1143 00:46:07,720 --> 00:46:08,720`
+Nu tappar jag bort min insight.
+
+
+
+`1144 00:46:08,720 --> 00:46:14,720`
+Hur som helst så hatar de ju den gamla chefen för CISA och försöker döda honom till.
+
+
+
+`1145 00:46:14,720 --> 00:46:15,720`
+Prebs.
+
+
+
+`1146 00:46:15,720 --> 00:46:16,720`
+Ja.
+
+
+
+`1147 00:46:16,720 --> 00:46:18,720`
+Det var nog så det började tror jag.
+
+
+
+`1148 00:46:18,720 --> 00:46:23,720`
+Alltså att Prebs blev vald som chef för CISA typ när CISA skapades back in the day och Trump valde honom.
+
+
+
+`1149 00:46:23,720 --> 00:46:26,720`
+Så att USA försöker döda sitt...
+
+
+
+`1150 00:46:26,720 --> 00:46:28,720`
+Liksom sitt eget cyberförsvar.
+
+
+
+`1151 00:46:28,720 --> 00:46:29,720`
+Ja men det är ju...
+
+
+
+`1152 00:46:29,720 --> 00:46:30,720`
+Det var ju...
+
+
+
+`1153 00:46:30,720 --> 00:46:31,720`
+Det var ju liksom inte riktigt men...
+
+
+
+`1154 00:46:31,720 --> 00:46:32,720`
+De går ju över till Signal nu.
+
+
+
+`1155 00:46:32,720 --> 00:46:34,720`
+Det är ju tydligt.
+
+
+
+`1156 00:46:34,720 --> 00:46:35,720`
+Ja men...
+
+
+
+`1157 00:46:35,720 --> 00:46:36,720`
+Prebs...
+
+
+
+`1158 00:46:36,720 --> 00:46:37,720`
+För det är ju en...
+
+
+
+`1159 00:46:37,720 --> 00:46:40,720`
+En grej som är faktiskt viktig att påpeka här.
+
+
+
+`1160 00:46:40,720 --> 00:46:42,720`
+Han var ju chef då för detta.
+
+
+
+`1161 00:46:42,720 --> 00:46:43,720`
+Han var chef för CISA för ett tag sen.
+
+
+
+`1162 00:46:43,720 --> 00:46:44,720`
+Och jobbade dessutom...
+
+
+
+`1163 00:46:44,720 --> 00:46:45,720`
+För ett tag sen.
+
+
+
+`1164 00:46:45,720 --> 00:46:46,720`
+För...
+
+
+
+`1165 00:46:46,720 --> 00:46:47,720`
+Vad heter företaget?
+
+
+
+`1166 00:46:47,720 --> 00:46:48,720`
+Som...
+
+
+
+`1167 00:46:48,720 --> 00:46:50,720`
+Sentinel One jobbade han på.
+
+
+
+`1168 00:46:50,720 --> 00:46:51,720`
+Precis.
+
+
+
+`1169 00:46:51,720 --> 00:46:52,720`
+Precis.
+
+
+
+`1170 00:46:52,720 --> 00:46:53,720`
+Och blev ju...
+
+
+
+`1171 00:46:53,720 --> 00:46:56,720`
+Eller kände sig väl tvingad då att gå ner från sin...
+
+
+
+`1172 00:46:56,720 --> 00:47:03,720`
+Han var väl CEO där i det bolaget på grund av påtryckningar från Trump.
+
+
+
+`1173 00:47:03,720 --> 00:47:06,720`
+Det vill säga vi kommer gå efter det med allt vi har.
+
+
+
+`1174 00:47:06,720 --> 00:47:07,720`
+Ja.
+
+
+
+`1175 00:47:07,720 --> 00:47:11,720`
+Så det här är ju hundra procent politiskt justitiemord.
+
+
+
+`1176 00:47:11,720 --> 00:47:12,720`
+Det är det det är liksom.
+
+
+
+`1177 00:47:12,720 --> 00:47:14,720`
+Men det var ju länge sedan han fick kicken.
+
+
+
+`1178 00:47:14,720 --> 00:47:16,720`
+Det var ju förra terminen.
+
+
+
+`1179 00:47:16,720 --> 00:47:17,720`
+Ja.
+
+
+
+`1180 00:47:17,720 --> 00:47:18,720`
+Men...
+
+
+
+`1181 00:47:18,720 --> 00:47:22,720`
+Men det är ju kommit ut en executive order som bara hatar på honom.
+
+
+
+`1182 00:47:22,720 --> 00:47:23,720`
+Ja men exakt.
+
+
+
+`1183 00:47:23,720 --> 00:47:25,720`
+Som går efter honom personligen.
+
+
+
+`1184 00:47:25,720 --> 00:47:26,720`
+Vilket är ju bara...
+
+
+
+`1185 00:47:26,720 --> 00:47:29,720`
+Och så samtidigt så försöker de typ fimpa CISA.
+
+
+
+`1186 00:47:29,720 --> 00:47:30,720`
+Är det bara jag som hör liksom...
+
+
+
+`1187 00:47:30,720 --> 00:47:33,720`
+Previously on season two on America's Fastest World.
+
+
+
+`1188 00:47:34,720 --> 00:47:35,720`
+Exakt.
+
+
+
+`1189 00:47:35,720 --> 00:47:36,720`
+Det är ju liksom...
+
+
+
+`1190 00:47:36,720 --> 00:47:37,720`
+Ja men alltså...
+
+
+
+`1191 00:47:37,720 --> 00:47:38,720`
+Det här är ett jävla hittepåland.
+
+
+
+`1192 00:47:38,720 --> 00:47:39,720`
+Det är...
+
+
+
+`1193 00:47:39,720 --> 00:47:40,720`
+Alltså hur...
+
+
+
+`1194 00:47:40,720 --> 00:47:42,720`
+Vi kan inte lägga den här typen av machinier i en persons händer.
+
+
+
+`1195 00:47:42,720 --> 00:47:43,720`
+Nej.
+
+
+
+`1196 00:47:43,720 --> 00:47:44,720`
+Vi kan inte lägga vad som händer.
+
+
+
+`1197 00:47:44,720 --> 00:47:45,720`
+Alltså det är...
+
+
+
+`1198 00:47:45,720 --> 00:47:46,720`
+Alltså du ser...
+
+
+
+`1199 00:47:46,720 --> 00:47:48,720`
+Du ser så upprörd ut.
+
+
+
+`1200 00:47:48,720 --> 00:47:49,720`
+Det är självklart att det...
+
+
+
+`1201 00:47:49,720 --> 00:47:50,720`
+Det här är inte...
+
+
+
+`1202 00:47:50,720 --> 00:47:51,720`
+Det är som i...
+
+
+
+`1203 00:47:51,720 --> 00:47:52,720`
+Okej.
+
+
+
+`1204 00:47:52,720 --> 00:47:53,720`
+Och det här hela började ju med att...
+
+
+
+`1205 00:47:54,720 --> 00:47:56,720`
+Som nyvald CISA-ledamot...
+
+
+
+`1206 00:47:56,720 --> 00:47:57,720`
+Jag trycker ner.
+
+
+
+`1207 00:47:57,720 --> 00:47:58,720`
+Så...
+
+
+
+`1208 00:47:58,720 --> 00:48:01,720`
+Vill ju Trump att han skulle säga att valet var riggat.
+
+
+
+`1209 00:48:01,720 --> 00:48:03,720`
+Men han sa ju att nej...
+
+
+
+`1210 00:48:03,720 --> 00:48:04,720`
+Vi ser inga bevis.
+
+
+
+`1211 00:48:04,720 --> 00:48:05,720`
+Election security...
+
+
+
+`1212 00:48:05,720 --> 00:48:06,720`
+Election security ser bra ut.
+
+
+
+`1213 00:48:06,720 --> 00:48:07,720`
+Och då fick han kicken.
+
+
+
+`1214 00:48:07,720 --> 00:48:08,720`
+Ja.
+
+
+
+`1215 00:48:08,720 --> 00:48:11,720`
+Och sen dess har han varit på Trumps mörka sida kan man väl säga.
+
+
+
+`1216 00:48:11,720 --> 00:48:12,720`
+Och...
+
+
+
+`1217 00:48:12,720 --> 00:48:14,720`
+Och sen fortsatte CISA att...
+
+
+
+`1218 00:48:14,720 --> 00:48:18,720`
+Även efter Krebs så fortsatte de att jobba mot missinformation.
+
+
+
+`1219 00:48:18,720 --> 00:48:21,720`
+Och det är därför de nu jagas av republikanerna.
+
+
+
+`1220 00:48:21,720 --> 00:48:23,720`
+För att de lever ju på missinformation.
+
+
+
+`1221 00:48:23,720 --> 00:48:24,720`
+Så att...
+
+
+
+`1222 00:48:24,720 --> 00:48:26,720`
+Så det är därför de ligger under kniven just nu.
+
+
+
+`1223 00:48:26,720 --> 00:48:27,720`
+Ska vi...
+
+
+
+`1224 00:48:27,720 --> 00:48:28,720`
+Ska vi...
+
+
+
+`1225 00:48:28,720 --> 00:48:29,720`
+Byta fokus lite?
+
+
+
+`1226 00:48:29,720 --> 00:48:30,720`
+Och prata om...
+
+
+
+`1227 00:48:30,720 --> 00:48:32,720`
+Transatlantiska problem.
+
+
+
+`1228 00:48:32,720 --> 00:48:33,720`
+Ja men andra...
+
+
+
+`1229 00:48:33,720 --> 00:48:34,720`
+Andra...
+
+
+
+`1230 00:48:36,720 --> 00:48:37,720`
+Saker.
+
+
+
+`1231 00:48:37,720 --> 00:48:40,720`
+Andra saker som sprider missinformation enligt Trump.
+
+
+
+`1232 00:48:40,720 --> 00:48:41,720`
+Men?
+
+
+
+`1233 00:48:41,720 --> 00:48:42,720`
+Exakt.
+
+
+
+`1234 00:48:42,720 --> 00:48:43,720`
+Exempelvis...
+
+
+
+`1235 00:48:43,720 --> 00:48:44,720`
+PubMed.
+
+
+
+`1236 00:48:44,720 --> 00:48:45,720`
+Oh\!
+
+
+
+`1237 00:48:45,720 --> 00:48:46,720`
+Har ni koll på PubMed?
+
+
+
+`1238 00:48:46,720 --> 00:48:48,720`
+Det låter som en...
+
+
+
+`1239 00:48:48,720 --> 00:48:49,720`
+Sajt som publicerar...
+
+
+
+`1240 00:48:49,720 --> 00:48:50,720`
+Medicinska...
+
+
+
+`1241 00:48:50,720 --> 00:48:51,720`
+Forskning.
+
+
+
+`1242 00:48:51,720 --> 00:48:52,720`
+Medicinsk forskning.
+
+
+
+`1243 00:48:52,720 --> 00:48:53,720`
+Var det de där det är typ två...
+
+
+
+`1244 00:48:53,720 --> 00:48:55,720`
+200 ord som är förbjudna eller något?
+
+
+
+`1245 00:48:55,720 --> 00:48:56,720`
+What?
+
+
+
+`1246 00:48:56,720 --> 00:48:57,720`
+Exakt.
+
+
+
+`1247 00:48:57,720 --> 00:48:58,720`
+Min flickvän fick ju...
+
+
+
+`1248 00:48:58,720 --> 00:48:59,720`
+Hon...
+
+
+
+`1249 00:48:59,720 --> 00:49:00,720`
+Hon tittade...
+
+
+
+`1250 00:49:00,720 --> 00:49:01,720`
+Hon skrev in ett förbjudet ord.
+
+
+
+`1251 00:49:01,720 --> 00:49:02,720`
+Nej men hon...
+
+
+
+`1252 00:49:02,720 --> 00:49:03,720`
+Nej men hon tittade.
+
+
+
+`1253 00:49:03,720 --> 00:49:04,720`
+Hon har ju gjort ett...
+
+
+
+`1254 00:49:04,720 --> 00:49:05,720`
+Hotell.
+
+
+
+`1255 00:49:05,720 --> 00:49:06,720`
+Nej men hon...
+
+
+
+`1256 00:49:06,720 --> 00:49:07,720`
+Hon har ju någonting där...
+
+
+
+`1257 00:49:07,720 --> 00:49:08,720`
+Alltså...
+
+
+
+`1258 00:49:08,720 --> 00:49:09,720`
+Grejen är ju att det är generella ord.
+
+
+
+`1259 00:49:09,720 --> 00:49:10,720`
+Så att...
+
+
+
+`1260 00:49:10,720 --> 00:49:11,720`
+Du...
+
+
+
+`1261 00:49:11,720 --> 00:49:13,720`
+Du vet en artikel om precis vad som helst.
+
+
+
+`1262 00:49:13,720 --> 00:49:15,720`
+Du behöver mer kontext här för alla ibland.
+
+
+
+`1263 00:49:15,720 --> 00:49:16,720`
+Jag behöver mer information.
+
+
+
+`1264 00:49:16,720 --> 00:49:17,720`
+Ja men...
+
+
+
+`1265 00:49:17,720 --> 00:49:18,720`
+PubMed.
+
+
+
+`1266 00:49:18,720 --> 00:49:19,720`
+Men till exempel om du...
+
+
+
+`1267 00:49:19,720 --> 00:49:20,720`
+Om du har...
+
+
+
+`1268 00:49:20,720 --> 00:49:21,720`
+Jag förstår.
+
+
+
+`1269 00:49:21,720 --> 00:49:22,720`
+Var du är på väg.
+
+
+
+`1270 00:49:22,720 --> 00:49:23,720`
+Diverse set of test cases.
+
+
+
+`1271 00:49:23,720 --> 00:49:24,720`
+Ja eller...
+
+
+
+`1272 00:49:24,720 --> 00:49:25,720`
+Det är inte tillåtet.
+
+
+
+`1273 00:49:25,720 --> 00:49:26,720`
+Eller bara...
+
+
+
+`1274 00:49:26,720 --> 00:49:27,720`
+Paus.
+
+
+
+`1275 00:49:27,720 --> 00:49:28,720`
+Paus.
+
+
+
+`1276 00:49:28,720 --> 00:49:29,720`
+Paus.
+
+
+
+`1277 00:49:29,720 --> 00:49:30,720`
+PubMed.
+
+
+
+`1278 00:49:30,720 --> 00:49:31,720`
+Okej.
+
+
+
+`1279 00:49:31,720 --> 00:49:32,720`
+Vad är PubMed?
+
+
+
+`1280 00:49:32,720 --> 00:49:33,720`
+PubMed.
+
+
+
+`1281 00:49:33,720 --> 00:49:35,720`
+Det här är mest ostrukturerade strukturer redan.
+
+
+
+`1282 00:49:35,720 --> 00:49:37,720`
+Nej men aldrig tänkt att tänka på detta.
+
+
+
+`1283 00:49:37,720 --> 00:49:38,720`
+I detta kontextet.
+
+
+
+`1284 00:49:38,720 --> 00:49:39,720`
+Bra\!
+
+
+
+`1285 00:49:39,720 --> 00:49:40,720`
+Bra start.
+
+
+
+`1286 00:49:40,720 --> 00:49:41,720`
+Sjukt bra start.
+
+
+
+`1287 00:49:41,720 --> 00:49:44,720`
+Aldrig tänkt att tänka på detta i detta kontextet för det här avsnittet.
+
+
+
+`1288 00:49:44,720 --> 00:49:45,720`
+Men vi kommer...
+
+
+
+`1289 00:49:45,720 --> 00:49:46,720`
+Vi kommer snart lägga den...
+
+
+
+`1290 00:49:46,720 --> 00:49:47,720`
+Den förbjuds...
+
+
+
+`1291 00:49:47,720 --> 00:49:48,720`
+Den ordförbjudslistan på CV-listan.
+
+
+
+`1292 00:49:48,720 --> 00:49:49,720`
+Helping.
+
+
+
+`1293 00:49:49,720 --> 00:49:50,720`
+Nej men det var...
+
+
+
+`1294 00:49:50,720 --> 00:49:51,720`
+Jag hade...
+
+
+
+`1295 00:49:51,720 --> 00:49:52,720`
+Jag satt och pratade med min...
+
+
+
+`1296 00:49:52,720 --> 00:49:53,720`
+Min far faktiskt.
+
+
+
+`1297 00:49:53,720 --> 00:49:54,720`
+Ort.
+
+
+
+`1298 00:49:54,720 --> 00:49:55,720`
+Mm.
+
+
+
+`1299 00:49:55,720 --> 00:49:56,720`
+Han är läkare.
+
+
+
+`1300 00:49:56,720 --> 00:49:57,720`
+Händer ibland.
+
+
+
+`1301 00:49:57,720 --> 00:49:58,720`
+Och jobbar mycket med forskning.
+
+
+
+`1302 00:49:58,720 --> 00:49:59,720`
+Ja.
+
+
+
+`1303 00:49:59,720 --> 00:50:00,720`
+Och...
+
+
+
+`1304 00:50:00,720 --> 00:50:01,720`
+Vi...
+
+
+
+`1305 00:50:01,720 --> 00:50:02,720`
+Vi kom in på...
+
+
+
+`1306 00:50:02,720 --> 00:50:03,720`
+På...
+
+
+
+`1307 00:50:03,720 --> 00:50:04,720`
+Ja hela det där transatlantiska debaclet.
+
+
+
+`1308 00:50:04,720 --> 00:50:05,720`
+Som man gör.
+
+
+
+`1309 00:50:05,720 --> 00:50:06,720`
+Som man gör.
+
+
+
+`1310 00:50:06,720 --> 00:50:07,720`
+Och...
+
+
+
+`1311 00:50:07,720 --> 00:50:08,720`
+Det han valde att...
+
+
+
+`1312 00:50:08,720 --> 00:50:09,720`
+Det han valde att...
+
+
+
+`1313 00:50:09,720 --> 00:50:10,720`
+Ta upp i den diskussionen var ganska intressant.
+
+
+
+`1314 00:50:10,720 --> 00:50:11,720`
+För han nämnde det att...
+
+
+
+`1315 00:50:11,720 --> 00:50:12,720`
+Efter CVSS och CVE.
+
+
+
+`1316 00:50:12,720 --> 00:50:13,720`
+Så tog han...
+
+
+
+`1317 00:50:13,720 --> 00:50:14,720`
+Nej men...
+
+
+
+`1318 00:50:14,720 --> 00:50:15,720`
+Det här är ju någonting som kommer faktiskt få människor att dö.
+
+
+
+`1319 00:50:15,720 --> 00:50:16,720`
+Mm.
+
+
+
+`1320 00:50:16,720 --> 00:50:17,720`
+Ifall det ju inträffar.
+
+
+
+`1321 00:50:17,720 --> 00:50:18,720`
+Vilket är på väg att inte...
+
+
+
+`1322 00:50:18,720 --> 00:50:19,720`
+Och då menar vi inte av tristess.
+
+
+
+`1323 00:50:19,720 --> 00:50:20,720`
+Nej utan...
+
+
+
+`1324 00:50:20,720 --> 00:50:21,720`
+Eller lite frustration.
+
+
+
+`1325 00:50:21,720 --> 00:50:22,720`
+Eller en bomb.
+
+
+
+`1326 00:50:22,720 --> 00:50:23,720`
+Att man rent av...
+
+
+
+`1327 00:50:23,720 --> 00:50:24,720`
+Människor som inte hade behövt dö.
+
+
+
+`1328 00:50:24,720 --> 00:50:25,720`
+Mm.
+
+
+
+`1329 00:50:25,720 --> 00:50:26,720`
+Kommer att dö.
+
+
+
+`1330 00:50:26,720 --> 00:50:27,720`
+Ja.
+
+
+
+`1331 00:50:27,720 --> 00:50:28,720`
+För...
+
+
+
+`1332 00:50:28,720 --> 00:50:29,720`
+Han sa det att...
+
+
+
+`1333 00:50:29,720 --> 00:50:30,720`
+Det är dem...
+
+
+
+`1334 00:50:30,720 --> 00:50:31,720`
+Som...
+
+
+
+`1335 00:50:31,720 --> 00:50:32,720`
+Jobbar med forskning inom medicin.
+
+
+
+`1336 00:50:32,720 --> 00:50:33,720`
+Är...
+
+
+
+`1337 00:50:33,720 --> 00:50:34,720`
+Är...
+
+
+
+`1338 00:50:34,720 --> 00:50:35,720`
+Är...
+
+
+
+`1339 00:50:35,720 --> 00:50:36,720`
+Är...
+
+
+
+`1340 00:50:36,720 --> 00:50:37,720`
+Är...
+
+
+
+`1341 00:50:37,720 --> 00:50:38,720`
+Är...
+
+
+
+`1342 00:50:38,720 --> 00:50:39,720`
+Är...
+
+
+
+`1343 00:50:39,720 --> 00:50:40,720`
+Är...
+
+
+
+`1344 00:50:40,720 --> 00:50:41,720`
+Är...
+
+
+
+`1345 00:50:41,720 --> 00:50:42,720`
+Är...
+
+
+
+`1346 00:50:42,720 --> 00:50:43,720`
+Är...
+
+
+
+`1347 00:50:43,720 --> 00:50:44,720`
+Är...
+
+
+
+`1348 00:50:44,720 --> 00:50:45,720`
+Är...
+
+
+
+`1349 00:50:45,720 --> 00:50:46,720`
+Är...
+
+
+
+`1350 00:50:46,720 --> 00:50:47,720`
+Är...
+
+
+
+`1351 00:50:47,720 --> 00:50:48,720`
+Är...
+
+
+
+`1352 00:50:48,720 --> 00:50:49,720`
+Är...
+
+
+
+`1353 00:50:49,720 --> 00:50:50,720`
+Är...
+
+
+
+`1354 00:50:50,720 --> 00:50:51,720`
+Är...
+
+
+
+`1355 00:50:51,720 --> 00:50:52,720`
+Är...
+
+
+
+`1356 00:50:52,720 --> 00:50:53,720`
+Är...
+
+
+
+`1357 00:50:53,720 --> 00:50:54,720`
+Är...
+
+
+
+`1358 00:50:54,720 --> 00:50:55,720`
+Är...
+
+
+
+`1359 00:50:55,720 --> 00:50:56,720`
+Är...
+
+
+
+`1360 00:50:56,720 --> 00:50:57,720`
+Är...
+
+
+
+`1361 00:50:57,720 --> 00:50:58,720`
+Är...
+
+
+
+`1362 00:50:58,720 --> 00:50:59,720`
+Är...
+
+
+
+`1363 00:50:59,720 --> 00:51:00,720`
+Är...
+
+
+
+`1364 00:51:00,720 --> 00:51:01,720`
+Är...
+
+
+
+`1365 00:51:01,720 --> 00:51:02,720`
+Är...
+
+
+
+`1366 00:51:02,720 --> 00:51:03,720`
+Är...
+
+
+
+`1367 00:51:03,720 --> 00:51:04,720`
+Är...
+
+
+
+`1368 00:51:04,720 --> 00:51:05,720`
+Är...
+
+
+
+`1369 00:51:05,720 --> 00:51:06,720`
+Är...
+
+
+
+`1370 00:51:06,720 --> 00:51:07,720`
+Ernest tar det...
+
+
+
+`1371 00:51:07,720 --> 00:51:08,720`
+Ingen...
+
+
+
+`1372 00:51:08,720 --> 00:51:09,720`
+Mm.
+
+
+
+`1373 00:51:09,720 --> 00:51:10,780`
+är det kostnad för att
+
+
+
+`1374 00:51:10,780 --> 00:51:12,200`
+så ska vi inte jobba
+
+
+
+`1375 00:51:12,200 --> 00:51:15,660`
+och det här är ju ganska läskigt
+
+
+
+`1376 00:51:15,660 --> 00:51:17,040`
+för att i stort sett
+
+
+
+`1377 00:51:17,040 --> 00:51:19,340`
+all medicinsk och
+
+
+
+`1378 00:51:19,340 --> 00:51:21,400`
+biovetenskaplig forskning
+
+
+
+`1379 00:51:21,400 --> 00:51:23,120`
+i Europa exempelvis
+
+
+
+`1380 00:51:23,120 --> 00:51:25,660`
+använder sig av PubMed
+
+
+
+`1381 00:51:25,660 --> 00:51:27,340`
+som grundresearch
+
+
+
+`1382 00:51:27,340 --> 00:51:29,640`
+för det är där alla publikationer
+
+
+
+`1383 00:51:29,640 --> 00:51:31,480`
+finns. Så nu får vi börja curla hemskiten
+
+
+
+`1384 00:51:31,480 --> 00:51:32,000`
+fort som fan
+
+
+
+`1385 00:51:32,000 --> 00:51:34,260`
+You're not wrong
+
+
+
+`1386 00:51:34,260 --> 00:51:36,240`
+för det är det här som
+
+
+
+`1387 00:51:36,240 --> 00:51:39,720`
+som forskare
+
+
+
+`1388 00:51:39,720 --> 00:51:41,560`
+läkare just nu i Europa
+
+
+
+`1389 00:51:41,560 --> 00:51:43,680`
+sitter och funderar på, hur fan ska vi lösa det här
+
+
+
+`1390 00:51:43,680 --> 00:51:46,020`
+hur fixar vi
+
+
+
+`1391 00:51:46,020 --> 00:51:47,020`
+en motsvarighet
+
+
+
+`1392 00:51:47,020 --> 00:51:48,400`
+och sen är det PubMed
+
+
+
+`1393 00:51:48,400 --> 00:51:51,680`
+det är på riktigt
+
+
+
+`1394 00:51:53,520 --> 00:51:55,640`
+Vi får med att lägga data till
+
+
+
+`1395 00:51:55,640 --> 00:51:56,160`
+GIT helt enkelt
+
+
+
+`1396 00:51:56,160 --> 00:51:59,120`
+det här är ju det här
+
+
+
+`1397 00:51:59,120 --> 00:52:00,340`
+det här är inte
+
+
+
+`1398 00:52:00,340 --> 00:52:02,400`
+kan hända
+
+
+
+`1399 00:52:02,400 --> 00:52:04,780`
+potentiellt ske problem
+
+
+
+`1400 00:52:04,780 --> 00:52:05,980`
+utan
+
+
+
+`1401 00:52:05,980 --> 00:52:07,900`
+med tanke på vad Doge
+
+
+
+`1402 00:52:07,900 --> 00:52:10,320`
+gjorde på NIH
+
+
+
+`1403 00:52:10,320 --> 00:52:12,340`
+hittills, så har de
+
+
+
+`1404 00:52:12,340 --> 00:52:14,580`
+själva gått ut och sagt att vi är inte säkra
+
+
+
+`1405 00:52:14,580 --> 00:52:16,520`
+på att vi kan upprätthålla den här databasen
+
+
+
+`1406 00:52:16,520 --> 00:52:17,480`
+den här tjänsten
+
+
+
+`1407 00:52:17,480 --> 00:52:20,440`
+vilket hade varit
+
+
+
+`1408 00:52:20,440 --> 00:52:22,380`
+fullständigt katastrofiskt för
+
+
+
+`1409 00:52:22,380 --> 00:52:24,460`
+hela världen
+
+
+
+`1410 00:52:24,460 --> 00:52:25,280`
+Men alltså
+
+
+
+`1411 00:52:25,280 --> 00:52:28,480`
+vi är ju redan
+
+
+
+`1412 00:52:28,480 --> 00:52:29,540`
+med massa bra
+
+
+
+`1413 00:52:29,540 --> 00:52:32,140`
+gamla dokument
+
+
+
+`1414 00:52:32,140 --> 00:52:34,320`
+till exempel
+
+
+
+`1415 00:52:34,320 --> 00:52:35,540`
+de här om att vi bör
+
+
+
+`1416 00:52:35,540 --> 00:52:37,380`
+använda rust och sånt har ju försvunnit
+
+
+
+`1417 00:52:37,380 --> 00:52:38,180`
+Ja, exakt
+
+
+
+`1418 00:52:38,180 --> 00:52:40,660`
+Det var liksom för extremt
+
+
+
+`1419 00:52:40,660 --> 00:52:43,480`
+Den här texten hade ju ordet woman i sig
+
+
+
+`1420 00:52:43,480 --> 00:52:44,860`
+så det kan vi ju inte publicera
+
+
+
+`1421 00:52:44,860 --> 00:52:47,820`
+Det roligaste var ju
+
+
+
+`1422 00:52:47,820 --> 00:52:49,380`
+att atombomben var för gay
+
+
+
+`1423 00:52:49,380 --> 00:52:50,380`
+för att få ligga ute på amerikansk land
+
+
+
+`1424 00:52:50,380 --> 00:52:52,860`
+You're kidding me
+
+
+
+`1425 00:52:52,860 --> 00:52:54,540`
+Nej, på riktigt, det här togs bort
+
+
+
+`1426 00:52:54,540 --> 00:52:56,180`
+De tog bort atombomben
+
+
+
+`1427 00:52:56,180 --> 00:52:59,280`
+Det är det amerikanska problemet
+
+
+
+`1428 00:52:59,280 --> 00:53:00,780`
+med att vi ljugade
+
+
+
+`1429 00:53:00,780 --> 00:53:02,260`
+på människorna vi har att göra med
+
+
+
+`1430 00:53:02,260 --> 00:53:05,180`
+Det var inte att nu så 10 000 av oss människor
+
+
+
+`1431 00:53:05,180 --> 00:53:05,520`
+drog
+
+
+
+`1432 00:53:05,540 --> 00:53:06,940`
+Det var en flygplan
+
+
+
+`1433 00:53:06,940 --> 00:53:09,420`
+Det var det här med
+
+
+
+`1434 00:53:09,420 --> 00:53:11,280`
+gaystjärna
+
+
+
+`1435 00:53:11,280 --> 00:53:12,700`
+gayklammer
+
+
+
+`1436 00:53:12,700 --> 00:53:13,720`
+Hur var det nu?
+
+
+
+`1437 00:53:14,500 --> 00:53:16,240`
+Exakt, vad sätter punkten och stjärnan
+
+
+
+`1438 00:53:16,240 --> 00:53:18,240`
+Det blev fel
+
+
+
+`1439 00:53:18,240 --> 00:53:21,500`
+Den här atombomben som vi fällde över Nagasaki
+
+
+
+`1440 00:53:21,500 --> 00:53:23,320`
+Den var faktiskt lite för inkluderande
+
+
+
+`1441 00:53:23,320 --> 00:53:25,420`
+Och det är ett problem
+
+
+
+`1442 00:53:25,420 --> 00:53:26,300`
+Alma dog
+
+
+
+`1443 00:53:26,300 --> 00:53:28,100`
+Det känns inte helt kosigt
+
+
+
+`1444 00:53:28,100 --> 00:53:29,400`
+Det är inte kosigt
+
+
+
+`1445 00:53:29,400 --> 00:53:30,360`
+Nu sitter du och garvmåtar
+
+
+
+`1446 00:53:30,360 --> 00:53:34,360`
+Men det är som sagt
+
+
+
+`1447 00:53:34,360 --> 00:53:34,980`
+Det är som en farsk
+
+
+
+`1448 00:53:34,980 --> 00:53:36,420`
+Jag trodde aldrig vi skulle hamna här
+
+
+
+`1449 00:53:36,420 --> 00:53:38,560`
+But yet we're here
+
+
+
+`1450 00:53:38,560 --> 00:53:42,300`
+Skulle vi prata om något mer som fanns på listan?
+
+
+
+`1451 00:53:42,320 --> 00:53:43,520`
+Kanske något mer positivt
+
+
+
+`1452 00:53:43,520 --> 00:53:44,900`
+Jag har fått mer än en gång
+
+
+
+`1453 00:53:44,900 --> 00:53:47,340`
+Har jag fått Instagram-reklam
+
+
+
+`1454 00:53:47,340 --> 00:53:49,620`
+om köp din egen bunker här
+
+
+
+`1455 00:53:49,620 --> 00:53:52,000`
+Seriöst
+
+
+
+`1456 00:53:52,000 --> 00:53:53,060`
+Svenskt bolag
+
+
+
+`1457 00:53:53,060 --> 00:53:55,340`
+som säger bunkrar
+
+
+
+`1458 00:53:55,340 --> 00:53:57,120`
+Jag var ju tvungen att säga
+
+
+
+`1459 00:53:57,120 --> 00:53:58,140`
+Det här är
+
+
+
+`1460 00:53:58,140 --> 00:54:00,840`
+Det är någon som gör en rolig grej
+
+
+
+`1461 00:54:00,840 --> 00:54:02,340`
+Det kan inte vara på riktigt
+
+
+
+`1462 00:54:02,340 --> 00:54:03,680`
+Har ändå varit verksamma länge
+
+
+
+`1463 00:54:03,680 --> 00:54:04,840`
+Har ändå en skapare
+
+
+
+`1464 00:54:04,980 --> 00:54:05,800`
+Bli omsättning
+
+
+
+`1465 00:54:05,800 --> 00:54:07,900`
+Det de gör är att bygga bunkrar
+
+
+
+`1466 00:54:07,900 --> 00:54:08,960`
+Som man gräver ner
+
+
+
+`1467 00:54:08,960 --> 00:54:12,060`
+Bunkrar är mitt sökord på Hemnet alltid
+
+
+
+`1468 00:54:12,060 --> 00:54:15,840`
+Under fortifikationsverket har slutat sälja
+
+
+
+`1469 00:54:15,840 --> 00:54:17,060`
+Alla de här bunkrarna
+
+
+
+`1470 00:54:17,060 --> 00:54:18,440`
+Nu behöver de ju dem igen
+
+
+
+`1471 00:54:18,440 --> 00:54:20,760`
+Nej men
+
+
+
+`1472 00:54:20,760 --> 00:54:21,540`
+Nej men
+
+
+
+`1473 00:54:21,540 --> 00:54:24,580`
+Jag vet inte vad man ska säga
+
+
+
+`1474 00:54:24,580 --> 00:54:26,520`
+Ska man sätta eller gråta
+
+
+
+`1475 00:54:26,520 --> 00:54:27,980`
+Men ifall vi går över till
+
+
+
+`1476 00:54:27,980 --> 00:54:29,500`
+Exempelvis GPS
+
+
+
+`1477 00:54:29,500 --> 00:54:31,300`
+Eller för den delen
+
+
+
+`1478 00:54:31,300 --> 00:54:32,100`
+GLONASS
+
+
+
+`1479 00:54:32,100 --> 00:54:33,420`
+Precis
+
+
+
+`1480 00:54:33,420 --> 00:54:34,740`
+Eller för den delen NASA
+
+
+
+`1481 00:54:34,740 --> 00:54:34,820`
+Så är det ju så här
+
+
+
+`1482 00:54:34,820 --> 00:54:34,940`
+Så är det ju så här
+
+
+
+`1483 00:54:34,940 --> 00:54:34,960`
+Så är det ju så här
+
+
+
+`1484 00:54:34,980 --> 00:54:36,460`
+Det är ju en övervakningstjänst för att se till
+
+
+
+`1485 00:54:36,460 --> 00:54:38,820`
+När det kommer komma stora stormar över världen
+
+
+
+`1486 00:54:38,820 --> 00:54:40,980`
+Det som ligger under NOA
+
+
+
+`1487 00:54:41,800 --> 00:54:44,100`
+Ja jag har förstått det som att
+
+
+
+`1488 00:54:44,100 --> 00:54:45,860`
+Tänk att de säger att det ska regna i Göteborg
+
+
+
+`1489 00:54:45,860 --> 00:54:48,540`
+Jag är chockad
+
+
+
+`1490 00:54:48,540 --> 00:54:51,440`
+Europa har alldeles för få krigsfartyg
+
+
+
+`1491 00:54:51,440 --> 00:54:52,980`
+Och alldeles för få satelliter
+
+
+
+`1492 00:54:52,980 --> 00:54:54,980`
+Det verkar vara två identifierade problem
+
+
+
+`1493 00:54:55,640 --> 00:54:58,320`
+Och satelliterna då
+
+
+
+`1494 00:54:58,320 --> 00:54:59,280`
+Det är ju att vi
+
+
+
+`1495 00:54:59,280 --> 00:55:01,080`
+Har ju haft visionen
+
+
+
+`1496 00:55:01,080 --> 00:55:02,960`
+Om att det ska finnas ett europeiskt
+
+
+
+`1497 00:55:02,960 --> 00:55:04,720`
+Navigeringssystem
+
+
+
+`1498 00:55:04,720 --> 00:55:06,960`
+Men vi har ju aldrig tryckt ut det
+
+
+
+`1499 00:55:06,960 --> 00:55:10,720`
+Vi har ju uppenbarligen inte tillräckligt mycket järn i rymden
+
+
+
+`1500 00:55:10,720 --> 00:55:11,380`
+Nej, precis
+
+
+
+`1501 00:55:11,380 --> 00:55:14,380`
+Men för att återgå till medicin
+
+
+
+`1502 00:55:14,380 --> 00:55:14,960`
+För en sekund
+
+
+
+`1503 00:55:14,960 --> 00:55:16,140`
+Jag satt och pratade med
+
+
+
+`1504 00:55:16,140 --> 00:55:18,520`
+Min vän Kajsa idag
+
+
+
+`1505 00:55:18,520 --> 00:55:20,380`
+Nej men jag tycker det här är viktigt
+
+
+
+`1506 00:55:20,380 --> 00:55:25,400`
+Det är bara ämnes-toppswitchen
+
+
+
+`1507 00:55:25,400 --> 00:55:27,160`
+Jag kan bara säga det här till
+
+
+
+`1508 00:55:27,160 --> 00:55:28,980`
+Alla som lyssnar
+
+
+
+`1509 00:55:28,980 --> 00:55:29,880`
+Jag har det hårdare
+
+
+
+`1510 00:55:29,880 --> 00:55:30,720`
+Jag har svårt att hänga med
+
+
+
+`1511 00:55:30,720 --> 00:55:32,920`
+Jag har svårt att hänga med
+
+
+
+`1512 00:55:32,920 --> 00:55:34,640`
+Satelliter är en bra sak
+
+
+
+`1513 00:55:34,640 --> 00:55:35,340`
+Vad är problemet?
+
+
+
+`1514 00:55:35,380 --> 00:55:36,480`
+Inte en bra sak
+
+
+
+`1515 00:55:36,480 --> 00:55:39,140`
+Jag satt och pratade med min vän Kajsa idag
+
+
+
+`1516 00:55:39,140 --> 00:55:40,660`
+Hon jobbar
+
+
+
+`1517 00:55:40,660 --> 00:55:42,060`
+Hon har ingenting med GPS att göra
+
+
+
+`1518 00:55:42,060 --> 00:55:43,960`
+Eller väder
+
+
+
+`1519 00:55:43,960 --> 00:55:44,400`
+Eller CV
+
+
+
+`1520 00:55:44,400 --> 00:55:45,620`
+Eller järn i rymden
+
+
+
+`1521 00:55:45,620 --> 00:55:47,040`
+Förlåt
+
+
+
+`1522 00:55:47,040 --> 00:55:48,200`
+Jag försöker bara
+
+
+
+`1523 00:55:48,200 --> 00:55:48,800`
+Jag har en move
+
+
+
+`1524 00:55:48,800 --> 00:55:49,340`
+Jag förstår
+
+
+
+`1525 00:55:49,340 --> 00:55:50,300`
+Kajsa
+
+
+
+`1526 00:55:50,300 --> 00:55:52,060`
+Hon jobbar på Sagenska
+
+
+
+`1527 00:55:52,060 --> 00:55:55,580`
+På blodcanceravdelningen där
+
+
+
+`1528 00:55:55,580 --> 00:55:57,780`
+Leukemi-Kajsa
+
+
+
+`1529 00:55:57,780 --> 00:55:58,940`
+Som jag brukar kalla henne
+
+
+
+`1530 00:55:58,940 --> 00:55:59,540`
+Exakt
+
+
+
+`1531 00:55:59,540 --> 00:56:00,640`
+Nej men
+
+
+
+`1532 00:56:00,640 --> 00:56:01,380`
+Och
+
+
+
+`1533 00:56:01,380 --> 00:56:02,780`
+Sätt och snackar
+
+
+
+`1534 00:56:02,780 --> 00:56:03,360`
+Kring detta
+
+
+
+`1535 00:56:03,360 --> 00:56:04,080`
+Hon sa det att
+
+
+
+`1536 00:56:04,080 --> 00:56:05,040`
+Nej men ifall
+
+
+
+`1537 00:56:05,040 --> 00:56:07,000`
+Det är inte så långt bort att
+
+
+
+`1538 00:56:07,000 --> 00:56:09,620`
+Trump hade kunnat införa tariffer på mediciner
+
+
+
+`1539 00:56:09,620 --> 00:56:10,600`
+Exempelvis
+
+
+
+`1540 00:56:10,600 --> 00:56:13,640`
+Det är ju en röd linje som han inte har passerat ännu
+
+
+
+`1541 00:56:13,640 --> 00:56:13,960`
+Men
+
+
+
+`1542 00:56:13,960 --> 00:56:15,120`
+Vem vet
+
+
+
+`1543 00:56:15,120 --> 00:56:18,980`
+Han har 145-procentiga tariffer på Kina
+
+
+
+`1544 00:56:18,980 --> 00:56:20,120`
+Så varför inte mediciner?
+
+
+
+`1545 00:56:21,320 --> 00:56:22,880`
+Hon berättade om
+
+
+
+`1546 00:56:22,880 --> 00:56:26,580`
+En väldigt specifik del av hennes yrkesroll
+
+
+
+`1547 00:56:26,580 --> 00:56:29,860`
+Att ta ut T-celler
+
+
+
+`1548 00:56:29,860 --> 00:56:32,120`
+Från cancerpatienter
+
+
+
+`1549 00:56:32,120 --> 00:56:33,620`
+Skicka dem till USA
+
+
+
+`1550 00:56:33,620 --> 00:56:36,420`
+För att genomgå någon form av
+
+
+
+`1551 00:56:36,420 --> 00:56:38,200`
+Genbehandling
+
+
+
+`1552 00:56:38,200 --> 00:56:39,460`
+Jag vet inte exakt hur det här fungerar
+
+
+
+`1553 00:56:39,460 --> 00:56:41,340`
+Poängen är att när de kommer tillbaka
+
+
+
+`1554 00:56:41,340 --> 00:56:43,520`
+Så kan de återintroducera dem i patienterna
+
+
+
+`1555 00:56:43,520 --> 00:56:45,080`
+Så att de dödar cancercellerna
+
+
+
+`1556 00:56:45,080 --> 00:56:47,540`
+Immunförsvaret blir dödsmäktigt
+
+
+
+`1557 00:56:47,540 --> 00:56:49,840`
+Mast och T-celler
+
+
+
+`1558 00:56:49,840 --> 00:56:51,760`
+De är på någon bootcamp
+
+
+
+`1559 00:56:51,760 --> 00:56:54,540`
+Det här är bara en sån liten specifik grej
+
+
+
+`1560 00:56:54,540 --> 00:56:55,620`
+Genterapi
+
+
+
+`1561 00:56:55,620 --> 00:56:56,300`
+Precis
+
+
+
+`1562 00:56:56,300 --> 00:56:59,400`
+Som är fullständigt beroende av att vi har
+
+
+
+`1563 00:56:59,400 --> 00:57:00,800`
+Den här relationen med USA
+
+
+
+`1564 00:57:00,800 --> 00:57:02,080`
+Så det är en sån liten specifik grej
+
+
+
+`1565 00:57:02,080 --> 00:57:02,100`
+Som är fullständigt beroende av att vi har den här relationen med USA
+
+
+
+`1566 00:57:02,120 --> 00:57:04,440`
+Ja men precis
+
+
+
+`1567 00:57:04,440 --> 00:57:08,260`
+Vi pratar om hur lång tid det har tagit
+
+
+
+`1568 00:57:08,260 --> 00:57:10,300`
+Att bygga upp den här typen av kapabilitet
+
+
+
+`1569 00:57:10,300 --> 00:57:10,760`
+I Europa
+
+
+
+`1570 00:57:10,760 --> 00:57:13,380`
+Jag vet inte ens om det går
+
+
+
+`1571 00:57:13,380 --> 00:57:15,860`
+Vi har inte nödvändigtvis den forskningen här
+
+
+
+`1572 00:57:15,860 --> 00:57:18,380`
+Särskilt inte nu när PubMed lägger ner
+
+
+
+`1573 00:57:18,380 --> 00:57:19,600`
+Exakt
+
+
+
+`1574 00:57:19,600 --> 00:57:24,900`
+Vi hade brist i april
+
+
+
+`1575 00:57:24,900 --> 00:57:26,020`
+På
+
+
+
+`1576 00:57:26,020 --> 00:57:29,140`
+Vetskor
+
+
+
+`1577 00:57:29,140 --> 00:57:30,260`
+Alltså dropp
+
+
+
+`1578 00:57:30,260 --> 00:57:32,080`
+Vanlig vätskeersättning
+
+
+
+`1579 00:57:32,080 --> 00:57:33,740`
+På grund av att hälften av det
+
+
+
+`1580 00:57:33,740 --> 00:57:35,540`
+Producerades i USA
+
+
+
+`1581 00:57:35,540 --> 00:57:37,680`
+Men vi har ju sett det här
+
+
+
+`1582 00:57:37,680 --> 00:57:39,360`
+Nu blir det inte så mycket säkerhetspodcast längre
+
+
+
+`1583 00:57:39,360 --> 00:57:41,840`
+Men vi har ju sett följden av covid till exempel
+
+
+
+`1584 00:57:41,840 --> 00:57:43,780`
+Hur sårbar vår värld är
+
+
+
+`1585 00:57:43,780 --> 00:57:45,840`
+När efterfrågan
+
+
+
+`1586 00:57:45,840 --> 00:57:48,260`
+Helt plötsligt över
+
+
+
+`1587 00:57:48,260 --> 00:57:49,660`
+Ja men du vet ändå
+
+
+
+`1588 00:57:49,660 --> 00:57:51,820`
+Ett par månader blir omställd
+
+
+
+`1589 00:57:51,820 --> 00:57:54,280`
+Hur extremt oförmögna
+
+
+
+`1590 00:57:54,280 --> 00:57:55,440`
+Vi är på att ställa om
+
+
+
+`1591 00:57:55,440 --> 00:57:57,000`
+Våra logistikmönster
+
+
+
+`1592 00:57:57,000 --> 00:57:58,460`
+Exakt
+
+
+
+`1593 00:57:58,460 --> 00:57:59,180`
+Så vi kollapsar
+
+
+
+`1594 00:57:59,180 --> 00:58:01,080`
+Det är
+
+
+
+`1595 00:58:01,080 --> 00:58:01,800`
+Alltså
+
+
+
+`1596 00:58:01,800 --> 00:58:04,140`
+Missförstå mig rätt nu
+
+
+
+`1597 00:58:04,140 --> 00:58:07,180`
+Det är en bra sak
+
+
+
+`1598 00:58:07,180 --> 00:58:08,820`
+För det lär oss saker och ting
+
+
+
+`1599 00:58:08,820 --> 00:58:09,840`
+Ja just det
+
+
+
+`1600 00:58:09,840 --> 00:58:11,640`
+Vi kan inte ta saker och ting för givet
+
+
+
+`1601 00:58:11,640 --> 00:58:13,140`
+Vi behöver också ta ett ansvar
+
+
+
+`1602 00:58:13,140 --> 00:58:15,240`
+Så det är någonstans en bra sak
+
+
+
+`1603 00:58:15,240 --> 00:58:17,840`
+Sen är det otroligt värdelöst om folk dör på kuppen
+
+
+
+`1604 00:58:17,840 --> 00:58:19,140`
+Men det är också såhär
+
+
+
+`1605 00:58:19,140 --> 00:58:22,520`
+Jo men det har det varit hela tiden
+
+
+
+`1606 00:58:22,520 --> 00:58:24,560`
+Det är bara att vi har valt att skita i den risken
+
+
+
+`1607 00:58:24,560 --> 00:58:26,580`
+Det har inte varit tillräckligt nära
+
+
+
+`1608 00:58:26,580 --> 00:58:28,440`
+Och det är tyvärr det här som driver opinion
+
+
+
+`1609 00:58:28,440 --> 00:58:30,100`
+Jag menar det måste bli dåligt
+
+
+
+`1610 00:58:30,100 --> 00:58:31,340`
+För den breda massan
+
+
+
+`1611 00:58:31,800 --> 00:58:33,460`
+För att vi ska göra något
+
+
+
+`1612 00:58:33,460 --> 00:58:34,360`
+För det kostar ju
+
+
+
+`1613 00:58:34,360 --> 00:58:34,880`
+Exakt
+
+
+
+`1614 00:58:34,880 --> 00:58:37,200`
+Ja men fånga ner bara hur mycket vi kan låta det kosta
+
+
+
+`1615 00:58:37,200 --> 00:58:39,040`
+Och nu har vi nog nått det
+
+
+
+`1616 00:58:39,040 --> 00:58:41,200`
+När personens
+
+
+
+`1617 00:58:41,200 --> 00:58:43,560`
+Eller världens högborg
+
+
+
+`1618 00:58:43,560 --> 00:58:45,080`
+Bara helt plötsligt tänker att
+
+
+
+`1619 00:58:45,080 --> 00:58:46,780`
+Men jag eldar upp kapitalism
+
+
+
+`1620 00:58:46,780 --> 00:58:48,180`
+För det känns jävligt rimligt
+
+
+
+`1621 00:58:48,180 --> 00:58:49,580`
+Och sen får vi se vad som händer
+
+
+
+`1622 00:58:49,580 --> 00:58:50,980`
+Ja precis
+
+
+
+`1623 00:58:50,980 --> 00:58:52,540`
+Det vi var inne på förut
+
+
+
+`1624 00:58:52,540 --> 00:58:55,280`
+Det är ju osäkerheten som är problematiken
+
+
+
+`1625 00:58:55,280 --> 00:58:55,680`
+Exakt
+
+
+
+`1626 00:58:55,680 --> 00:58:58,160`
+Angående det du nämnde om PubMed förut
+
+
+
+`1627 00:58:58,160 --> 00:59:00,040`
+Så har jag hört samma om NIST till exempel
+
+
+
+`1628 00:59:00,040 --> 00:59:01,720`
+Alltså om NIST helt plötsligt försvinner
+
+
+
+`1629 00:59:01,720 --> 00:59:01,780`
+Och om NIST till exempel
+
+
+
+`1630 00:59:01,800 --> 00:59:03,600`
+Offline då tappar vi ju extremt mycket
+
+
+
+`1631 00:59:03,600 --> 00:59:05,760`
+Forskningspapper och standard och så vidare
+
+
+
+`1632 00:59:05,760 --> 00:59:07,480`
+Så att det finns på riktigt
+
+
+
+`1633 00:59:07,480 --> 00:59:09,540`
+Aktivitetet som pågår på att liksom
+
+
+
+`1634 00:59:09,540 --> 00:59:11,600`
+Downloada skiten för helvete
+
+
+
+`1635 00:59:11,600 --> 00:59:12,280`
+Ja men exakt
+
+
+
+`1636 00:59:12,280 --> 00:59:15,460`
+Men inte bara det utan
+
+
+
+`1637 00:59:15,460 --> 00:59:17,820`
+Hur kommer peer review fungera
+
+
+
+`1638 00:59:17,820 --> 00:59:20,080`
+Ifall vi inte kan publicera på de platserna
+
+
+
+`1639 00:59:20,080 --> 00:59:21,420`
+Där alla de stora
+
+
+
+`1640 00:59:21,420 --> 00:59:22,900`
+Universiteten finns
+
+
+
+`1641 00:59:22,900 --> 00:59:25,400`
+Och den här frågeställningen som du tar upp nu
+
+
+
+`1642 00:59:25,400 --> 00:59:27,420`
+Generellt det går ju att applicera på vad
+
+
+
+`1643 00:59:27,420 --> 00:59:29,360`
+VN har pratat om här är en väldigt bra
+
+
+
+`1644 00:59:29,360 --> 00:59:30,080`
+Frågeställning
+
+
+
+`1645 00:59:31,800 --> 00:59:32,960`
+Att titta på
+
+
+
+`1646 00:59:32,960 --> 00:59:35,000`
+Det är rimligt att
+
+
+
+`1647 00:59:35,000 --> 00:59:37,380`
+Internetorgan som styr
+
+
+
+`1648 00:59:37,380 --> 00:59:40,040`
+Internet globalt inte är
+
+
+
+`1649 00:59:40,040 --> 00:59:41,060`
+Nationsberoende
+
+
+
+`1650 00:59:41,060 --> 00:59:42,560`
+De ska vara globalt beroende
+
+
+
+`1651 00:59:42,560 --> 00:59:45,180`
+Det är ju en följd av en idé
+
+
+
+`1652 00:59:45,180 --> 00:59:47,060`
+Om den här risken då
+
+
+
+`1653 00:59:47,060 --> 00:59:49,200`
+Och det tänker jag är jävligt viktigt att vi
+
+
+
+`1654 00:59:49,200 --> 00:59:51,300`
+Tänker på när vi tar beslut
+
+
+
+`1655 00:59:51,300 --> 00:59:53,480`
+Det är ju en jättebra idé samtidigt så har du
+
+
+
+`1656 00:59:53,480 --> 00:59:55,520`
+Jag menar vilken organisation
+
+
+
+`1657 00:59:55,520 --> 00:59:56,240`
+Skulle ta
+
+
+
+`1658 00:59:56,240 --> 00:59:58,580`
+Gå i bräschen för det här är det FN
+
+
+
+`1659 00:59:58,580 --> 01:00:01,760`
+De har en budget som är mindre än New York
+
+
+
+`1660 01:00:01,800 --> 01:00:02,560`
+Ja exakt
+
+
+
+`1661 01:00:02,560 --> 01:00:05,000`
+Nej men alltså det hade det
+
+
+
+`1662 01:00:05,000 --> 01:00:06,920`
+Vart lättlöst så hade det väl
+
+
+
+`1663 01:00:06,920 --> 01:00:08,980`
+Redan kickat in tänker jag
+
+
+
+`1664 01:00:08,980 --> 01:00:10,540`
+Det är ju svåra saker
+
+
+
+`1665 01:00:10,540 --> 01:00:12,640`
+Men jag tror du var rätt alltså jag tror att det behöver ju
+
+
+
+`1666 01:00:12,640 --> 01:00:15,200`
+Eller tyvärr behöver det göra ont för att
+
+
+
+`1667 01:00:15,200 --> 01:00:17,300`
+Det finns en motivering att göra det
+
+
+
+`1668 01:00:17,300 --> 01:00:19,040`
+Nej men jag kan bara gå till mig själv
+
+
+
+`1669 01:00:19,040 --> 01:00:21,000`
+Jag har satt nu är det några veckor sedan
+
+
+
+`1670 01:00:21,000 --> 01:00:23,160`
+Och bara säga okej jag ska bort från Google
+
+
+
+`1671 01:00:23,160 --> 01:00:24,600`
+Ja men det är Googles ekosystem
+
+
+
+`1672 01:00:24,600 --> 01:00:26,160`
+Det är svårt
+
+
+
+`1673 01:00:26,160 --> 01:00:29,020`
+Det är svårt att hitta någon som kan ge mig det erbjudandet
+
+
+
+`1674 01:00:29,020 --> 01:00:31,160`
+Men
+
+
+
+`1675 01:00:31,160 --> 01:00:33,020`
+Jag är ändå okej med en kompromiss
+
+
+
+`1676 01:00:33,020 --> 01:00:35,000`
+Och det tror jag
+
+
+
+`1677 01:00:35,000 --> 01:00:36,760`
+Jag tror att jag är nog
+
+
+
+`1678 01:00:36,760 --> 01:00:38,740`
+Inte den första att agera
+
+
+
+`1679 01:00:38,740 --> 01:00:40,640`
+Men att jag agerar
+
+
+
+`1680 01:00:40,640 --> 01:00:42,040`
+Det kräver ju att det händer
+
+
+
+`1681 01:00:42,040 --> 01:00:44,340`
+Och hur långt kan du kompromissa
+
+
+
+`1682 01:00:44,340 --> 01:00:45,680`
+Du kan kompromissa med mycket
+
+
+
+`1683 01:00:45,680 --> 01:00:48,140`
+Du kan kompromissa med att den här månleverantören
+
+
+
+`1684 01:00:48,140 --> 01:00:49,420`
+Är kanske up to a point
+
+
+
+`1685 01:00:49,420 --> 01:00:51,560`
+Men det blir jobbigt när det handlar om cancer
+
+
+
+`1686 01:00:51,560 --> 01:00:52,020`
+Ja
+
+
+
+`1687 01:00:52,020 --> 01:00:54,820`
+Särskilt om det är nära
+
+
+
+`1688 01:00:54,820 --> 01:00:57,640`
+I liksom din vardag så att säga
+
+
+
+`1689 01:00:57,640 --> 01:00:58,780`
+Det är
+
+
+
+`1690 01:00:58,780 --> 01:01:01,120`
+Och osäkerheten är sån att du
+
+
+
+`1691 01:01:01,160 --> 01:01:02,140`
+Du vet du kan inte planera
+
+
+
+`1692 01:01:02,140 --> 01:01:04,940`
+Köp din egen bunker
+
+
+
+`1693 01:01:04,940 --> 01:01:07,880`
+Har vi nåt vägs ände
+
+
+
+`1694 01:01:07,880 --> 01:01:08,300`
+Tror vi
+
+
+
+`1695 01:01:08,300 --> 01:01:10,680`
+Allt är skit om världen blir det
+
+
+
+`1696 01:01:10,680 --> 01:01:13,660`
+Men vi har en liten förhoppning om att
+
+
+
+`1697 01:01:13,660 --> 01:01:15,740`
+Vi har en affiliate länk till att
+
+
+
+`1698 01:01:15,740 --> 01:01:16,720`
+Köp din egen bunker
+
+
+
+`1699 01:01:16,720 --> 01:01:19,320`
+20% av ange säkerhetspodkarden
+
+
+
+`1700 01:01:19,320 --> 01:01:20,320`
+We're all doomed
+
+
+
+`1701 01:01:20,320 --> 01:01:23,780`
+Någon gång förhoppningsvis så kanske världen
+
+
+
+`1702 01:01:23,780 --> 01:01:24,340`
+Kommer att skärpas
+
+
+
+`1703 01:01:24,340 --> 01:01:26,720`
+Det får vi väl hoppas på
+
+
+
+`1704 01:01:26,720 --> 01:01:29,240`
+Tyvärr så känns det som att
+
+
+
+`1705 01:01:29,240 --> 01:01:31,040`
+När den inte styrs av bilhandlare
+
+
+
+`1706 01:01:31,040 --> 01:01:32,600`
+Exakt
+
+
+
+`1707 01:01:32,600 --> 01:01:33,900`
+Sinusvågen
+
+
+
+`1708 01:01:33,900 --> 01:01:37,180`
+Jag kan googla på det här
+
+
+
+`1709 01:01:37,180 --> 01:01:39,180`
+Men history repeats itself
+
+
+
+`1710 01:01:39,180 --> 01:01:41,100`
+Eller för att
+
+
+
+`1711 01:01:41,100 --> 01:01:43,540`
+Avsluta med Jurassic Park-referensen
+
+
+
+`1712 01:01:43,540 --> 01:01:45,020`
+Nature finds a way
+
+
+
+`1713 01:01:45,020 --> 01:01:48,040`
+Life finds a way
+
+
+
+`1714 01:01:48,040 --> 01:01:50,300`
+Tack så mycket
+
+
+
+`1715 01:01:50,300 --> 01:01:53,080`
+Jag som pratade här var Johan Rubemöller
+
+
+
+`1716 01:01:53,080 --> 01:01:54,380`
+Och med mig hade jag Mattias Idage
+
+
+
+`1717 01:01:54,380 --> 01:01:56,460`
+Peter Magnusson
+
+
+
+`1718 01:01:56,460 --> 01:01:59,060`
+Selected availability i din navigering
+
+
+
+`1719 01:01:59,060 --> 01:02:00,000`
+Och Jesper Lars
+
+
+
+`1720 01:02:00,000 --> 01:02:00,600`
+Devnol
+
+
+
+`1721 01:02:01,040 --> 01:02:03,500`
+Hej vänner av säkerhetspodkasten
+
+
+
+`1722 01:02:03,500 --> 01:02:06,520`
+Anekdoter av snittet vintras
+
+
+
+`1723 01:02:06,520 --> 01:02:07,800`
+Tyckte jag var skitskoj
+
+
+
+`1724 01:02:07,800 --> 01:02:10,240`
+Och jag skulle jättegärna vilja höra fler
+
+
+
+`1725 01:02:10,240 --> 01:02:13,000`
+Vad sägs om att vi tillsammans
+
+
+
+`1726 01:02:13,000 --> 01:02:14,800`
+Crowdsåsar in lite anekdoter
+
+
+
+`1727 01:02:14,800 --> 01:02:17,020`
+För jag gissar att det finns fler
+
+
+
+`1728 01:02:17,020 --> 01:02:18,520`
+Som har det på lager
+
+
+
+`1729 01:02:18,520 --> 01:02:20,840`
+Så om ni skickar in ljudfilar
+
+
+
+`1730 01:02:20,840 --> 01:02:22,840`
+Med era historier
+
+
+
+`1731 01:02:22,840 --> 01:02:24,700`
+Korta eller långa, jag har ingen aning
+
+
+
+`1732 01:02:24,700 --> 01:02:27,820`
+Och sen kan gänget
+
+
+
+`1733 01:02:27,820 --> 01:02:28,800`
+Klippa ihop det här
+
+
+
+`1734 01:02:28,800 --> 01:02:30,800`
+Och släppa det kanske under sommar
+
+
+
+`1735 01:02:31,040 --> 01:02:33,080`
+Så vi får möjlighet att avnjuta dem
+
+
+
+`1736 01:02:33,080 --> 01:02:34,740`
+Tillsammans med en grillöl
+
+
+
+`1737 01:02:34,740 --> 01:02:37,640`
+Det här var en liten önskan
+
+
+
+`1738 01:02:37,640 --> 01:02:38,640`
+Från Johan Wanker
+
+
+
+`1739 01:02:38,640 --> 01:02:41,900`
+Med britten
+
+
+
+`1740 01:02:41,900 --> 01:02:42,980`
+Som är hemlig
+
+
+
+`1741 01:02:42,980 --> 01:02:45,440`
+Austin Powers
+
+
+
+`1742 01:02:45,440 --> 01:02:49,740`
+Bestaroll
+
+
+
+`1743 01:02:49,740 --> 01:02:55,540`
+Who does number two work for
+
+
+
+`1744 01:02:55,540 --> 01:02:56,940`
+Damn it, you said it twice
+
+
+
+`1745 01:02:56,940 --> 01:02:57,960`
+I work for
+
+
