@@ -3,7 +3,7 @@ date: '2024-02-05T15:55:00'
 tags:
 - ostrukturerat
 - Kubernetes
-title: "S\xE4kerhetspodcasten #255 - Ostrukturerat V.6"
+title: 'Säkerhetspodcasten #255 - Ostrukturerat V.6'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2024-01-31_Sakerhetspodcasten.mp3?dest-id=117848), längd: 59:52

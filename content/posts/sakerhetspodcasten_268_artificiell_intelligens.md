@@ -2,7 +2,7 @@
 date: '2024-10-21T08:31:00'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten #268 - Artificiell Intelligens"
+title: 'Säkerhetspodcasten #268 - Artificiell Intelligens'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2024-10-03_AI.mp3?dest-id=117848), längd: 01:09:19

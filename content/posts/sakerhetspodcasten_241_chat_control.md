@@ -2,7 +2,7 @@
 date: '2023-06-08T08:49:00'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten #241 - Chat Control"
+title: 'Säkerhetspodcasten #241 - Chat Control'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2023-05-10_chatcontrol2.mp3?dest-id=117848), längd: 01:20:20

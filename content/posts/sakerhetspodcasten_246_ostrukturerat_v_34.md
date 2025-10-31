@@ -2,7 +2,7 @@
 date: '2023-08-21T09:31:00'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten #246 - Ostrukturerat V.34"
+title: 'Säkerhetspodcasten #246 - Ostrukturerat V.34'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2023-08-16_Ostrukt.mp3?dest-id=117848), längd: 56:02

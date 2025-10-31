@@ -3,7 +3,7 @@ date: '2016-08-15T07:19:45'
 lastmod: '2018-09-26T08:26:05'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.64 \u2013 IDS & IPS"
+title: Säkerhetspodcasten avs.64 – IDS & IPS
 ---
 ## Lyssna
 

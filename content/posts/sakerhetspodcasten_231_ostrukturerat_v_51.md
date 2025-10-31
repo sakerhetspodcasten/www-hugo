@@ -2,7 +2,7 @@
 date: '2022-12-19T13:23:00'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten #231 - Ostrukturerat V.51"
+title: 'Säkerhetspodcasten #231 - Ostrukturerat V.51'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2022-12-13_Skerhetspodcasten.mp3?dest-id=117848), längd: 46:08

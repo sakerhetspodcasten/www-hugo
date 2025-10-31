@@ -3,7 +3,7 @@ date: '2021-06-22T10:32:41'
 lastmod: '2021-06-22T10:32:41'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.206 \u2013 Cross-Origin Resource Sharing (CORS)"
+title: Säkerhetspodcasten avs.206 – Cross-Origin Resource Sharing (CORS)
 ---
 ## Lyssna
 

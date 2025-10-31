@@ -3,8 +3,7 @@ date: '2018-10-22T07:46:46'
 lastmod: '2018-10-22T07:47:56'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten avs.136 - Ostrukturerat V.42"
-
+title: Säkerhetspodcasten avs.136 - Ostrukturerat V.42
 ---
 ## Lyssna
 

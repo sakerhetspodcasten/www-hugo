@@ -3,7 +3,7 @@ date: '2012-11-27T12:16:34'
 lastmod: '2018-09-26T08:35:20'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs. 3 - Udda Attackvektorer"
+title: Säkerhetspodcasten avs. 3 - Udda Attackvektorer
 ---
 ## Lyssna
 

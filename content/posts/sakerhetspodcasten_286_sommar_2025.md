@@ -7,7 +7,7 @@ tags:
 - SEC-T
 - bsides
 - keepass
-title: "S\xE4kerhetspodcasten #286 - Sommar 2025"
+title: 'Säkerhetspodcasten #286 - Sommar 2025'
 ---
 Sommar 2025 inleds med champagne!
 * BSides Ume recap.

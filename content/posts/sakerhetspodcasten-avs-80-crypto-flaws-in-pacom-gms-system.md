@@ -7,7 +7,7 @@ tags:
 - Fredrik Söderblom
 - Joachim Strömbergson
 - Peter Norin
-title: "S\xE4kerhetspodcasten avs.80 \u2013 Crypto flaws in Pacom GMS System"
+title: Säkerhetspodcasten avs.80 – Crypto flaws in Pacom GMS System
 ---
 ## Lyssna
 

@@ -2,7 +2,7 @@
 date: '2022-01-18T15:24:10'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten #217 - Ostrukturerat V.3"
+title: 'Säkerhetspodcasten #217 - Ostrukturerat V.3'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2022-01-12_Ostrukt.mp3), längd: 01:02:08

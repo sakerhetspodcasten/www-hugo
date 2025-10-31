@@ -3,7 +3,7 @@ date: '2017-05-22T10:22:42'
 lastmod: '2018-09-26T08:23:39'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.92 \u2013 Live p\xE5 Vetenskapsfestivalen"
+title: Säkerhetspodcasten avs.92 – Live på Vetenskapsfestivalen
 ---
 ## Lyssna
 

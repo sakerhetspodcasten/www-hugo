@@ -4,7 +4,7 @@ tags:
 - CI/CD
 - tema
 - Kubernetes
-title: "S\xE4kerhetspodcasten #278 - Automatiseringens Akillesh\xE4l"
+title: 'Säkerhetspodcasten #278 - Automatiseringens Akilleshäl'
 ---
 
 Hot mot pipelines, workflows, actions, continuous deployment.

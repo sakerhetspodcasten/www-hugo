@@ -3,8 +3,7 @@ date: '2012-11-27T12:20:53'
 lastmod: '2018-09-26T08:35:20'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten avs. 4 - Ostrukturerat V.47"
-
+title: Säkerhetspodcasten avs. 4 - Ostrukturerat V.47
 ---
 ## Lyssna
 

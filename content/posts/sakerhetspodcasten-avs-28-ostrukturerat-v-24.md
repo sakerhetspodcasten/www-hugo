@@ -3,8 +3,7 @@ date: '2014-06-23T08:18:13'
 lastmod: '2018-09-26T08:31:16'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten avs.28 - Ostrukturerat V.24"
-
+title: Säkerhetspodcasten avs.28 - Ostrukturerat V.24
 ---
 ## Lyssna
 

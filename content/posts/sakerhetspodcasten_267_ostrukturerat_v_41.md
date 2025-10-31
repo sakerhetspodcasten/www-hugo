@@ -5,7 +5,7 @@ tags:
 - fido
 - CVSS
 - Common Vulnerability Scoring System
-title: "S\xE4kerhetspodcasten #267 - Ostrukturerat V.41"
+title: 'Säkerhetspodcasten #267 - Ostrukturerat V.41'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2024-10-03_Sakerhetspodcasten.mp3?dest-id=117848), längd: 46:23

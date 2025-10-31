@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:26:07'
 tags:
 - tema
 - sommar
-title: "S\xE4kerhetspodcasten avs.63 \u2013 Sommaravsnitt"
+title: Säkerhetspodcasten avs.63 – Sommaravsnitt
 ---
 ## Lyssna
 

@@ -5,7 +5,7 @@ tags:
 - guest
 - Daniel Bohannon
 - SEC-T
-title: "S\xE4kerhetspodcasten avs.105 - Daniel Bohannon"
+title: Säkerhetspodcasten avs.105 - Daniel Bohannon
 ---
 ## Lyssna
 

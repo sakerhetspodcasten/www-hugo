@@ -8,7 +8,7 @@ tags:
 - Kai Thomsen
 - Patrick Miller
 - CS3STHLM
-title: "S\xE4kerhetspodcasten avs.146 \u2013 CS3 Stockholm 2018  #2"
+title: 'Säkerhetspodcasten avs.146 – CS3 Stockholm 2018  #2'
 ---
 ## Lyssna
 

@@ -1,10 +1,10 @@
 ---
 date: '2022-02-14T12:33:11'
 tags:
-- "Ny\xE5r"
+- Nyår
 - privacy
 - Kubernetes
-title: "S\xE4kerhetspodcasten #219 - Ny\xE5rsspecial"
+title: 'Säkerhetspodcasten #219 - Nyårsspecial'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2022-01-12_NyarY2K21.mp3?dest-id=117848), längd: 01:15:49

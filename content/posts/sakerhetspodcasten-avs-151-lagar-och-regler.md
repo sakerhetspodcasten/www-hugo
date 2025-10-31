@@ -4,8 +4,8 @@ lastmod: '2019-05-06T08:33:33'
 tags:
 - Robin von Post
 - guest
-- "Joakim K\xE4vrestad"
-title: "S\xE4kerhetspodcasten avs.151 \u2013 Lagar och regler"
+- Joakim Kävrestad
+title: Säkerhetspodcasten avs.151 – Lagar och regler
 ---
 ## Lyssna
 

@@ -5,7 +5,7 @@ tags:
 - guest
 - Per Thorsheim
 - Robin von Post
-title: "S\xE4kerhetspodcasten avs.148 \u2013 Per Thorsheim"
+title: Säkerhetspodcasten avs.148 – Per Thorsheim
 ---
 ## Lyssna
 

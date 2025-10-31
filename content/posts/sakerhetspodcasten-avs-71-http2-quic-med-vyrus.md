@@ -5,7 +5,7 @@ tags:
 - guest
 - vyrus
 - SEC-T
-title: "S\xE4kerhetspodcasten avs.71 - HTTP2 & Quic med Vyrus"
+title: Säkerhetspodcasten avs.71 - HTTP2 & Quic med Vyrus
 ---
 ## Lyssna
 

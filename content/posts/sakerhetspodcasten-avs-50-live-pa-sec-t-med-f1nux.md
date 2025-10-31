@@ -6,7 +6,7 @@ tags:
 - f1nux
 - Arron Finnon
 - SEC-T
-title: "S\xE4kerhetspodcasten avs.50 - LIVE p\xE5 Sec-T med F1nux"
+title: Säkerhetspodcasten avs.50 - LIVE på Sec-T med F1nux
 ---
 ## Lyssna
 

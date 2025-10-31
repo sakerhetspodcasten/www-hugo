@@ -2,7 +2,7 @@
 date: '2022-03-28T12:20:18'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten #221 - (Cyber)Krig"
+title: 'Säkerhetspodcasten #221 - (Cyber)Krig'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2022-03-16_Sakerhetspodcasten.mp3?dest-id=117848), längd: 01:06:30

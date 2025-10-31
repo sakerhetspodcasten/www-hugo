@@ -3,7 +3,7 @@ date: '2023-06-12T09:25:00'
 tags:
 - ostrukturerat
 - keepass
-title: "S\xE4kerhetspodcasten #242 - Ostrukturerat V.24"
+title: 'Säkerhetspodcasten #242 - Ostrukturerat V.24'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2023-06-07_Sakerhetspodcasten_Ostrukt.mp3?dest-id=117848), längd: 56:38

@@ -5,7 +5,7 @@ tags:
 - guest
 - Carly Schneider
 - SEC-T
-title: "S\xE4kerhetspodcasten avs.116 - Google Cloud Security med Carly Schneider"
+title: Säkerhetspodcasten avs.116 - Google Cloud Security med Carly Schneider
 ---
 ## Lyssna
 

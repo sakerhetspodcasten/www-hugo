@@ -3,7 +3,7 @@ date: '2024-12-02T10:56:00'
 tags:
 - tema
 - CI/CD
-title: "S\xE4kerhetspodcasten #272 - Betydelsefulla s\xE5rbarheter"
+title: 'Säkerhetspodcasten #272 - Betydelsefulla sårbarheter'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2024-11-20_Sakerhetspodcasten_Vulns_Som_Spelar_Roll.mp3?dest-id=117848), längd: 46:35

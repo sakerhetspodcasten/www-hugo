@@ -2,10 +2,10 @@
 date: '2019-12-30T09:46:51'
 lastmod: '2019-12-30T09:46:51'
 tags:
-- "Ny\xE5r"
+- Nyår
 - privacy
 - Kubernetes
-title: "S\xE4kerhetspodcasten avs.172 \u2013 Ny\xE5rsspecial"
+title: Säkerhetspodcasten avs.172 – Nyårsspecial
 ---
 ## Lyssna
 

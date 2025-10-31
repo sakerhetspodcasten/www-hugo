@@ -2,7 +2,7 @@
 date: '2025-10-13T15:32:00'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten #290 - Ostrukturerat V.42"
+title: 'Säkerhetspodcasten #290 - Ostrukturerat V.42'
 ---
 VPN med e-identitet/BankID.
 RedHat, Discord läckor.

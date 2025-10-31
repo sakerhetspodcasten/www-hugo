@@ -5,7 +5,7 @@ tags:
 - guest
 - Ulf Frisk
 - SEC-T
-title: "S\xE4kerhetspodcasten avs.109 - Ulf Frisk"
+title: Säkerhetspodcasten avs.109 - Ulf Frisk
 ---
 ## Lyssna
 

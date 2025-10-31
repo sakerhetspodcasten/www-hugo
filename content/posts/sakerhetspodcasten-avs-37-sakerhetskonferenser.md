@@ -8,7 +8,7 @@ tags:
 - bubblewire
 - Hanna Lidzell
 - plastfolie
-title: "S\xE4kerhetspodcasten avs.37 - S\xE4kerhetskonferenser"
+title: Säkerhetspodcasten avs.37 - Säkerhetskonferenser
 ---
 ## Lyssna
 

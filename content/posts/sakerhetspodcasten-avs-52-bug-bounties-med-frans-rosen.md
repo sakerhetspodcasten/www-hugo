@@ -3,11 +3,11 @@ date: '2016-02-29T08:43:42'
 lastmod: '2018-09-26T08:27:44'
 tags:
 - guest
-- "Frans Ros\xE9n"
+- Frans Rosén
 - fransrosen
 - kodsnack
 - Fredrik Björeman
-title: "S\xE4kerhetspodcasten avs.52 - Bug Bounties med Frans Ros\xE9n"
+title: Säkerhetspodcasten avs.52 - Bug Bounties med Frans Rosén
 ---
 ## Lyssna
 

@@ -5,7 +5,7 @@ tags:
 - guest
 - Robin von Post
 - Rich Smith
-title: "S\xE4kerhetspodcasten avs.115 - Agile Security med Rich Smith"
+title: Säkerhetspodcasten avs.115 - Agile Security med Rich Smith
 ---
 ## Lyssna
 

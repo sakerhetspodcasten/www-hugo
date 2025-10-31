@@ -3,7 +3,7 @@ date: '2024-08-19T08:54:00'
 tags:
 - ostrukturerat
 - CI/CD
-title: "S\xE4kerhetspodcasten #265 - Ostrukturerat V.34"
+title: 'Säkerhetspodcasten #265 - Ostrukturerat V.34'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2024-08-14_Sakerhetspodcasten.mp3?dest-id=117848), längd: 01:10:58

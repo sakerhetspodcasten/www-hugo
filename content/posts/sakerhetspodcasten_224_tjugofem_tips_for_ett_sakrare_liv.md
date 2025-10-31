@@ -2,7 +2,7 @@
 date: '2022-05-30T18:19:34'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten #224 - Tjugofem tips f\xF6r ett s\xE4krare liv"
+title: 'Säkerhetspodcasten #224 - Tjugofem tips för ett säkrare liv'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2022-05-11_25_tips.mp3?dest-id=117848), längd: 01:18:45

@@ -5,7 +5,7 @@ tags:
 - CVSS
 - Common Vulnerability Scoring System
 - CI/CD
-title: "S\xE4kerhetspodcasten #266 - N\xE4r s\xE4kerhet g\xE5r f\xF6r l\xE5ngt"
+title: 'Säkerhetspodcasten #266 - När säkerhet går för långt'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2024-08-14_Krav.mp3?dest-id=117848), längd: 42:09

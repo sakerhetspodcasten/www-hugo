@@ -3,7 +3,7 @@ date: '2020-12-21T09:36:53'
 lastmod: '2020-12-21T09:36:53'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.194 \u2013 St\xF6d i s\xE4kerhetsarbetet"
+title: Säkerhetspodcasten avs.194 – Stöd i säkerhetsarbetet
 ---
 ## Lyssna
 

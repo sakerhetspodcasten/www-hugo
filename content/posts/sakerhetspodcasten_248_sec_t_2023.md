@@ -3,7 +3,7 @@ date: '2023-10-16T09:28:00'
 tags:
 - SEC-T
 - CI/CD
-title: "S\xE4kerhetspodcasten #248 - Sec-T 2023"
+title: 'Säkerhetspodcasten #248 - Sec-T 2023'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/SEC-T_2023.mp3?dest-id=117848), längd: 01:44:56

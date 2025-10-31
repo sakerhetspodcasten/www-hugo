@@ -5,8 +5,8 @@ tags:
 - guest
 - ostrukturerat
 - kodsnack
-- "Fredrik Bj\xF6reman"
-title: "S\xE4kerhetspodcasten avs.51 - Ostrukturerat V.6"
+- Fredrik Björeman
+title: Säkerhetspodcasten avs.51 - Ostrukturerat V.6
 ---
 ## Lyssna
 

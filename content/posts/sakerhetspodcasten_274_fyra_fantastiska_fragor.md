@@ -7,7 +7,7 @@ tags:
 - Software Bill Of Materials
 - privacy
 - BankID
-title: "S\xE4kerhetspodcasten #274 - Fyra fantastiska fr\xE5gor"
+title: 'Säkerhetspodcasten #274 - Fyra fantastiska frågor'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2024-12-04_LoveX4.mp3?dest-id=117848), längd: 01:12:14

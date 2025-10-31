@@ -3,7 +3,7 @@ date: '2019-10-01T07:25:44'
 lastmod: '2019-10-01T07:26:18'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.163 \u2013 Hacking the cloud"
+title: Säkerhetspodcasten avs.163 – Hacking the cloud
 ---
 ## Lyssna
 

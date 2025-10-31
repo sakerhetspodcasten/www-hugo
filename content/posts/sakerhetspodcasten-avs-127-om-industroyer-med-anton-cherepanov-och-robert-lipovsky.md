@@ -4,11 +4,11 @@ lastmod: '2018-09-26T08:18:52'
 tags:
 - guest
 - Robin von Post
-- "Robert Lipovsk\xFD"
+- Robert Lipovský
 - Anton Cherepanov
 - CS3STHLM
-title: "S\xE4kerhetspodcasten avs.127 - Om Industroyer med Anton Cherepanov och Robert\
-  \ Lipovsk\xFD"
+title: Säkerhetspodcasten avs.127 - Om Industroyer med Anton Cherepanov och Robert
+  Lipovský
 ---
 ## Lyssna
 

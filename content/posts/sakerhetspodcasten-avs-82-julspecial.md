@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:24:07'
 tags:
 - tema
 - jul
-title: "S\xE4kerhetspodcasten avs.82 - Julspecial"
+title: Säkerhetspodcasten avs.82 - Julspecial
 ---
 ## Lyssna
 

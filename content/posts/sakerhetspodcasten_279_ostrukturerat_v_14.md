@@ -4,7 +4,7 @@ tags:
 - ostrukturerat
 - privacy
 - Kubernetes
-title: "S\xE4kerhetspodcasten #279 - Ostrukturerat V.14"
+title: 'Säkerhetspodcasten #279 - Ostrukturerat V.14'
 ---
 
 Signalgate,

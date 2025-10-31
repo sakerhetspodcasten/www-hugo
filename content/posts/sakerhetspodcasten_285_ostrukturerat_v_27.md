@@ -4,7 +4,7 @@ tags:
 - ostrukturerat
 - BankID
 - Kubernetes
-title: "S\xE4kerhetspodcasten #285 - Ostrukturerat V.27"
+title: 'Säkerhetspodcasten #285 - Ostrukturerat V.27'
 ---
 Operation Deep Sentinel, Påskägg, BankID, CrowdStrike, ASUS API, ASUS SSH, Azure
 

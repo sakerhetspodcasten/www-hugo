@@ -3,8 +3,7 @@ date: '2017-10-16T14:52:00'
 lastmod: '2018-09-26T08:21:50'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten avs.102 \u2013 Ostrukturerat V.42"
-
+title: Säkerhetspodcasten avs.102 – Ostrukturerat V.42
 ---
 ## Lyssna
 

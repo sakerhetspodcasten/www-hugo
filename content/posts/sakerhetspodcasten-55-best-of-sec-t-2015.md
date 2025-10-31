@@ -3,7 +3,7 @@ date: '2016-04-11T13:10:48'
 lastmod: '2018-09-26T08:26:30'
 tags:
 - SEC-T
-title: "S\xE4kerhetspodcasten #55 - Best of Sec-T 2015"
+title: 'Säkerhetspodcasten #55 - Best of Sec-T 2015'
 ---
 ## Lyssna
 

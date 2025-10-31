@@ -3,8 +3,7 @@ date: '2019-04-15T17:12:46'
 lastmod: '2019-04-15T17:12:46'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten avs.149 \u2013 Ostrukturerat V.16"
-
+title: Säkerhetspodcasten avs.149 – Ostrukturerat V.16
 ---
 ## Lyssna
 

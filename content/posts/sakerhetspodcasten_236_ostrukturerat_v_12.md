@@ -2,7 +2,7 @@
 date: '2023-03-20T09:55:00'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten #236 - Ostrukturerat V.12"
+title: 'Säkerhetspodcasten #236 - Ostrukturerat V.12'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2023-03-15_Sakerhetspodcasten.mp3?dest-id=117848), längd: 53:58

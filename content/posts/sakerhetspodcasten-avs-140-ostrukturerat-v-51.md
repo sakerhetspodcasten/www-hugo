@@ -4,7 +4,7 @@ lastmod: '2018-12-17T12:43:27'
 tags:
 - ostrukturerat
 - Kubernetes
-title: "S\xE4kerhetspodcasten avs.140 \u2013 Ostrukturerat V.51"
+title: Säkerhetspodcasten avs.140 – Ostrukturerat V.51
 ---
 ## Lyssna
 

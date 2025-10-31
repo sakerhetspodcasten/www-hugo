@@ -3,7 +3,7 @@ date: '2022-06-20T11:08:14'
 tags:
 - ostrukturerat
 - SecurityFest
-title: "S\xE4kerhetspodcasten #225 - Ostrukturerat V.25"
+title: 'Säkerhetspodcasten #225 - Ostrukturerat V.25'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2022-06-15_Ostrukturerat.mp3?dest-id=117848), längd: 01:20:06

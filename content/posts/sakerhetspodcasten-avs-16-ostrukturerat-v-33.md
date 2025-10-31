@@ -4,8 +4,8 @@ lastmod: '2018-09-26T08:33:26'
 tags:
 - ostrukturerat
 - guest
-- "Fredrik Str\xF6mberg"
-title: "S\xE4kerhetspodcasten avs.16 - Ostrukturerat V.33"
+- Fredrik Strömberg
+title: Säkerhetspodcasten avs.16 - Ostrukturerat V.33
 ---
 ## Lyssna
 

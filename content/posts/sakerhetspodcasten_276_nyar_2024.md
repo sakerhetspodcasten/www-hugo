@@ -1,12 +1,12 @@
 ---
 date: '2025-02-17T06:44:00'
 tags:
-- "Ny\xE5r"
+- Nyår
 - tema
 - CI/CD
 - privacy
 - Kubernetes
-title: "S\xE4kerhetspodcasten #276 - Ny\xE5r 2024"
+title: 'Säkerhetspodcasten #276 - Nyår 2024'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2025-01-29_Nyar_2025.mp3?dest-id=117848), längd: 01:34:50

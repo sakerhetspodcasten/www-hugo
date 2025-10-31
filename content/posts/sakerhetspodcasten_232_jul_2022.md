@@ -3,7 +3,7 @@ date: '2023-01-09T09:38:00'
 tags:
 - tema
 - jul
-title: "S\xE4kerhetspodcasten #232 - Jul 2022"
+title: 'Säkerhetspodcasten #232 - Jul 2022'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2022-12-13_XMas.mp3?dest-id=117848), längd: 31:27

@@ -3,7 +3,7 @@ date: '2025-09-01T09:44:00'
 tags:
 - tema
 - anekdoter
-title: "S\xE4kerhetspodcasten #288 - Era Anekdoter"
+title: 'Säkerhetspodcasten #288 - Era Anekdoter'
 ---
 Lyssnarna hör av sig om befängda API-servers, och skolan som ger elever för mycket rättigeter.
 
@@ -75,7 +75,7 @@ Lyssnarna hör av sig om befängda API-servers, och skolan som ger elever för m
 >
 > Vi provade från webben stage miljö med stageversion av API:et inget fel och heller
 >
-> Vi provade från webbens stage miljö men pekade temporärt mot produktionsapiet från 
+> Vi provade från webbens stage miljö men pekade temporärt mot produktionsapiet från
 >   den miljön men fortfarande inget fel
 >
 > Det händer bara om vi anropade just från den produktionsöver som hemsidan låg på
@@ -99,7 +99,7 @@ Lyssnarna hör av sig om befängda API-servers, och skolan som ger elever för m
 > För det hade lika gärna kunnat bli så att svaret och råkade ta bort några tecken i en fritex sträng eh ett property värde eller liknande
 > den som bokar kanske hade fått sig att
 >
-> Här finns det 11 platser kvar på den här utflykten om du hade funkat 
+> Här finns det 11 platser kvar på den här utflykten om du hade funkat
 > Men svaret kuttar bort en av ettorna plötsligt så tror man att det bara finns en plats kvar
 > men du får ingen krasch
 >

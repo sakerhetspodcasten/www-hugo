@@ -7,7 +7,7 @@ tags:
 - Arron Finnon
 - SEC-T
 - privacy
-title: "S\xE4kerhetspodcasten avs.104 \u2013 Arron \"f1nux\" Finnon"
+title: Säkerhetspodcasten avs.104 – Arron "f1nux" Finnon
 ---
 ## Lyssna
 

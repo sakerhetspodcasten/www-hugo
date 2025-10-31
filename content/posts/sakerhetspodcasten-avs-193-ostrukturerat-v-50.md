@@ -5,7 +5,7 @@ tags:
 - ostrukturerat
 - privacy
 - Kubernetes
-title: "S\xE4kerhetspodcasten avs.193 \u2013 Ostrukturerat V.50"
+title: Säkerhetspodcasten avs.193 – Ostrukturerat V.50
 ---
 ## Lyssna
 

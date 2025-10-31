@@ -2,7 +2,7 @@
 date: '2025-04-28T13:59:00'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten #281 - Ostrukturerat V.18"
+title: 'Säkerhetspodcasten #281 - Ostrukturerat V.18'
 ---
 
 CVE, CISA kaos, 4chan ghostscript hack, captcha self-exec, HPE RMI, Erlang OTP, ond Cursor regelfil, TLS 47 dagar, Curl säker C-kod.

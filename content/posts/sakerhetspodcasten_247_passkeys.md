@@ -10,7 +10,7 @@ tags:
 - guest
 - privacy
 - BankID
-title: "S\xE4kerhetspodcasten #247 - Passkeys"
+title: 'Säkerhetspodcasten #247 - Passkeys'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2023-08-16_Passkeys.mp3?dest-id=117848), längd: 58:08

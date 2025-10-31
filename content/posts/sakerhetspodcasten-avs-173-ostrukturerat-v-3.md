@@ -3,8 +3,7 @@ date: '2020-01-13T00:00:52'
 lastmod: '2020-01-10T08:25:48'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten avs.173 \u2013 Ostrukturerat V.3"
-
+title: Säkerhetspodcasten avs.173 – Ostrukturerat V.3
 ---
 ## Lyssna
 

@@ -5,7 +5,7 @@ tags:
 - guest
 - Andreas Lindh
 - Adde
-title: "S\xE4kerhetspodcasten avs.57 - Adde Lindh"
+title: Säkerhetspodcasten avs.57 - Adde Lindh
 ---
 ## Lyssna
 

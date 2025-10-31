@@ -4,7 +4,7 @@ tags:
 - tema
 - privacy
 - actuator
-title: "S\xE4kerhetspodcasten #275 - Ostukturerat V.6"
+title: 'Säkerhetspodcasten #275 - Ostukturerat V.6'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2025-01-29_Sakerhetspodcasten.mp3?dest-id=117848), längd: 30:25

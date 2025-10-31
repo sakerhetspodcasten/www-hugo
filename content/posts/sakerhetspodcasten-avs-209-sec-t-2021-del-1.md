@@ -8,7 +8,7 @@ tags:
 - Fredrik Alexandersson
 - Lars Haulin
 - SEC-T
-title: "S\xE4kerhetspodcasten avs.209 \u2013 Sec-T 2021 Del 1"
+title: Säkerhetspodcasten avs.209 – Sec-T 2021 Del 1
 ---
 ## Lyssna
 

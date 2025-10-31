@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:22:05'
 tags:
 - tema
 - podcasting
-title: "S\xE4kerhetspodcasten avs.97 - Peter om Podcasting"
+title: Säkerhetspodcasten avs.97 - Peter om Podcasting
 ---
 ## Lyssna
 

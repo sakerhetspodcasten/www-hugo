@@ -4,7 +4,7 @@ tags:
 - ostrukturerat
 - CVSS
 - Common Vulnerability Scoring System
-title: "S\xE4kerhetspodcasten #251 - Ostrukturerat V.46"
+title: 'Säkerhetspodcasten #251 - Ostrukturerat V.46'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2023-11-08_Sakerhetspodcasten.mp3?dest-id=117848), längd: 37:15

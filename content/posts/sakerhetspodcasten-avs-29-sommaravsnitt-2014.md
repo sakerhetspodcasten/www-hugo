@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:31:06'
 tags:
 - tema
 - sommar
-title: "S\xE4kerhetspodcasten avs.29 - Sommaravsnitt 2014"
+title: Säkerhetspodcasten avs.29 - Sommaravsnitt 2014
 ---
 ## Lyssna
 

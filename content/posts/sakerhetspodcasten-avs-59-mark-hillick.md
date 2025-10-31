@@ -5,7 +5,7 @@ tags:
 - guest
 - Mark Hillick
 - SecurityFest
-title: "S\xE4kerhetspodcasten avs.59 - Mark Hillick"
+title: Säkerhetspodcasten avs.59 - Mark Hillick
 ---
 ## Lyssna
 

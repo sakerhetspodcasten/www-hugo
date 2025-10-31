@@ -3,7 +3,7 @@ date: '2018-12-03T09:41:34'
 lastmod: '2018-12-03T09:41:34'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.139 \u2013 Bakd\xF6rrar"
+title: Säkerhetspodcasten avs.139 – Bakdörrar
 ---
 ## Lyssna
 

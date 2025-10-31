@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:33:15'
 tags:
 - guest
 - Dan Bergh Johnsson
-title: "Intervjuavsnitt #7 - Dom\xE4ndriven och agil s\xE4kerhet med Dan Bergh Johnsson"
+title: 'Intervjuavsnitt #7 - Domändriven och agil säkerhet med Dan Bergh Johnsson'
 ---
 ## Lyssna
 

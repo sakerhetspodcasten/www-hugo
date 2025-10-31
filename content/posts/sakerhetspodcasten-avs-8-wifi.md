@@ -3,7 +3,7 @@ date: '2013-01-31T14:39:20'
 lastmod: '2018-09-26T08:35:00'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs. 8 - WiFi"
+title: Säkerhetspodcasten avs. 8 - WiFi
 ---
 ## Lyssna
 

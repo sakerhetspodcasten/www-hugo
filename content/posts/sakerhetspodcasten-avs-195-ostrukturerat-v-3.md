@@ -3,8 +3,7 @@ date: '2021-01-18T10:18:09'
 lastmod: '2021-01-18T10:18:09'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten avs.195 \u2013 Ostrukturerat V.3"
-
+title: Säkerhetspodcasten avs.195 – Ostrukturerat V.3
 ---
 ## Lyssna
 

@@ -3,7 +3,7 @@ date: '2021-10-11T08:08:39'
 lastmod: '2021-10-11T08:08:39'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.211 \u2013 Asymptotiska Risker"
+title: Säkerhetspodcasten avs.211 – Asymptotiska Risker
 ---
 ## Lyssna
 

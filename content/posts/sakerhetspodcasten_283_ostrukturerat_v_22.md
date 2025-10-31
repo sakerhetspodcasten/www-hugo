@@ -4,7 +4,7 @@ tags:
 - ostrukturerat
 - actuator
 - BankID
-title: "S\xE4kerhetspodcasten #283 - Ostrukturerat V.22"
+title: 'Säkerhetspodcasten #283 - Ostrukturerat V.22'
 ---
 TeleMessage/Signalgate, DOGE/Infostealer, Hangul, ASUS, Airborn,
 VM-escape, Intel BPRC, Unify Protect, sudo-rs!

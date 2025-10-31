@@ -2,7 +2,7 @@
 date: '2025-08-18T13:24:00'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten #287 - Ostrukturerat V.34"
+title: 'Säkerhetspodcasten #287 - Ostrukturerat V.34'
 ---
 Sommar, AI utbrytning, Proven shimming, HTTP/1.1 måste dö, Solar Supplychain, Areoflot hackat, Minions!
 

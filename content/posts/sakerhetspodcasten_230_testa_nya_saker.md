@@ -2,7 +2,7 @@
 date: '2022-11-28T11:37:00'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten #230 - Testa nya saker"
+title: 'Säkerhetspodcasten #230 - Testa nya saker'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2022-11-09_TestaNytt.mp3?dest-id=117848), längd: 01:10:03

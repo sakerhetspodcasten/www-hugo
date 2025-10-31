@@ -1,10 +1,10 @@
 ---
 date: '2024-02-26T14:22:00'
 tags:
-- "Ny\xE5r"
+- Nyår
 - privacy
 - Kubernetes
-title: "S\xE4kerhetspodcasten #256 - Ny\xE5r 2023"
+title: 'Säkerhetspodcasten #256 - Nyår 2023'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2024-02-07_Sakerhetspodcasten.mp3?dest-id=117848), längd: 01:15:02

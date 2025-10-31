@@ -4,7 +4,7 @@ tags:
 - ostrukturerat
 - BankID
 - Kubernetes
-title: "S\xE4kerhetspodcasten #260 - Ostrukturerat V.17"
+title: 'Säkerhetspodcasten #260 - Ostrukturerat V.17'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2024-04-03_ostrukt2.mp3?dest-id=117848), längd: 56:27

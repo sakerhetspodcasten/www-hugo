@@ -3,7 +3,7 @@ date: '2014-05-06T08:07:48'
 lastmod: '2018-09-26T08:31:23'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.25 - Bodrum, Turkiet"
+title: Säkerhetspodcasten avs.25 - Bodrum, Turkiet
 ---
 ## Lyssna
 

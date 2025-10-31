@@ -4,7 +4,7 @@ tags:
 - tema
 - CVSS
 - Common Vulnerability Scoring System
-title: "S\xE4kerhetspodcasten #252 - CVSS 4.0"
+title: 'Säkerhetspodcasten #252 - CVSS 4.0'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2023-11-08_cvss40.mp3?dest-id=117848), längd: 55:39

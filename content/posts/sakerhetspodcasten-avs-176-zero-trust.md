@@ -3,7 +3,7 @@ date: '2020-03-09T08:25:49'
 lastmod: '2020-03-09T08:25:49'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.176 \u2013 Zero Trust"
+title: Säkerhetspodcasten avs.176 – Zero Trust
 ---
 Lyssna
 

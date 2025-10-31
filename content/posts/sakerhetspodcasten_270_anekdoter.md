@@ -4,7 +4,7 @@ tags:
 - tema
 - actuator
 - anekdoter
-title: "S\xE4kerhetspodcasten #270 - Anekdoter"
+title: 'Säkerhetspodcasten #270 - Anekdoter'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2024-10-30_Anekdoter.mp3?dest-id=117848), längd: 49:02

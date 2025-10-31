@@ -3,7 +3,7 @@ date: '2020-11-23T10:11:51'
 lastmod: '2020-11-23T10:11:51'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.192 \u2013 \xC5tta\xE5rsjubileum!"
+title: Säkerhetspodcasten avs.192 – Åttaårsjubileum!
 ---
 Lyssna
 

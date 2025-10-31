@@ -2,7 +2,7 @@
 date: '2023-07-31T08:15:00'
 tags:
 - ostrukturerat
-title: "S\xE4kerhetspodcasten #244 - Ostrukturerat V.31"
+title: 'Säkerhetspodcasten #244 - Ostrukturerat V.31'
 ---
 ## Lyssna
 

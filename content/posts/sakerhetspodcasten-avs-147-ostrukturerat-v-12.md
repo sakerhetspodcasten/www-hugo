@@ -4,7 +4,7 @@ lastmod: '2019-03-19T17:35:28'
 tags:
 - ostrukturerat
 - Robin von Post
-title: "S\xE4kerhetspodcasten avs.147 \u2013 Ostrukturerat V.12"
+title: Säkerhetspodcasten avs.147 – Ostrukturerat V.12
 ---
 ## Lyssna
 

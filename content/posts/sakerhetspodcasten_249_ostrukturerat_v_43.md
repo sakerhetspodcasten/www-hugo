@@ -5,7 +5,7 @@ tags:
 - CVSS
 - Common Vulnerability Scoring System
 - privacy
-title: "S\xE4kerhetspodcasten #249 - Ostrukturerat V.43"
+title: 'Säkerhetspodcasten #249 - Ostrukturerat V.43'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2023-10-18_Sakerhetspodcasten.mp3?dest-id=117848), längd: 36:37

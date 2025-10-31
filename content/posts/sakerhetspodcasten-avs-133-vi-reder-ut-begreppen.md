@@ -3,7 +3,7 @@ date: '2018-07-30T20:07:26'
 lastmod: '2018-09-26T08:18:17'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.133 \u2013 Vi reder ut begreppen"
+title: Säkerhetspodcasten avs.133 – Vi reder ut begreppen
 ---
 ## Lyssna
 

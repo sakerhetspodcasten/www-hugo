@@ -11,7 +11,7 @@ tags:
 - Stephen Hilt
 - Jimmy Wylie
 - Reid Wightman
-title: "S\xE4kerhetspodcasten avs.166 \u2013 CS3STHLM 2019"
+title: Säkerhetspodcasten avs.166 – CS3STHLM 2019
 ---
 ## Lyssna
 

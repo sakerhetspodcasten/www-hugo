@@ -6,7 +6,7 @@ tags:
 - Common Vulnerability Scoring System
 - privacy
 - Schrems
-title: "S\xE4kerhetspodcasten #277 - Ostrukturerat V.9"
+title: 'Säkerhetspodcasten #277 - Ostrukturerat V.9'
 ---
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2025-02-19_Sakerhetspodcasten.mp3?dest-id=117848), längd: 55:57

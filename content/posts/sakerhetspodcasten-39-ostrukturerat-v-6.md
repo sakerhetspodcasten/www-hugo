@@ -5,8 +5,7 @@ tags:
 - guest
 - ostrukturerat
 - Anders Nilsson
-title: "S\xE4kerhetspodcasten #39 - Ostrukturerat V.6"
-
+title: 'Säkerhetspodcasten #39 - Ostrukturerat V.6'
 ---
 ## Lyssna
 

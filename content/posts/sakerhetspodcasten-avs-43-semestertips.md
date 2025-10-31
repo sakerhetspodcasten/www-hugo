@@ -3,7 +3,7 @@ date: '2015-07-06T10:25:17'
 lastmod: '2018-09-26T08:28:23'
 tags:
 - tema
-title: "S\xE4kerhetspodcasten avs.43 - Semestertips!"
+title: Säkerhetspodcasten avs.43 - Semestertips!
 ---
 ## Lyssna
 

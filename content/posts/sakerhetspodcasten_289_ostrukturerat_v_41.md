@@ -4,7 +4,7 @@ tags:
 - ostrukturerat
 - SEC-T
 - CI/CD
-title: "S\xE4kerhetspodcasten #289 - Ostrukturerat V.41"
+title: 'Säkerhetspodcasten #289 - Ostrukturerat V.41'
 ---
 
 SEC-T.

@@ -3,8 +3,8 @@ date: '2017-10-02T08:27:18'
 lastmod: '2018-09-26T08:21:54'
 tags:
 - guest
-- "\xC5sa Schwarz"
-title: "S\xE4kerhetspodcasten avs.100 - \xC5sa Schwarz"
+- Åsa Schwarz
+title: Säkerhetspodcasten avs.100 - Åsa Schwarz
 ---
 ## Lyssna
 

@@ -5,7 +5,7 @@ tags:
 - guest
 - Kyle Wilhoit
 - SEC-T
-title: "S\xE4kerhetspodcasten avs.125 - Cyber Terrorism med Kyle Wilhoit"
+title: Säkerhetspodcasten avs.125 - Cyber Terrorism med Kyle Wilhoit
 ---
 ## Lyssna
 
