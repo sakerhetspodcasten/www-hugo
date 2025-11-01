@@ -285,312 +285,7127 @@ Byta ut vilka scripts som körs av spelet.
 * [g0at: The Wiggle That Killed Tarkov](https://www.youtube.com/watch?v=p5LfGcDB7Ek) `video`
   repotaget om hur extremt utbrett fusket i online-spel är.
 
-## Galen AI transkribering
 
-Vi ber Google löpa amok och försöka transkribera oss...
+## AI transkribering
 
-### 1 00:00:00,000 --> 00:00:59,500
-Hej och välkomna till säkerhets podcasten jag som talar heter Mattias giljager med mig Har jag Jesper Larsson och Peter Magnusson hålet gård fast Johan Rydberg Möller är sjuk och Rikard blodfors är annorstädes upptagen idag är det Eh onsdagen den 19 eh februari februari tror jag det är år 2025 Vi är sponsrad av person du kan läsa mera dem för jag kör.se vi är även sponsordag fotbollssaltning du kan läsa mer av dem och bodfors.se och vi är sponsorde om 014 Ja vi kan läsa mer av nordsyra a på Nordic ra.se kanon eh Har vi några Flux Denna veckadag Ja vi har sticker ut fest Jesper det gudfest Ego är av stapeln eh fjärde femte juni detta året och om ni har tur så kanske ni kan spara lite biljetter idag när det här släpps
+_AI försöker förstå oss... Ha överseende med galna feltranskriberingar._
 
-### 2 00:01:00,000 --> 00:01:21,700
-för då tror jag att vårt andra släpp kommer vara då har du inte hoppat in i kön på en skruvstäd.com så gör det första och släpper åt alla upp dem i detta Ja tyvärr Ja så ganska lite ganska långsamt att vara en kö va långsamt men de är slut och eh när vi pratar nu så tror jag att det är ett hundratal biljetter som bör allmänheten
+`1 00:00:00,000 --> 00:00:02,500`
+Hej och välkomna till Säkerhetspodcasten.
 
-### 3 00:01:24,200 --> 00:01:35,600
-och konkurrent eller vän eller någonting annat Vi har umbi som är
 
-### 4 00:01:36,700 --> 00:01:59,200
-ungefär samma tidsupport Det är den 10/11 juni det kan vara så att koll på papers fortfarande uppe än det var det när vi fick ett mail den 13 januari så det kanske är det fortfarande eh så har du bra idéer på tak Sanna eh så hör av dig och kolla gärna om du kan få en biljett dit
 
-### 5 00:02:01,000 --> 00:02:30,700
-eh talat och sen så eh Shameless and Promotion så ska jag klart en bloggpost om eh X5 09 path lamp constrant med hur du kan kringå en säkerhet funktion eller rättare sagt nu ett nytt jag hade säkerhetsfunktionen avsiktigt det är lite trasig som eh primärt så handlar om min blogg blast om man inte ska vara medveten om att
+`2 00:00:02,740 --> 00:00:04,180`
+Jag som talar heter Mattias Jidlåge.
 
-### 6 00:02:31,500 --> 00:02:32,200
-self
 
-### 7 00:02:34,300 --> 00:03:06,800
-Vilket i vissa hotmodeller då gör sönder redan funktionen och så ta upp också lite andra roliga lustigheter och begränsningar 52 det vi pratar om han var bra som man inte ens visste att man vill beställa mycket klokt sagt Okej eh
 
-### 8 00:03:08,000 --> 00:03:22,600
-Det här är ett ostruktighet avsnitt jag Jag tänkte försöka spontanbygga på det i Peters har svar Var har svaret på alla frågor vi inte visste vi borde ställa men jag kommer inte på den bryggan Den Den Jag tänkte ta den on the fly men jag löser den inte
+`3 00:00:04,420 --> 00:00:05,740`
+Med mig har jag Jesper Larsson.
 
-### 9 00:03:24,300 --> 00:04:19,300
-Åh februari 19 februari har du gjort det Ja nådens år 2025 Ja vi vi kan också då säga att om vi är gröt i huvudet så nu får lite långt avsnitt där vi pratar om Eh vad pratar vi om i nästa avsnitt actions of workflows precis och pipelines ja men det får ni vänta i två veckor till det kommer eh från nöje med det här Bästa övergångar jag kom på va att vi pratar nu ska vi prata om nice Segway Sam What the hell the fullständigt Jag tänkte vi skulle prata om flera signaler boom och inte vilka signaler som helst utan krypterade signaler och appen signal för att vara riktigt specifika det den har varit lite i Jag vill inte säga het luften än att snarare ett Hot Topic det senaste eh och eh Det hela började
 
-### 10 00:04:20,100.0000000000291 --> 00:05:20,000
-i alla fall kronologiskt med att Försvarsmakten gick ut och i ett remissvar till Jag tror det var 21control next next genom kontroll så gick de ut och vara oerhört tydliga och sa att de tyckte det var en jävla dålig idé eh börjar ni inte hålla enorna med och med att hata på det här Jag tror att holländska försvars makten gick ut först Det är mycket möjligt Det har jag ingen koll på Men eh för nu har jag i signalkontextet bara då och i signalkontekstet eh så eh så vår där är försvarsmakten den svenska eh min brygga då så att vi börjar med att de eh rena revisor och säger vi gillar inte chatkontroll för det är eller rättare sagt vi gillar inte begränsning av totalstreckskryptering eh för att det kommer skapa bakdörrar Hur vi än gör sen följer vi upp med Försvarsmakten igen då apropå signal och de har gått ut med en rekommendation ut hela sina medarbete typ och använda signal alltid så är ju då en totalsex kriterad det vill säga en trending Cry
 
-### 11 00:05:20,100 --> 00:05:20,400
-ption app
+`4 00:00:06,000 --> 00:00:06,600`
+Jajamän.
 
-### 12 00:05:21,500 --> 00:06:21,100
-eh så det var Det var bryggan mellan de två nyheterna och fortsätter vi då på signal och totalstrecks kryptering eh så eh i Ja nu Det är ju igår då Det visar en 18:e så kom det ut en eh serie riktigt bra bloggpåsar från en kille som heter suadok jag vet när man uttalas sitt namn så men det stavas s o a t o k Och så har tagit punkt blogg Där finns alltså ett flertal bloggposter som gör en en ordvitt på signals och specifik signals kryptoimentation då så jag tyckte det var superbra eh han ser själv att han inte en eh en fullärd kryptolog utan alltså matematisk kunde ju utan han är självlärd Eh Men han är bättre än mig så kan vi säga och jag tyckte det var en väldigt pedagogisk genomgång av Eh hur han jobbar med årets eh och vad han tycker om signalimentation av av kvittering eh
 
-### 13 00:06:21,500 --> 00:06:28,700
-för att göra det hela ännu roligare så eh är ju då så att dock inte vem som helst då han är där med en en furry
 
-### 14 00:06:29,600 --> 00:07:27,100
-eh så han har en firsona eh han är väldigt öppen mäta Han har en försona som heter dole och det är då en eh sydostasiatisk vildhund Ja Ja han är väldigt det Det är väldigt eh uppfriskande att det är liksom Han säger själv att han gör det här med mening lite grann att han Han vill visa att eh furrys är också vanliga människor eh på något sätt mellan avdraget ser det hela Eh ja ja det är onekligen Eh Men sagt var superbra blogserier Jag kan verkligen jag kommer ner den så attoch.blogg eh han avslutar jag med att if you walk away from this Blog post with more come Finans in the security of signal That's cool but I don't think most people get there is security Advice from a gay Fury blogger men är riktigt riktigt roligt för att följa upp på det då
+`5 00:00:06,680 --> 00:00:07,580`
+Och Peter Magnusson.
 
-### 15 00:07:28,000 --> 00:08:27,900
-eh aproposignal och dess säkerhet så har ryssarna meckat med signal nyligen eh och de har fokuserat på eh Ukraina givetvis Det är tydligen så de jobbar att de nästan alla sina attacker skickade mot Ukraina först och sen så sprider de den ut i resten av världen den här gången så var det Eh via en qr-kod som eh ska användas för jag tror det är en ganska ny funktion i sin roll Det vill säga Du kan pära devices Eh jag tror det är bland annat om du vill migrera från en gammal till en ny till exempel så kan du alltså eh på något sätt koppla kontot till båda devices och så kan du enkelt med grejer över Men det är möjliggör även att du kanske kan jobba med samma ID från två olika devices samtidigt eh och den det görs via en qr-kod till exempel jag tror det kan göras på andra sätt också men den här qr-koden gjorde eh ryssarna ondska med då så på något sätt så lyckades de Ja inte lyckats läsa mig till Hur men de lyckades en bädda javascript i qr-koden på något sätt så att Eh eller vänta gjorde de verkligen det Jag tror de bara använder q
 
-### 16 00:08:27,900 --> 00:09:27,800
-rätt upp eller nej det de gjorde var att de skickade ut qr-koden på olika sätt till ukrainare som då trodde de skulle joina i en chatt kanal men det de gjorde var och pära dig sin telefon men hon ska full telefon som ju då kunde avlyssna allting som sa det så de var ju Paradise Det var ju identit den var ju liksom eh Det var ju samma Vad är det här heter ju någonting cloningar SIM cloning till exempel motsvarande det fast bara för Eh det har ni ju redan på hela signala på om ni går in och titta så kan ni se lite som en datorn i en klient och eh Egentligen så vidare Det här har ju då signalvetat om att det här kanske inte var perfekt inte byggt Eh Men det är ganska en ganska ny funktion och de har precis patchat än alltså eh det kommer en patch 12 februari eh så har ni gjort den så är det väldigt mycket då kommer upp regelbunden på pupp som säger liksom by the way Du har pärrat ditt konto till den här också i det är ju verkligen Okej eh så att det blir tydligare var det som händer Jag gissar på att det är innan så var det så att jag bara hände automatisk bakgr
 
-### 17 00:09:27,900 --> 00:09:32,600
-unden och visste inte om det Eh nu har de då lös genom att det poppar upp lite tidigare
+`6 00:00:07,900 --> 00:00:09,220`
+Hålet i din mikrofond.
 
-### 18 00:09:33,500 --> 00:10:12,000
-så det om signal det senaste Jag kan även nämna förresten att det inte bara Försvarsmakten så rekommenderasignal utan även Europaparlamentet Vilket ju extra roligt eftersom det det är ju på eu-nivå den har chattkontroll har sprungit omkring en hel del så att jag vet inte riktigt hur man ska tolka det här om det är så att alla överens om att signal är en bra app och säkerhet är viktigt men det är bara för oss de andra vill vi kunna lyssna på de dumma eller någonting Jag vet inte knasbollar Framförallt är det väl så att EU stort och det finns många olika intressen och man eh men alltså det det
 
-### 19 00:10:14,400 --> 00:10:47,000
-är ju polis och rättsutredande myndigheter som vill få bort säkerhet eftersom att det besvårar Eh brottsutredningar försvarar massa grejer Sen finns det ju andra myndigheter som har som uppgift att skydda nationen medborgarna och statens hemligheter som då däremot vill ha säkerhet och hur hur de här avvägningarna ska gå och vem som vinner den här fajten är ett bråk som åtminstone går tillbaks till 90-talet
 
-### 20 00:10:49,000 --> 00:11:30,700
-yes yes eh på tal om eh konstigheter eh höll jag på att säga så kan vi prata om shrems vi har faktiskt ett helt avsnitt om det här Jag vet inte om vi hade flera topics den gången Men vi pratar i alla fall om shrems eh som en del eh Champions ett och sämst två Det är ju en snubbe Jag tror han heter Martin tjänst som är en sån privacy eh Fighter kan jag väl kalla det han har ju fråga så att Eh massa saker detaljer i avsnittet som skäms som vi Förhoppningsvis kan leta upp någonstans men ehm Nu är det i alla fall eh gdpr och kopplingen mot USA till exempel som är intressant
+`7 00:00:10,140 --> 00:00:10,580`
+Så pass.
 
-### 21 00:11:31,500 --> 00:12:31,400
-för att ta en jävligt lång historia kort så eh gdpr är ju det tydlig med att persondata ska inte lämna EU punkt om den får lämna in i undantagsfall och det är om den landade i ett land och där det finns eh essentially equivalent eh lås det vill säga att det finns lagar i det landet som skyddar eh eh eu:s persondata på på ett likvärdigt sätt så att det finns rättigheter eh för den datan där då Eh och för att se till att det finns i USA som gör extra viktigt så det finns alla våra moln eh så för att lagligen kunna använda de här målen så måste vi få till en konstruktion så att USA eh följer gdpr eller i alla fall kan garantera att eh EU data inte missbrukas kan vi väl kalla det vilket är lite problem just USA för de har ju då fisa 700-2 och exekut i vårder 12.33 som mer eller mindre säger att massa övervakning är okej och alla invånare är så ärligt alla som inte är
 
-### 22 00:12:31,500 --> 00:13:28,800
-eh in eh Seasons och man kan ju hävda att det finns ju bevis från eh snowdens dagar som gör att de skiter lite i vem de spelar nere Kommer utan de ska de De läser allt Och sen om en Nu kan hade varit bra att dricka det här för han kan ju det amerikanska lagsystemet bättre än mig men jag har för mig det är dessutom är så att eh Om du till exempel har en eh någon form av stämning eller någonting i USA och och redan under Discovery fasen då så vill du komma åt data som kanske råkar befinner eller röras är ju medborgare så måste ju då bolaget eh uppfylla eller följas Eh amerikansk lag och lämna över den datorn och här vill ju då EU och USA tillsammans komma fram en överenskommelse som gjorde att de EU eh lagarna respekterar dess eller EU datas rättigheter respekterades för EU vill ju kunna skicka data till USA för det finns de coola målen och de coola målen vill gärna att vi hade de som kund för att känna de pengar
 
-### 23 00:13:29,400 --> 00:14:28,400
-så då kom ju safe harber det här fantastiska eh eh dokumentet eller överenskommelsen för en kasse år sen som som styrde upp det här så att eh all vår data var i safe Harbor i USA Eh det tog inte och det här tror jag främst ett kom in Han drog upp där Hela vägen upp i någon eu-domstol och de kom fram till att Nej säger farbror håller inte och så gick F aber sönder så bråkar de ett tag och så kom de fram till privacy Shield som var det nya Säg Faber nytt fint avtal eh och så då Jag tror shrems 2 komfarande vi säger samma som har betyg upp det igen och det blev återigen tydligt bevisat att nej privacy Shield håller inte så att helt plötsligt satt vi ett osäkert läge igen eller vi kunde inte egentligen lagligt skicka data dit eh och Eh nu då alldeles nyligen eh 2023 så kom då the Trance and Atlantic data privacy Framework på plats eh och där
+`8 00:00:11,360 --> 00:00:13,680`
+Johan Rybenmöller är sjuk.
 
-### 24 00:14:29,400 --> 00:14:45,400
-var två stycken intressanta mekanismer det finns någonting som då heter privacy and silver liberty's over sideboard på USA sidan som var då en en granskande styrelse som ägde den här frågan Alltså vad hade de som uppgift då och övervaka att eh
 
-### 25 00:14:46,100 --> 00:15:16,800
-eh transatlantic data privacy frameworks Tad PF som det heter att det är verkligen sköttes så det är liksom fanns en instans dit EU kunde vända sig om någonting inte gick som det skulle lite grann eh och eh och den liksom bestämdes den sen satte sig i lag den här via bidens executive order 14.086 eh så det gjorde då återigen möjligt för oss att använda amerikanska moln Fan va bra men nu kom Trump
 
-### 26 00:15:17,800 --> 00:16:17,600
-och det det var det har gått så bra oproblematiskt under hans första dagar och ha allt som baiden gör det är dåligt per definition så att det var på gång att den här executive vården som egentligen stöttade allt det här att den skulle tas bort då men han har inte tagit bort den än däremot har en kickat tre av fem medarbetare i privacy and Sevilla Liberty over sideboard och enligt standarderna eller deras egna eh reglementen Då så får de inte agera så de är icke funktionella just nu och då kom ju köra hem svarande Nu vrider han morgonluft han gillar inte transitentic data private servering work för han tyckte att den är byggd på sand som han sa liksom det här håller inte vi kan skriva de papperna hur mycket vi vill och den här Liberty boarden den kan Agera hur mycket jag vill amerikansk lagstiftning är inte förenlig eh med med det Vi vill göra här är ju Och den här jävla exekutiv vården är inte rätt sätt att bygga det på för att den blir jättekänslig för så fort bi den inte är president längre så har vi problem eh och nu då när detta hänt så vädra är
+`9 00:00:13,940 --> 00:00:16,240`
+Och Rickard Bordfors är annorstädesupptagen.
 
-### 27 00:16:17,800 --> 00:17:17,599.9999999998836
-morgonluft via den Det finns en något för profitordning som kom som heter noib som eh kör kämpar ju med oss detta och när då Eh den här liberty's oversajt board inte är operationell längre Så alltså samma dag så skrev de en blogg på oss med en gång i ny jobb att ja nu Nu har vi inte en funktionellt för eh sån här transitlantic greenment längre så att vilken dag som helst så är det förmodligen så att ni jobb går upp igen i i eh EU domstolarna och förmodligen så kommer det här Om inte Trump River det på egen hand så kommer det förmodligen riva oss från eu-sidan då Eh nu tar det väldigt inkassemånade eller till och med år innan vi kommer så långt men Återigen så ser det sjukt osäkert ut om vi överhuvudtaget får använda amerikanska moln Vilket ju sätter oss i en lite av en en kritan situation exakt så Ja det är förmodligen olagligt och förflyttar persondata till USA och de amerikanska molnen Vilket för mig är så här ett Gyllene
 
-### 28 00:17:17,700 --> 00:18:10,600
-velle och har vart fan i femte tio år nu för en eu-spelare på den här marknaden Jag menar med med tanke på de problemen vi har haft med de amerikanska målen i lagstiftningsperspektiv här nu så du behöver ju inte ens ha samma kvalité på din tjänst som de stora i USA har jag menar bara det är att du finns i EU och kan i en rudimentär tjänst måste ju vara värt hur mycket som helst Det var väl det som sitter och Renata ville göra eller kanske de andra problem tänkte jag säga det finns väl förhoppningsvis alternativ i alla fall jag menar det kan ju inte vara bara vara teten dator som som ser den här Marknads Eh det här marknadsfönstret Eh jag menar och det är på eu-nivå Finns det definitivt behov och jag kan tänka mig på svensk nivå finns det också behov Eh jag menar det finns en data som inte ens för att lämna Sverige Ska den se tror jag typ eh patient datalagen och sånt nu slightly of Topic så jag har ju inte sett en bunt
 
-### 29 00:18:11,300 --> 00:18:14,700
-videos där det är ett par stycken företag som man börjar
+`10 00:00:16,800 --> 00:00:22,060`
+Idag är det onsdagen den 19 februari va?
 
-### 30 00:18:16,700 --> 00:18:35,300
-titta på homclouding eller vad man vill kalla det Och du framförallt sådana här grejer där du har stora data mängder där de konstaterar att om du har egna driftcentraler så kan det ju hosta data mycket billigare än till exempel Amazon S3 Det kan väl omed Eh alltså Det kan väl omöjligt vara en nyhet
 
-### 31 00:18:37,300 --> 00:18:40,700
-De får ju betala eller de de tar ju betalt av en anledning menar jag vet
 
-### 32 00:18:44,900 --> 00:18:48,700
-Tydligen så påstår städa om du om du om du båda har en
+`11 00:00:22,600 --> 00:00:23,460`
+Februari tror jag det är.
 
-### 33 00:18:50,200 --> 00:18:58,400
-nej men alltså att folk har kunnat göra cloudliknande tjänster och göra det
 
-### 34 00:18:59,500 --> 00:19:14,600
-vad de uppfattade som lika lika billigt och kostnadseffektivt eller bättre med en kostnadseffektivt än att använda ett från ett väldigt riktiga cloudfunktioner var inte det här för övrigt en spaning för några eh och och något år sedan från Peter Magnusson
 
-### 35 00:19:15,800 --> 00:20:09,700
-precis Ja Men eh på på pluggs nyårssidorna är jättedaterade på på våran på säkerhets podcasten.se eh på tal om tokigheter som händer i den amerikanska myndighetsidan Eh har du någonting som du vill delge Jesper det är nu pratar vi alltså om det partyment of government och efficiency dog av Gone Squad Alltså det är det bara jag som tycker att hela usa:s hela USA är som en dålig sit kom liksom den det är liksom Man blir för bort det faktum är flygplanen de är falla från himmelen Ja men är ni inte konstigt vad det är som pågår eh och det är då Klart att man ska ju slänga upp en hemsida lite snabbt och lätt Ja det visar sig vara svårt
+`12 00:00:23,540 --> 00:00:24,320`
+År 2025.
 
-### 36 00:20:10,700 --> 00:21:10,300
-Eh jag har faktiskt inte all en Italien jag sitter panikolla här men jag hittar inte alla detaljer men det som händer är ju en sån klassisk 90-tals attack att den här sajten dogge.com blir ju det facead ehm och det här Ja har vi försökt lägga ihop lite men det verkar som att den hostas av Cloud fronts Eh inte Club som i sin tur bara är en pekare till en annan domän och den domänen är inte ändå ett golv domän och verkar vara riktigt dåligt konfigurerad eh så två webb experter oklart eh vilka de har väl de vill vara anonymer custom reasons Eh det känns rimligt va De tycker det är från det lagligt eller olagligt så det är Den politiska Stämningen i USA Just nu Det kanske man inte vill ha tryckt kan man tänka det men det de gjorde var att de skickade upp de la upp en bild med eller mindre i mitten som som sa det att ni har ingen aning om om ni håller på med mer eller mindre ehm
 
-### 37 00:21:10,600 --> 00:22:02,000
-Den försvann ju så snabbt Men men deras i det var att det var i stort sett helt vidöppet för vem som helst och posta förmodligen SS då Till det som raderades på sajten Eh den var sloppy uppsatt helt enkelt Vilket är väl lite pinsamt kan man tycka för en girl men ganska cool skall på ha och id face när det var bra koll som min står ju massa avsnitt av vi har pratat om websiteer med vid öppna databaser där man kan ansluta och göra ondska Ja exakt men i det här fallet så ser det ut som att Eh det är bara hur sajtens Eh resurserpopulerat det vill säga cdm och sets Hur sets less inläses in på sajten för det som det som man ska säga är att den här sajten har ju varit Tom väldigt länge och det är den gör egentligen är att den aggregerar allting som postas på x
 
-### 38 00:22:02,700 --> 00:22:53,000
-så den läser bara in ett flöde ifrån givetvis och Dodge x-konto och då kan man ju tänka sig att det här är ju liksom bara någon eh så här jävligt snabbt ihopslängd helt enkelt så den plockar bara ut det som står där och då kanske man har lagt så mycket tid på sin backen då Eh uppenbarligen inte för där kunde man ju då manipulera innehållet på tal om it-säkerhet och det som händer i USA två stycken Eh alltså direkta påverkningar på kanske inte mitt jobb men ja indirekt då Eh och det ena är att eh jag föreslog i ett kontext att för att förbättra så ser vi SS har ju sina brister eh exploiterar eller om så om saker expojkta eller inte Det är ju inte mig cvss rating är egentligen Det vill säga
+`13 00:00:25,440 --> 00:00:26,780`
+Vi är sponsrade av Ashore.
 
-### 39 00:22:53,800 --> 00:23:53,000
-eh Vad är Vad är status just nu på den här egentligen exploited in the wild så då har ju sisas kev är ju en jävla bra lista alltså Säg ju som fedd kommer tåg exakt vad de står för cyber cyber samtidigt som allting i en federal myndighet i USA i alla fall och de har en kev det vill säga None exploited Burde vara billigt Visst är de listar alla som eh Det finns bevis för att de är exploateras in the wild just nu så mitt förslag var att vi att man skulle integrera med den för att highlighta vissa cvss för jag menar det Vad är det två och en halv procent av alla cvss eller någonting som någonsin exploit does det kanske till och med färre än så jag kommer inte ihåg kanske från en halv procent Och highlightade om då För de är ju rätt viktiga patcha en nästan oavart oavsett kritskalitets Gran Eh Men nu är frågan sisa har ju fått en hel del katt nu alltså det det är inte alls många lika många som jobbar här längre och kommer vi en sak kvar sisar kev var med tag vilket jag har ju några kunder som har fått funding via Grands då från Us Eh alltså från USA
 
-### 40 00:23:53,800 --> 00:24:46,800
-och vi har ju fått eh fick ett ifrån Thor bland annat där det är granted som vi har levererat på är Nope Det finns inte längre och det är liksom bra grejer typ hela det granten är för liksom privacy och skydda eh liksom uppgiftslämnade och journalister alltså topping och två Vem planerat så eh vi ska prata om jordbruk Nej men vad heter våran våran curlyutvecklare Han har läst Enberg På eh VVS Ja men det har jag med jag menar jag har några kunder där jag ska liksom greja alltså jag vet det ska vara en cvs rating under rubrik liksom Eh ja det finns ju en bra site man kan gå in och bara klicka i grejer är det här Ja Är det här men men vi har pratat om det här ett antal gånger så
 
-### 41 00:24:47,600 --> 00:25:46,300
-jag hävdar ju att för klienter som inte är webbläsare så är det jättesvårt med var det jag ska vara där för att det är ofta inte relevant och inte stor händelse till kontext Nej okända Det är det stora problemet alltså det blir onödigt hög för inakt på någonting som är svår exploaterat Det är min Grundig det Messias Det här är inte ens eh kontroversiellt Finns det problem med cvss a c vs 4 bättre tveksamt men jag menar vi har ju inget det som är bra med den är att det vi pratar om den det vill säga det är en känd standard Som alla vet eller inte alla men många vet hur den funkar Vilket ju i alla fall bättre alternativen än alla gör sin egen grej för att då är det ju helt omöjligt att veta
+`14 00:00:27,000 --> 00:00:28,840`
+Du kan läsa mer om dem på ashore.se.
 
-### 42 00:25:47,500 --> 00:26:47,400
-grön Ja den då fyra och den här då 43 och den här då Den är warning Alltså jag tänker jag jag håller med Jag vill ju gärna när jag är pentaten så vill jag gärna kunden äger disken jag kan bara informera om den sen är de vill kategorisera den Det är lite upp till dem Jag sätter dig Jag sätter Critical och High på mina sorbator då är det liksom ond bråd internet död som liksom ingen kan komma undan annars brukar nästan alltid göra det down Playa mina fightings det är upp till dem och äger risken och sen tycker jag Det finns skillnad för om man beställer penntest då kan man vara mycket mer alltså du är din kommunikation som är eh många fler ord än bara ser vi hästens ratingen den är bara en Label men det jag bra det Det ser vi SS eller är så här Det är en Vida implementerad rating oavsett vad den är nästan är bra det är vi automation det vill säga till exempel när du har sobarhet i tredjeparts de penises när du sitter med en spawn och alla dina dependersis och så ska du
 
-### 43 00:26:47,400 --> 00:27:47,300
-däremot 20 olika saabarhetskällor att då att det är olika i alla de där det är fucked liksom så jag håller med det är klart vi ska göra någonting bättre men bara för det är Skjut inte kasta inte ut Bäben med badvattnet som man vill säga det är liksom det finns saker som inte är bra med den Men eh Vi ska inte sluta använda den för det Nej vi ska jobba på någonting bättre men i ett relaterat ämne då nist så de ju via sin nvd eh är ansvarig för att göra lite utav detta eh De har ju ett eh ett flöde man kan prenumerera på som är så här sårbarhetsdatabasflöde förut så tänker jag mig ner hela soberetten som en cvs eller någonting tror jag och så byggde man upp den om man skulle göra jämförelser i något verktyg till exempel med ja precis ja Eh Men det var ju inte så coolt så de har gått över till API Eh antrop nu i alla fall och jag följer dependisy track är ett fantastiskt verktyg för ovan så jag fyller deras slaktråd och då var det en bugg nylig
 
-### 44 00:27:47,400 --> 00:28:22,400
-så att Eh det var någonting i en cve från nvd som fuckade upp Des realisering i det penisrack så de var tvungen att snabb patcha eh och det var ju lite så här Det var ju lite roligt Eh Men så följde någon i tråden upp med kommentaren Varför lägger vi ens tid på och eh på att fixa integration med en vd kommer ens de finnas kvar apropå då nerskärningarna i USA så jag menar det är hela nice är ju förmodligen också under granskning dessutom season De är ju en
+`15 00:00:28,840 --> 00:00:30,820`
+Vi är även sponsrade av Bordfors Consulting.
 
-### 45 00:28:23,700 --> 00:28:29,000
-vad heter det Eh heter de adp eller vad fan heter det de som de som får
 
-### 46 00:28:30,300 --> 00:28:45,200
-måla i en en fin Ja framförallt de får lägga till cvs om det inte finns en cvss från som är eh och de har ju bland annat
 
-### 47 00:28:46,800 --> 00:29:09,200
-gjort såna här brilenta grejer som att nullpoint har Exception är ett Java program med ratead som typ tio eller någonting sånt där Ja det var väl bland annat Det som Stenberg inte var helt nöjd med ja exemplar vet han hade med just det att eh att han gör en viss rating och så gör de om den räkningen eh så har det ju blivit
+`16 00:00:30,940 --> 00:00:33,240`
+Du kan läsa mer om dem på bordfors.se.
 
-### 48 00:29:11,200 --> 00:30:00,300
-ju mindre Mitra har tid att betalt orka lägga tid på under alla CV databasen och ju mer andra länder internet pucko har fått mera ansvar så hade ju blivit mer Kaos och sämre ratingarna som går in i Starta basen och jag tror att den är stor problem är ju Just det att det finns ju inga Sanity kontroller på plats direkt när någon submittade CV Vi har ju haft problem med mycket såna fashingmotorer som automatiskt har byggt hundratal cvr eh som inte har varit något liksom så att det har varit det har varit lite så här fjädrighatten om man den äger en serie om man har skapat en CV så då har man automatiserat det för att han skulle bli riktigt cool av många liksom eh och då har det blivit lite dålig kvalité på en del
 
-### 49 00:30:01,400 --> 00:30:33,400
-Men Men eh nog om amerikanska rätt eller myndigheter kanske ska vi gå över till Anund Ja varför inte AMD De har ju processorer det har de det du hört talas om risen flera stycken av de har gjort en sen Nej ja precis nej det var faktiskt inte Jag är ingen bra på hem det
 
-### 50 00:30:34,200 --> 00:30:43,900
-Ja men det är mikro Vad fan heter det processorarkitekturen som är i risen och i deras översätt
+`17 00:00:33,900 --> 00:00:35,620`
+Och vi är sponsrade av 0x4A.
 
-### 51 00:30:47,900 --> 00:31:47,500
-på sina Horizon från där vi säger om det processorer vi vi förenklare vi säger om det processorer en spekulativ Attack Nej Nej Nej det det är jag vet inte vad jag ska säga old fashion men men det är mer Det är mer codes problem det finns ju en funktion med med du kan du kan patcha mikrokoden och och mikrokodilen är alltså det som det här var Google var det inte det Ja precis Google ser Och ser Och ser okej Och så tänkte jag säga men det är det inte alls det här Nej du product Zero är det Google produktion heter dem
 
-### 52 00:31:47,800 --> 00:32:19,300
-det är kul bara hur alltså seriation i Säljer du exploads Peter Är det något mer tjäna Jag läste faktiskt den här kb:n och sen bara Nope Eh Men men okej men men du kan alltså prata med processorn och då kan du säga till processerna att nu ska du göra det här stället för att köra den mikrokoden som det hade när du Startade upp och som du fick från biosen och sånt eh Då vi bot upp så kan du inte ersätta mikrokoden och istället kör den micropoden
 
-### 53 00:32:20,400 --> 00:32:37,600
-som jag har skickat till dig här och så tillfällig ersättning eller är det liksom typ skrev den här nya mikrofonen istället eh Det är ungefär samma Hooks Som en operativsystemscurnen kan ha när operativsystemet patcha processorn vi bott upp
+`18 00:00:35,740 --> 00:00:39,520`
+Du kan läsa mer om 0x4A på 0x4A.se.
 
-### 54 00:32:38,600 --> 00:33:37,500
-som till så att om om sätter sig som att Linus botar och Linus har lite hotfixen till processorn processorn du svarar nästan i slutet där du vill säga det är bara det är en det är en tillfälle Fix Alltså det behöver göras varje boot tills dess att du har gjort den på riktigt If I eh precis det nog tänker jag eh Då är det ju bra om signaturschema att för mikrokodils uppdateringar är bra eh och Google har ju inte släppt och vad details nu så de har inte de har ju inte jättesex på ett kod den för du är signerar våra egna men liksom eh liksom däremot så de motsat om släppte en exempel så de var jätte en mikrokodils uppdatering som eh förarstrukturerna sen ett till 26 oktober sen fyra Vilket är
 
-### 55 00:33:38,600 --> 00:33:51,400
-väldigt många av de processorerna som folk har i sina maskiner hemma eh så patcha den Och när du ber processorn om ett slumptal så så får du siffran fyra tillbaks Oh snygg patch
 
-### 56 00:33:52,500 --> 00:34:43,900
-så det Jag vet inte det Eh jag vet inte Eh vad är det en xkcerade ferenser Vad är det för Expressen det har ju någon ja du tänker så var inte det från explosierade Ja det passar fyra fyra Vad gör han om det är ju fixat slumptal Hur kan Hur vet du att det är slumtal är det verkligen det där låter bekant Men om det är det så är det ju fan geni det är roligt på riktigt Ja jag jag googla panik men men Ja jag såg den där men det var över min förmåga så jag Jag tänker Peter kommer ju i nappa på det här Jo men en icke Pers ut en stent patchning och det är en processor att den börjar göra annat än vad den skall
+`19 00:00:40,300 --> 00:00:40,860`
+Kanon.
 
-### 57 00:34:45,100 --> 00:34:59,200
-Ja det det är typiskt jätteobra sen har vi två korta om det är väl Google som har Gemini deras AI
 
-### 58 00:35:00,000 --> 00:35:14,700
-Eh jag hoppas det Ja men det det låter Jesper Ja men jag är allting som har med Microsoft göra liksom skiriga som döden goog alltså antingen som har med Google att göra Nej men ja jag har ju väldigt mycket för och
 
-### 59 00:35:16,100 --> 00:36:15,000
-hålla min skitlokalt Eh Men eh vad är en sekundare prompt in action Oj bra fråga förmodligen att man har bättre att den att det är någon reasoning historia att den har frågat någon annan om hjälp Det är som i kraftfullt nu det är att aggregera flera AI Alltså det vill säga att jag använder Claude och chat gtp för att komma framåt känner jag att du försöker göra så att du får lov att skriva vad vad en ska göra att du blir den som pratar exakt och en slipsuppgift och det det är ju klassiskt så här att man eh vad är en brontium man ber innan man har ställt första frågan så ger man ai-modellen regler om hur man vill att den ska svara så typiskt Kan du göra en obegränsad från tenaction så kan du ju väldigt mycket ta till och ha en vad var det uppgift är eh En
+`20 00:00:42,160 --> 00:00:44,720`
+Har vi några pluggs denna vackra dag?
 
-### 60 00:36:16,000 --> 00:37:09,700
-både borde ju vara då att om du har några frågor på detta fråga den här grejen Ja precis och en sekundär prompting action i till exempel att du ber Ain att det går ut med en agent och summera till exempel ett textdokument ut på internet och det här har vi nu nya tjänster för som har blivit mer avancerade som gör att du kan till exempel research heter det va i gpt chat GP PT släppte den som heter Reach research som är två och ett halvt tusen kronor i månaden då kan den göra researchordit så Det är så här kompis till mig barnen summera topp femtrådarna på Familjeliv eh och sen kommer den tillbaka tusen i månaden herregud Ja och det var det blir ju kanon till action igen så att du i dokumentet som du ber oss summeras så hade du lagt in grejer som var en då för sig att det här är en prompton ska exekvera eh
 
-### 61 00:37:11,200 --> 00:37:39,100
-De har ju kommit fram till alla att eh det var ju dumt med med eh secondoder en propp till action så att Eh man har ju i flera eh flera av de här ajorna de byggt in olika sorters skydd som ska då göra att man inte börjar exekvera instruktioner som finns i eh i Dokument som man begära en summerar och liknande
 
-### 62 00:37:40,200 --> 00:38:00,500
-men då var det några glada människor som kom på att om man istället för att säga att du ska göra en massa grejer när dokumentet läses och så i dokumentet står det istället att vänta tills nästa gång som använder den säger yes
+`21 00:00:45,420 --> 00:00:47,860`
+Ja, vi har sekretfest.
 
-### 63 00:38:01,400 --> 00:38:09,200
-då gör allt det här och det visade sig bara bara be den väntar man göra någonting
 
-### 64 00:38:11,000 --> 00:38:48,500
-så kring gick du hela den här skyddet som var byggt liksom Nu har alla nät nu har han understand som är jättelång och det är väldigt lätt att be be de flesta Modellerna om dumheter om man bara pre-texter eh lite i början Eh den har ju ingen direkt idé om att med rätt och fel Den gör bara en bussningar Det är fortfarande ett problem Det är fortfarande ett problem att skilja mellan vad som är
 
-### 65 00:38:50,000 --> 00:39:07,800
-liksom ren data i kontext vs instruktion det Det är fortfarande krångliga föräldrar Vem är viss mån förstå att den tycker är jobbigt för jag menar den jobbar ju bara med ord och jag visste att bokstäver statistiskt sammansatte bokstäver Tack
+`22 00:00:48,840 --> 00:00:54,460`
+Sekretfest går ju av stapeln 5 juni detta året.
 
-### 66 00:39:09,100 --> 00:39:38,000
-men Google tag för att byta samtalsämne Det är då borde veta vad tank stort för det var kanske men det har sett Team på Google som försöker väl göra lite vad record Future andra försöker göra De försöker göra förstå vad är ondskande på internet Och så Och det som är
 
-### 67 00:39:39,700 --> 00:40:22,700
-coolt Eller unik selling kommer inte för Google tag det är ju det att de har eh De har ju möjlighet då får veta grejer från Google om vad som händer och så att de har ju lite mer privilegerad dataåtkomsten kanske andra är det här kopplat till ge mig på något sätt Ja de de har släppt en rapport om hur olika Nations State och apte-grupper och så utnyttja är Gemini och fanns ett par stycken intressanta findings den ena är att ryska grupper verkar jättekraftigt undvika Google jämna
 
-### 68 00:40:23,400 --> 00:41:22,000
-vilket du antingen kan då väljer att tro att de är rädda för att Google se dem eller att de älskar katter eller att de utvecklar sina egna as istället för att sådär men ryssarna är väldigt duktiga på han ut på att undvika det Eh däremot iranska hot aktörer älskar att använda Google tjänster eh och sen så var det lite olika hotaraktör från länder som använder det och så Och vad de kostar det De ser inte att Nations date aktörer gör någonting som är superunikt du kan inte se att hoppet grupperna gör barnbrytande grejer inom Aj missbruk men det enda de andra datarum har i Iran då
+`23 00:00:55,040 --> 00:00:58,300`
+Och om ni har tur så kanske ni kan skåra lite biljetter idag.
 
-### 69 00:41:23,100 --> 00:42:14,100
-de som absolut är de är de största Googla användarna av apt-grupperna var contentan grafikkort men men eftersom man till Google gör så många grejer för att du inte ska få skriva exploit och sånt så så blir det blir det ju väldigt påtagligt att man ser att eh de frågar om eh många många ber jag hjälp med att skriva fishing och sånt Men och hjälp med att skriva falska resurmer så jävla mycket men men sen så är det det är mycket hjälp med att läsa i det problem med om jag har de här rättigheterna Hur hur ska pyton koden se ut för att läsa ut det här och så där eh så att Eh ja
 
-### 70 00:42:14,800 --> 00:42:25,500
-väldigt mycket hjälp med sin programmering och där man undviker ett explicit be om att göra önska utan man istället Bara ber om att läsa del på problem men till en sån ska falla ackord
 
-### 71 00:42:26,900 --> 00:42:27,300
-eh
+`24 00:00:58,300 --> 00:00:58,360`
+Ja.
 
-### 72 00:42:29,100 --> 00:42:32,800
-rimligt Ja varför inte bra grejer
 
-### 73 00:42:33,800 --> 00:43:15,700
-sen har de två korta men vid middel vi hade Open ssh hade en människa en normal standarduppsättning av SSO eh så skönt men om du är om du är en SS och använda det som använder att eh osnicklarna få oss från dns:en eh så att antingen har satt det finns någon permanente Men men som säger att eh hostnyckel verifiering görs mot DNA
 
-### 74 00:43:16,800 --> 00:43:32,500
-eh och den är publik nyckel ligger i det som är dnsrekord inte så här dnsäck har väl något liknande Ja precis det det är någon så det gör ju till exempel att
+`25 00:00:58,360 --> 00:00:59,400`
+När det här släpps.
 
-### 75 00:43:33,600 --> 00:43:37,000
-om du använder det här så behöver du inte Fundera på
 
-### 76 00:43:38,300 --> 00:43:43,800
-det här Du behöver inte hostfiler och sånt liksom utan du du vet ju alltid om du pratar med rätt Söder
 
-### 77 00:43:47,000 --> 00:44:15,500
-men det är två olika serier och om du kommer ner när de två Då blir det effektivt effektivt så blir det minnes dina service grunka gör att den här delen av koden som kollar att du får rätt nyckel den Den bara släpper igenom så här Ja jag klarar inte av att göra equestet och ta reda på hur det låg till men jag har DNS men i mindre då eller
+`26 00:00:59,980 --> 00:01:02,020`
+För då tror jag att vårt andra släpp kommer att vara.
 
-### 78 00:44:18,000 --> 00:44:21,100
-du kan bara koppla bort den funktionen genom att
 
-### 79 00:44:22,000 --> 00:45:05,700
-eh få till en minnesläcka Alltså du Du har den ena cv:n är att i vissa fel fall så bara du faller igenom koden och Vilken nyckel som helst Eh godtas den andra sveenan du kan fortsätta servern i en dåligt läge där det här felet blir sannolikt så båda de två för jag läste först och blev lite förvirrad för att de De verkar det liksom inte vara samma sak men sen fick han förklaring hade Okej men den ena ser vi en som verkar orrelaterat sen då som är dinosaurus eh deprimera uskeiset är att man har letat efter buggar som ger det första buggen med samla katten inträffar så det
 
-### 80 00:45:06,800 --> 00:45:10,000
-lite speciella då Ja det var väldigt speciellt också
+`27 00:01:02,560 --> 00:01:06,200`
+Har du inte hoppat in i kön på sekretfest.com så gör det.
 
-### 81 00:45:11,000 --> 00:45:34,900
-Ja precis så du måste kunna vara ett lägre du kan fucka med minnet och det måste vara ett läge där du kan den sista spel Det här är väl det som är det det som tar över efter valerant och Overwatch är det så
 
-### 82 00:45:37,100 --> 00:45:38,000
-säger jag
 
-### 83 00:45:38,800 --> 00:45:59,800
-det alla de där är väl färgglada och folk springa runt och hoppar det är min summering av Counter Strike men med massa jävla abilities eh wow du har en automatvapen och du är Magiker är det samtidigt Ja typ så Ja ehm
+`28 00:01:06,600 --> 00:01:09,640`
+Första släppet åt alla upp de biljetterna tror jag.
 
-### 84 00:46:01,500 --> 00:46:53,900
-själva existerar Ja men bara ett spel Eh jag kan ju mycket Vi har spelat in i många timmar nu Den har en människa det finns någon typ av Chop där du kan välja grejer och vilka guin och det du kan göra någonting du kan köpa skins garanterat Ja den kommer i någon halvsunke krypterad blobbar över http om jag fattar rätt kan du ändra priserna
 
-### 85 00:46:55,600 --> 00:47:41,600
-eh Nej men alltså PP men jag menar pyton Sorry pytongrunka som det finns ingen signering eller säkerhet på det så att det känns också göm din i spelet Okej men vad kan jag göra då Nu är jag med lite middag så jag kan ändra på den Vad händer då har du byter Vilken kod som exekverar Vilken typ poparkalk eller någonting Wow men det var det bara Shopen det här handlar om det var inte något hela spelet det centrala är ju i alla fall att den koden kör sin när du startar spelet
 
-### 86 00:47:42,700 --> 00:47:52,300
-Ah okej men men så det är coolare än bara göra busig spelet utan du får du får Execution på men du måste ju Du måste ju typ
+`29 00:01:09,820 --> 00:01:10,700`
+Ja, tyvärr.
 
-### 87 00:47:53,400 --> 00:48:31,600
-Du måste typ äga att vi fel eller någonting Du måste på något sätt tvinga folk på nätverksposition Du måste vara en privilegrannsport om du kör bara sharks så kan det Tydligen Det blir ganska uppenbart att det kommer någon mystisk http communikation men exakt vad som går i den och inte helt uppenbart den är krypterad men men det finns en snubbe som har
 
-### 88 00:48:32,700 --> 00:48:47,000
-eh som var visat grundgrejerna säger att inrapporterat och visar hur han poppar någonting nu då har vi fått en tydliga svaren de technical level It's incredible Heart togeth RC computer remote leave you not on the same Network Les you have Software vacation
 
-### 89 00:48:52,500 --> 00:48:55,500
-Vad sa du I have hackers in my Walls
+`30 00:01:11,240 --> 00:01:14,240`
+Det är ganska långsamt för vår kö var långsam.
 
-### 90 00:48:57,000 --> 00:49:04,600
-och sen sparar det ut i god Reddit fashion Nej men jag såg någon någon annan någon sån här mer
 
-### 91 00:49:05,600 --> 00:49:29,100
-etablerad säkerhets youtuber som etablerat säkerhet liksom inte göra hela vägen men han kom så långt att han konstaterad Ja den här processen skriver även pytonskript det det är det verkar vara en korrekt Eh det som This is bad
 
-### 92 00:49:30,400 --> 00:49:33,000
-Vem är lite roligt med de här spelen och sånt så
+`31 00:01:14,600 --> 00:01:15,400`
+Men de är slut.
 
-### 93 00:49:35,100 --> 00:49:42,200
-det är många spel och sånt där du kan få kartor och Anna från olika så här så att det är ju lite roligt med den här
 
-### 94 00:49:44,000 --> 00:50:43,500
-halv för om du går via styr Men någonting så känns det ju ändå som att det får grejerna på ett riktigt sätt men men om du sitter massa grejer där det är ganska sunk säkerhet kring hur du startar grejerna Jag gillar ju jag gillar med hårdvar häxan som finns alltså det vill säga shuffla in en dongel läser alla pizzor på skärmen du får aimbot Deluxe svårt att göra någonting åt det det vart två riktigt bra tåk Var det inte ett på security fest och ett på sektor tror jag faktiskt som är riktigt roligt om som ett det ser ut som en Tempo de mus det är och dessert det är det är ju en uppförsbacka och leta reda på som som liksom gametvecklare Men ja spännande och det jobbig är ju att det är nu ett jävla sidospår här Men eh det är ju på riktigt ett problem med många spel alltså med wallhacks och så vidare för det är fan inte roligt att gå in i CS Casual är det väl där det är så jävla många cheaters så det Det är bara tråkigt liksom
 
-### 95 00:50:44,000 --> 00:51:43,700
-mmm Alltså det är svårt nog inom allt game när man någon Pixel Perfect Sniper som kan barnen utan till liksom Dust två utan till det var ju något att slänner på ett tag som exakt det var där det var någon som började under käka så här cheeta som lärde sig hur de betedde och sånt Och och sprang runt med shit och kollade runt och Goblin Men mer eller mindre varenda server så satt det liksom en armad där med cheaters liksom Jag har varit rätt sugen på Escape från tarkov men två stycken stora hinder det ena är jag tror det är ett ryst spel de ska inte få mina pengar eh och sen är det Dessutom så att Eh liksom inlärnings eh kurvan är ju Brant i så folk som är så sjukt duktiga i det spelet och så har Rookie så är det ju helt rökt länge och det är inte Skill base då Jo herregud Ja men jag menar återigen du behöver spela länge för att kunna alla kombinationer liksom Jag menar de
+`32 00:01:15,680 --> 00:01:19,980`
+Och när vi pratar nu så tror jag att det är ett hundratal biljetter som sluts.
 
-### 96 00:51:44,000 --> 00:52:10,200
-duktiga är ju sådana här Nu tänker jag lite på Daisy i för sig Det är lite samma sak men Ja de är ganska lika Alltså det är mycket som du behöver hämta en dieselcontainer här och ett kikarsikte här och med hjälp utav en spik så kan du göra om dem till en motorsåg Alltså det är en sån här kombos liksom det är
 
-### 97 00:52:10,200 --> 00:53:04,800
-gjorde ganska cool när man Kaj Men ni var på det här är väldigt såna specifika eh recept kan vi väl kalla det Eh ja men jag har faktiskt inte spelat verkligen Escape Frontier eller Daisy så att jag har bara sett på Youtube vill filmen om det så att jag ska inte vara med hade med marriven så gör man Jag har inte spelat med dem iOS Eh jag har spelat Overwatch jättelite Jag har spelat välround ganska mycket Jag testar även ett nytt var det väl som gav sig in i det här i samma fan det är inte Marvel Rivals det Nej heter något annat de har de håller på med någon beta grej eh att jag som jag testade när jag var på Dreamhack i november Eh Men det gick jag inte igång på det heller Eh jag är old school CS 2 år i good enough Jag skulle vilja ha Call of Duty Men eh fan Jag gillar inte riktigt det är för mycket Det är för stökigt Jag gillar den här Vad heter den Heter en War Zone
 
-### 98 00:53:05,800 --> 00:54:05,600
-men som också lite så här survival mode 150 pers i varje höns bara döda varandra ordet så jag tycker är okej och resurgen spelar vi singel eller Det är jag och Fyra kompisar fyra stycken i en Squad men det är kul ändå förut eh för att ja förut så var det ju så var du singel så var du i Kör då så att du mötte squads hela tiden liksom Men det finns ju One vs One också single mode Men igår så jävla fort eh så att jag hinner inte med Och just det här liksom ju medvetet du du springer springer springer springer och så dör du respawnerar du så tvingas ner och så död och större Eh det är inte minst mitt mode riktigt Jag tror jag spelar Jag är mer rädd om mitt liv Dessutom är det väl så att om du har reaktionsbaserade grejer Även om vi antar att vi skulle
+`33 00:01:20,640 --> 00:01:21,740`
+För allmänheten.
 
-### 99 00:54:05,800 --> 00:54:29,500
-köpa bästa dator några kitet så vi är ju över 30 liksom så att vi har ju alltså reaktionsförmågan är vi körde eh Nej jag min enda chans är ju gå på Skill det vill säga försöka tänka lite eh istället för att bara springer springer springer hela tiden men de sätter i ögonbinne jag Jag spelade en gång eh typ något streetfight-draktigt eller någonting mot eh
 
-### 100 00:54:30,900 --> 00:55:08,900
-eh mot barnet till en person som jag och Mattias känner och kanske Jesper också men det gick ju så jävla dålig för mig och så helt plötsligt så börjar det gå bra för mig jag bara bang bang bang tryckte på den här knappen så tänkte jag säga helvete vad kul nu går det äntligen går bra till mig och då Tittar du det lilla barnen nånsin fjärde kontrollen typ något Så då kunde jag klara mig Anna sen en spelupplevelse med Peter där Peters pingis fel håll hela tiden dör hela tiden och tycker att det var svinbra för han kollade på min gubbe
 
-### 101 00:55:10,200 --> 00:55:18,500
-Star Wars eller nej första gången vi var på
+`34 00:01:22,540 --> 00:01:23,100`
+Mm.
 
-### 102 00:55:20,100 --> 00:55:40,500
-Theo väldigt brusande Vet du vad bra men men de orden så tänker jag att vi summerar det här och strukturerade avsnittet bra sagt eh vi som har pratat idag Det heter Mattias idag Ja och vi heter Jesper Larsson så är det faktiskt och Peter Magnusson svaret 4 från din funktion Ha det bra hej
+
+
+`35 00:01:25,360 --> 00:01:26,740`
+Och konkurrent.
+
+
+
+`36 00:01:27,740 --> 00:01:28,340`
+Eller vän.
+
+
+
+`37 00:01:28,360 --> 00:01:29,640`
+Eller någonting annat.
+
+
+
+`38 00:01:30,460 --> 00:01:31,920`
+Vi har Ume.
+
+
+
+`39 00:01:33,220 --> 00:01:34,140`
+Bisärts Ume.
+
+
+
+`40 00:01:34,660 --> 00:01:34,900`
+Ja.
+
+
+
+`41 00:01:35,120 --> 00:01:38,360`
+Som är ungefär samma tidsepåk.
+
+
+
+`42 00:01:39,140 --> 00:01:41,520`
+Det är den 10-11 juni.
+
+
+
+`43 00:01:42,320 --> 00:01:44,900`
+Det kan vara så att Call for Papers fortfarande är öppen.
+
+
+
+`44 00:01:46,080 --> 00:01:48,920`
+Det var det när vi fick ett mail den 13 januari.
+
+
+
+`45 00:01:49,240 --> 00:01:50,560`
+Så det kanske är det fortfarande.
+
+
+
+`46 00:01:51,420 --> 00:01:54,660`
+Så har du bra idéer på talk sådant.
+
+
+
+`47 00:01:55,520 --> 00:01:56,660`
+Så hör av dig.
+
+
+
+`48 00:01:56,920 --> 00:01:58,020`
+Och kolla gärna.
+
+
+
+`49 00:01:58,020 --> 00:01:59,180`
+Om du kan få en biljett dit.
+
+
+
+`50 00:02:01,840 --> 00:02:02,320`
+Fältalat.
+
+
+
+`51 00:02:03,080 --> 00:02:03,820`
+Och sen så.
+
+
+
+`52 00:02:05,500 --> 00:02:06,780`
+Shameless self-promotion.
+
+
+
+`53 00:02:06,940 --> 00:02:09,180`
+Så skrev jag klart en bloggpost om.
+
+
+
+`54 00:02:11,240 --> 00:02:11,760`
+X509.
+
+
+
+`55 00:02:12,320 --> 00:02:14,060`
+Path length constraint.
+
+
+
+`56 00:02:15,120 --> 00:02:16,060`
+Med hur du.
+
+
+
+`57 00:02:16,500 --> 00:02:19,220`
+Typ kan kringgå en säkerhetsfunktion.
+
+
+
+`58 00:02:19,400 --> 00:02:20,120`
+Eller rättare sagt.
+
+
+
+`59 00:02:20,840 --> 00:02:23,760`
+Det utnyttjar att säkerhetsfunktionen avsiktligt är lite trasig.
+
+
+
+`60 00:02:23,760 --> 00:02:26,760`
+Så primärt så handlar min bloggpost.
+
+
+
+`61 00:02:26,760 --> 00:02:38,160`
+Om att du ska vara medveten om att self-issued CA's kringgård path length constraints.
+
+
+
+`62 00:02:40,540 --> 00:02:44,360`
+Vilket i vissa hotmodeller då gör sönder hela funktionen.
+
+
+
+`63 00:02:44,980 --> 00:02:49,820`
+Och så tar jag upp också lite andra roliga lustigheter och begränsningar runt path length constraint.
+
+
+
+`64 00:02:50,260 --> 00:02:52,660`
+Är det min favorit-RFC 5280 vi pratar om?
+
+
+
+`65 00:02:53,100 --> 00:02:53,560`
+Jajamensan.
+
+
+
+`66 00:02:53,800 --> 00:02:54,260`
+Fan vad bra.
+
+
+
+`67 00:02:54,720 --> 00:02:56,640`
+Piggar alls upp med lite PQI.
+
+
+
+`68 00:02:56,760 --> 00:02:57,740`
+Läsning sådär på.
+
+
+
+`69 00:02:58,960 --> 00:03:03,360`
+Den har svarat på alla de frågorna som man inte ens visste att man ville ställa.
+
+
+
+`70 00:03:03,440 --> 00:03:04,220`
+Mycket sant.
+
+
+
+`71 00:03:04,360 --> 00:03:05,000`
+Mycket klokt sagt.
+
+
+
+`72 00:03:06,100 --> 00:03:06,580`
+Okej.
+
+
+
+`73 00:03:07,660 --> 00:03:09,280`
+Det här är ju ett ostrukturerat avsnitt.
+
+
+
+`74 00:03:09,380 --> 00:03:12,420`
+Ja, jag tänkte försöka spontanbygga på det Petrus har.
+
+
+
+`75 00:03:12,920 --> 00:03:16,120`
+Var har svaret på alla frågor vi inte visste vi borde ställa.
+
+
+
+`76 00:03:16,840 --> 00:03:18,780`
+Men jag kom inte på den bryggan.
+
+
+
+`77 00:03:19,800 --> 00:03:22,480`
+Jag tänkte ta den on the fly men jag löste den inte.
+
+
+
+`78 00:03:22,540 --> 00:03:23,700`
+Om det här måste i huvudet.
+
+
+
+`79 00:03:23,700 --> 00:03:25,420`
+Jag tror att det är 19 februari.
+
+
+
+`80 00:03:25,840 --> 00:03:26,700`
+Det har jag sagt.
+
+
+
+`81 00:03:26,760 --> 00:03:27,260`
+Har du gjort det?
+
+
+
+`82 00:03:28,460 --> 00:03:29,920`
+Nådens år 2025.
+
+
+
+`83 00:03:30,180 --> 00:03:30,860`
+Har jag också sagt.
+
+
+
+`84 00:03:31,100 --> 00:03:38,800`
+Vi kan också då säga att om vi är grötiga i huvudet så nu får vi ett långt avsnitt där vi pratar om.
+
+
+
+`85 00:03:39,480 --> 00:03:41,180`
+Vad pratar vi om i nästa avsnitt?
+
+
+
+`86 00:03:41,360 --> 00:03:42,400`
+Actions and workflows.
+
+
+
+`87 00:03:42,840 --> 00:03:43,160`
+Precis.
+
+
+
+`88 00:03:43,720 --> 00:03:44,220`
+Och pipelines.
+
+
+
+`89 00:03:44,560 --> 00:03:45,040`
+Pipelines.
+
+
+
+`90 00:03:45,860 --> 00:03:48,400`
+Ja, men det får ni vänta i två veckor till det kommer.
+
+
+
+`91 00:03:49,420 --> 00:03:50,860`
+Nu får ni nöja er med det här.
+
+
+
+`92 00:03:50,880 --> 00:03:53,000`
+Den bästa övergången jag kom på var att vi pratade om.
+
+
+
+`93 00:03:53,000 --> 00:03:53,780`
+Nu ska vi prata om.
+
+
+
+`94 00:03:54,240 --> 00:03:55,460`
+Nice segway Sam.
+
+
+
+`95 00:03:56,040 --> 00:03:56,520`
+What?
+
+
+
+`96 00:03:56,760 --> 00:03:57,780`
+Never mind.
+
+
+
+`97 00:03:58,440 --> 00:04:00,020`
+Peter Pajaren är fullständigt.
+
+
+
+`98 00:04:00,620 --> 00:04:02,340`
+Jag tänkte att vi skulle prata om flera signaler.
+
+
+
+`99 00:04:02,700 --> 00:04:03,220`
+Boom\!
+
+
+
+`100 00:04:03,640 --> 00:04:06,580`
+Och inte vilka signaler som helst utan krypterade signaler.
+
+
+
+`101 00:04:06,580 --> 00:04:10,400`
+Ja, och appens signal för att vara riktigt specifika.
+
+
+
+`102 00:04:10,800 --> 00:04:15,140`
+Den har varit lite i, jag vill inte säga hetluften, den har varit snarare ett hot topic det senaste.
+
+
+
+`103 00:04:16,240 --> 00:04:25,860`
+Och det hela började, i alla fall kronologiskt, med att Försvarsmakten gick ut i ett remissvar till
+
+
+
+`104 00:04:25,860 --> 00:04:29,120`
+jag tror det var Chet Control, Next Genom Chet Control.
+
+
+
+`105 00:04:29,520 --> 00:04:32,940`
+Så gick de ut och var oerhört tydliga och sa att de tyckte det var en jävla dålig idé.
+
+
+
+`106 00:04:33,840 --> 00:04:37,560`
+Började inte holländarna med att hata på det här?
+
+
+
+`107 00:04:37,620 --> 00:04:39,820`
+Jag tror att holländska Försvarsmakten gick ut först.
+
+
+
+`108 00:04:40,000 --> 00:04:41,520`
+Det är mycket möjligt, det har jag ingen koll på.
+
+
+
+`109 00:04:41,740 --> 00:04:44,500`
+Men för nu är jag i signalkontextet bara då.
+
+
+
+`110 00:04:44,500 --> 00:04:52,180`
+Och i signalkontextet så, där är Försvarsmakten, den svenska, min brygga då.
+
+
+
+`111 00:04:52,560 --> 00:04:55,140`
+Så vi börjar med att de lämnar remissvar och säger
+
+
+
+`112 00:04:55,140 --> 00:04:59,980`
+vi gillar inte Chet Control, för det är, eller rättare sagt,
+
+
+
+`113 00:05:00,420 --> 00:05:03,600`
+vi gillar inte begränsning av totalsträckskryptering.
+
+
+
+`114 00:05:04,600 --> 00:05:07,820`
+För att det kommer skapa bakdörrar, hur vi än gör.
+
+
+
+`115 00:05:08,520 --> 00:05:12,000`
+Sen följer vi upp med Försvarsmakten igen då, apropå signal.
+
+
+
+`116 00:05:12,000 --> 00:05:15,260`
+Och de har gått ut med en rekommendation nu till hela sina medarbetare,
+
+
+
+`117 00:05:15,320 --> 00:05:16,760`
+typ att använda signal alltid.
+
+
+
+`118 00:05:16,900 --> 00:05:20,380`
+Som ju då är en totalsträckskrypterad, det vill säga en end-to-end encryption-app.
+
+
+
+`119 00:05:22,380 --> 00:05:24,780`
+Så det var bryggan mellan de två nyheterna.
+
+
+
+`120 00:05:24,780 --> 00:05:30,300`
+Och fortsätter vi då på signal och totalsträckskryptering.
+
+
+
+`121 00:05:31,340 --> 00:05:35,660`
+Så i, ja nu, det är ju igår då, det vill säga den artonde.
+
+
+
+`122 00:05:35,980 --> 00:05:42,260`
+Så kom det ut en serie riktigt bra bloggpostar från en kille som heter Soatok.
+
+
+
+`123 00:05:42,820 --> 00:05:46,680`
+Jag vet inte om han uttalar sitt namn så, men det stavas S-O-A-T-O-K.
+
+
+
+`124 00:05:47,060 --> 00:05:54,260`
+Och Soatok.blogg, där finns det alltså ett flertal bloggposter som gör en audit på signal.
+
+
+
+`125 00:05:54,780 --> 00:05:56,940`
+Och specifikt signals krypto-implementation då.
+
+
+
+`126 00:05:57,740 --> 00:05:58,660`
+Så jag tyckte det var superbra.
+
+
+
+`127 00:05:59,120 --> 00:06:05,660`
+Han säger själv att han inte är en fullärd kryptolog, alltså matematisk kunnig, utan han är självlärd.
+
+
+
+`128 00:06:06,540 --> 00:06:08,740`
+Men han är bättre än mig, så kan vi säga.
+
+
+
+`129 00:06:08,740 --> 00:06:15,200`
+Och jag tyckte det var en väldigt pedagogisk genomgång av hur han jobbar med audits.
+
+
+
+`130 00:06:15,480 --> 00:06:20,200`
+Och vad han tycker om signals implementation av kryptering.
+
+
+
+`131 00:06:20,960 --> 00:06:22,920`
+För att göra det hela ännu roligare.
+
+
+
+`132 00:06:24,780 --> 00:06:27,040`
+Det är ju då Soatok, inte vem som helst då.
+
+
+
+`133 00:06:27,160 --> 00:06:28,560`
+Han är nära mig en furry.
+
+
+
+`134 00:06:30,640 --> 00:06:32,700`
+Så han har en fursona.
+
+
+
+`135 00:06:33,340 --> 00:06:34,680`
+Och han är väldigt öppenmättad.
+
+
+
+`136 00:06:34,700 --> 00:06:37,160`
+Han har en fursona som heter Dole.
+
+
+
+`137 00:06:37,640 --> 00:06:41,340`
+Och det är då en syrostasiatisk vildhund.
+
+
+
+`138 00:06:42,460 --> 00:06:42,980`
+Specifikt?
+
+
+
+`139 00:06:43,100 --> 00:06:47,200`
+Ja, det är väldigt uppfriskande.
+
+
+
+`140 00:06:48,200 --> 00:06:50,520`
+Han säger själv att han gör det här med mening lite grann.
+
+
+
+`141 00:06:50,520 --> 00:06:54,300`
+Att han vill visa att furries är också vanliga människor.
+
+
+
+`142 00:06:54,780 --> 00:06:55,600`
+På något sätt.
+
+
+
+`143 00:06:55,760 --> 00:06:56,980`
+Så här vill han avdramatisera det hela.
+
+
+
+`144 00:06:56,980 --> 00:06:57,880`
+Med furries i alla fall.
+
+
+
+`145 00:06:58,300 --> 00:07:00,420`
+Ja, det är onekligen.
+
+
+
+`146 00:07:01,880 --> 00:07:03,480`
+Men sagt så, superbra bloggserie.
+
+
+
+`147 00:07:03,540 --> 00:07:04,880`
+Jag kan verkligen rekommendera den.
+
+
+
+`148 00:07:05,020 --> 00:07:07,100`
+Soatok.blogg
+
+
+
+`149 00:07:07,100 --> 00:07:10,300`
+Han avslutar med att
+
+
+
+`150 00:07:10,300 --> 00:07:16,700`
+If you walk away from this blogpost with more confidence in the security of signal, that's cool.
+
+
+
+`151 00:07:16,700 --> 00:07:21,100`
+But I don't think most people get their security advice from a gay furry blogger.
+
+
+
+`152 00:07:21,820 --> 00:07:23,480`
+Nej, sant.
+
+
+
+`153 00:07:23,480 --> 00:07:23,860`
+Ja.
+
+
+
+`154 00:07:24,780 --> 00:07:25,900`
+Det är riktigt, riktigt roligt.
+
+
+
+`155 00:07:25,900 --> 00:07:34,780`
+För att följa upp på det då, apropå signal och dess säkerhet, så har ryssarna meckat med signal nyligen.
+
+
+
+`156 00:07:34,780 --> 00:07:38,780`
+Och de har fokuserat på Ukraina, givetvis.
+
+
+
+`157 00:07:38,780 --> 00:07:45,780`
+Det är tydligen så de jobbar, att de nästan alla sina attacker skickar de mot Ukraina först, och sen så sprider de den ut i resten av världen.
+
+
+
+`158 00:07:45,780 --> 00:07:53,980`
+Den här gången så var det via en QR-kod som ska användas för, jag tror det är en ganska ny funktion i signal, det vill säga du kan paira devices.
+
+
+
+`159 00:07:53,980 --> 00:07:54,480`
+Mm.
+
+
+
+`160 00:07:54,780 --> 00:08:02,640`
+Jag tror det är bland annat om du vill migrera från en gammal till en ny, till exempel, så kan du alltså på något sätt koppla konto till båda devices och så kan du enkelt migrera över.
+
+
+
+`161 00:08:02,900 --> 00:08:08,400`
+Men det möjliggör även att du kanske kan jobba med samma ID från två olika devices samtidigt.
+
+
+
+`162 00:08:09,260 --> 00:08:13,280`
+Och det görs via en QR-kod, till exempel. Jag tror det kan göras på andra sätt också.
+
+
+
+`163 00:08:13,480 --> 00:08:16,420`
+Men den här QR-koden gjorde ryssarna ondska med då.
+
+
+
+`164 00:08:16,960 --> 00:08:23,500`
+Så på något sätt så lyckades de, ja, inte lyckades läsa mig till hur, men de lyckades embedda JavaScript i QR-koden på något sätt.
+
+
+
+`165 00:08:23,500 --> 00:08:24,500`
+Så att...
+
+
+
+`166 00:08:24,780 --> 00:08:26,460`
+Eller vänta, gjorde de verkligen det?
+
+
+
+`167 00:08:26,680 --> 00:08:28,440`
+Jag tror de bara använde QR-koden rätt upp i det.
+
+
+
+`168 00:08:28,460 --> 00:08:28,880`
+Pishing, va?
+
+
+
+`169 00:08:28,880 --> 00:08:36,180`
+Nej, det de gjorde var att de skickade ut QR-koden på olika sätt till ukrainare som då trodde de skulle joina i en chattkanal.
+
+
+
+`170 00:08:36,580 --> 00:08:43,000`
+Men det de gjorde var att pairade sin telefon med en ondskefull telefon som ju då kunde avlyssna allting som sades.
+
+
+
+`171 00:08:43,120 --> 00:08:44,340`
+För de var ju pairade, det var ju identiskt.
+
+
+
+`172 00:08:44,620 --> 00:08:49,440`
+De var ju liksom, det var ju samma, det här heter ju någonting, cloning, simcloning till exempel.
+
+
+
+`173 00:08:49,600 --> 00:08:51,880`
+Motsvarande det, fast bara för...
+
+
+
+`174 00:08:52,820 --> 00:08:54,460`
+Det har ni ju redan på er signal.
+
+
+
+`175 00:08:54,780 --> 00:08:58,900`
+Jag går in och tittar, så kan ni ju se att datorn är ju en klient.
+
+
+
+`176 00:08:59,260 --> 00:09:06,960`
+Ja, och det här har ju då signalvetat om att det här kanske inte var perfekt byggt, men det är en ganska ny funktion.
+
+
+
+`177 00:09:07,420 --> 00:09:11,280`
+Och de har precis patchat den, alltså det kommer en patch 12 februari.
+
+
+
+`178 00:09:12,140 --> 00:09:16,920`
+Så har ni gjort den så är det väldigt mycket, det kommer upp regelbundet pop-up som säger liksom,
+
+
+
+`179 00:09:16,920 --> 00:09:20,680`
+By the way, du har pairat ditt konto till den här också, är det verkligen okej?
+
+
+
+`180 00:09:21,720 --> 00:09:24,100`
+Så det blir tydligare vad det är som händer.
+
+
+
+`181 00:09:24,780 --> 00:09:29,140`
+På att det är, innan så var det så att det bara hände automatiskt i bakgrunden och man visste inte om det.
+
+
+
+`182 00:09:30,240 --> 00:09:32,560`
+Nu har de då löst genom att det poppar upp lite tydligare.
+
+
+
+`183 00:09:33,720 --> 00:09:36,760`
+Så det om signal, det senaste.
+
+
+
+`184 00:09:37,360 --> 00:09:42,600`
+Jag kan även nämna förresten att det är inte bara för Svarsmakten som har rekommenderat signal, utan även Europaparlamentet.
+
+
+
+`185 00:09:42,820 --> 00:09:48,500`
+Vilket ju är extra roligt eftersom det är ju på EU-nivå, den har, chattkontroll har sprungit omkring en hel del.
+
+
+
+`186 00:09:49,440 --> 00:09:54,720`
+Så att, jag vet inte riktigt hur man ska tolka det här om det är så att alla är överens om att signal är en,
+
+
+
+`187 00:09:54,780 --> 00:09:58,440`
+bra app och säkerhet är viktigt, men det är bara för oss.
+
+
+
+`188 00:09:58,720 --> 00:10:01,460`
+De andra vill vi kunna lyssna på, de dumma eller någonting, jag vet inte.
+
+
+
+`189 00:10:01,560 --> 00:10:02,840`
+Ja, det är knasboll är det.
+
+
+
+`190 00:10:03,540 --> 00:10:07,560`
+Framförallt är det väl så att EU är stort och det finns många olika intressen och man,
+
+
+
+`191 00:10:07,780 --> 00:10:09,740`
+Du är så klok och nyanserad.
+
+
+
+`192 00:10:09,740 --> 00:10:20,820`
+Men alltså det, det är ju polis och rättsutredande myndigheter som vill få bort säkerhet.
+
+
+
+`193 00:10:21,200 --> 00:10:23,740`
+Eftersom att det försvårar brottsutredningen.
+
+
+
+`194 00:10:24,780 --> 00:10:26,460`
+Det försvårar en massa grejer.
+
+
+
+`195 00:10:26,880 --> 00:10:34,320`
+Sen finns det ju andra myndigheter som har som uppgift att skydda nationen, medborgarna och statens hemligheter.
+
+
+
+`196 00:10:34,580 --> 00:10:37,500`
+Som då däremot vill ha säkerhet.
+
+
+
+`197 00:10:38,320 --> 00:10:43,540`
+Och hur de här avvägningarna ska gå och vem som vinner den här fighten,
+
+
+
+`198 00:10:44,200 --> 00:10:47,120`
+är ett bråk som åtminstone går tillbaks till 90-talet.
+
+
+
+`199 00:10:48,920 --> 00:10:49,760`
+Yes, yes.
+
+
+
+`200 00:10:50,620 --> 00:10:54,240`
+På tal om konstigheter, höll jag på att säga,
+
+
+
+`201 00:10:54,240 --> 00:10:57,200`
+så kan vi ju prata om Schrems.
+
+
+
+`202 00:10:57,740 --> 00:10:59,740`
+Vi har faktiskt ett helt avsnitt om det här.
+
+
+
+`203 00:10:59,740 --> 00:11:05,140`
+Jag vet inte om vi hade flera topics den gången, men vi pratar i alla fall om Schrems som en del.
+
+
+
+`204 00:11:05,140 --> 00:11:06,740`
+Schrems 1 och Schrems 2.
+
+
+
+`205 00:11:06,740 --> 00:11:08,740`
+Det är ju en snubbe, jag tror han heter Martin Schrems,
+
+
+
+`206 00:11:08,740 --> 00:11:14,740`
+som är ju en sån privacy fighter, kan jag väl kalla det.
+
+
+
+`207 00:11:14,740 --> 00:11:21,940`
+Han har ifrågasatt massa saker, detaljer i avsnittet om Schrems, som vi förhoppningsvis kan leta upp någonstans.
+
+
+
+`208 00:11:21,940 --> 00:11:23,440`
+Men,
+
+
+
+`209 00:11:23,440 --> 00:11:26,440`
+nu är det i alla fall
+
+
+
+`210 00:11:26,440 --> 00:11:31,440`
+GDPR och kopplingen mot USA, till exempel, som är intressant.
+
+
+
+`211 00:11:31,440 --> 00:11:33,940`
+För att ta en jävligt lång historia kort,
+
+
+
+`212 00:11:33,940 --> 00:11:39,440`
+så GDPR är ju rätt tydlig med att persondata ska inte lämna EU. Punkt.
+
+
+
+`213 00:11:39,440 --> 00:11:45,440`
+Den får lämna EU i det undantagsfall, och det är om den landar i ett land där det finns
+
+
+
+`214 00:11:45,440 --> 00:11:49,440`
+essentially equivalent lås.
+
+
+
+`215 00:11:49,440 --> 00:11:53,440`
+Det vill säga att det finns lagar i det landet som skyddar,
+
+
+
+`216 00:11:53,440 --> 00:11:59,440`
+EUs persondata på ett likvärdigt sätt, så att det finns rättigheter även för den datan där då.
+
+
+
+`217 00:11:59,440 --> 00:12:03,440`
+Och för att se till att det finns i USA, som ju är extra viktigt,
+
+
+
+`218 00:12:03,440 --> 00:12:05,440`
+eftersom där finns alla våra moln,
+
+
+
+`219 00:12:05,440 --> 00:12:09,440`
+så för att lagligen kunna använda de här molnen,
+
+
+
+`220 00:12:09,440 --> 00:12:14,440`
+så måste vi få till en konstruktion så att USA följer GDPR,
+
+
+
+`221 00:12:14,440 --> 00:12:19,440`
+eller i alla fall kan garantera att EU-data inte missbrukas, kan man väl kalla det.
+
+
+
+`222 00:12:19,440 --> 00:12:21,440`
+Vilket är ett litet problem i just USA,
+
+
+
+`223 00:12:21,440 --> 00:12:25,440`
+för de har ju då FISA 702 och Executive Order 12333,
+
+
+
+`224 00:12:25,440 --> 00:12:28,440`
+som mer eller mindre säger att massövervakning är okej.
+
+
+
+`225 00:12:28,440 --> 00:12:32,440`
+Ja, för alla invånare i stort, eller för alla som inte är citizens.
+
+
+
+`226 00:12:32,440 --> 00:12:37,440`
+Ja, och man kan ju hävda att det finns ju bevis från snordens dagar,
+
+
+
+`227 00:12:37,440 --> 00:12:39,440`
+som gör att de skiter lite i vem de spionerar på,
+
+
+
+`228 00:12:39,440 --> 00:12:41,440`
+utan de läser allt.
+
+
+
+`229 00:12:41,440 --> 00:12:44,440`
+Och sen, nu hade det varit bra att ha Rickard här,
+
+
+
+`230 00:12:44,440 --> 00:12:46,440`
+för han kan ju det amerikanska lagsystemet bättre än mig,
+
+
+
+`231 00:12:46,440 --> 00:12:50,440`
+men jag för mig är det dessutom är så att om du till exempel har,
+
+
+
+`232 00:12:50,440 --> 00:12:55,440`
+någon form av stämning eller någonting i USA,
+
+
+
+`233 00:12:55,440 --> 00:12:57,440`
+och redan under discovery-fasen då,
+
+
+
+`234 00:12:57,440 --> 00:13:03,440`
+så vill du komma åt data som kanske råkar röra EU-medborgare,
+
+
+
+`235 00:13:03,440 --> 00:13:05,440`
+så måste ju då bolaget uppfylla,
+
+
+
+`236 00:13:05,440 --> 00:13:09,440`
+eller följa amerikansk lag och lämna över den datan.
+
+
+
+`237 00:13:09,440 --> 00:13:15,440`
+Och här vill ju då EU och USA tillsammans komma fram med en överenskommelse
+
+
+
+`238 00:13:15,440 --> 00:13:18,440`
+som gjorde att EU-lagarna respekterades,
+
+
+
+`239 00:13:18,440 --> 00:13:19,440`
+eller EU-datas rättigheter respekterades,
+
+
+
+`240 00:13:19,440 --> 00:13:23,440`
+för EU ville ju kunna skicka data till USA,
+
+
+
+`241 00:13:23,440 --> 00:13:25,440`
+för där finns de coola molnen,
+
+
+
+`242 00:13:25,440 --> 00:13:27,440`
+och de coola molnen ville gärna att vi hade dem som kund,
+
+
+
+`243 00:13:27,440 --> 00:13:29,440`
+för då tjänade de pengar.
+
+
+
+`244 00:13:29,440 --> 00:13:31,440`
+Så då kom ju Safe Harbor,
+
+
+
+`245 00:13:31,440 --> 00:13:34,440`
+det här fantastiska dokumentet,
+
+
+
+`246 00:13:34,440 --> 00:13:36,440`
+eller överenskommelsen för en kassa år sedan,
+
+
+
+`247 00:13:36,440 --> 00:13:38,440`
+som styrde upp det här,
+
+
+
+`248 00:13:38,440 --> 00:13:42,440`
+så att all vår data var i Safe Harbor i USA.
+
+
+
+`249 00:13:42,440 --> 00:13:45,440`
+Det tog inte, och här tror jag Shrems1 kom in,
+
+
+
+`250 00:13:45,440 --> 00:13:48,440`
+han drog upp det här hela vägen upp i någon,
+
+
+
+`251 00:13:48,440 --> 00:13:51,440`
+EU-domstol, och de kom fram till att nej,
+
+
+
+`252 00:13:51,440 --> 00:13:54,440`
+Safe Harbor håller inte, och så gick Safe Harbor sönder.
+
+
+
+`253 00:13:54,440 --> 00:13:58,440`
+Så bråkade de ett tag, och så kom de fram till Privacy Shield,
+
+
+
+`254 00:13:58,440 --> 00:14:00,440`
+som var det nya Safe Harbor.
+
+
+
+`255 00:14:00,440 --> 00:14:04,440`
+Nytt fint avtal, och så var det då jag tror Shrems2 kom farande,
+
+
+
+`256 00:14:04,440 --> 00:14:06,440`
+det vill säga samma snubbe tog upp det igen,
+
+
+
+`257 00:14:06,440 --> 00:14:08,440`
+och det blev återigen tydligt bevisat att,
+
+
+
+`258 00:14:08,440 --> 00:14:10,440`
+nej, Privacy Shield håller inte.
+
+
+
+`259 00:14:10,440 --> 00:14:14,440`
+Så att helt plötsligt satt vi i ett osäkert läge igen,
+
+
+
+`260 00:14:14,440 --> 00:14:16,440`
+eller vi kunde inte egentligen lagligt skicka data dit.
+
+
+
+`261 00:14:16,440 --> 00:14:22,440`
+Och nu då, alldeles nyligen, 2023,
+
+
+
+`262 00:14:22,440 --> 00:14:26,440`
+så kom då The Transatlantic Data Privacy Framework på plats.
+
+
+
+`263 00:14:26,440 --> 00:14:32,440`
+Och där var två stycken intressanta mekanismer,
+
+
+
+`264 00:14:32,440 --> 00:14:34,440`
+det finns någonting som då heter
+
+
+
+`265 00:14:34,440 --> 00:14:36,440`
+Privacy and Civil Liberties Oversight Board,
+
+
+
+`266 00:14:36,440 --> 00:14:40,440`
+på USA-sidan, som var då en granskande styrelse
+
+
+
+`267 00:14:40,440 --> 00:14:44,440`
+som ägde den här frågan, alltså hade som uppgift att övervaka
+
+
+
+`268 00:14:44,440 --> 00:14:48,440`
+att Transatlantic Data Privacy Framework,
+
+
+
+`269 00:14:48,440 --> 00:14:50,440`
+TAD-PF, som det hette,
+
+
+
+`270 00:14:50,440 --> 00:14:52,440`
+att det verkligen sköttes,
+
+
+
+`271 00:14:52,440 --> 00:14:55,440`
+så det liksom fanns en instans dit EU kunde vända sig
+
+
+
+`272 00:14:55,440 --> 00:14:58,440`
+om någonting inte gick som det skulle, litegrann.
+
+
+
+`273 00:14:58,440 --> 00:15:05,440`
+Och den bestämdes, den satte sig i lag, den här,
+
+
+
+`274 00:15:05,440 --> 00:15:09,440`
+via Bidens Executive Order 14086.
+
+
+
+`275 00:15:09,440 --> 00:15:13,440`
+Så det gjorde då återigen möjligt för oss att använda amerikanska moln.
+
+
+
+`276 00:15:13,440 --> 00:15:14,440`
+Fan vad bra.
+
+
+
+`277 00:15:14,440 --> 00:15:17,440`
+Men, nu kom Trump.
+
+
+
+`278 00:15:17,440 --> 00:15:22,440`
+Och det har ju gått så bra oproblematiskt under hans första dagar.
+
+
+
+`279 00:15:22,440 --> 00:15:25,440`
+Och allt som Biden gör, det är ju dåligt per definition.
+
+
+
+`280 00:15:25,440 --> 00:15:28,440`
+Så det var på gång att den här Executive Ordern som egentligen
+
+
+
+`281 00:15:28,440 --> 00:15:30,440`
+stöttade allt det här, att den skulle tas bort då.
+
+
+
+`282 00:15:30,440 --> 00:15:32,440`
+Men han har inte tagit bort den än.
+
+
+
+`283 00:15:32,440 --> 00:15:37,440`
+Däremot har han kickat tre av fem medarbetare i
+
+
+
+`284 00:15:37,440 --> 00:15:39,440`
+Privacy and Civil Liberties Oversight Board,
+
+
+
+`285 00:15:39,440 --> 00:15:42,440`
+och enligt standarderna, eller enligt deras egna
+
+
+
+`286 00:15:42,440 --> 00:15:44,440`
+reglementen då, så får de inte agera.
+
+
+
+`287 00:15:44,440 --> 00:15:46,440`
+Så de är icke-funktionella just nu.
+
+
+
+`288 00:15:46,440 --> 00:15:50,440`
+Och då kom ju Shrems svarande, nu vider han morgonluft.
+
+
+
+`289 00:15:50,440 --> 00:15:53,440`
+Han gillade inte Transatlantic Data Privacy Framework,
+
+
+
+`290 00:15:53,440 --> 00:15:56,440`
+för han tyckte att den är byggd på sand, som han sa.
+
+
+
+`291 00:15:56,440 --> 00:15:59,440`
+Det här håller inte. Vi kan skriva de pappren hur mycket vi vill,
+
+
+
+`292 00:15:59,440 --> 00:16:02,440`
+och den här Liberty Boarden, den kan agera hur mycket den vill.
+
+
+
+`293 00:16:02,440 --> 00:16:07,440`
+Amerikansk lagstiftning är inte förenlig med det vi vill göra här i EU.
+
+
+
+`294 00:16:07,440 --> 00:16:10,440`
+Och den här jävla Executive Ordern är inte rätt sätt att bygga det på,
+
+
+
+`295 00:16:10,440 --> 00:16:11,440`
+för att den blir jättekänslig.
+
+
+
+`296 00:16:11,440 --> 00:16:14,440`
+För så fort Biden inte är president längre så har vi problem.
+
+
+
+`297 00:16:14,440 --> 00:16:19,440`
+Och nu då, när detta har hänt, så vädrar de ju morgonluft via den...
+
+
+
+`298 00:16:19,440 --> 00:16:21,440`
+Det finns en not-for-profit-organisation som heter
+
+
+
+`299 00:16:21,440 --> 00:16:25,440`
+Noib, som kämpar ju med just detta.
+
+
+
+`300 00:16:25,440 --> 00:16:30,440`
+Och när då den här Liberties Oversight Board
+
+
+
+`301 00:16:30,440 --> 00:16:32,440`
+inte är operationell längre, alltså samma dag,
+
+
+
+`302 00:16:32,440 --> 00:16:35,440`
+så skrev de en bloggpost med en gång i ny jobb,
+
+
+
+`303 00:16:35,440 --> 00:16:40,440`
+att nu har vi inte någon funktionell Transatlantic Agreement längre.
+
+
+
+`304 00:16:40,440 --> 00:16:43,440`
+Så att vilken dag som helst så är det förmodligen så att ny jobb
+
+
+
+`305 00:16:43,440 --> 00:16:47,440`
+går upp igen i EU-domstolarna.
+
+
+
+`306 00:16:47,440 --> 00:16:51,440`
+Och förmodligen så kommer det här, om inte Trump river det på egen hand,
+
+
+
+`307 00:16:51,440 --> 00:16:53,440`
+så kommer det förmodligen rivas från EU-sidan då.
+
+
+
+`308 00:16:53,440 --> 00:16:57,440`
+Nu tar det väl en kasse månader eller till och med år innan vi kommer så långt.
+
+
+
+`309 00:16:57,440 --> 00:17:00,440`
+Men återigen så ser det sjukt osäkert ut om vi överhuvudtaget
+
+
+
+`310 00:17:00,440 --> 00:17:02,440`
+får använda amerikanska moln.
+
+
+
+`311 00:17:02,440 --> 00:17:05,440`
+Vilket ju sätter oss i lite av en...
+
+
+
+`312 00:17:05,440 --> 00:17:06,440`
+Prikär.
+
+
+
+`313 00:17:06,440 --> 00:17:07,440`
+Prikär-situation.
+
+
+
+`314 00:17:07,440 --> 00:17:08,440`
+Exakt.
+
+
+
+`315 00:17:08,440 --> 00:17:09,440`
+Så, ja.
+
+
+
+`316 00:17:09,440 --> 00:17:13,440`
+Det är förmodligen olagligt att förflytta persondata till USA
+
+
+
+`317 00:17:13,440 --> 00:17:15,440`
+och de amerikanska molnen.
+
+
+
+`318 00:17:15,440 --> 00:17:20,440`
+Vilket för mig är ett gyllene tillfälle att ha vart fan i fem till tio år nu
+
+
+
+`319 00:17:20,440 --> 00:17:22,440`
+för en EU-spelare på den här marknaden.
+
+
+
+`320 00:17:22,440 --> 00:17:23,440`
+Exakt.
+
+
+
+`321 00:17:23,440 --> 00:17:26,440`
+Med tanke på de problem vi har haft med de amerikanska molnen
+
+
+
+`322 00:17:26,440 --> 00:17:28,440`
+ur ett lagstiftningsperspektiv här nu,
+
+
+
+`323 00:17:28,440 --> 00:17:31,440`
+så du behöver ju inte ens ha samma kvalitet på din tjänst
+
+
+
+`324 00:17:31,440 --> 00:17:33,440`
+som de stora i USA har.
+
+
+
+`325 00:17:33,440 --> 00:17:37,440`
+Jag menar, bara det att du finns i EU och kan ge en rudimentär tjänst
+
+
+
+`326 00:17:37,440 --> 00:17:38,440`
+måste ju vara värt hur mycket som helst.
+
+
+
+`327 00:17:38,440 --> 00:17:39,440`
+Ja.
+
+
+
+`328 00:17:39,440 --> 00:17:42,440`
+Det var väl det som Tietunator ville göra, eller?
+
+
+
+`329 00:17:42,440 --> 00:17:43,440`
+Ja.
+
+
+
+`330 00:17:43,440 --> 00:17:44,440`
+De andra problemen.
+
+
+
+`331 00:17:44,440 --> 00:17:46,440`
+Jag tänkte säga det.
+
+
+
+`332 00:17:46,440 --> 00:17:48,440`
+Det finns förhoppningsvis alternativ i alla fall.
+
+
+
+`333 00:17:48,440 --> 00:17:54,440`
+Det kan ju inte bara vara Tietunator som ser det här marknadsfönstret.
+
+
+
+`334 00:17:54,440 --> 00:17:58,440`
+Jag menar, på EU-nivå finns det definitivt behov
+
+
+
+`335 00:17:58,440 --> 00:18:01,440`
+och jag kan tänka mig att på svensk nivå finns det också behov.
+
+
+
+`336 00:18:01,440 --> 00:18:03,440`
+Jag menar, det finns väl data som inte ens får lämnas Sveriges gränser
+
+
+
+`337 00:18:03,440 --> 00:18:06,440`
+tror jag, typ patientdatalagen och sånt.
+
+
+
+`338 00:18:06,440 --> 00:18:11,440`
+Slightly off topic så har jag ju sett en bunt video
+
+
+
+`339 00:18:11,440 --> 00:18:16,440`
+där det är ett par stycken företag som har börjat
+
+
+
+`340 00:18:16,440 --> 00:18:19,440`
+titta på home-clouding eller vad man vill kalla det.
+
+
+
+`341 00:18:19,440 --> 00:18:23,440`
+Och det är framförallt sådana grejer där du har stora datamängder
+
+
+
+`342 00:18:23,440 --> 00:18:26,440`
+där de konstaterar att om du har egna driftcentraler
+
+
+
+`343 00:18:26,440 --> 00:18:31,440`
+så kan du hosta data mycket billigare än till exempel Amazon S3.
+
+
+
+`344 00:18:31,440 --> 00:18:35,440`
+Det kan väl omöjligt vara en nyhet, håller jag på att säga.
+
+
+
+`345 00:18:36,440 --> 00:18:40,440`
+De får ju betalt, eller de tar ju betalt av en anledning menar jag av ES.
+
+
+
+`346 00:18:40,440 --> 00:18:49,440`
+Ja, men alltså tydligen så påstås det att om du både har en...
+
+
+
+`347 00:18:49,440 --> 00:18:52,440`
+Nej, vi är slightly off topic.
+
+
+
+`348 00:18:52,440 --> 00:18:57,440`
+Men alltså att folk har kunnat göra cloud-liknande tjänster
+
+
+
+`349 00:18:57,440 --> 00:19:03,440`
+och göra det vad de uppfattar som lika billigt och kostnadseffektivt
+
+
+
+`350 00:19:03,440 --> 00:19:05,440`
+eller bättre, mer kostnadseffektivt
+
+
+
+`351 00:19:05,440 --> 00:19:09,440`
+än att använda riktiga cloud-funktioner.
+
+
+
+`352 00:19:09,440 --> 00:19:14,440`
+Var inte det här för övrigt en spaning för något år sedan från Peter Magnusson?
+
+
+
+`353 00:19:14,440 --> 00:19:16,440`
+Ja, precis.
+
+
+
+`354 00:19:16,440 --> 00:19:18,440`
+Har du för mig det?
+
+
+
+`355 00:19:18,440 --> 00:19:20,440`
+Ja, men på pluggs...
+
+
+
+`356 00:19:20,440 --> 00:19:26,440`
+Nyårssidorna är jätteuppdaterade på säkerhetspodcasten.se.
+
+
+
+`357 00:19:26,440 --> 00:19:33,440`
+På tal om tokigheter som händer i den amerikanska myndighetssidan,
+
+
+
+`358 00:19:33,440 --> 00:19:36,440`
+har du någonting som du vill delge, Jesper?
+
+
+
+`359 00:19:36,440 --> 00:19:37,440`
+Det är...
+
+
+
+`360 00:19:37,440 --> 00:19:40,440`
+Men nu pratar vi alltså om Department of Government...
+
+
+
+`361 00:19:40,440 --> 00:19:41,440`
+Efficiency.
+
+
+
+`362 00:19:41,440 --> 00:19:42,440`
+Efficiency.
+
+
+
+`363 00:19:42,440 --> 00:19:45,440`
+Aka doggy, aka vagoon squad.
+
+
+
+`364 00:19:45,440 --> 00:19:53,440`
+Alltså, är det bara jag som tycker att hela USA är som en dålig sitcom liksom?
+
+
+
+`365 00:19:53,440 --> 00:19:54,440`
+Det är liksom...
+
+
+
+`366 00:19:54,440 --> 00:19:56,440`
+Man blir förvånad hur...
+
+
+
+`367 00:19:56,440 --> 00:20:00,440`
+Nu räknar du bort det faktum med flygplanen och börjar falla från himlen.
+
+
+
+`368 00:20:00,440 --> 00:20:02,440`
+Ja, men är det inte konstigt vad det är som pågår?
+
+
+
+`369 00:20:02,440 --> 00:20:03,440`
+Jo.
+
+
+
+`370 00:20:03,440 --> 00:20:07,440`
+Och det är ju då klart att man ska ju slänga upp en hemsida lite snabbt och lätt.
+
+
+
+`371 00:20:07,440 --> 00:20:10,440`
+Och det visar sig ju vara svårt.
+
+
+
+`372 00:20:10,440 --> 00:20:13,440`
+Jag har faktiskt inte alla detaljer, jag har försökt att panikgoogla här.
+
+
+
+`373 00:20:13,440 --> 00:20:14,440`
+Men jag hittade inte alla detaljer.
+
+
+
+`374 00:20:14,440 --> 00:20:17,440`
+Men det som hände är ju en sån klassisk 90-talsattack.
+
+
+
+`375 00:20:17,440 --> 00:20:22,440`
+Att den här sajten doge.gov blev ju defacad.
+
+
+
+`376 00:20:22,440 --> 00:20:26,440`
+Och det här har vi försökt lägga ihop lite här.
+
+
+
+`377 00:20:26,440 --> 00:20:31,440`
+Men det verkar som att den hostas av Cloudfronts...
+
+
+
+`378 00:20:31,440 --> 00:20:32,440`
+Inte Cloudfront.
+
+
+
+`379 00:20:32,440 --> 00:20:34,440`
+Cloudflare Pages, eller vad fan det hette.
+
+
+
+`380 00:20:34,440 --> 00:20:37,440`
+Som i sin tur bara är en pekare till en annan domän.
+
+
+
+`381 00:20:37,440 --> 00:20:43,440`
+Och den domänen är inte en .gov-domän och verkar vara riktigt dåligt konfigurerad.
+
+
+
+`382 00:20:43,440 --> 00:20:47,440`
+Så två webbexperter, oklart vilka.
+
+
+
+`383 00:20:47,440 --> 00:20:48,440`
+De vill vara anonyma.
+
+
+
+`384 00:20:48,440 --> 00:20:49,440`
+Cause of reasons.
+
+
+
+`385 00:20:49,440 --> 00:20:51,440`
+Ja, jag är väl smart.
+
+
+
+`386 00:20:51,440 --> 00:20:53,440`
+Det känns rimligt, va?
+
+
+
+`387 00:20:53,440 --> 00:20:56,440`
+Bortsett från om det är lagligt eller olagligt så...
+
+
+
+`388 00:20:56,440 --> 00:20:59,440`
+Den politiska stämningen i USA just nu så kanske man inte vill ha...
+
+
+
+`389 00:20:59,440 --> 00:21:00,440`
+Exakt. Lite tryggt.
+
+
+
+`390 00:21:00,440 --> 00:21:01,440`
+Exakt. Lite tryggt.
+
+
+
+`391 00:21:01,440 --> 00:21:03,440`
+Men det de gjorde var att de skickade upp...
+
+
+
+`392 00:21:03,440 --> 00:21:08,440`
+De la upp en bild mer eller mindre i mitten som sa att ni har ingen aning om vad ni håller på med.
+
+
+
+`393 00:21:08,440 --> 00:21:09,440`
+Mer eller mindre.
+
+
+
+`394 00:21:09,440 --> 00:21:11,440`
+Den försvann ganska snabbt.
+
+
+
+`395 00:21:11,440 --> 00:21:16,440`
+Men deras idé var att det var i stort sett helt vidöppet för vem som helst
+
+
+
+`396 00:21:16,440 --> 00:21:21,440`
+att posta förmodligen assets till det som renderades på sajten.
+
+
+
+`397 00:21:21,440 --> 00:21:24,440`
+Så den var sloppy uppsatt helt enkelt.
+
+
+
+`398 00:21:24,440 --> 00:21:26,440`
+Vilket är lite pinsamt kan man tycka.
+
+
+
+`399 00:21:26,440 --> 00:21:28,440`
+Pinsamt för en government-sajt.
+
+
+
+`400 00:21:28,440 --> 00:21:30,440`
+Eller hur, men en ganska god skallp att ha.
+
+
+
+`401 00:21:30,440 --> 00:21:31,440`
+Ja.
+
+
+
+`402 00:21:31,440 --> 00:21:37,440`
+Och om våra lyssnare har bra koll så minns de ju massa avsnitt där vi har pratat om
+
+
+
+`403 00:21:37,440 --> 00:21:42,440`
+webbsajter med vidöppna databaser där man kan ansluta och göra ondska.
+
+
+
+`404 00:21:42,440 --> 00:21:49,440`
+Ja, exakt. Men i det här fallet så ser det ut som att det är bara hur sajtens resurser populerar.
+
+
+
+`405 00:21:49,440 --> 00:21:53,440`
+Det vill säga CDN och assets. Hur assets läses in på sajten.
+
+
+
+`406 00:21:53,440 --> 00:21:57,440`
+För det som man ska säga är ju att den här sajten har ju varit tom väldigt länge.
+
+
+
+`407 00:21:57,440 --> 00:21:59,440`
+Och det den gör egentligen är att den aggregerar...
+
+
+
+`408 00:21:59,440 --> 00:22:02,440`
+Den aggregerar allting som postas på X.
+
+
+
+`409 00:22:02,440 --> 00:22:08,440`
+Så den läser bara in ett flöde från givetvis då Dodes X-konto.
+
+
+
+`410 00:22:08,440 --> 00:22:16,440`
+Och då kan man ju tänka sig att det här är ju liksom bara någon såhär jävligt snabbt ihopslängd crawler helt enkelt.
+
+
+
+`411 00:22:16,440 --> 00:22:18,440`
+Så den plockar bara ut det som står där.
+
+
+
+`412 00:22:18,440 --> 00:22:22,440`
+Och då kanske man inte har lagt så mycket tid på sin backend då.
+
+
+
+`413 00:22:22,440 --> 00:22:25,440`
+Uppenbarligen inte för där kunde man ju då manipulera innehållet.
+
+
+
+`414 00:22:25,440 --> 00:22:28,440`
+På tal om IT-säkerhet och det som händer i USA just nu.
+
+
+
+`415 00:22:28,440 --> 00:22:31,440`
+Det var två stycken...
+
+
+
+`416 00:22:31,440 --> 00:22:34,440`
+Alltså direkta påverkningar på...
+
+
+
+`417 00:22:34,440 --> 00:22:36,440`
+Kanske inte mitt jobb men indirekt då.
+
+
+
+`418 00:22:36,440 --> 00:22:42,440`
+Och det ena är att jag föreslog i ett kontext att för att förbättra...
+
+
+
+`419 00:22:42,440 --> 00:22:44,440`
+Alltså CVSS har ju sina brister.
+
+
+
+`420 00:22:44,440 --> 00:22:46,440`
+Exploiter...
+
+
+
+`421 00:22:46,440 --> 00:22:49,440`
+Eller om saker exploiteras eller inte.
+
+
+
+`422 00:22:49,440 --> 00:22:52,440`
+Det är ju inte mig i CVSS-ratingen egentligen.
+
+
+
+`423 00:22:52,440 --> 00:22:54,440`
+Det vill säga...
+
+
+
+`424 00:22:54,440 --> 00:22:57,440`
+Vad är status just nu på den här egentligen?
+
+
+
+`425 00:22:57,440 --> 00:22:59,440`
+Exploited in the wild.
+
+
+
+`426 00:22:59,440 --> 00:23:00,440`
+Exakt, det är inte med.
+
+
+
+`427 00:23:00,440 --> 00:23:03,440`
+Så då har ju CISAs KEV en jävla bra lista.
+
+
+
+`428 00:23:03,440 --> 00:23:05,440`
+CISA är ju en sån Fed...
+
+
+
+`429 00:23:05,440 --> 00:23:06,440`
+Jag kommer inte ihåg exakt vad de står för.
+
+
+
+`430 00:23:06,440 --> 00:23:08,440`
+Cyber, cyber, something, something.
+
+
+
+`431 00:23:08,440 --> 00:23:10,440`
+En federal myndighet i USA i alla fall.
+
+
+
+`432 00:23:10,440 --> 00:23:11,440`
+Och de har en KEV.
+
+
+
+`433 00:23:11,440 --> 00:23:13,440`
+Det vill säga known exploitable vulnerabilities.
+
+
+
+`434 00:23:13,440 --> 00:23:15,440`
+Där de listar alla som...
+
+
+
+`435 00:23:15,440 --> 00:23:18,440`
+Det finns bevis för att de exploiteras in the wild just nu.
+
+
+
+`436 00:23:18,440 --> 00:23:20,440`
+Så mitt förslag var att vi...
+
+
+
+`437 00:23:20,440 --> 00:23:23,440`
+Att man skulle integrera med den för att highlighta vissa CVSS.
+
+
+
+`438 00:23:23,440 --> 00:23:25,440`
+För jag menar, vad är det?
+
+
+
+`439 00:23:25,440 --> 00:23:28,440`
+En halv procent av alla CVSS eller någonting som någonsin exploitas.
+
+
+
+`440 00:23:28,440 --> 00:23:29,440`
+Det kanske till och med är färre än så.
+
+
+
+`441 00:23:29,440 --> 00:23:30,440`
+Jag kommer inte ihåg.
+
+
+
+`442 00:23:30,440 --> 00:23:31,440`
+Kanske en halv procent.
+
+
+
+`443 00:23:31,440 --> 00:23:32,440`
+Och highlighta dem då.
+
+
+
+`444 00:23:32,440 --> 00:23:33,440`
+För de är ju rätt viktiga att patcha.
+
+
+
+`445 00:23:33,440 --> 00:23:36,440`
+I en nästan oavsett kritikalitetsgrad.
+
+
+
+`446 00:23:36,440 --> 00:23:38,440`
+Men nu är frågan...
+
+
+
+`447 00:23:38,440 --> 00:23:41,440`
+CISA har ju fått en hel del cuts nu.
+
+
+
+`448 00:23:41,440 --> 00:23:43,440`
+Det är inte alls lika många som jobbar där längre.
+
+
+
+`449 00:23:43,440 --> 00:23:46,440`
+Och kommer vi ens ha kvar CISA KEV om ett tag?
+
+
+
+`450 00:23:46,440 --> 00:23:50,440`
+Vi har ju några kunder som har fått funding via grants då.
+
+
+
+`451 00:23:50,440 --> 00:23:53,440`
+Från USA.
+
+
+
+`452 00:23:53,440 --> 00:23:54,440`
+Och vi har ju fått...
+
+
+
+`453 00:23:54,440 --> 00:23:56,440`
+Vi fick ett ifrån Tor bland annat.
+
+
+
+`454 00:23:56,440 --> 00:23:59,440`
+Där det grantet som vi har levererat på är...
+
+
+
+`455 00:23:59,440 --> 00:24:00,440`
+Nope.
+
+
+
+`456 00:24:00,440 --> 00:24:01,440`
+Det finns inte längre.
+
+
+
+`457 00:24:01,440 --> 00:24:03,440`
+Och det är liksom bra grejer.
+
+
+
+`458 00:24:03,440 --> 00:24:10,440`
+Hela det grantet är för privacy och skydda uppgiftslämnare och journalister.
+
+
+
+`459 00:24:10,440 --> 00:24:11,440`
+Så jobbar vi inte längre.
+
+
+
+`460 00:24:11,440 --> 00:24:12,440`
+Borta.
+
+
+
+`461 00:24:12,440 --> 00:24:15,440`
+Slightly off-topping mot vad vi har planerat.
+
+
+
+`462 00:24:15,440 --> 00:24:18,440`
+Vi skulle prata om jordbruk.
+
+
+
+`463 00:24:18,440 --> 00:24:21,440`
+Nej men vad heter vår kölutvecklare?
+
+
+
+`464 00:24:21,440 --> 00:24:22,440`
+Daniel.
+
+
+
+`465 00:24:22,440 --> 00:24:23,440`
+Daniel J. Stenberg.
+
+
+
+`466 00:24:23,440 --> 00:24:25,440`
+Han blev väl förbannad på...
+
+
+
+`467 00:24:25,440 --> 00:24:27,440`
+CVSS.
+
+
+
+`468 00:24:27,440 --> 00:24:28,440`
+CVSS.
+
+
+
+`469 00:24:28,440 --> 00:24:29,440`
+Men det har jag med.
+
+
+
+`470 00:24:29,440 --> 00:24:32,440`
+Jag har några kunder där jag ska greja.
+
+
+
+`471 00:24:32,440 --> 00:24:35,440`
+Det ska vara en CVSS rating under rubriken liksom.
+
+
+
+`472 00:24:37,440 --> 00:24:41,440`
+Ja, det finns ju en bra sajt man kan gå in och bara klicka i grejer.
+
+
+
+`473 00:24:41,440 --> 00:24:42,440`
+Är det det här?
+
+
+
+`474 00:24:42,440 --> 00:24:43,440`
+Ja.
+
+
+
+`475 00:24:43,440 --> 00:24:44,440`
+Är det det här?
+
+
+
+`476 00:24:44,440 --> 00:24:45,440`
+Ja.
+
+
+
+`477 00:24:45,440 --> 00:24:46,440`
+Så får man en rating.
+
+
+
+`478 00:24:46,440 --> 00:24:47,440`
+Men när vi har pratat om det här ett antal gånger så...
+
+
+
+`479 00:24:47,440 --> 00:24:49,440`
+Jag hävdar ju att för...
+
+
+
+`480 00:24:49,440 --> 00:24:51,440`
+Jag hävdar att det är skit.
+
+
+
+`481 00:24:51,440 --> 00:24:57,440`
+Klienter som inte är en webbläsare så är det jättesvårt med vad det ska vara där.
+
+
+
+`482 00:24:57,440 --> 00:24:58,440`
+Ja.
+
+
+
+`483 00:24:58,440 --> 00:25:00,440`
+För att det är ofta inte relevant och inte...
+
+
+
+`484 00:25:00,440 --> 00:25:01,440`
+Det beror ju...
+
+
+
+`485 00:25:01,440 --> 00:25:04,440`
+Den tar inte jättestor hänsyn till kontext.
+
+
+
+`486 00:25:04,440 --> 00:25:05,440`
+Nej.
+
+
+
+`487 00:25:05,440 --> 00:25:06,440`
+Det är ett jätteproblem.
+
+
+
+`488 00:25:06,440 --> 00:25:07,440`
+Det ska den ju inte göra det där på sig.
+
+
+
+`489 00:25:07,440 --> 00:25:08,440`
+Nej men framförallt...
+
+
+
+`490 00:25:08,440 --> 00:25:10,440`
+Base scoringen är ju inte...
+
+
+
+`491 00:25:10,440 --> 00:25:14,440`
+Jo men många parametrar i base score är okända.
+
+
+
+`492 00:25:14,440 --> 00:25:16,440`
+Det är det stora problemet alltså.
+
+
+
+`493 00:25:16,440 --> 00:25:17,440`
+Ja.
+
+
+
+`494 00:25:17,440 --> 00:25:19,440`
+Det blir onödigt hög intakt på någonting som är svårexploaterat.
+
+
+
+`495 00:25:19,440 --> 00:25:20,440`
+Ja.
+
+
+
+`496 00:25:20,440 --> 00:25:22,440`
+Det är min grundidé.
+
+
+
+`497 00:25:22,440 --> 00:25:23,440`
+Med CVSS.
+
+
+
+`498 00:25:23,440 --> 00:25:24,440`
+Men...
+
+
+
+`499 00:25:24,440 --> 00:25:26,440`
+Det här är ju inte ens kontroversiellt.
+
+
+
+`500 00:25:26,440 --> 00:25:28,440`
+Finns det problem med CVSS?
+
+
+
+`501 00:25:28,440 --> 00:25:29,440`
+Ja.
+
+
+
+`502 00:25:29,440 --> 00:25:30,440`
+Är CVSS 4 bättre?
+
+
+
+`503 00:25:30,440 --> 00:25:31,440`
+Tveksamt.
+
+
+
+`504 00:25:31,440 --> 00:25:33,440`
+Men jag menar vi har ju inget...
+
+
+
+`505 00:25:33,440 --> 00:25:36,440`
+Det som är bra med den är att vi pratar om den.
+
+
+
+`506 00:25:36,440 --> 00:25:39,440`
+Det vill säga det är en känd standard som alla vet...
+
+
+
+`507 00:25:39,440 --> 00:25:41,440`
+Eller inte alla men många vet hur den funkar.
+
+
+
+`508 00:25:41,440 --> 00:25:44,440`
+Vilket ju är i alla fall bättre alternativ än att alla gör sin egen grej.
+
+
+
+`509 00:25:44,440 --> 00:25:46,440`
+För att då är det ju helt omöjligt att veta.
+
+
+
+`510 00:25:46,440 --> 00:25:47,440`
+Men...
+
+
+
+`511 00:25:47,440 --> 00:25:48,440`
+Hur allvarlig är den här sårbarheten?
+
+
+
+`512 00:25:48,440 --> 00:25:49,440`
+Grön.
+
+
+
+`513 00:25:49,440 --> 00:25:50,440`
+Ja den då?
+
+
+
+`514 00:25:50,440 --> 00:25:51,440`
+4.
+
+
+
+`515 00:25:51,440 --> 00:25:52,440`
+Och den här då?
+
+
+
+`516 00:25:52,440 --> 00:25:53,440`
+43.
+
+
+
+`517 00:25:53,440 --> 00:25:54,440`
+Och den här då?
+
+
+
+`518 00:25:54,440 --> 00:25:55,440`
+Den är warning.
+
+
+
+`519 00:25:55,440 --> 00:25:56,440`
+Jag håller med.
+
+
+
+`520 00:25:56,440 --> 00:25:57,440`
+Jag vill ju gärna...
+
+
+
+`521 00:25:57,440 --> 00:25:59,440`
+När jag är i Pentessa så vill jag gärna att kunden äger risken.
+
+
+
+`522 00:25:59,440 --> 00:26:01,440`
+Jag kan bara informera om den.
+
+
+
+`523 00:26:01,440 --> 00:26:03,440`
+Sen hur de vill kategorisera den.
+
+
+
+`524 00:26:03,440 --> 00:26:04,440`
+Det är lite upp till dem.
+
+
+
+`525 00:26:04,440 --> 00:26:05,440`
+Jag sätter...
+
+
+
+`526 00:26:05,440 --> 00:26:07,440`
+När jag sätter critical och high på mina sårbarheter.
+
+
+
+`527 00:26:07,440 --> 00:26:09,440`
+Då är det liksom ond, bråd, internetdöd.
+
+
+
+`528 00:26:09,440 --> 00:26:10,440`
+Som liksom...
+
+
+
+`529 00:26:10,440 --> 00:26:12,440`
+Ingen kan komma undan.
+
+
+
+`530 00:26:12,440 --> 00:26:15,440`
+Annars brukar nästan alltid jag downplaya mina findings.
+
+
+
+`531 00:26:15,440 --> 00:26:17,440`
+Det är upp till dem att äga risken.
+
+
+
+`532 00:26:17,440 --> 00:26:18,440`
+Och sen tycker jag det är viss skillnad för...
+
+
+
+`533 00:26:18,440 --> 00:26:20,440`
+Om man beställer ett pentest.
+
+
+
+`534 00:26:20,440 --> 00:26:22,440`
+Då kan man vara mycket mer...
+
+
+
+`535 00:26:22,440 --> 00:26:25,440`
+Alltså då är det en kommunikation som är...
+
+
+
+`536 00:26:25,440 --> 00:26:28,440`
+Många fler ord än bara CVSS-ratingen.
+
+
+
+`537 00:26:28,440 --> 00:26:30,440`
+Den är bara en label.
+
+
+
+`538 00:26:30,440 --> 00:26:31,440`
+Men det jag...
+
+
+
+`539 00:26:31,440 --> 00:26:33,440`
+Där CVSS...
+
+
+
+`540 00:26:33,440 --> 00:26:37,440`
+Där en vida implementerad rating.
+
+
+
+`541 00:26:37,440 --> 00:26:38,440`
+Oavsett var den är nästan.
+
+
+
+`542 00:26:38,440 --> 00:26:39,440`
+Är bra.
+
+
+
+`543 00:26:39,440 --> 00:26:40,440`
+Det är via automation.
+
+
+
+`544 00:26:40,440 --> 00:26:41,440`
+Det vill säga...
+
+
+
+`545 00:26:41,440 --> 00:26:44,440`
+Till exempel när du har sårbarhet i 3D Parts Dependencies.
+
+
+
+`546 00:26:44,440 --> 00:26:46,440`
+När du sitter med en S-bomb och alla dina dependencies.
+
+
+
+`547 00:26:46,440 --> 00:26:48,440`
+Och så ska du matcha dig mot 20 ord.
+
+
+
+`548 00:26:48,440 --> 00:26:50,440`
+För att du har olika sårbarhetskällor.
+
+
+
+`549 00:26:50,440 --> 00:26:52,440`
+Att då att det är olika i alla de där.
+
+
+
+`550 00:26:52,440 --> 00:26:54,440`
+Det är fucked liksom.
+
+
+
+`551 00:26:54,440 --> 00:26:55,440`
+Så jag håller med.
+
+
+
+`552 00:26:55,440 --> 00:26:56,440`
+Det är klart vi ska göra någonting bättre.
+
+
+
+`553 00:26:56,440 --> 00:26:57,440`
+Men...
+
+
+
+`554 00:26:57,440 --> 00:26:58,440`
+Bara för det.
+
+
+
+`555 00:26:58,440 --> 00:26:59,440`
+Skjut inte...
+
+
+
+`556 00:26:59,440 --> 00:27:00,440`
+Kassa inte ut bebisen med badvattnet.
+
+
+
+`557 00:27:00,440 --> 00:27:01,440`
+Som man brukar säga.
+
+
+
+`558 00:27:01,440 --> 00:27:02,440`
+Det är liksom...
+
+
+
+`559 00:27:02,440 --> 00:27:04,440`
+Det finns saker som inte är bra med den.
+
+
+
+`560 00:27:04,440 --> 00:27:06,440`
+Men vi ska inte sluta använda den för det.
+
+
+
+`561 00:27:06,440 --> 00:27:07,440`
+Nej.
+
+
+
+`562 00:27:07,440 --> 00:27:09,440`
+Vi ska jobba på någonting bättre.
+
+
+
+`563 00:27:09,440 --> 00:27:10,440`
+Men...
+
+
+
+`564 00:27:10,440 --> 00:27:11,440`
+I ett relaterat ämne då.
+
+
+
+`565 00:27:11,440 --> 00:27:12,440`
+NIST.
+
+
+
+`566 00:27:12,440 --> 00:27:13,440`
+Som ju...
+
+
+
+`567 00:27:13,440 --> 00:27:14,440`
+Via sin NVD.
+
+
+
+`568 00:27:14,440 --> 00:27:17,440`
+Är ansvarig för att göra lite utav detta.
+
+
+
+`569 00:27:17,440 --> 00:27:19,440`
+De har ju ett...
+
+
+
+`570 00:27:19,440 --> 00:27:21,440`
+Ett flöde man kan prenumerera på.
+
+
+
+`571 00:27:21,440 --> 00:27:23,440`
+Som är en sån här sårbarhetsdatabasflöde.
+
+
+
+`572 00:27:23,440 --> 00:27:25,440`
+Förut så tankade man ner hela sårbarheten.
+
+
+
+`573 00:27:25,440 --> 00:27:26,440`
+Som en...
+
+
+
+`574 00:27:26,440 --> 00:27:27,440`
+CVS eller något där tror jag.
+
+
+
+`575 00:27:27,440 --> 00:27:28,440`
+Och så byggde man upp den.
+
+
+
+`576 00:27:28,440 --> 00:27:30,440`
+Om man skulle göra jämförelser.
+
+
+
+`577 00:27:30,440 --> 00:27:32,440`
+I något verktyg till exempel.
+
+
+
+`578 00:27:32,440 --> 00:27:33,440`
+Och man separerar filmerna.
+
+
+
+`579 00:27:33,440 --> 00:27:34,440`
+Ja precis.
+
+
+
+`580 00:27:34,440 --> 00:27:35,440`
+Ja.
+
+
+
+`581 00:27:35,440 --> 00:27:36,440`
+Men det var ju inte så coolt.
+
+
+
+`582 00:27:36,440 --> 00:27:38,440`
+Så de har gått över till API...
+
+
+
+`583 00:27:38,440 --> 00:27:39,440`
+Androp nu iallafall.
+
+
+
+`584 00:27:39,440 --> 00:27:41,440`
+Och jag följer Dependency Track.
+
+
+
+`585 00:27:41,440 --> 00:27:43,440`
+Ett fantastiskt verktyg från Ovasp.
+
+
+
+`586 00:27:43,440 --> 00:27:45,440`
+Jag fyllde deras slaktråd.
+
+
+
+`587 00:27:45,440 --> 00:27:47,440`
+Och då var det en bugg nyligen.
+
+
+
+`588 00:27:47,440 --> 00:27:49,440`
+Så att...
+
+
+
+`589 00:27:49,440 --> 00:27:51,440`
+Det var någonting i en CVE.
+
+
+
+`590 00:27:51,440 --> 00:27:53,440`
+Från NVD.
+
+
+
+`591 00:27:53,440 --> 00:27:55,440`
+Som fuckade upp deserialisering.
+
+
+
+`592 00:27:55,440 --> 00:27:57,440`
+I Dependency Track.
+
+
+
+`593 00:27:57,440 --> 00:27:59,440`
+Så de var tvungna att snabbpatcha.
+
+
+
+`594 00:27:59,440 --> 00:28:01,440`
+Och det var ju lite roligt.
+
+
+
+`595 00:28:01,440 --> 00:28:03,440`
+Men så följde någon i tråden upp.
+
+
+
+`596 00:28:03,440 --> 00:28:05,440`
+Med kommentaren.
+
+
+
+`597 00:28:05,440 --> 00:28:07,440`
+Varför lägger vi ens tid på...
+
+
+
+`598 00:28:07,440 --> 00:28:09,440`
+På att fixa integration med NVD?
+
+
+
+`599 00:28:09,440 --> 00:28:11,440`
+Hur kommer det ens...
+
+
+
+`600 00:28:11,440 --> 00:28:13,440`
+De finnas kvar?
+
+
+
+`601 00:28:13,440 --> 00:28:15,440`
+Apropå då nedskärningarna i USA.
+
+
+
+`602 00:28:15,440 --> 00:28:16,440`
+Så jag menar.
+
+
+
+`603 00:28:16,440 --> 00:28:18,440`
+Hela NIST är ju förmodligen också under granskning.
+
+
+
+`604 00:28:18,440 --> 00:28:20,440`
+Du nämnde ju dessutom CISA.
+
+
+
+`605 00:28:20,440 --> 00:28:22,440`
+De är ju en...
+
+
+
+`606 00:28:22,440 --> 00:28:24,440`
+Vad heter det?
+
+
+
+`607 00:28:24,440 --> 00:28:26,440`
+Heter de ADPR?
+
+
+
+`608 00:28:26,440 --> 00:28:28,440`
+Eller vad fan heter det?
+
+
+
+`609 00:28:28,440 --> 00:28:30,440`
+De som får...
+
+
+
+`610 00:28:30,440 --> 00:28:32,440`
+Måla i en...
+
+
+
+`611 00:28:32,440 --> 00:28:34,440`
+Och som får bygga en CVE.
+
+
+
+`612 00:28:34,440 --> 00:28:36,440`
+Ja men framförallt.
+
+
+
+`613 00:28:36,440 --> 00:28:38,440`
+De får lägga till...
+
+
+
+`614 00:28:38,440 --> 00:28:40,440`
+CVSS.
+
+
+
+`615 00:28:40,440 --> 00:28:42,440`
+Om det inte finns en CVSS från...
+
+
+
+`616 00:28:42,440 --> 00:28:44,440`
+Som är...
+
+
+
+`617 00:28:44,440 --> 00:28:46,440`
+Och de har ju bland annat...
+
+
+
+`618 00:28:46,440 --> 00:28:48,440`
+Gjort sådana här briljanta grejer.
+
+
+
+`619 00:28:48,440 --> 00:28:50,440`
+Som att null pointer exception i ett Java-program.
+
+
+
+`620 00:28:50,440 --> 00:28:52,440`
+Är ratad som...
+
+
+
+`621 00:28:52,440 --> 00:28:54,440`
+Typ 10 eller någonting sådana där.
+
+
+
+`622 00:28:54,440 --> 00:28:56,440`
+Japp, det var väl bland annat det som...
+
+
+
+`623 00:28:56,440 --> 00:28:58,440`
+Stenberg inte var helt nöjd med.
+
+
+
+`624 00:28:58,440 --> 00:29:00,440`
+Ja, han använde exemplet.
+
+
+
+`625 00:29:00,440 --> 00:29:02,440`
+Nej men jag vet att han hade med just det att...
+
+
+
+`626 00:29:02,440 --> 00:29:04,440`
+Att han gör en viss rating.
+
+
+
+`627 00:29:04,440 --> 00:29:06,440`
+Och så gör de om den ratingen.
+
+
+
+`628 00:29:06,440 --> 00:29:08,440`
+Men framförallt.
+
+
+
+`629 00:29:08,440 --> 00:29:10,440`
+Så har det ju blivit...
+
+
+
+`630 00:29:10,440 --> 00:29:12,440`
+Ju mindre Mitre...
+
+
+
+`631 00:29:12,440 --> 00:29:14,440`
+Har tid och betalt.
+
+
+
+`632 00:29:14,440 --> 00:29:16,440`
+Och orkar lägga tid på att underhålla...
+
+
+
+`633 00:29:16,440 --> 00:29:18,440`
+CV-databasen.
+
+
+
+`634 00:29:18,440 --> 00:29:20,440`
+Och...
+
+
+
+`635 00:29:20,440 --> 00:29:22,440`
+Ju mer...
+
+
+
+`636 00:29:22,440 --> 00:29:24,440`
+Andra random internet puckorna har fått...
+
+
+
+`637 00:29:24,440 --> 00:29:26,440`
+Mer och mer ansvar.
+
+
+
+`638 00:29:26,440 --> 00:29:28,440`
+Så har det ju blivit mer kaos och sämre...
+
+
+
+`639 00:29:28,440 --> 00:29:30,440`
+Vid ratingerna som går in i Nix-databasen.
+
+
+
+`640 00:29:30,440 --> 00:29:32,440`
+Och jag tror ett annat stort problem är ju...
+
+
+
+`641 00:29:32,440 --> 00:29:34,440`
+Just det att...
+
+
+
+`642 00:29:34,440 --> 00:29:36,440`
+Det finns ju inga sanity-kontroller på plats...
+
+
+
+`643 00:29:36,440 --> 00:29:38,440`
+Direkt när någon...
+
+
+
+`644 00:29:38,440 --> 00:29:40,440`
+Submitter en CVE. Vi har ju haft problem med...
+
+
+
+`645 00:29:40,440 --> 00:29:42,440`
+Mycket sådana fastighetsmotorer som automatiskt...
+
+
+
+`646 00:29:42,440 --> 00:29:44,440`
+Har byggt hundratals CVE.
+
+
+
+`647 00:29:44,440 --> 00:29:46,440`
+Som inte har varit nåt liksom.
+
+
+
+`648 00:29:46,440 --> 00:29:48,440`
+Så att...
+
+
+
+`649 00:29:48,440 --> 00:29:50,440`
+Det har varit lite såhär fjädrig hatten...
+
+
+
+`650 00:29:50,440 --> 00:29:52,440`
+Om man äger en CVE.
+
+
+
+`651 00:29:52,440 --> 00:29:54,440`
+Om man har skapat en CVE.
+
+
+
+`652 00:29:54,440 --> 00:29:56,440`
+Så då har man automatiserat det för att man skulle bli riktigt cool av många.
+
+
+
+`653 00:29:56,440 --> 00:29:58,440`
+Och då har det blivit...
+
+
+
+`654 00:29:58,440 --> 00:30:00,440`
+Lite dålig kvalitet på en del.
+
+
+
+`655 00:30:00,440 --> 00:30:02,440`
+Men men...
+
+
+
+`656 00:30:02,440 --> 00:30:04,440`
+Nog om...
+
+
+
+`657 00:30:04,440 --> 00:30:06,440`
+Amerikanska rätts...
+
+
+
+`658 00:30:06,440 --> 00:30:08,440`
+Eller myndigheter kanske?
+
+
+
+`659 00:30:08,440 --> 00:30:10,440`
+Kanske. Ska vi gå över till AMD?
+
+
+
+`660 00:30:10,440 --> 00:30:12,440`
+Ja, varför inte?
+
+
+
+`661 00:30:12,440 --> 00:30:14,440`
+AMD... De har ju...
+
+
+
+`662 00:30:14,440 --> 00:30:16,440`
+Processorer. Det har de.
+
+
+
+`663 00:30:16,440 --> 00:30:18,440`
+Du har ju hört talas om... Ryzen.
+
+
+
+`664 00:30:18,440 --> 00:30:20,440`
+Flera stycken har de gjort.
+
+
+
+`665 00:30:20,440 --> 00:30:22,440`
+Har ni hört talas om Zen?
+
+
+
+`666 00:30:22,440 --> 00:30:24,440`
+Nej. Nej.
+
+
+
+`667 00:30:24,440 --> 00:30:26,440`
+Är det nåt nytt? Hypervisor.
+
+
+
+`668 00:30:26,440 --> 00:30:28,440`
+Ja, precis.
+
+
+
+`669 00:30:28,440 --> 00:30:30,440`
+Nej, nej. Inte med X. Med Z.
+
+
+
+`670 00:30:30,440 --> 00:30:32,440`
+Z såklart. Nej, Zen.
+
+
+
+`671 00:30:32,440 --> 00:30:34,440`
+Jag har ingen bra poäng om det.
+
+
+
+`672 00:30:34,440 --> 00:30:36,440`
+Jaha, nej men... Det är micro...
+
+
+
+`673 00:30:36,440 --> 00:30:38,440`
+Nej, vad fan heter det?
+
+
+
+`674 00:30:38,440 --> 00:30:40,440`
+Processor-arkitekturen...
+
+
+
+`675 00:30:40,440 --> 00:30:42,440`
+Som är i Ryzen.
+
+
+
+`676 00:30:42,440 --> 00:30:44,440`
+Och i de där servershipparna.
+
+
+
+`677 00:30:44,440 --> 00:30:46,440`
+Inte min... För långt ner.
+
+
+
+`678 00:30:46,440 --> 00:30:48,440`
+Jag tror mina kids
+
+
+
+`679 00:30:48,440 --> 00:30:50,440`
+bara gamar på sina Ryzen.
+
+
+
+`680 00:30:50,440 --> 00:30:52,440`
+Ja, de kör AMD ändå.
+
+
+
+`681 00:30:52,440 --> 00:30:54,440`
+Okej...
+
+
+
+`682 00:30:54,440 --> 00:30:56,440`
+Det finns fördelar med det om man ska hålla på med AI.
+
+
+
+`683 00:30:56,440 --> 00:30:58,440`
+Vi tar bort ordet Zen
+
+
+
+`684 00:30:58,440 --> 00:31:00,440`
+från där. Vi säger AMD-processorer.
+
+
+
+`685 00:31:00,440 --> 00:31:02,440`
+Vi förenklar det.
+
+
+
+`686 00:31:02,440 --> 00:31:04,440`
+Vi säger AMD-processorer.
+
+
+
+`687 00:31:04,440 --> 00:31:06,440`
+Är det en spekulativ attack?
+
+
+
+`688 00:31:06,440 --> 00:31:08,440`
+Nej. Nej, nej, nej.
+
+
+
+`689 00:31:08,440 --> 00:31:10,440`
+Va? Det trodde jag.
+
+
+
+`690 00:31:10,440 --> 00:31:12,440`
+Det är...
+
+
+
+`691 00:31:12,440 --> 00:31:14,440`
+Jag vet inte om jag ska säga old-fashioned.
+
+
+
+`692 00:31:14,440 --> 00:31:16,440`
+Men det är mer...
+
+
+
+`693 00:31:16,440 --> 00:31:18,440`
+Micro-code-problem.
+
+
+
+`694 00:31:18,440 --> 00:31:20,440`
+It's just all fucked up.
+
+
+
+`695 00:31:20,440 --> 00:31:22,440`
+Det finns en funktion med... Den klassiska.
+
+
+
+`696 00:31:22,440 --> 00:31:24,440`
+Du kan...
+
+
+
+`697 00:31:24,440 --> 00:31:26,440`
+Patcha mikrokoden.
+
+
+
+`698 00:31:26,440 --> 00:31:28,440`
+Det har jag läst.
+
+
+
+`699 00:31:28,440 --> 00:31:30,440`
+Mikrokoden är alltså det som...
+
+
+
+`700 00:31:30,440 --> 00:31:32,440`
+Det här var Google, var det inte det?
+
+
+
+`701 00:31:32,440 --> 00:31:34,440`
+Ja, precis. Google...
+
+
+
+`702 00:31:34,440 --> 00:31:36,440`
+Zero...
+
+
+
+`703 00:31:36,440 --> 00:31:38,440`
+Zero chaos, tänkte jag säga.
+
+
+
+`704 00:31:38,440 --> 00:31:40,440`
+Men det är det inte alls.
+
+
+
+`705 00:31:40,440 --> 00:31:42,440`
+Ser du dig in i shit?
+
+
+
+`706 00:31:42,440 --> 00:31:44,440`
+Nej, det är inte det.
+
+
+
+`707 00:31:44,440 --> 00:31:46,440`
+Nu är du Project Zero.
+
+
+
+`708 00:31:46,440 --> 00:31:48,440`
+Google Project Zero.
+
+
+
+`709 00:31:48,440 --> 00:31:50,440`
+Det är kul hur associationig
+
+
+
+`710 00:31:50,440 --> 00:31:52,440`
+säljer du exploits, Peter.
+
+
+
+`711 00:31:52,440 --> 00:31:54,440`
+Jag läste faktiskt den här
+
+
+
+`712 00:31:54,440 --> 00:31:56,440`
+KBen och sen bara...
+
+
+
+`713 00:31:56,440 --> 00:31:58,440`
+Men okej.
+
+
+
+`714 00:31:58,440 --> 00:32:00,440`
+Men du kan alltså prata med
+
+
+
+`715 00:32:00,440 --> 00:32:02,440`
+processorn. Och då kan du
+
+
+
+`716 00:32:02,440 --> 00:32:04,440`
+säga till processorn att...
+
+
+
+`717 00:32:04,440 --> 00:32:06,440`
+Nu ska du göra det här.
+
+
+
+`718 00:32:06,440 --> 00:32:08,440`
+Istället för att köra den mikrokoden
+
+
+
+`719 00:32:08,440 --> 00:32:10,440`
+som du hade när du startade upp
+
+
+
+`720 00:32:10,440 --> 00:32:12,440`
+och som du fick från BIOSen och så.
+
+
+
+`721 00:32:12,440 --> 00:32:14,440`
+Då vi botade upp.
+
+
+
+`722 00:32:14,440 --> 00:32:16,440`
+Så kan du inte ersätta
+
+
+
+`723 00:32:16,440 --> 00:32:18,440`
+mikrokoden och istället köra den
+
+
+
+`724 00:32:18,440 --> 00:32:20,440`
+mikrokoden
+
+
+
+`725 00:32:20,440 --> 00:32:22,440`
+som jag har skickat till dig här.
+
+
+
+`726 00:32:22,440 --> 00:32:24,440`
+Men är det en tillfällig ersättning eller är det liksom...
+
+
+
+`727 00:32:24,440 --> 00:32:26,440`
+Skriv ner den här
+
+
+
+`728 00:32:26,440 --> 00:32:28,440`
+nya mikrokoden istället.
+
+
+
+`729 00:32:28,440 --> 00:32:30,440`
+Det är ungefär samma hoax som en
+
+
+
+`730 00:32:30,440 --> 00:32:32,440`
+operativsystemskörnel
+
+
+
+`731 00:32:32,440 --> 00:32:34,440`
+kan ha när operativsystemet
+
+
+
+`732 00:32:34,440 --> 00:32:36,440`
+patchar processorn
+
+
+
+`733 00:32:36,440 --> 00:32:38,440`
+vi botar upp.
+
+
+
+`734 00:32:38,440 --> 00:32:40,440`
+Så att om
+
+
+
+`735 00:32:40,440 --> 00:32:42,440`
+Linux botar och
+
+
+
+`736 00:32:42,440 --> 00:32:44,440`
+Linux har lite hotfixen
+
+
+
+`737 00:32:44,440 --> 00:32:46,440`
+till processorn
+
+
+
+`738 00:32:46,440 --> 00:32:48,440`
+så kan den slänga in dem
+
+
+
+`739 00:32:48,440 --> 00:32:50,440`
+även om UEFI inte har patchat
+
+
+
+`740 00:32:50,440 --> 00:32:52,440`
+processorn tillräckligt väl.
+
+
+
+`741 00:32:52,440 --> 00:32:54,440`
+Du svarade nästan i slutet där.
+
+
+
+`742 00:32:54,440 --> 00:32:56,440`
+Det är bara...
+
+
+
+`743 00:32:56,440 --> 00:32:58,440`
+Det är en tillfällig fix.
+
+
+
+`744 00:32:58,440 --> 00:33:00,440`
+Vi gör oss varje bot tills vi har gjort den på riktigt
+
+
+
+`745 00:33:00,440 --> 00:33:02,440`
+i UEFI.
+
+
+
+`746 00:33:02,440 --> 00:33:04,440`
+Dumt nog, tänker jag.
+
+
+
+`747 00:33:04,440 --> 00:33:06,440`
+Då är det ju bra om
+
+
+
+`748 00:33:06,440 --> 00:33:08,440`
+signaturschemat för mikrokodsuppdateringar
+
+
+
+`749 00:33:08,440 --> 00:33:10,440`
+är bra.
+
+
+
+`750 00:33:10,440 --> 00:33:12,440`
+Och Google har ju inte släppt
+
+
+
+`751 00:33:12,440 --> 00:33:14,440`
+all the details nu så de har ju inte
+
+
+
+`752 00:33:14,440 --> 00:33:16,440`
+gett oss exploitkoden
+
+
+
+`753 00:33:16,440 --> 00:33:18,440`
+för hur vi signerar
+
+
+
+`754 00:33:18,440 --> 00:33:20,440`
+våra egna malicious
+
+
+
+`755 00:33:20,440 --> 00:33:22,440`
+liksom...
+
+
+
+`756 00:33:22,440 --> 00:33:24,440`
+Ja, det tycker jag var fegt.
+
+
+
+`757 00:33:24,440 --> 00:33:26,440`
+Däremot så har de
+
+
+
+`758 00:33:26,440 --> 00:33:28,440`
+släppt en exempel.
+
+
+
+`759 00:33:28,440 --> 00:33:30,440`
+Så de har gett oss en
+
+
+
+`760 00:33:30,440 --> 00:33:32,440`
+mikrokodsuppdatering som
+
+
+
+`761 00:33:32,440 --> 00:33:34,440`
+för arkitekturerna
+
+
+
+`762 00:33:34,440 --> 00:33:36,440`
+sen 1 till arkitekturen sen 4
+
+
+
+`763 00:33:36,440 --> 00:33:38,440`
+vilket det är.
+
+
+
+`764 00:33:38,440 --> 00:33:40,440`
+Det är många av de processorerna som folk har
+
+
+
+`765 00:33:40,440 --> 00:33:42,440`
+i sina maskiner hemma.
+
+
+
+`766 00:33:42,440 --> 00:33:44,440`
+Så patcha den och
+
+
+
+`767 00:33:44,440 --> 00:33:46,440`
+när du ber processorn om ett slumptal
+
+
+
+`768 00:33:46,440 --> 00:33:48,440`
+så får du siffran 4 tillbaks.
+
+
+
+`769 00:33:48,440 --> 00:33:50,440`
+Oh, snygg\!
+
+
+
+`770 00:33:50,440 --> 00:33:52,440`
+Snygg patch\!
+
+
+
+`771 00:33:52,440 --> 00:33:54,440`
+Så det...
+
+
+
+`772 00:33:54,440 --> 00:33:56,440`
+Jag vet inte...
+
+
+
+`773 00:33:56,440 --> 00:33:58,440`
+Jag vet inte...
+
+
+
+`774 00:33:58,440 --> 00:34:00,440`
+Är det en XKCD-referens
+
+
+
+`775 00:34:00,440 --> 00:34:02,440`
+eller vad är det?
+
+
+
+`776 00:34:02,440 --> 00:34:04,440`
+Du tänker så.
+
+
+
+`777 00:34:04,440 --> 00:34:06,440`
+Var inte det från XKCD?
+
+
+
+`778 00:34:06,440 --> 00:34:08,440`
+Det kanske det är. Ja, det
+
+
+
+`779 00:34:08,440 --> 00:34:10,440`
+är en XKCD-referens.
+
+
+
+`780 00:34:10,440 --> 00:34:12,440`
+Ja, du menar den här 4-4-4-4-4
+
+
+
+`781 00:34:12,440 --> 00:34:14,440`
+vad gör han? Han fixar slumptal.
+
+
+
+`782 00:34:14,440 --> 00:34:16,440`
+Hur heter det att det är slumptal?
+
+
+
+`783 00:34:16,440 --> 00:34:18,440`
+Var inte det en XKCD?
+
+
+
+`784 00:34:18,440 --> 00:34:20,440`
+Det där låter bekant.
+
+
+
+`785 00:34:20,440 --> 00:34:22,440`
+Men om det är det
+
+
+
+`786 00:34:22,440 --> 00:34:24,440`
+så är det ju fan geni.
+
+
+
+`787 00:34:24,440 --> 00:34:26,440`
+Det är roligt, det är det. Det är roligt på riktigt.
+
+
+
+`788 00:34:26,440 --> 00:34:28,440`
+Fortsätt prata så ska jag googla.
+
+
+
+`789 00:34:28,440 --> 00:34:30,440`
+Jag panikkoglar också samtidigt.
+
+
+
+`790 00:34:30,440 --> 00:34:32,440`
+Men ja, jag såg den där
+
+
+
+`791 00:34:32,440 --> 00:34:34,440`
+men det var över min förmåga
+
+
+
+`792 00:34:34,440 --> 00:34:36,440`
+så jag tänker, PT kommer ju nappa på det här.
+
+
+
+`793 00:34:36,440 --> 00:34:38,440`
+Ja, men en icke-persistent
+
+
+
+`794 00:34:38,440 --> 00:34:40,440`
+patchning av din processor
+
+
+
+`795 00:34:40,440 --> 00:34:42,440`
+så att den börjar
+
+
+
+`796 00:34:42,440 --> 00:34:44,440`
+göra annat än vad den ska.
+
+
+
+`797 00:34:44,440 --> 00:34:46,440`
+Ja, det är
+
+
+
+`798 00:34:46,440 --> 00:34:48,440`
+typiskt jätteobra.
+
+
+
+`799 00:34:48,440 --> 00:34:50,440`
+Sen har vi
+
+
+
+`800 00:34:50,440 --> 00:34:52,440`
+två korta
+
+
+
+`801 00:34:52,440 --> 00:34:54,440`
+om...
+
+
+
+`802 00:34:54,440 --> 00:34:56,440`
+Det är väl Google
+
+
+
+`803 00:34:56,440 --> 00:34:58,440`
+som har Gemini?
+
+
+
+`804 00:34:58,440 --> 00:35:00,440`
+Deras AI?
+
+
+
+`805 00:35:00,440 --> 00:35:02,440`
+Jag hoppas det.
+
+
+
+`806 00:35:02,440 --> 00:35:04,440`
+Du är väl vår AI-expert, Jesper?
+
+
+
+`807 00:35:04,440 --> 00:35:06,440`
+Ja, men allting som har med
+
+
+
+`808 00:35:06,440 --> 00:35:08,440`
+Microsoft att göra skirer jag som
+
+
+
+`809 00:35:08,440 --> 00:35:10,440`
+döden.
+
+
+
+`810 00:35:10,440 --> 00:35:12,440`
+Allting som har med Google att göra...
+
+
+
+`811 00:35:12,440 --> 00:35:14,440`
+Jag är ju väldigt mycket för
+
+
+
+`812 00:35:14,440 --> 00:35:16,440`
+att hålla
+
+
+
+`813 00:35:16,440 --> 00:35:18,440`
+min skit lokalt.
+
+
+
+`814 00:35:18,440 --> 00:35:20,440`
+Nej, ingen koll på Google.
+
+
+
+`815 00:35:20,440 --> 00:35:22,440`
+Men kan du säga något kort?
+
+
+
+`816 00:35:22,440 --> 00:35:24,440`
+Vad är en
+
+
+
+`817 00:35:24,440 --> 00:35:26,440`
+secondary prompt injection?
+
+
+
+`818 00:35:26,440 --> 00:35:28,440`
+Oj, bra
+
+
+
+`819 00:35:28,440 --> 00:35:30,440`
+fråga. Förmodligen att man har bett
+
+
+
+`820 00:35:30,440 --> 00:35:32,440`
+att det är någon reasoning
+
+
+
+`821 00:35:32,440 --> 00:35:34,440`
+historia, att den har frågat någon annan om
+
+
+
+`822 00:35:34,440 --> 00:35:36,440`
+hjälp.
+
+
+
+`823 00:35:36,440 --> 00:35:38,440`
+Det som är kraftfullt
+
+
+
+`824 00:35:38,440 --> 00:35:40,440`
+nu är ju att aggregera flera AI.
+
+
+
+`825 00:35:40,440 --> 00:35:42,440`
+Det vill säga att jag använder Claude och ChatGPT
+
+
+
+`826 00:35:42,440 --> 00:35:44,440`
+för att komma framåt.
+
+
+
+`827 00:35:44,440 --> 00:35:46,440`
+Men prompt injection är ju att du försöker
+
+
+
+`828 00:35:46,440 --> 00:35:48,440`
+göra så att du får lov att skriva
+
+
+
+`829 00:35:48,440 --> 00:35:50,440`
+vad AI ska göra, att du
+
+
+
+`830 00:35:50,440 --> 00:35:52,440`
+blir den som promptar
+
+
+
+`831 00:35:52,440 --> 00:35:54,440`
+AIns livsuppgift.
+
+
+
+`832 00:35:54,440 --> 00:35:56,440`
+Det är ju klassiskt så att man...
+
+
+
+`833 00:35:56,440 --> 00:35:58,440`
+Vad är en prompt? Jo, man ber...
+
+
+
+`834 00:35:58,440 --> 00:36:00,440`
+Innan man har ställt första frågan så ger man
+
+
+
+`835 00:36:00,440 --> 00:36:02,440`
+AI-modellen regler om
+
+
+
+`836 00:36:02,440 --> 00:36:04,440`
+hur man vill att den ska svara.
+
+
+
+`837 00:36:04,440 --> 00:36:06,440`
+Så typiskt
+
+
+
+`838 00:36:06,440 --> 00:36:08,440`
+kan du göra en
+
+
+
+`839 00:36:08,440 --> 00:36:10,440`
+obegränsad prompt injection
+
+
+
+`840 00:36:10,440 --> 00:36:12,440`
+så kan du ju väldigt mycket ta till AIn vad
+
+
+
+`841 00:36:12,440 --> 00:36:14,440`
+dess uppgift är.
+
+
+
+`842 00:36:14,440 --> 00:36:16,440`
+En second order
+
+
+
+`843 00:36:16,440 --> 00:36:18,440`
+borde ju vara då att om du har någon fråga
+
+
+
+`844 00:36:18,440 --> 00:36:20,440`
+på detta, fråga den här grejen.
+
+
+
+`845 00:36:20,440 --> 00:36:22,440`
+Ja, precis. Och en secondary prompt injection
+
+
+
+`846 00:36:22,440 --> 00:36:24,440`
+är ju till exempel att du
+
+
+
+`847 00:36:24,440 --> 00:36:26,440`
+ber AIn
+
+
+
+`848 00:36:26,440 --> 00:36:28,440`
+att du går ut med en agent
+
+
+
+`849 00:36:28,440 --> 00:36:30,440`
+och summerar till exempel ett textdokument
+
+
+
+`850 00:36:30,440 --> 00:36:32,440`
+ute på internet.
+
+
+
+`851 00:36:32,440 --> 00:36:34,440`
+Det är ju nya tjänster för som har blivit mer avancerade
+
+
+
+`852 00:36:34,440 --> 00:36:36,440`
+som gör att du kan till exempel research
+
+
+
+`853 00:36:36,440 --> 00:36:38,440`
+heter den va? I GPT.
+
+
+
+`854 00:36:38,440 --> 00:36:40,440`
+ChatGPT har släppt en som heter research
+
+
+
+`855 00:36:40,440 --> 00:36:42,440`
+som är två och ett halvt
+
+
+
+`856 00:36:42,440 --> 00:36:44,440`
+tusen kronor i månaden. Då kan den göra research
+
+
+
+`857 00:36:44,440 --> 00:36:46,440`
+på dig. Så det är såhär, kompis till mig
+
+
+
+`858 00:36:46,440 --> 00:36:48,440`
+bar den summera
+
+
+
+`859 00:36:48,440 --> 00:36:50,440`
+topp fem trådarna på familjeliv.
+
+
+
+`860 00:36:50,440 --> 00:36:52,440`
+Och sen kommer den tillbaka.
+
+
+
+`861 00:36:52,440 --> 00:36:54,440`
+Det är ändå värt två och ett halvt tusen i månaden.
+
+
+
+`862 00:36:54,440 --> 00:36:56,440`
+Herregud ja\! Och det blir ju
+
+
+
+`863 00:36:56,440 --> 00:36:58,440`
+kanonkul. Men secondary prompt injection
+
+
+
+`864 00:36:58,440 --> 00:37:00,440`
+är alltså att i
+
+
+
+`865 00:37:00,440 --> 00:37:02,440`
+dokumentet som du ber att summeras
+
+
+
+`866 00:37:02,440 --> 00:37:04,440`
+så har du lagt in grejer
+
+
+
+`867 00:37:04,440 --> 00:37:06,440`
+som AIn då får för sig
+
+
+
+`868 00:37:06,440 --> 00:37:08,440`
+att det här är en prompt den ska exekvera.
+
+
+
+`869 00:37:08,440 --> 00:37:10,440`
+Ja.
+
+
+
+`870 00:37:10,440 --> 00:37:12,440`
+Då har man ju kommit fram till att
+
+
+
+`871 00:37:12,440 --> 00:37:14,440`
+det var ju dumt
+
+
+
+`872 00:37:14,440 --> 00:37:16,440`
+med
+
+
+
+`873 00:37:16,440 --> 00:37:18,440`
+second order
+
+
+
+`874 00:37:18,440 --> 00:37:20,440`
+prompt injection så att
+
+
+
+`875 00:37:20,440 --> 00:37:22,440`
+man har ju i flera
+
+
+
+`876 00:37:22,440 --> 00:37:24,440`
+flera av de här AIerna har man ju
+
+
+
+`877 00:37:24,440 --> 00:37:26,440`
+byggt in olika sorters
+
+
+
+`878 00:37:26,440 --> 00:37:28,440`
+skydd som ska då göra att man
+
+
+
+`879 00:37:28,440 --> 00:37:30,440`
+inte börjar exekvera
+
+
+
+`880 00:37:30,440 --> 00:37:32,440`
+instruktioner som finns i
+
+
+
+`881 00:37:32,440 --> 00:37:34,440`
+i
+
+
+
+`882 00:37:34,440 --> 00:37:36,440`
+i
+
+
+
+`883 00:37:36,440 --> 00:37:38,440`
+dokument som man ber AIn summera
+
+
+
+`884 00:37:38,440 --> 00:37:40,440`
+och liknande.
+
+
+
+`885 00:37:40,440 --> 00:37:42,440`
+Men
+
+
+
+`886 00:37:42,440 --> 00:37:44,440`
+då var det några glada människor som kom på
+
+
+
+`887 00:37:44,440 --> 00:37:46,440`
+att om man istället
+
+
+
+`888 00:37:46,440 --> 00:37:48,440`
+för att säga
+
+
+
+`889 00:37:48,440 --> 00:37:50,440`
+att du ska göra en massa grejer
+
+
+
+`890 00:37:50,440 --> 00:37:52,440`
+när dokumentet läses
+
+
+
+`891 00:37:52,440 --> 00:37:54,440`
+så i dokumentet står det istället
+
+
+
+`892 00:37:54,440 --> 00:37:56,440`
+att vänta
+
+
+
+`893 00:37:56,440 --> 00:37:58,440`
+tills nästa gång som användaren
+
+
+
+`894 00:37:58,440 --> 00:38:00,440`
+säger yes
+
+
+
+`895 00:38:00,440 --> 00:38:02,440`
+då
+
+
+
+`896 00:38:02,440 --> 00:38:04,440`
+gör allt det här.
+
+
+
+`897 00:38:04,440 --> 00:38:06,440`
+Och det visade sig att bara
+
+
+
+`898 00:38:06,440 --> 00:38:08,440`
+bara be den vänta
+
+
+
+`899 00:38:08,440 --> 00:38:10,440`
+om man gör någonting.
+
+
+
+`900 00:38:10,440 --> 00:38:12,440`
+Fan vad märkligt.
+
+
+
+`901 00:38:12,440 --> 00:38:14,440`
+Så kringgick du hela det här skyddet som var byggt liksom?
+
+
+
+`902 00:38:14,440 --> 00:38:16,440`
+Nu ralar nät.
+
+
+
+`903 00:38:16,440 --> 00:38:18,440`
+No one understands them.
+
+
+
+`904 00:38:18,440 --> 00:38:20,440`
+Men det är alltså
+
+
+
+`905 00:38:20,440 --> 00:38:22,440`
+jag har ju en free prompt som är
+
+
+
+`906 00:38:22,440 --> 00:38:24,440`
+jättelång och
+
+
+
+`907 00:38:24,440 --> 00:38:26,440`
+det är väldigt lätt att be
+
+
+
+`908 00:38:26,440 --> 00:38:28,440`
+de flesta modellerna
+
+
+
+`909 00:38:28,440 --> 00:38:30,440`
+om dumheter.
+
+
+
+`910 00:38:30,440 --> 00:38:32,440`
+Om man bara pretextar
+
+
+
+`911 00:38:32,440 --> 00:38:34,440`
+lite i början.
+
+
+
+`912 00:38:34,440 --> 00:38:36,440`
+Den har ju ingen direkt idé
+
+
+
+`913 00:38:36,440 --> 00:38:38,440`
+om vad som är rätt och fel.
+
+
+
+`914 00:38:38,440 --> 00:38:40,440`
+Den gör bara en visning.
+
+
+
+`915 00:38:40,440 --> 00:38:42,440`
+Uppenbarligen är den ju ganska
+
+
+
+`916 00:38:42,440 --> 00:38:44,440`
+det är fortfarande ett problem
+
+
+
+`917 00:38:44,440 --> 00:38:46,440`
+Är ni till mötesgående?
+
+
+
+`918 00:38:46,440 --> 00:38:48,440`
+Det är fortfarande ett problem att skilja mellan vad som är
+
+
+
+`919 00:38:48,440 --> 00:38:50,440`
+liksom
+
+
+
+`920 00:38:50,440 --> 00:38:52,440`
+ren data i
+
+
+
+`921 00:38:52,440 --> 00:38:54,440`
+kontext vs instruktion.
+
+
+
+`922 00:38:54,440 --> 00:38:56,440`
+Det är fortfarande en krånglig del
+
+
+
+`923 00:38:56,440 --> 00:38:58,440`
+för LVMR.
+
+
+
+`924 00:38:58,440 --> 00:39:00,440`
+Den tycker det är jobbigt för jag menar
+
+
+
+`925 00:39:00,440 --> 00:39:02,440`
+den jobbar ju bara med ord.
+
+
+
+`926 00:39:02,440 --> 00:39:04,440`
+Eller bokstäver.
+
+
+
+`927 00:39:04,440 --> 00:39:06,440`
+Statistiskt sammansatta bokstäver.
+
+
+
+`928 00:39:06,440 --> 00:39:08,440`
+Tack.
+
+
+
+`929 00:39:08,440 --> 00:39:10,440`
+Men
+
+
+
+`930 00:39:10,440 --> 00:39:12,440`
+Google tag
+
+
+
+`931 00:39:12,440 --> 00:39:14,440`
+för att byta samtalsämne
+
+
+
+`932 00:39:14,440 --> 00:39:16,440`
+då borde jag veta
+
+
+
+`933 00:39:16,440 --> 00:39:18,440`
+vad tag stod för. Det var
+
+
+
+`934 00:39:18,440 --> 00:39:20,440`
+breast assessment
+
+
+
+`935 00:39:20,440 --> 00:39:22,440`
+group kanske.
+
+
+
+`936 00:39:22,440 --> 00:39:24,440`
+Men det är alltså ett team på Google som
+
+
+
+`937 00:39:24,440 --> 00:39:26,440`
+de
+
+
+
+`938 00:39:26,440 --> 00:39:28,440`
+de försöker väl göra lite i
+
+
+
+`939 00:39:28,440 --> 00:39:30,440`
+vad Recorded Future och andra försöker göra.
+
+
+
+`940 00:39:30,440 --> 00:39:32,440`
+De försöker göra
+
+
+
+`941 00:39:32,440 --> 00:39:34,440`
+förstå vad är ondskan
+
+
+
+`942 00:39:34,440 --> 00:39:36,440`
+ute på internet och så.
+
+
+
+`943 00:39:36,440 --> 00:39:38,440`
+Och det som är
+
+
+
+`944 00:39:38,440 --> 00:39:40,440`
+coolt
+
+
+
+`945 00:39:40,440 --> 00:39:42,440`
+eller unik selling point
+
+
+
+`946 00:39:42,440 --> 00:39:44,440`
+för Google tag är ju det
+
+
+
+`947 00:39:44,440 --> 00:39:46,440`
+att de har
+
+
+
+`948 00:39:46,440 --> 00:39:48,440`
+de har ju möjlighet
+
+
+
+`949 00:39:48,440 --> 00:39:50,440`
+att få veta grejer
+
+
+
+`950 00:39:50,440 --> 00:39:52,440`
+från Google om vad som händer och så.
+
+
+
+`951 00:39:52,440 --> 00:39:54,440`
+De har ju
+
+
+
+`952 00:39:54,440 --> 00:39:56,440`
+lite mer privilegierad
+
+
+
+`953 00:39:56,440 --> 00:39:58,440`
+dataåtkomst än kanske andra.
+
+
+
+`954 00:39:58,440 --> 00:40:00,440`
+Är det här kopplat till Gemini på något sätt?
+
+
+
+`955 00:40:00,440 --> 00:40:02,440`
+Ja, de har släppt en
+
+
+
+`956 00:40:02,440 --> 00:40:04,440`
+rapport om hur olika
+
+
+
+`957 00:40:04,440 --> 00:40:06,440`
+nation state
+
+
+
+`958 00:40:06,440 --> 00:40:08,440`
+och APT grupper och så
+
+
+
+`959 00:40:08,440 --> 00:40:10,440`
+utnyttjar
+
+
+
+`960 00:40:10,440 --> 00:40:12,440`
+Gemini.
+
+
+
+`961 00:40:12,440 --> 00:40:14,440`
+Och det fanns ett par stycken
+
+
+
+`962 00:40:14,440 --> 00:40:16,440`
+intressanta findings. Den ena
+
+
+
+`963 00:40:16,440 --> 00:40:18,440`
+är att ryska grupper
+
+
+
+`964 00:40:18,440 --> 00:40:20,440`
+verkar jättekraftigt
+
+
+
+`965 00:40:20,440 --> 00:40:22,440`
+undvika Google Gemini.
+
+
+
+`966 00:40:22,440 --> 00:40:24,440`
+Vilket du antingen
+
+
+
+`967 00:40:24,440 --> 00:40:26,440`
+kan då välja att tro att de är
+
+
+
+`968 00:40:26,440 --> 00:40:28,440`
+rädda för att Google ser dem
+
+
+
+`969 00:40:28,440 --> 00:40:30,440`
+eller att de älskar
+
+
+
+`970 00:40:30,440 --> 00:40:32,440`
+chat-GPT eller att de utvecklar
+
+
+
+`971 00:40:32,440 --> 00:40:34,440`
+sina egna AIs istället för att
+
+
+
+`972 00:40:34,440 --> 00:40:36,440`
+sådär.
+
+
+
+`973 00:40:36,440 --> 00:40:38,440`
+Gissningsvis egna?
+
+
+
+`974 00:40:38,440 --> 00:40:40,440`
+Ja, men
+
+
+
+`975 00:40:40,440 --> 00:40:42,440`
+Från att de använder Google
+
+
+
+`976 00:40:42,440 --> 00:40:44,440`
+istället för att de använder chat-GPT
+
+
+
+`977 00:40:44,440 --> 00:40:46,440`
+har ju mindre betydelse känns det som.
+
+
+
+`978 00:40:46,440 --> 00:40:48,440`
+Men ryssarna är väldigt duktiga på
+
+
+
+`979 00:40:48,440 --> 00:40:50,440`
+att undvika det.
+
+
+
+`980 00:40:50,440 --> 00:40:52,440`
+Däremot iranska
+
+
+
+`981 00:40:52,440 --> 00:40:54,440`
+hotaktörer älskar
+
+
+
+`982 00:40:54,440 --> 00:40:56,440`
+att använda Google tjänster.
+
+
+
+`983 00:40:56,440 --> 00:40:58,440`
+Och sen så var det lite olika
+
+
+
+`984 00:40:58,440 --> 00:41:00,440`
+hotaktörer från
+
+
+
+`985 00:41:00,440 --> 00:41:02,440`
+länder som använder det och så.
+
+
+
+`986 00:41:02,440 --> 00:41:04,440`
+Och vad de konstaterar är att de ser
+
+
+
+`987 00:41:04,440 --> 00:41:06,440`
+inte att nation state
+
+
+
+`988 00:41:06,440 --> 00:41:08,440`
+aktörer gör någonting som
+
+
+
+`989 00:41:08,440 --> 00:41:10,440`
+är superunikt.
+
+
+
+`990 00:41:10,440 --> 00:41:12,440`
+Du kan inte se
+
+
+
+`991 00:41:12,440 --> 00:41:14,440`
+att OPT-grupperna
+
+
+
+`992 00:41:14,440 --> 00:41:16,440`
+gör barnbrytande
+
+
+
+`993 00:41:16,440 --> 00:41:18,440`
+grejer inom AI-missbruk.
+
+
+
+`994 00:41:18,440 --> 00:41:20,440`
+Men det enda
+
+
+
+`995 00:41:20,440 --> 00:41:22,440`
+data de har är Iran då?
+
+
+
+`996 00:41:22,440 --> 00:41:24,440`
+Nej, de har från flera olika länder
+
+
+
+`997 00:41:24,440 --> 00:41:26,440`
+men Iran är de som absolut
+
+
+
+`998 00:41:26,440 --> 00:41:28,440`
+är de största Google-användarna
+
+
+
+`999 00:41:28,440 --> 00:41:30,440`
+av OPT-grupperna
+
+
+
+`1000 00:41:30,440 --> 00:41:32,440`
+var kontentan.
+
+
+
+`1001 00:41:32,440 --> 00:41:34,440`
+Det var svårt att köpa grafikkort i Iran.
+
+
+
+`1002 00:41:34,440 --> 00:41:36,440`
+Men eftersom man till
+
+
+
+`1003 00:41:36,440 --> 00:41:38,440`
+Google gör så många grejer för att
+
+
+
+`1004 00:41:38,440 --> 00:41:40,440`
+du inte ska få skriva
+
+
+
+`1005 00:41:40,440 --> 00:41:42,440`
+exploits och sånt
+
+
+
+`1006 00:41:42,440 --> 00:41:44,440`
+så blir det ju
+
+
+
+`1007 00:41:44,440 --> 00:41:46,440`
+väldigt påtagligt att man ser att
+
+
+
+`1008 00:41:46,440 --> 00:41:48,440`
+de frågar
+
+
+
+`1009 00:41:48,440 --> 00:41:50,440`
+om...
+
+
+
+`1010 00:41:50,440 --> 00:41:52,440`
+Många ber ju om hjälp
+
+
+
+`1011 00:41:52,440 --> 00:41:54,440`
+med att skriva phishing och sånt
+
+
+
+`1012 00:41:54,440 --> 00:41:56,440`
+men hjälp med att skriva
+
+
+
+`1013 00:41:56,440 --> 00:41:58,440`
+falska resuméer ser jag mycket.
+
+
+
+`1014 00:41:58,440 --> 00:42:00,440`
+Men sen så är det
+
+
+
+`1015 00:42:00,440 --> 00:42:02,440`
+mycket hjälp med att lösa
+
+
+
+`1016 00:42:02,440 --> 00:42:04,440`
+IT-problem.
+
+
+
+`1017 00:42:04,440 --> 00:42:06,440`
+Om jag har de här rättigheterna
+
+
+
+`1018 00:42:06,440 --> 00:42:08,440`
+hur ska Python-koden
+
+
+
+`1019 00:42:08,440 --> 00:42:10,440`
+se ut för att läsa ut det här
+
+
+
+`1020 00:42:10,440 --> 00:42:12,440`
+och sådär.
+
+
+
+`1021 00:42:12,440 --> 00:42:14,440`
+Så att...
+
+
+
+`1022 00:42:14,440 --> 00:42:16,440`
+Väldigt mycket hjälp med sin
+
+
+
+`1023 00:42:16,440 --> 00:42:18,440`
+programmering och där man
+
+
+
+`1024 00:42:18,440 --> 00:42:20,440`
+undviker att explicit be om att
+
+
+
+`1025 00:42:20,440 --> 00:42:22,440`
+göra ondska utan man istället bara
+
+
+
+`1026 00:42:22,440 --> 00:42:24,440`
+ber om att lösa delproblemen
+
+
+
+`1027 00:42:24,440 --> 00:42:26,440`
+till ens ondskafulla kod.
+
+
+
+`1028 00:42:26,440 --> 00:42:28,440`
+Ehm...
+
+
+
+`1029 00:42:28,440 --> 00:42:30,440`
+Rimligt.
+
+
+
+`1030 00:42:30,440 --> 00:42:32,440`
+Ja, varför inte?
+
+
+
+`1031 00:42:32,440 --> 00:42:34,440`
+Bra grejer.
+
+
+
+`1032 00:42:34,440 --> 00:42:36,440`
+Sen har vi två korta mening vid middle.
+
+
+
+`1033 00:42:36,440 --> 00:42:38,440`
+Mm.
+
+
+
+`1034 00:42:38,440 --> 00:42:40,440`
+Vi hade OpenSSH
+
+
+
+`1035 00:42:40,440 --> 00:42:42,440`
+hade en mening vid middle.
+
+
+
+`1036 00:42:42,440 --> 00:42:44,440`
+Jag såg den idag men jag hann inte läsa den.
+
+
+
+`1037 00:42:44,440 --> 00:42:46,440`
+Den är jag nyfiken på.
+
+
+
+`1038 00:42:46,440 --> 00:42:48,440`
+Du kan börja med att den berör inte
+
+
+
+`1039 00:42:48,440 --> 00:42:50,440`
+en normal standarduppsättning
+
+
+
+`1040 00:42:50,440 --> 00:42:52,440`
+av SSO.
+
+
+
+`1041 00:42:52,440 --> 00:42:54,440`
+Skönt.
+
+
+
+`1042 00:42:54,440 --> 00:42:56,440`
+Men om du är
+
+
+
+`1043 00:42:56,440 --> 00:42:58,440`
+en SSO-användare som
+
+
+
+`1044 00:42:58,440 --> 00:43:00,440`
+använder att
+
+
+
+`1045 00:43:00,440 --> 00:43:02,440`
+hostnycklarna får oss
+
+
+
+`1046 00:43:02,440 --> 00:43:04,440`
+från DNS-en. Mm.
+
+
+
+`1047 00:43:04,440 --> 00:43:06,440`
+Så att du antingen har satt
+
+
+
+`1048 00:43:06,440 --> 00:43:08,440`
+det finns någon
+
+
+
+`1049 00:43:08,440 --> 00:43:10,440`
+parametrik, jag kommer inte ihåg vad den heter, men som säger
+
+
+
+`1050 00:43:10,440 --> 00:43:12,440`
+att
+
+
+
+`1051 00:43:12,440 --> 00:43:14,440`
+hostnyckelverifiering
+
+
+
+`1052 00:43:14,440 --> 00:43:16,440`
+görs mot DNS.
+
+
+
+`1053 00:43:16,440 --> 00:43:18,440`
+Så att publiknyckel
+
+
+
+`1054 00:43:18,440 --> 00:43:20,440`
+ligger som ett DNS-rekord?
+
+
+
+`1055 00:43:20,440 --> 00:43:22,440`
+Ja. Coolt. Är inte det så att
+
+
+
+`1056 00:43:22,440 --> 00:43:24,440`
+DNS-säck har väl något liknande?
+
+
+
+`1057 00:43:24,440 --> 00:43:26,440`
+Ja, precis.
+
+
+
+`1058 00:43:26,440 --> 00:43:28,440`
+All grej, det har jag inte kört.
+
+
+
+`1059 00:43:30,440 --> 00:43:32,440`
+Så det gör ju till exempel att
+
+
+
+`1060 00:43:32,440 --> 00:43:34,440`
+om du använder
+
+
+
+`1061 00:43:34,440 --> 00:43:36,440`
+det här så behöver du ju inte fundera
+
+
+
+`1062 00:43:36,440 --> 00:43:38,440`
+på
+
+
+
+`1063 00:43:38,440 --> 00:43:40,440`
+du behöver ju inte hostfiler och sånt
+
+
+
+`1064 00:43:40,440 --> 00:43:42,440`
+utan du vet ju alltid
+
+
+
+`1065 00:43:42,440 --> 00:43:44,440`
+om du pratar med rätt server.
+
+
+
+`1066 00:43:46,440 --> 00:43:48,440`
+Men det är två olika
+
+
+
+`1067 00:43:48,440 --> 00:43:50,440`
+CVR och om du
+
+
+
+`1068 00:43:50,440 --> 00:43:52,440`
+kombinerar de två
+
+
+
+`1069 00:43:52,440 --> 00:43:54,440`
+så blir det effektivt
+
+
+
+`1070 00:43:54,440 --> 00:43:56,440`
+så blir det
+
+
+
+`1071 00:43:56,440 --> 00:43:58,440`
+en minnes-deniala
+
+
+
+`1072 00:43:58,440 --> 00:44:00,440`
+service-grunka gör
+
+
+
+`1073 00:44:00,440 --> 00:44:02,440`
+att den här delen
+
+
+
+`1074 00:44:02,440 --> 00:44:04,440`
+av koden som kollar att
+
+
+
+`1075 00:44:04,440 --> 00:44:06,440`
+du får rätt nyckel, den bara
+
+
+
+`1076 00:44:06,440 --> 00:44:08,440`
+släpper igenom
+
+
+
+`1077 00:44:08,440 --> 00:44:10,440`
+såhär, ja, jag klarar inte av att
+
+
+
+`1078 00:44:10,440 --> 00:44:12,440`
+göra requestet och ta reda på hur det låg till.
+
+
+
+`1079 00:44:12,440 --> 00:44:14,440`
+Men du behöver ju ha DNS-men
+
+
+
+`1080 00:44:14,440 --> 00:44:16,440`
+in the middle då, eller?
+
+
+
+`1081 00:44:16,440 --> 00:44:18,440`
+Nej.
+
+
+
+`1082 00:44:18,440 --> 00:44:20,440`
+Du kan ju koppla bort den funktionen
+
+
+
+`1083 00:44:20,440 --> 00:44:22,440`
+genom att
+
+
+
+`1084 00:44:22,440 --> 00:44:24,440`
+få till en minnesläcka.
+
+
+
+`1085 00:44:24,440 --> 00:44:26,440`
+Den ena
+
+
+
+`1086 00:44:26,440 --> 00:44:28,440`
+CVN är att i
+
+
+
+`1087 00:44:28,440 --> 00:44:30,440`
+vissa felfall
+
+
+
+`1088 00:44:30,440 --> 00:44:32,440`
+så bara du faller igenom
+
+
+
+`1089 00:44:32,440 --> 00:44:34,440`
+koden och
+
+
+
+`1090 00:44:34,440 --> 00:44:36,440`
+vilken nyckel som helst
+
+
+
+`1091 00:44:36,440 --> 00:44:38,440`
+god tas.
+
+
+
+`1092 00:44:38,440 --> 00:44:40,440`
+Den andra CVN är att du kan försätta
+
+
+
+`1093 00:44:40,440 --> 00:44:42,440`
+servern i ett dåligt läge där det här
+
+
+
+`1094 00:44:42,440 --> 00:44:44,440`
+felet blir sannolikt.
+
+
+
+`1095 00:44:44,440 --> 00:44:46,440`
+Så båda de två, för jag
+
+
+
+`1096 00:44:46,440 --> 00:44:48,440`
+läste det först och blev lite förvirrad
+
+
+
+`1097 00:44:48,440 --> 00:44:50,440`
+för att de verkade liksom inte vara samma sak.
+
+
+
+`1098 00:44:50,440 --> 00:44:52,440`
+Men sen fick jag en
+
+
+
+`1099 00:44:52,440 --> 00:44:54,440`
+förklaring att okej, men den
+
+
+
+`1100 00:44:54,440 --> 00:44:56,440`
+ena CVN som verkar orelaterad
+
+
+
+`1101 00:44:56,440 --> 00:44:58,440`
+ändå som är denial of service,
+
+
+
+`1102 00:44:58,440 --> 00:45:00,440`
+det primära use caset är att man har
+
+
+
+`1103 00:45:00,440 --> 00:45:02,440`
+letat efter buggar som gör det första
+
+
+
+`1104 00:45:02,440 --> 00:45:04,440`
+buggen mer sannolik att den inträffar.
+
+
+
+`1105 00:45:04,440 --> 00:45:06,440`
+Så det är
+
+
+
+`1106 00:45:06,440 --> 00:45:08,440`
+lite speciella då.
+
+
+
+`1107 00:45:08,440 --> 00:45:10,440`
+Ja, det var en väldigt speciell setup då.
+
+
+
+`1108 00:45:10,440 --> 00:45:12,440`
+Ja, precis. Så du måste
+
+
+
+`1109 00:45:12,440 --> 00:45:14,440`
+kunna vara i ett läge du kan fucka med
+
+
+
+`1110 00:45:14,440 --> 00:45:16,440`
+minnet och du måste vara i ett läge där du kan
+
+
+
+`1111 00:45:16,440 --> 00:45:18,440`
+att någon kör den här
+
+
+
+`1112 00:45:18,440 --> 00:45:20,440`
+konfiguren. Den sista lilla grejen,
+
+
+
+`1113 00:45:20,440 --> 00:45:22,440`
+Marvel Rivals.
+
+
+
+`1114 00:45:22,440 --> 00:45:24,440`
+Det är ett spel. Mm. Det är
+
+
+
+`1115 00:45:24,440 --> 00:45:26,440`
+coolt då, det är animerat.
+
+
+
+`1116 00:45:26,440 --> 00:45:28,440`
+Ja, det hörde jag idag. Det här är väl det som
+
+
+
+`1117 00:45:28,440 --> 00:45:30,440`
+är det
+
+
+
+`1118 00:45:30,440 --> 00:45:32,440`
+som tar över efter
+
+
+
+`1119 00:45:32,440 --> 00:45:34,440`
+Valorant och Overwatch.
+
+
+
+`1120 00:45:34,440 --> 00:45:36,440`
+Är det så?
+
+
+
+`1121 00:45:36,440 --> 00:45:38,440`
+Jag säger ja.
+
+
+
+`1122 00:45:38,440 --> 00:45:40,440`
+Alla de där är väl
+
+
+
+`1123 00:45:40,440 --> 00:45:42,440`
+färgglade och folk springer runt och hoppar.
+
+
+
+`1124 00:45:42,440 --> 00:45:44,440`
+Det är min summering av.
+
+
+
+`1125 00:45:44,440 --> 00:45:46,440`
+Tate Day, Counter Strike, men med
+
+
+
+`1126 00:45:46,440 --> 00:45:48,440`
+massa jävla abilities.
+
+
+
+`1127 00:45:48,440 --> 00:45:50,440`
+Ja.
+
+
+
+`1128 00:45:50,440 --> 00:45:52,440`
+Wow.
+
+
+
+`1129 00:45:52,440 --> 00:45:54,440`
+Du har en
+
+
+
+`1130 00:45:54,440 --> 00:45:56,440`
+automatvapen och du är magiker
+
+
+
+`1131 00:45:56,440 --> 00:45:58,440`
+samtidigt. Mäktigt. Ja, typ så.
+
+
+
+`1132 00:45:58,440 --> 00:46:00,440`
+Ja.
+
+
+
+`1133 00:46:02,440 --> 00:46:04,440`
+Marvel Rivals i alla fall.
+
+
+
+`1134 00:46:04,440 --> 00:46:06,440`
+Själva spelet Marvel Rivals är
+
+
+
+`1135 00:46:06,440 --> 00:46:08,440`
+det här är våran
+
+
+
+`1136 00:46:08,440 --> 00:46:10,440`
+connection till ungdomarna
+
+
+
+`1137 00:46:10,440 --> 00:46:12,440`
+är att vi vet att
+
+
+
+`1138 00:46:12,440 --> 00:46:14,440`
+Marvel Rivals existerar. Ja, jag gamar.
+
+
+
+`1139 00:46:14,440 --> 00:46:16,440`
+Ja, men bara ett spel.
+
+
+
+`1140 00:46:16,440 --> 00:46:18,440`
+Okej, vilket då? Call of Duty Warzone.
+
+
+
+`1141 00:46:18,440 --> 00:46:20,440`
+Det är fan inte bra längre
+
+
+
+`1142 00:46:20,440 --> 00:46:22,440`
+än tänkte jag. Det är skit. Jag har aldrig varit bra på
+
+
+
+`1143 00:46:22,440 --> 00:46:24,440`
+typ tre år. Jag blir bara arg.
+
+
+
+`1144 00:46:24,440 --> 00:46:26,440`
+Men Marvel Rivals
+
+
+
+`1145 00:46:26,440 --> 00:46:28,440`
+i vart fall? Ja.
+
+
+
+`1146 00:46:28,440 --> 00:46:30,440`
+Klockan är mycket
+
+
+
+`1147 00:46:30,440 --> 00:46:32,440`
+det som står ut med det här. Vi har
+
+
+
+`1148 00:46:32,440 --> 00:46:34,440`
+spelat in i många timmar nu.
+
+
+
+`1149 00:46:34,440 --> 00:46:36,440`
+Den har en manual-middel
+
+
+
+`1150 00:46:36,440 --> 00:46:38,440`
+där
+
+
+
+`1151 00:46:38,440 --> 00:46:40,440`
+det finns någon typ
+
+
+
+`1152 00:46:40,440 --> 00:46:42,440`
+av shopp där du kan välja grejer
+
+
+
+`1153 00:46:42,440 --> 00:46:44,440`
+och vilka gui är inne och du kan göra
+
+
+
+`1154 00:46:44,440 --> 00:46:46,440`
+någonting. Du kan köpa skins garanterat.
+
+
+
+`1155 00:46:46,440 --> 00:46:48,440`
+Den kommer i någon
+
+
+
+`1156 00:46:48,440 --> 00:46:50,440`
+halvsunkig krypterad blobba över
+
+
+
+`1157 00:46:50,440 --> 00:46:52,440`
+HTTP om jag har fattat det rätt.
+
+
+
+`1158 00:46:52,440 --> 00:46:54,440`
+Kan du ändra priserna?
+
+
+
+`1159 00:46:56,440 --> 00:46:58,440`
+Nej, men alltså
+
+
+
+`1160 00:46:58,440 --> 00:47:00,440`
+jag sa PP men jag menade Python.
+
+
+
+`1161 00:47:00,440 --> 00:47:02,440`
+Sorry. Du sa
+
+
+
+`1162 00:47:02,440 --> 00:47:04,440`
+HTTP. Ja.
+
+
+
+`1163 00:47:04,440 --> 00:47:06,440`
+Det går jättebra
+
+
+
+`1164 00:47:06,440 --> 00:47:08,440`
+för mig. Blobban är i vart fall
+
+
+
+`1165 00:47:08,440 --> 00:47:10,440`
+en krypterad Python-grunka.
+
+
+
+`1166 00:47:10,440 --> 00:47:12,440`
+Och det finns ingen signering
+
+
+
+`1167 00:47:12,440 --> 00:47:14,440`
+eller säkerhet på det. Python?
+
+
+
+`1168 00:47:14,440 --> 00:47:16,440`
+Det känns också konstigt.
+
+
+
+`1169 00:47:16,440 --> 00:47:18,440`
+Ja, men sitter den här jävla Python-
+
+
+
+`1170 00:47:18,440 --> 00:47:20,440`
+interpreter någonstans gömd inne i spelet?
+
+
+
+`1171 00:47:20,440 --> 00:47:22,440`
+Ja, det är det jag menar.
+
+
+
+`1172 00:47:22,440 --> 00:47:24,440`
+Okej, men vad kan jag göra då?
+
+
+
+`1173 00:47:24,440 --> 00:47:26,440`
+Nu är jag med en middel så jag kan ändra på den.
+
+
+
+`1174 00:47:26,440 --> 00:47:28,440`
+Vad händer då? Du byter vilken kod som exekverar.
+
+
+
+`1175 00:47:28,440 --> 00:47:30,440`
+Vilken typ poppakalk
+
+
+
+`1176 00:47:30,440 --> 00:47:32,440`
+eller någonting. Wow.
+
+
+
+`1177 00:47:32,440 --> 00:47:34,440`
+Men var det bara shoppen det här handlade om?
+
+
+
+`1178 00:47:34,440 --> 00:47:36,440`
+Det var inte hela spelet?
+
+
+
+`1179 00:47:36,440 --> 00:47:38,440`
+Nej, det centrala
+
+
+
+`1180 00:47:38,440 --> 00:47:40,440`
+är ju i vart fall att den koden körs
+
+
+
+`1181 00:47:40,440 --> 00:47:42,440`
+innan du startar spelet.
+
+
+
+`1182 00:47:42,440 --> 00:47:44,440`
+Ah, okej.
+
+
+
+`1183 00:47:44,440 --> 00:47:46,440`
+Så det är coolare än bara att göra bus
+
+
+
+`1184 00:47:46,440 --> 00:47:48,440`
+i spelet, utan du får
+
+
+
+`1185 00:47:48,440 --> 00:47:50,440`
+poppakalk.
+
+
+
+`1186 00:47:50,440 --> 00:47:52,440`
+Men du måste ju typ
+
+
+
+`1187 00:47:52,440 --> 00:47:54,440`
+du måste ju typ äga
+
+
+
+`1188 00:47:54,440 --> 00:47:56,440`
+ett wifi eller någonting. Du måste ju på något sätt
+
+
+
+`1189 00:47:56,440 --> 00:47:58,440`
+tvinga folk. Privilegierad nätverksposition.
+
+
+
+`1190 00:47:58,440 --> 00:48:00,440`
+Ja, du måste vara i en privilegierad nätverksposition.
+
+
+
+`1191 00:48:00,440 --> 00:48:02,440`
+Utanför fullsträckskrypterings-
+
+
+
+`1192 00:48:02,440 --> 00:48:04,440`
+realmen.
+
+
+
+`1193 00:48:04,440 --> 00:48:06,440`
+Precis, det är inte fullsträckskrypterat.
+
+
+
+`1194 00:48:06,440 --> 00:48:08,440`
+Och den går utanför, det är ingen HTTPS-
+
+
+
+`1195 00:48:08,440 --> 00:48:10,440`
+tunnel då heller.
+
+
+
+`1196 00:48:10,440 --> 00:48:12,440`
+Det är ju det här med certifikater.
+
+
+
+`1197 00:48:12,440 --> 00:48:14,440`
+Men det är en icke-standard
+
+
+
+`1198 00:48:14,440 --> 00:48:16,440`
+och fuskering.
+
+
+
+`1199 00:48:16,440 --> 00:48:18,440`
+Om du kör Wireshark så kan du tydligen
+
+
+
+`1200 00:48:18,440 --> 00:48:20,440`
+det blir ganska uppenbart
+
+
+
+`1201 00:48:20,440 --> 00:48:22,440`
+att det kommer någon mystisk
+
+
+
+`1202 00:48:22,440 --> 00:48:24,440`
+och HTTP-kommunikation.
+
+
+
+`1203 00:48:24,440 --> 00:48:26,440`
+Men exakt vad som går i den är inte
+
+
+
+`1204 00:48:26,440 --> 00:48:28,440`
+helt uppenbart.
+
+
+
+`1205 00:48:28,440 --> 00:48:30,440`
+Men det finns
+
+
+
+`1206 00:48:30,440 --> 00:48:32,440`
+en snubbe som har
+
+
+
+`1207 00:48:32,440 --> 00:48:34,440`
+som har visat
+
+
+
+`1208 00:48:34,440 --> 00:48:36,440`
+grundgrejerna, säger att inrapporterat
+
+
+
+`1209 00:48:36,440 --> 00:48:38,440`
+och visat hur han poppar någonting.
+
+
+
+`1210 00:48:38,440 --> 00:48:40,440`
+Jag har konstaterat reddit nu och du har ju fått de tydliga svaren.
+
+
+
+`1211 00:48:40,440 --> 00:48:42,440`
+From a technical level
+
+
+
+`1212 00:48:42,440 --> 00:48:44,440`
+it's incredibly hard to get RCA on a computer
+
+
+
+`1213 00:48:44,440 --> 00:48:46,440`
+if you're not on the same network.
+
+
+
+`1214 00:48:46,440 --> 00:48:48,440`
+Unless you have a software application.
+
+
+
+`1215 00:48:48,440 --> 00:48:50,440`
+Kommentar nummer två.
+
+
+
+`1216 00:48:50,440 --> 00:48:52,440`
+But I have hackers in my walls.
+
+
+
+`1217 00:48:52,440 --> 00:48:54,440`
+Vad sa du?
+
+
+
+`1218 00:48:54,440 --> 00:48:56,440`
+But I have hackers in my walls.
+
+
+
+`1219 00:48:56,440 --> 00:48:58,440`
+Och sen sparar det ut
+
+
+
+`1220 00:48:58,440 --> 00:49:00,440`
+i god reddit-fashion.
+
+
+
+`1221 00:49:00,440 --> 00:49:02,440`
+Jag såg någon annan
+
+
+
+`1222 00:49:02,440 --> 00:49:04,440`
+någon sån här
+
+
+
+`1223 00:49:04,440 --> 00:49:06,440`
+mer etablerad
+
+
+
+`1224 00:49:06,440 --> 00:49:08,440`
+säkerhets-youtuber som
+
+
+
+`1225 00:49:08,440 --> 00:49:10,440`
+Etablerad säkerhets-youtuber?
+
+
+
+`1226 00:49:10,440 --> 00:49:12,440`
+Contradiction in terms.
+
+
+
+`1227 00:49:12,440 --> 00:49:14,440`
+Som...
+
+
+
+`1228 00:49:14,440 --> 00:49:16,440`
+Han orkade
+
+
+
+`1229 00:49:16,440 --> 00:49:18,440`
+liksom inte göra hela vägen
+
+
+
+`1230 00:49:18,440 --> 00:49:20,440`
+men han kom så långt att han konstaterade
+
+
+
+`1231 00:49:20,440 --> 00:49:22,440`
+Ja, den här processen
+
+
+
+`1232 00:49:22,440 --> 00:49:24,440`
+skriver över ett Python-skript
+
+
+
+`1233 00:49:24,440 --> 00:49:26,440`
+det verkar vara en korrekt
+
+
+
+`1234 00:49:26,440 --> 00:49:28,440`
+det som sägs.
+
+
+
+`1235 00:49:28,440 --> 00:49:30,440`
+This is probably bad.
+
+
+
+`1236 00:49:30,440 --> 00:49:32,440`
+Men det är lite roligt med alla de här spelen
+
+
+
+`1237 00:49:32,440 --> 00:49:34,440`
+och sånt.
+
+
+
+`1238 00:49:34,440 --> 00:49:36,440`
+Och typ, det är många spel
+
+
+
+`1239 00:49:36,440 --> 00:49:38,440`
+och sånt där du kan få kartor
+
+
+
+`1240 00:49:38,440 --> 00:49:40,440`
+och annat från olika.
+
+
+
+`1241 00:49:40,440 --> 00:49:42,440`
+Det är lite roligt med den här
+
+
+
+`1242 00:49:42,440 --> 00:49:44,440`
+\...
+
+
+
+`1243 00:49:44,440 --> 00:49:46,440`
+För om du går via Steam eller någonting
+
+
+
+`1244 00:49:46,440 --> 00:49:48,440`
+så känns det ju ändå som att du får grejerna
+
+
+
+`1245 00:49:48,440 --> 00:49:50,440`
+på ett riktigt sätt.
+
+
+
+`1246 00:49:50,440 --> 00:49:52,440`
+Men om det sitter massa grejer där det är ganska
+
+
+
+`1247 00:49:52,440 --> 00:49:54,440`
+Det är ju bara launchen tänker jag.
+
+
+
+`1248 00:49:54,440 --> 00:49:56,440`
+Ganska sunkig säkerhet
+
+
+
+`1249 00:49:56,440 --> 00:49:58,440`
+kring hur du startar grejerna.
+
+
+
+`1250 00:49:58,440 --> 00:50:00,440`
+Jag gillar ju de här hårdvaruhacksen
+
+
+
+`1251 00:50:00,440 --> 00:50:02,440`
+som finns där. Alltså det vill säga
+
+
+
+`1252 00:50:02,440 --> 00:50:04,440`
+tjoffa in en dongel
+
+
+
+`1253 00:50:04,440 --> 00:50:06,440`
+läser alla pixlar på skärmen
+
+
+
+`1254 00:50:06,440 --> 00:50:08,440`
+du får aimbot deluxe.
+
+
+
+`1255 00:50:08,440 --> 00:50:10,440`
+Svårt att göra någonting åt det.
+
+
+
+`1256 00:50:10,440 --> 00:50:12,440`
+Det har varit två riktigt bra talk.
+
+
+
+`1257 00:50:12,440 --> 00:50:14,440`
+Ett på securityfest och ett på sektier tror jag.
+
+
+
+`1258 00:50:14,440 --> 00:50:16,440`
+Sjukt inspirerande.
+
+
+
+`1259 00:50:16,440 --> 00:50:18,440`
+Som är riktigt roligt.
+
+
+
+`1260 00:50:18,440 --> 00:50:20,440`
+Bara tracka pixars liksom.
+
+
+
+`1261 00:50:20,440 --> 00:50:22,440`
+Det ser ut som en tentpodemus.
+
+
+
+`1262 00:50:22,440 --> 00:50:24,440`
+Det är ju en uppförsbacke att leta reda på
+
+
+
+`1263 00:50:24,440 --> 00:50:26,440`
+som gameutvecklare.
+
+
+
+`1264 00:50:26,440 --> 00:50:28,440`
+Men ja, spännande.
+
+
+
+`1265 00:50:28,440 --> 00:50:30,440`
+Och det jobbiga är ju att det är
+
+
+
+`1266 00:50:30,440 --> 00:50:32,440`
+nu ett jävla sidospår här men
+
+
+
+`1267 00:50:32,440 --> 00:50:34,440`
+det är ju på riktigt ett problem i många spel.
+
+
+
+`1268 00:50:34,440 --> 00:50:36,440`
+Alltså med wallhacks och så vidare.
+
+
+
+`1269 00:50:36,440 --> 00:50:38,440`
+För det är fan inte roligt att gå in i CS
+
+
+
+`1270 00:50:38,440 --> 00:50:40,440`
+casual är det väl.
+
+
+
+`1271 00:50:40,440 --> 00:50:42,440`
+Där det är så jävla många cheaters.
+
+
+
+`1272 00:50:42,440 --> 00:50:44,440`
+Det är bara tråkigt liksom.
+
+
+
+`1273 00:50:44,440 --> 00:50:46,440`
+Alltså det är svårt nog i ett normalt game
+
+
+
+`1274 00:50:46,440 --> 00:50:48,440`
+när man är någon pixel perfect sniper
+
+
+
+`1275 00:50:48,440 --> 00:50:50,440`
+som kan banan utantill liksom.
+
+
+
+`1276 00:50:50,440 --> 00:50:52,440`
+Dust 2 utantill.
+
+
+
+`1277 00:50:52,440 --> 00:50:54,440`
+Det var ju något avslutande reportage om
+
+
+
+`1278 00:50:54,440 --> 00:50:56,440`
+exakt det skrev ju Frontarcom
+
+
+
+`1279 00:50:56,440 --> 00:50:58,440`
+var det va?
+
+
+
+`1280 00:50:58,440 --> 00:51:00,440`
+Där det var någon som började undersöka
+
+
+
+`1281 00:51:00,440 --> 00:51:02,440`
+såhär cheaters som lärde sig
+
+
+
+`1282 00:51:02,440 --> 00:51:04,440`
+hur de betedde och sånt.
+
+
+
+`1283 00:51:04,440 --> 00:51:06,440`
+Och sprang runt med cheater och kollade runt.
+
+
+
+`1284 00:51:06,440 --> 00:51:08,440`
+Ja, just det.
+
+
+
+`1285 00:51:08,440 --> 00:51:10,440`
+Gobbling.
+
+
+
+`1286 00:51:10,440 --> 00:51:12,440`
+Och mer eller mindre var
+
+
+
+`1287 00:51:12,440 --> 00:51:14,440`
+ända servers så satt det liksom
+
+
+
+`1288 00:51:14,440 --> 00:51:16,440`
+en armada med cheaters liksom.
+
+
+
+`1289 00:51:16,440 --> 00:51:18,440`
+Jag har varit rätt sugen på Escape from Tarkov
+
+
+
+`1290 00:51:18,440 --> 00:51:20,440`
+men två stycken stora hinder.
+
+
+
+`1291 00:51:20,440 --> 00:51:22,440`
+Det ena är, jag tror det är ett rystspel.
+
+
+
+`1292 00:51:22,440 --> 00:51:24,440`
+De ska inte få mina pengar.
+
+
+
+`1293 00:51:24,440 --> 00:51:26,440`
+Och sen är det dessutom så att
+
+
+
+`1294 00:51:26,440 --> 00:51:28,440`
+liksom
+
+
+
+`1295 00:51:28,440 --> 00:51:30,440`
+inlärningskurvan är ju
+
+
+
+`1296 00:51:30,440 --> 00:51:32,440`
+brant. Det är så, folk som är så
+
+
+
+`1297 00:51:32,440 --> 00:51:34,440`
+sjukt duktiga i det spelet och som rookie
+
+
+
+`1298 00:51:34,440 --> 00:51:36,440`
+så är det ju helt rökt länge.
+
+
+
+`1299 00:51:36,440 --> 00:51:38,440`
+Och det är inte skill based då?
+
+
+
+`1300 00:51:38,440 --> 00:51:40,440`
+Herregud ja, men återigen du behöver spela länge
+
+
+
+`1301 00:51:40,440 --> 00:51:42,440`
+för att kunna alla kombinationer liksom.
+
+
+
+`1302 00:51:42,440 --> 00:51:44,440`
+Jag menar, de duktiga är ju sådana här
+
+
+
+`1303 00:51:44,440 --> 00:51:46,440`
+nu tänker jag lite på DayZ i och för sig
+
+
+
+`1304 00:51:46,440 --> 00:51:48,440`
+det är lite samma sak men de är ganska lika.
+
+
+
+`1305 00:51:48,440 --> 00:51:50,440`
+Alltså det är mycket sån
+
+
+
+`1306 00:51:50,440 --> 00:51:52,440`
+du behöver hämta
+
+
+
+`1307 00:51:52,440 --> 00:51:54,440`
+en dieselcontainer
+
+
+
+`1308 00:51:54,440 --> 00:51:56,440`
+här och ett kikasikte
+
+
+
+`1309 00:51:56,440 --> 00:51:58,440`
+här och med hjälp utav en
+
+
+
+`1310 00:51:58,440 --> 00:52:00,440`
+spik så kan du göra om dem
+
+
+
+`1311 00:52:00,440 --> 00:52:02,440`
+till en motorsåg. Alltså det är sådana här
+
+
+
+`1312 00:52:02,440 --> 00:52:04,440`
+combos liksom. Men menar du en spik
+
+
+
+`1313 00:52:04,440 --> 00:52:06,440`
+och ett kikasikte gör du om till en motorsåg?
+
+
+
+`1314 00:52:06,440 --> 00:52:08,440`
+Jag hittar ju givetvis på men
+
+
+
+`1315 00:52:08,440 --> 00:52:10,440`
+jag menar det är väldigt... Annars var det ju
+
+
+
+`1316 00:52:10,440 --> 00:52:12,440`
+ganska cool man köper nivå på det här.
+
+
+
+`1317 00:52:12,440 --> 00:52:14,440`
+Det är väldigt sådana specifika
+
+
+
+`1318 00:52:16,440 --> 00:52:18,440`
+recept kan vi väl kalla det.
+
+
+
+`1319 00:52:20,440 --> 00:52:22,440`
+Men jag har faktiskt inte spelat varken
+
+
+
+`1320 00:52:22,440 --> 00:52:24,440`
+Escape from Tarkov eller DayZ
+
+
+
+`1321 00:52:24,440 --> 00:52:26,440`
+så jag har bara sett på Youtube filmer om det
+
+
+
+`1322 00:52:26,440 --> 00:52:28,440`
+så jag ska inte uttala mig. Och inga av de här hade
+
+
+
+`1323 00:52:28,440 --> 00:52:30,440`
+Marvel Rivals. Nej, jag har inte
+
+
+
+`1324 00:52:30,440 --> 00:52:32,440`
+spelat Marvel Rivals. Inte jag heller.
+
+
+
+`1325 00:52:32,440 --> 00:52:34,440`
+Jag har spelat Overwatch jättelite
+
+
+
+`1326 00:52:34,440 --> 00:52:36,440`
+jag har spelat Valorant ganska mycket.
+
+
+
+`1327 00:52:36,440 --> 00:52:38,440`
+Jag testade även ett nytt
+
+
+
+`1328 00:52:38,440 --> 00:52:40,440`
+var det Valve som gav sig in
+
+
+
+`1329 00:52:40,440 --> 00:52:42,440`
+i det här i samma... Fan det är inte Marvel
+
+
+
+`1330 00:52:42,440 --> 00:52:44,440`
+Rivals det va? Nej, det heter något annat.
+
+
+
+`1331 00:52:44,440 --> 00:52:46,440`
+De håller på med någon beta
+
+
+
+`1332 00:52:46,440 --> 00:52:48,440`
+grej som jag testade när jag
+
+
+
+`1333 00:52:48,440 --> 00:52:50,440`
+var på DreamHack i november.
+
+
+
+`1334 00:52:50,440 --> 00:52:52,440`
+Men det gick jag inte igång på det heller.
+
+
+
+`1335 00:52:52,440 --> 00:52:54,440`
+Jag är old school. CS2
+
+
+
+`1336 00:52:54,440 --> 00:52:56,440`
+är good enough.
+
+
+
+`1337 00:52:56,440 --> 00:52:58,440`
+Jag skulle vilja gilla Call of Duty men
+
+
+
+`1338 00:52:58,440 --> 00:53:00,440`
+fan jag gillar det inte riktigt.
+
+
+
+`1339 00:53:00,440 --> 00:53:02,440`
+Det är för stökigt. Jag gillar den här
+
+
+
+`1340 00:53:02,440 --> 00:53:04,440`
+vad heter den? Heter den Warzone?
+
+
+
+`1341 00:53:04,440 --> 00:53:06,440`
+Den är
+
+
+
+`1342 00:53:06,440 --> 00:53:08,440`
+som också lite såhär survival mode.
+
+
+
+`1343 00:53:08,440 --> 00:53:10,440`
+Warzone det är ju det jag spelar.
+
+
+
+`1344 00:53:10,440 --> 00:53:12,440`
+Det är ju Battle Royale, 150 personer i varje hörn
+
+
+
+`1345 00:53:12,440 --> 00:53:14,440`
+som bara dödar varandra.
+
+
+
+`1346 00:53:14,440 --> 00:53:16,440`
+Det tycker jag är det enda modet som jag tycker är okej.
+
+
+
+`1347 00:53:16,440 --> 00:53:18,440`
+Det och Resurgence spelar vi.
+
+
+
+`1348 00:53:18,440 --> 00:53:20,440`
+Spelar du
+
+
+
+`1349 00:53:20,440 --> 00:53:22,440`
+single eller? Nej, det är jag och
+
+
+
+`1350 00:53:22,440 --> 00:53:24,440`
+fyra kompisar. Så ni är 24
+
+
+
+`1351 00:53:24,440 --> 00:53:26,440`
+stycken i en squad? Ja, vi är så dåliga.
+
+
+
+`1352 00:53:26,440 --> 00:53:28,440`
+Men det är kul ändå.
+
+
+
+`1353 00:53:28,440 --> 00:53:30,440`
+Det finns ju i alla fall single mode förut.
+
+
+
+`1354 00:53:30,440 --> 00:53:32,440`
+Ja, exakt.
+
+
+
+`1355 00:53:32,440 --> 00:53:34,440`
+Förut så var du
+
+
+
+`1356 00:53:34,440 --> 00:53:36,440`
+single så var du ju körd oavsett för du mötte
+
+
+
+`1357 00:53:36,440 --> 00:53:38,440`
+squads hela tiden liksom. Men det finns ju one versus
+
+
+
+`1358 00:53:38,440 --> 00:53:40,440`
+one också. Ja, men det kör jag emellanåt.
+
+
+
+`1359 00:53:40,440 --> 00:53:42,440`
+Warzone, single mode.
+
+
+
+`1360 00:53:42,440 --> 00:53:44,440`
+Men det går så jävla fort.
+
+
+
+`1361 00:53:44,440 --> 00:53:46,440`
+Så att jag
+
+
+
+`1362 00:53:46,440 --> 00:53:48,440`
+är ju inte med. Och just det här
+
+
+
+`1363 00:53:48,440 --> 00:53:50,440`
+liksom, det är ju medvetet.
+
+
+
+`1364 00:53:50,440 --> 00:53:52,440`
+Du springer, springer, springer och så dör du.
+
+
+
+`1365 00:53:52,440 --> 00:53:54,440`
+Så respawnar du och så springer, springer, springer och så dör du.
+
+
+
+`1366 00:53:54,440 --> 00:53:56,440`
+Och så respawnar du.
+
+
+
+`1367 00:53:56,440 --> 00:53:58,440`
+Det är inte mitt mode riktigt.
+
+
+
+`1368 00:53:58,440 --> 00:54:00,440`
+Det är inte så jag spelar. Jag är mer rädd
+
+
+
+`1369 00:54:00,440 --> 00:54:02,440`
+om mitt liv. Dessutom menar man så att
+
+
+
+`1370 00:54:02,440 --> 00:54:04,440`
+om du har reaktionsbaserade grejer, även om
+
+
+
+`1371 00:54:04,440 --> 00:54:06,440`
+vi antar att vi skulle köpa
+
+
+
+`1372 00:54:06,440 --> 00:54:08,440`
+bästa datorn och en
+
+
+
+`1373 00:54:08,440 --> 00:54:10,440`
+kitet så vi är ju
+
+
+
+`1374 00:54:10,440 --> 00:54:12,440`
+överträffade liksom. Så att vi har ju
+
+
+
+`1375 00:54:12,440 --> 00:54:14,440`
+reaktionsförmågan är vi ju körda på.
+
+
+
+`1376 00:54:14,440 --> 00:54:16,440`
+Min enda chans är ju
+
+
+
+`1377 00:54:16,440 --> 00:54:18,440`
+att gå på skill, det vill säga försöka tänka lite.
+
+
+
+`1378 00:54:18,440 --> 00:54:20,440`
+Istället för att bara springa, springa, springa hela tiden.
+
+
+
+`1379 00:54:20,440 --> 00:54:22,440`
+Man sätter
+
+
+
+`1380 00:54:22,440 --> 00:54:24,440`
+det i ögonbindet. Jag spelade
+
+
+
+`1381 00:54:24,440 --> 00:54:26,440`
+en gång
+
+
+
+`1382 00:54:26,440 --> 00:54:28,440`
+något Street Fighter-aktigt eller någonting
+
+
+
+`1383 00:54:28,440 --> 00:54:30,440`
+mot
+
+
+
+`1384 00:54:30,440 --> 00:54:32,440`
+mot barnet
+
+
+
+`1385 00:54:32,440 --> 00:54:34,440`
+till den person som jag och Mattias
+
+
+
+`1386 00:54:34,440 --> 00:54:36,440`
+känner. Och
+
+
+
+`1387 00:54:36,440 --> 00:54:38,440`
+kanske Jesper också.
+
+
+
+`1388 00:54:38,440 --> 00:54:40,440`
+Men det gick ju så jävla dåligt för mig.
+
+
+
+`1389 00:54:40,440 --> 00:54:42,440`
+Och så helt plötsligt så började det gå bra
+
+
+
+`1390 00:54:42,440 --> 00:54:44,440`
+för mig. Jag bara såhär, bang, bang, bang
+
+
+
+`1391 00:54:44,440 --> 00:54:46,440`
+tryckte på den här knappen hur mycket som helst.
+
+
+
+`1392 00:54:46,440 --> 00:54:48,440`
+Så tänkte jag såhär, helvete vad kul, nu går det
+
+
+
+`1393 00:54:48,440 --> 00:54:50,440`
+äntligen att gå bra till mig. Och då tittade jag på det lilla
+
+
+
+`1394 00:54:50,440 --> 00:54:52,440`
+barnet och det lagt någonsin
+
+
+
+`1395 00:54:52,440 --> 00:54:54,440`
+fjärrkontroll.
+
+
+
+`1396 00:54:54,440 --> 00:54:56,440`
+Så då då kunde jag klara mig.
+
+
+
+`1397 00:54:56,440 --> 00:54:58,440`
+Så då då kunde jag klara mig.
+
+
+
+`1398 00:54:58,440 --> 00:55:00,440`
+Jag har ju annars en
+
+
+
+`1399 00:55:00,440 --> 00:55:02,440`
+spelupplevelse med Peter där Peter
+
+
+
+`1400 00:55:02,440 --> 00:55:04,440`
+springer åt fel håll hela tiden, dör
+
+
+
+`1401 00:55:04,440 --> 00:55:06,440`
+hela tiden.
+
+
+
+`1402 00:55:06,440 --> 00:55:08,440`
+Och tycker att det går svinbra för han kollar på min
+
+
+
+`1403 00:55:08,440 --> 00:55:10,440`
+gubbe.
+
+
+
+`1404 00:55:10,440 --> 00:55:12,440`
+Det här var
+
+
+
+`1405 00:55:12,440 --> 00:55:14,440`
+länge. Höll du på Star Wars
+
+
+
+`1406 00:55:14,440 --> 00:55:16,440`
+eller? Nej, det var
+
+
+
+`1407 00:55:16,440 --> 00:55:18,440`
+första gången vi var på
+
+
+
+`1408 00:55:18,440 --> 00:55:20,440`
+sekte
+
+
+
+`1409 00:55:20,440 --> 00:55:22,440`
+och väldigt brusade.
+
+
+
+`1410 00:55:22,440 --> 00:55:24,440`
+Peter var bra.
+
+
+
+`1411 00:55:24,440 --> 00:55:26,440`
+Men med de orden så tänker jag
+
+
+
+`1412 00:55:26,440 --> 00:55:28,440`
+att vi summerar det här ostrukturerade avsnittet.
+
+
+
+`1413 00:55:28,440 --> 00:55:30,440`
+Mycket bra sagt.
+
+
+
+`1414 00:55:30,440 --> 00:55:32,440`
+Vi som har pratat idag,
+
+
+
+`1415 00:55:32,440 --> 00:55:34,440`
+vi heter Mattias Idaga och vi heter
+
+
+
+`1416 00:55:34,440 --> 00:55:36,440`
+Jesper Larsson. Så är det faktiskt. Och Peter
+
+
+
+`1417 00:55:36,440 --> 00:55:38,440`
+Magnusson. Svaret fyra från din funktion.
+
+
+
+`1418 00:55:38,440 --> 00:55:40,440`
+Ha det bra\!
+
+
+
+`1419 00:55:40,440 --> 00:55:42,440`
+Hej\!
+
+
+
+`1420 00:55:44,440 --> 00:55:46,440`
+Vem börjar?
+
+
+
+`1421 00:55:46,440 --> 00:55:48,440`
+Sorry, det är jag som börjar.
+
+
+
+`1422 00:55:48,440 --> 00:55:50,440`
+Och inte slå på
+
+
+
+`1423 00:55:50,440 --> 00:55:52,440`
+mikrofonen sen när du spelar in.
+
+
+
+`1424 00:55:52,440 --> 00:55:54,440`
+Spelar vi?
+
+
