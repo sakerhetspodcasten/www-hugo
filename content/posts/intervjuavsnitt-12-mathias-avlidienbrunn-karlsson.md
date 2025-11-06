@@ -6,6 +6,7 @@ tags:
 - avlidienbrunn
 - Mathias Karlsson
 - SEC-T
+- onumrerade
 title: 'Intervjuavsnitt #12 - Mathias "Avlidienbrunn" Karlsson'
 ---
 ## Lyssna

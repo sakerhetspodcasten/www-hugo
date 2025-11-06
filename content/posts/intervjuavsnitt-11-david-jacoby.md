@@ -5,6 +5,7 @@ tags:
 - guest
 - David Jacoby
 - SEC-T
+- onumrerade
 title: 'Intervjuavsnitt #11 - David Jacoby'
 ---
 ## Lyssna
