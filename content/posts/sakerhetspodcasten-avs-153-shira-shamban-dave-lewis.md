@@ -6,7 +6,7 @@ tags:
 - Shira Shamban
 - Dave Lewis
 - Robin von Post
-title: Säkerhetspodcasten avs.153 – Shira Shamban & Dave Lewis
+title: 'Säkerhetspodcasten #153 - Shira Shamban & Dave Lewis'
 ---
 ## Lyssna
 

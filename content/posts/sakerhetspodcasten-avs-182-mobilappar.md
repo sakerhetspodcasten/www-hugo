@@ -3,7 +3,7 @@ date: '2020-05-18T14:24:23'
 lastmod: '2020-05-18T14:24:23'
 tags:
 - tema
-title: Säkerhetspodcasten avs.182 – Mobilappar
+title: 'Säkerhetspodcasten #182 - Mobilappar'
 ---
 Lyssna
 

@@ -5,7 +5,7 @@ tags:
 - Robin von Post
 - guest
 - SecurityFest
-title: Säkerhetspodcasten avs.130 – Security Fest CTF!
+title: 'Säkerhetspodcasten #130 - Security Fest CTF!'
 ---
 ## Lyssna
 

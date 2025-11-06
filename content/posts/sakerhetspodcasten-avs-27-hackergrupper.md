@@ -3,7 +3,7 @@ date: '2014-06-01T11:50:59'
 lastmod: '2018-09-26T08:31:17'
 tags:
 - tema
-title: Säkerhetspodcasten avs.27 - Hackergrupper
+title: 'Säkerhetspodcasten #27 - Hackergrupper'
 ---
 ## Lyssna
 

@@ -11,7 +11,7 @@ tags:
 - Duggan4Sean
 - Marie Moe
 - MarieGMoe
-title: Säkerhetspodcasten avs.48 - Julspecial
+title: 'Säkerhetspodcasten #48 - Julspecial'
 ---
 ## Lyssna
 

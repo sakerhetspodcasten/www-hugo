@@ -5,7 +5,7 @@ tags:
 - Robin von Post
 - guest
 - Joakim Kävrestad
-title: Säkerhetspodcasten avs.151 – Lagar och regler
+title: 'Säkerhetspodcasten #151 - Lagar och regler'
 ---
 ## Lyssna
 

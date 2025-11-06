@@ -4,7 +4,7 @@ lastmod: '2019-10-15T08:44:46'
 tags:
 - ostrukturerat
 - SEC-T
-title: Säkerhetspodcasten avs.164 – Ostrukturerat V.42
+title: 'Säkerhetspodcasten #164 - Ostrukturerat V.42'
 ---
 ## Lyssna
 

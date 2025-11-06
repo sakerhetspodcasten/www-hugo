@@ -3,7 +3,7 @@ date: '2020-11-23T10:11:51'
 lastmod: '2020-11-23T10:11:51'
 tags:
 - tema
-title: Säkerhetspodcasten avs.192 – Åttaårsjubileum!
+title: 'Säkerhetspodcasten #192 - Åttaårsjubileum!'
 ---
 Lyssna
 

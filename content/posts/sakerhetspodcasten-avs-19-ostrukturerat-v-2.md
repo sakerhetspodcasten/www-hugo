@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:33:02'
 tags:
 - ostrukturerat
 - keepass
-title: Säkerhetspodcasten avs.19 – Ostrukturerat V.2
+title: 'Säkerhetspodcasten #19 - Ostrukturerat V.2'
 ---
 ## Lyssna
 

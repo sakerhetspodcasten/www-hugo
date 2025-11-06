@@ -3,7 +3,7 @@ date: '2018-02-18T00:00:52'
 lastmod: '2018-09-26T08:19:21'
 tags:
 - tema
-title: Säkerhetspodcasten avs.118 - Tools & Toolchains
+title: 'Säkerhetspodcasten #118 - Tools & Toolchains'
 ---
 ## Lyssna
 

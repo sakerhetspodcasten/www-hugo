@@ -3,7 +3,7 @@ date: '2014-07-25T13:37:21'
 lastmod: '2018-09-26T08:31:10'
 tags:
 - tema
-title: Säkerhetspodcasten avs.30 - Q & A
+title: 'Säkerhetspodcasten #30 - Q & A'
 ---
 ## Lyssna
 

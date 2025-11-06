@@ -3,7 +3,7 @@ date: '2019-01-14T12:38:01'
 lastmod: '2019-01-14T12:38:01'
 tags:
 - ostrukturerat
-title: Säkerhetspodcasten avs.142 – Ostrukturerat V.3
+title: 'Säkerhetspodcasten #142 - Ostrukturerat V.3'
 ---
 ## Lyssna
 

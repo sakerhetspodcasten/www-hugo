@@ -3,7 +3,7 @@ date: '2020-03-16T11:01:41'
 lastmod: '2020-03-16T11:01:41'
 tags:
 - ostrukturerat
-title: Säkerhetspodcasten avs.177 – Ostrukturerat V.12
+title: 'Säkerhetspodcasten #177 - Ostrukturerat V.12'
 ---
 Lyssna
 

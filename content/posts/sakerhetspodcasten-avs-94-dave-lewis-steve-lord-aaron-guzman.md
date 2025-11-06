@@ -7,7 +7,7 @@ tags:
 - Steve Lord
 - Aaron Guzman
 - SecurityFest
-title: Säkerhetspodcasten avs.94 - Dave Lewis, Steve Lord, Aaron Guzman
+title: 'Säkerhetspodcasten #94 - Dave Lewis, Steve Lord, Aaron Guzman'
 ---
 ## Lyssna
 

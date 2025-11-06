@@ -3,7 +3,7 @@ date: '2019-06-19T01:04:16'
 lastmod: '2019-06-19T01:04:16'
 tags:
 - ostrukturerat
-title: Säkerhetspodcasten avs.155 – Ostrukturerat V.25
+title: 'Säkerhetspodcasten #155 - Ostrukturerat V.25'
 ---
 ## Lyssna
 

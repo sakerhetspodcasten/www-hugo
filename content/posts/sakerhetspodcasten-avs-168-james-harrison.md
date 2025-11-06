@@ -3,7 +3,7 @@ date: '2019-11-25T09:55:05'
 lastmod: '2019-11-25T09:55:05'
 tags:
 - SEC-T
-title: Säkerhetspodcasten avs.168 – James Harrison
+title: 'Säkerhetspodcasten #168 - James Harrison'
 ---
 ## Lyssna
 

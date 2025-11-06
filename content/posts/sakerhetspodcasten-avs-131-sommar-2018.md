@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:18:17'
 tags:
 - tema
 - sommar
-title: Säkerhetspodcasten avs.131 – Sommar 2018!
+title: 'Säkerhetspodcasten #131 - Sommar 2018!'
 ---
 ## Lyssna
 

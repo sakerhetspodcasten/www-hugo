@@ -5,7 +5,7 @@ tags:
 - guest
 - Adam Laurie
 - SEC-T
-title: Säkerhetspodcasten avs.78 – Old School TV-Hacking med Adam Laurie
+title: 'Säkerhetspodcasten #78 - Old School TV-Hacking med Adam Laurie'
 ---
 ## Lyssna
 

@@ -3,7 +3,7 @@ date: '2017-11-27T20:46:48'
 lastmod: '2018-09-26T08:21:30'
 tags:
 - tema
-title: Säkerhetspodcasten avs.108 – Chalmers CTF
+title: 'Säkerhetspodcasten #108 - Chalmers CTF'
 ---
 ## Lyssna
 

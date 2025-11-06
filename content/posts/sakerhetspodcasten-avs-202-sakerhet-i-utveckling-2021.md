@@ -3,7 +3,7 @@ date: '2021-04-26T12:45:07'
 lastmod: '2021-04-26T12:45:07'
 tags:
 - tema
-title: Säkerhetspodcasten avs.202 – Säkerhet i utveckling 2021
+title: 'Säkerhetspodcasten #202 - Säkerhet i utveckling 2021'
 ---
 ## Lyssna
 

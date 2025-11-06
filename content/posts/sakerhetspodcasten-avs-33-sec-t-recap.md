@@ -3,7 +3,7 @@ date: '2014-09-29T10:13:06'
 lastmod: '2018-09-26T08:30:56'
 tags:
 - SEC-T
-title: Säkerhetspodcasten avs.33 - Sec-T Recap
+title: 'Säkerhetspodcasten #33 - Sec-T Recap'
 ---
 ## Lyssna
 

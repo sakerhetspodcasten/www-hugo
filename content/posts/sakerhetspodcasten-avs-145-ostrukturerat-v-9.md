@@ -3,7 +3,7 @@ date: '2019-02-25T09:33:44'
 lastmod: '2019-02-25T09:36:13'
 tags:
 - ostrukturerat
-title: Säkerhetspodcasten avs.145 – Ostrukturerat V.9
+title: 'Säkerhetspodcasten #145 - Ostrukturerat V.9'
 ---
 ## Lyssna
 

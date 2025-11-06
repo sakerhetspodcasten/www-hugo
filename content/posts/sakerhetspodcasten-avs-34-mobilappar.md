@@ -3,7 +3,7 @@ date: '2014-10-27T09:29:31'
 lastmod: '2018-09-26T08:30:43'
 tags:
 - tema
-title: Säkerhetspodcasten avs.34 - Mobilappar
+title: 'Säkerhetspodcasten #34 - Mobilappar'
 ---
 ## Lyssna
 

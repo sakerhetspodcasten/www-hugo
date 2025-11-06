@@ -3,7 +3,7 @@ date: '2020-12-21T09:36:53'
 lastmod: '2020-12-21T09:36:53'
 tags:
 - tema
-title: Säkerhetspodcasten avs.194 – Stöd i säkerhetsarbetet
+title: 'Säkerhetspodcasten #194 - Stöd i säkerhetsarbetet'
 ---
 ## Lyssna
 

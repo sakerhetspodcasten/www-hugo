@@ -7,7 +7,7 @@ tags:
 - fransrosen
 - kodsnack
 - Fredrik Björeman
-title: Säkerhetspodcasten avs.52 - Bug Bounties med Frans Rosén
+title: 'Säkerhetspodcasten #52 - Bug Bounties med Frans Rosén'
 ---
 ## Lyssna
 

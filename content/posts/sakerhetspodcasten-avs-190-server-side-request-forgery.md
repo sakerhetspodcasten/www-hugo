@@ -3,7 +3,7 @@ date: '2020-11-09T11:19:51'
 lastmod: '2020-11-09T11:19:51'
 tags:
 - tema
-title: Säkerhetspodcasten avs.190 – Server Side Request Forgery
+title: 'Säkerhetspodcasten #190 - Server Side Request Forgery'
 ---
 Lyssna
 

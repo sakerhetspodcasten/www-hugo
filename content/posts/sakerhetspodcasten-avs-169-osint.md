@@ -3,7 +3,7 @@ date: '2019-12-02T13:09:22'
 lastmod: '2019-12-02T13:09:22'
 tags:
 - tema
-title: Säkerhetspodcasten avs.169 – OSINT
+title: 'Säkerhetspodcasten #169 - OSINT'
 ---
 ## Lyssna
 

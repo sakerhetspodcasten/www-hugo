@@ -5,7 +5,7 @@ tags:
 - guest
 - Alex Radocea
 - SEC-T
-title: Säkerhetspodcasten avs.99 - Alex Radocea
+title: 'Säkerhetspodcasten #99 - Alex Radocea'
 ---
 ## Lyssna
 

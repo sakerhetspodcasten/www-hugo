@@ -5,7 +5,7 @@ tags:
 - guest
 - Michael Goedeker
 - SEC-T
-title: Säkerhetspodcasten avs.124 - Threat & Risk Intelligence med Michael Goedeker
+title: 'Säkerhetspodcasten #124 - Threat & Risk Intelligence med Michael Goedeker'
 ---
 ## Lyssna
 

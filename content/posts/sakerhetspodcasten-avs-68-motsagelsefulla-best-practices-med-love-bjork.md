@@ -5,7 +5,7 @@ tags:
 - guest
 - Love Björk
 - SEC-T
-title: Säkerhetspodcasten avs.68 - Motsägelsefulla Best Practices med Love Björk
+title: 'Säkerhetspodcasten #68 - Motsägelsefulla Best Practices med Love Björk'
 ---
 ## Lyssna
 

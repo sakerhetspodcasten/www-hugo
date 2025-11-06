@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:21:54'
 tags:
 - guest
 - Åsa Schwarz
-title: Säkerhetspodcasten avs.100 - Åsa Schwarz
+title: 'Säkerhetspodcasten #100 - Åsa Schwarz'
 ---
 ## Lyssna
 

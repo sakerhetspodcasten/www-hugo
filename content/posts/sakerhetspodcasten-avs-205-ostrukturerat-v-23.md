@@ -3,7 +3,7 @@ date: '2021-06-07T16:54:26'
 lastmod: '2021-06-07T16:57:01'
 tags:
 - ostrukturerat
-title: Säkerhetspodcasten avs.205 – Ostrukturerat V.23
+title: 'Säkerhetspodcasten #205 - Ostrukturerat V.23'
 ---
 ## Lyssna
 

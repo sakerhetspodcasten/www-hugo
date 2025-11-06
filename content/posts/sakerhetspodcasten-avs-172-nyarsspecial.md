@@ -5,7 +5,7 @@ tags:
 - Nyår
 - privacy
 - Kubernetes
-title: Säkerhetspodcasten avs.172 – Nyårsspecial
+title: 'Säkerhetspodcasten #172 - Nyårsspecial'
 ---
 ## Lyssna
 

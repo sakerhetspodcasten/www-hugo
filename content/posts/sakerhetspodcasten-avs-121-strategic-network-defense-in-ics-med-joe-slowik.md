@@ -6,7 +6,7 @@ tags:
 - Joe Slowik
 - Robin von Post
 - CS3STHLM
-title: Säkerhetspodcasten avs.121 - Strategic Network Defense in ICS med Joe Slowik
+title: 'Säkerhetspodcasten #121 - Strategic Network Defense in ICS med Joe Slowik'
 ---
 ## Lyssna
 

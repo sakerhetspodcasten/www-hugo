@@ -5,7 +5,7 @@ tags:
 - guest
 - Zoz Brooks
 - SEC-T
-title: Säkerhetspodcasten avs.107 - Zoz Brooks
+title: 'Säkerhetspodcasten #107 - Zoz Brooks'
 ---
 ## Lyssna
 

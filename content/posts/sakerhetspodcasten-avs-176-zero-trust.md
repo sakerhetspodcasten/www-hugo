@@ -3,7 +3,7 @@ date: '2020-03-09T08:25:49'
 lastmod: '2020-03-09T08:25:49'
 tags:
 - tema
-title: Säkerhetspodcasten avs.176 – Zero Trust
+title: 'Säkerhetspodcasten #176 - Zero Trust'
 ---
 Lyssna
 

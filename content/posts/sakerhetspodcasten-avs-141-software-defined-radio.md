@@ -3,7 +3,7 @@ date: '2018-12-31T12:27:23'
 lastmod: '2018-12-31T12:27:23'
 tags:
 - tema
-title: Säkerhetspodcasten avs.141 – Software Defined Radio
+title: 'Säkerhetspodcasten #141 - Software Defined Radio'
 ---
 ## Lyssna
 

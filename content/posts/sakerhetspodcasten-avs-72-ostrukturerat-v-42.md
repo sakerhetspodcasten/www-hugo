@@ -3,7 +3,7 @@ date: '2016-10-17T10:35:40'
 lastmod: '2018-09-26T08:25:36'
 tags:
 - ostrukturerat
-title: Säkerhetspodcasten avs.72 - Ostrukturerat V.42
+title: 'Säkerhetspodcasten #72 - Ostrukturerat V.42'
 ---
 ## Lyssna
 

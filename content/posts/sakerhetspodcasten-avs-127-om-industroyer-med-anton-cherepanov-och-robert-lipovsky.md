@@ -7,8 +7,7 @@ tags:
 - Robert Lipovský
 - Anton Cherepanov
 - CS3STHLM
-title: Säkerhetspodcasten avs.127 - Om Industroyer med Anton Cherepanov och Robert
-  Lipovský
+title: 'Säkerhetspodcasten #127 - Om Industroyer med Anton Cherepanov och Robert Lipovský'
 ---
 ## Lyssna
 

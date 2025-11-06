@@ -6,8 +6,8 @@ tags:
 - guest
 - Roman Sologub
 - Oleksii Yasynskyi
-title: Säkerhetspodcasten avs.112 - Cyberattacks Against Critical Infrastructure in
-  Ukraine
+title: 'Säkerhetspodcasten #112 - Cyberattacks Against Critical Infrastructure in
+  Ukraine'
 ---
 ## Lyssna
 

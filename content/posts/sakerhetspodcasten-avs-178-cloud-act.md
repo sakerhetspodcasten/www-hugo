@@ -3,7 +3,7 @@ date: '2020-03-23T08:51:51'
 lastmod: '2020-03-23T08:51:51'
 tags:
 - tema
-title: Säkerhetspodcasten avs.178 – CLOUD Act
+title: 'Säkerhetspodcasten #178 - CLOUD Act'
 ---
 Lyssna
 

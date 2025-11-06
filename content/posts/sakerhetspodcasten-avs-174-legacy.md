@@ -3,7 +3,7 @@ date: '2020-01-27T12:22:53'
 lastmod: '2020-01-27T12:22:53'
 tags:
 - tema
-title: Säkerhetspodcasten avs.174 – Legacy
+title: 'Säkerhetspodcasten #174 - Legacy'
 ---
 ## Lyssna
 

@@ -3,7 +3,7 @@ date: '2021-09-27T09:08:10'
 lastmod: '2021-09-27T09:08:10'
 tags:
 - ostrukturerat
-title: Säkerhetspodcasten avs.210 – Ostrukturerat V.39
+title: 'Säkerhetspodcasten #210 - Ostrukturerat V.39'
 ---
 ## Lyssna
 

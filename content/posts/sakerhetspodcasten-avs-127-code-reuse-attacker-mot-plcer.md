@@ -6,7 +6,7 @@ tags:
 - Robin von Post
 - Ali Abbasi
 - CS3STHLM
-title: Säkerhetspodcasten avs.128 - Code-Reuse attacker mot PLCer
+title: 'Säkerhetspodcasten #128 - Code-Reuse attacker mot PLCer'
 ---
 ## Lyssna
 

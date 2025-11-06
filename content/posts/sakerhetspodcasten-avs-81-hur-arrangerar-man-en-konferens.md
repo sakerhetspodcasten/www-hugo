@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:24:12'
 tags:
 - tema
 - SecurityFest
-title: Säkerhetspodcasten avs.81 - Hur arrangerar man en konferens?
+title: 'Säkerhetspodcasten #81 - Hur arrangerar man en konferens?'
 ---
 ## Lyssna
 

@@ -3,7 +3,7 @@ date: '2019-09-02T07:23:04'
 lastmod: '2019-09-02T07:23:04'
 tags:
 - tema
-title: Säkerhetspodcasten avs.161 – Vad litar vi på?
+title: 'Säkerhetspodcasten #161 - Vad litar vi på?'
 ---
 ## Lyssna
 

@@ -5,7 +5,7 @@ tags:
 - guest
 - Hugo Hirsh
 - SEC-T
-title: Säkerhetspodcasten avs.101 – Hugo Hirsh
+title: 'Säkerhetspodcasten #101 - Hugo Hirsh'
 ---
 ## Lyssna
 

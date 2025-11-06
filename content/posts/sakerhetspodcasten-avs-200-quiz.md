@@ -3,7 +3,7 @@ date: '2021-03-29T12:48:47'
 lastmod: '2021-03-29T12:48:47'
 tags:
 - tema
-title: Säkerhetspodcasten avs.200 – Quiz!
+title: 'Säkerhetspodcasten #200 - Quiz!'
 ---
 ## Lyssna
 

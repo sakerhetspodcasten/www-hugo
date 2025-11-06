@@ -3,7 +3,7 @@ date: '2020-04-07T08:32:44'
 lastmod: '2020-04-07T08:32:44'
 tags:
 - ostrukturerat
-title: Säkerhetspodcasten avs.179 – Ostrukturerat V.15
+title: 'Säkerhetspodcasten #179 - Ostrukturerat V.15'
 ---
 Lyssna
 

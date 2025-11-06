@@ -3,7 +3,7 @@ date: '2018-07-16T08:52:50'
 lastmod: '2018-09-26T08:18:10'
 tags:
 - ostrukturerat
-title: Säkerhetspodcasten avs.132 – Ostrukturerat V.29
+title: 'Säkerhetspodcasten #132 - Ostrukturerat V.29'
 ---
 ## Lyssna
 

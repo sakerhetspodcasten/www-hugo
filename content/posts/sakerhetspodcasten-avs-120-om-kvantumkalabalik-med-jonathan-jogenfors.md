@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:19:18'
 tags:
 - guest
 - Jonathan Jogenfors
-title: Säkerhetspodcasten avs.120 - Om kvantumkalabalik med Jonathan Jogenfors
+title: 'Säkerhetspodcasten #120 - Om kvantumkalabalik med Jonathan Jogenfors'
 ---
 ## Lyssna
 

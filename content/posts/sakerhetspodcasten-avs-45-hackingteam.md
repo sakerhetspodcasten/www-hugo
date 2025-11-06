@@ -3,7 +3,7 @@ date: '2015-09-14T13:43:27'
 lastmod: '2018-09-26T08:28:14'
 tags:
 - tema
-title: Säkerhetspodcasten avs.45 – HackingTeam
+title: 'Säkerhetspodcasten #45 - HackingTeam'
 ---
 ## Lyssna
 

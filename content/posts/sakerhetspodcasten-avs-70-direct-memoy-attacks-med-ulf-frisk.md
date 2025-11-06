@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:25:42'
 tags:
 - SEC-T
 - Ulf Frisk
-title: Säkerhetspodcasten avs.70 - Direct Memoy Attacks med Ulf Frisk
+title: 'Säkerhetspodcasten #70 - Direct Memoy Attacks med Ulf Frisk'
 ---
 ## Lyssna
 

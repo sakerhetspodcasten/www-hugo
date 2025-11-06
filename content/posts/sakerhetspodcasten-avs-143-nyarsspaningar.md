@@ -5,7 +5,7 @@ tags:
 - Nyår
 - privacy
 - Kubernetes
-title: Säkerhetspodcasten avs.143 – Nyårsspaningar
+title: 'Säkerhetspodcasten #143 - Nyårsspaningar'
 ---
 ## Lyssna
 

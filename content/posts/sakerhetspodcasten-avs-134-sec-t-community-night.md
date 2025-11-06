@@ -3,7 +3,7 @@ date: '2018-09-24T07:23:37'
 lastmod: '2018-09-26T08:15:31'
 tags:
 - SEC-T
-title: Säkerhetspodcasten avs.134 – Sec-T Community Night
+title: 'Säkerhetspodcasten #134 - Sec-T Community Night'
 ---
 ## Lyssna
 

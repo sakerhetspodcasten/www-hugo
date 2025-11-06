@@ -3,7 +3,7 @@ date: '2017-03-27T12:44:37'
 lastmod: '2018-09-26T08:23:47'
 tags:
 - tema
-title: Säkerhetspodcasten avs.89 - Vault7
+title: 'Säkerhetspodcasten #89 - Vault7'
 ---
 ## Lyssna
 

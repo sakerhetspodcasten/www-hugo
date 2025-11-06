@@ -6,7 +6,7 @@ tags:
 - ostrukturerat
 - kodsnack
 - Fredrik Björeman
-title: Säkerhetspodcasten avs.51 - Ostrukturerat V.6
+title: 'Säkerhetspodcasten #51 - Ostrukturerat V.6'
 ---
 ## Lyssna
 

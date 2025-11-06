@@ -4,7 +4,7 @@ lastmod: '2019-08-19T09:23:49'
 tags:
 - tema
 - sommar
-title: Säkerhetspodcasten avs.157 – Sommar 2019
+title: 'Säkerhetspodcasten #157 - Sommar 2019'
 ---
 ## Lyssna
 

@@ -3,7 +3,7 @@ date: '2016-09-12T08:39:55'
 lastmod: '2018-09-26T08:25:57'
 tags:
 - tema
-title: Säkerhetspodcasten avs.67 - The Shadow Brokers och Equation Group
+title: 'Säkerhetspodcasten #67 - The Shadow Brokers och Equation Group'
 ---
 ## Lyssna
 

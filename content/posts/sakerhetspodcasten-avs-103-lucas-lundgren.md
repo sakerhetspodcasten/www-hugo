@@ -5,7 +5,7 @@ tags:
 - guest
 - Lucas Lundgren
 - SEC-T
-title: Säkerhetspodcasten avs.103 - Lucas Lundgren
+title: 'Säkerhetspodcasten #103 - Lucas Lundgren'
 ---
 ## Lyssna
 

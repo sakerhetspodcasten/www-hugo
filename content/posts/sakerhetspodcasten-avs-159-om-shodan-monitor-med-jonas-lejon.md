@@ -5,7 +5,7 @@ tags:
 - Robin von Post
 - guest
 - Jonas Lejon
-title: Säkerhetspodcasten avs.159 – Om Shodan Monitor med Jonas Lejon
+title: 'Säkerhetspodcasten #159 - Om Shodan Monitor med Jonas Lejon'
 ---
 ## Lyssna
 

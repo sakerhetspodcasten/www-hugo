@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:31:31'
 tags:
 - ostrukturerat
 - privacy
-title: Säkerhetspodcasten avs.23 - Ostrukturerat V.15
+title: 'Säkerhetspodcasten #23 - Ostrukturerat V.15'
 ---
 ## Lyssna
 

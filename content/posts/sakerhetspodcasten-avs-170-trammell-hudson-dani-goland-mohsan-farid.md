@@ -7,7 +7,7 @@ tags:
 - Dani Goland
 - Mohsan Farid
 - SEC-T
-title: Säkerhetspodcasten avs.170 – Trammell Hudson, Dani Goland & Mohsan Farid
+title: 'Säkerhetspodcasten #170 - Trammell Hudson, Dani Goland & Mohsan Farid'
 ---
 ## Lyssna
 

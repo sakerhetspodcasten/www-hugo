@@ -3,7 +3,7 @@ date: '2019-04-29T11:14:25'
 lastmod: '2019-04-29T11:14:25'
 tags:
 - tema
-title: Säkerhetspodcasten avs.150 – Reverse Engineering
+title: 'Säkerhetspodcasten #150 - Reverse Engineering'
 ---
 ## Lyssna
 

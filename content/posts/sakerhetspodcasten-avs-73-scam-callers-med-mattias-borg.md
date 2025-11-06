@@ -5,7 +5,7 @@ tags:
 - guest
 - Mattias Borg
 - SEC-T
-title: Säkerhetspodcasten avs.73 - Scam Callers med Mattias Borg
+title: 'Säkerhetspodcasten #73 - Scam Callers med Mattias Borg'
 ---
 ## Lyssna
 

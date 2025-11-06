@@ -3,7 +3,7 @@ date: '2018-10-08T07:36:40'
 lastmod: '2018-10-08T07:36:40'
 tags:
 - SEC-T
-title: Säkerhetspodcasten avs.135 – Sec-T 2018 Day 1
+title: 'Säkerhetspodcasten #135 - Sec-T 2018 Day 1'
 ---
 ## Lyssna
 
