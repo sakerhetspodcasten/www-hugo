@@ -3,7 +3,7 @@ date: '2020-09-13T23:34:38'
 lastmod: '2020-09-13T23:34:38'
 tags:
 - ostrukturerat
-title: 'Säkerhetspodcasten #187 - Ostrukturerat V.37'
+title: 'Säkerhetspodcasten #187  - Ostrukturerat V.37'
 ---
 Lyssna
 
