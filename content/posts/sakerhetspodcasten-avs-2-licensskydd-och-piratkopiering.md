@@ -3,7 +3,7 @@ date: '2012-11-01T13:18:32'
 lastmod: '2018-09-26T08:35:26'
 tags:
 - tema
-title: 'Säkerhetspodcasten # 2 - Licensskydd och Piratkopiering'
+title: 'Säkerhetspodcasten #2 - Licensskydd och Piratkopiering'
 ---
 ## Lyssna
 
@@ -20,7 +20,7 @@ Inspelad 2012-10-30. Längd 44:14.
 
 ## Länkar
 
-Hacking MMORPGs for Fun and Mostly Profit -  [http://www.youtube.com/watch?v=hABj_mrP-no](http://www.youtube.com/watch?v=hABj_mrP-no)
+Hacking MMORPGs for Fun and Mostly Profit -  [http://www.youtube.com/watch?v=hABj\_mrP-no](http://www.youtube.com/watch?v=hABj_mrP-no)
 
 
 ## AI transkribering

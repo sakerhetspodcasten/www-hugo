@@ -7,7 +7,7 @@ tags:
 - bubblewire
 - Hanna Lidzell
 - plastfolie
-title: 'Säkerhetspodcasten #35'
+title: 'Säkerhetspodcasten #35 - Ostrukturerat V.46'
 ---
 ## Lyssna
 
