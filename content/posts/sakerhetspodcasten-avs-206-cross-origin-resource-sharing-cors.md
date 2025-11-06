@@ -3,7 +3,7 @@ date: '2021-06-22T10:32:41'
 lastmod: '2021-06-22T10:32:41'
 tags:
 - tema
-title: 'Säkerhetspodcasten #206 - Cross-Origin Resource Sharing (CORS)'
+title: 'Säkerhetspodcasten #206 -Cross-Origin Resource Sharing (CORS)'
 ---
 ## Lyssna
 
@@ -17,7 +17,7 @@ vilka sårbarheter kan de leda till.
 
 Länkar:
 
-[https://www.researchgate.net/publication/309445154_Content_Security_Problems_Evaluating_the_Effectiveness_of_Content_Security_Policy_in_the_Wild](https://www.researchgate.net/publication/309445154_Content_Security_Problems_Evaluating_the_Effectiveness_of_Content_Security_Policy_in_the_Wild)
+[https://www.researchgate.net/publication/309445154\_Content\_Security\_Problems\_Evaluating\_the\_Effectiveness\_of\_Content\_Security\_Policy\_in\_the\_Wild](https://www.researchgate.net/publication/309445154_Content_Security_Problems_Evaluating_the_Effectiveness_of_Content_Security_Policy_in_the_Wild)
 
 [https://blog.detectify.com/2019/07/11/content-security-policy-csp-explained-including-common-bypasses/](https://blog.detectify.com/2019/07/11/content-security-policy-csp-explained-including-common-bypasses/)
 
