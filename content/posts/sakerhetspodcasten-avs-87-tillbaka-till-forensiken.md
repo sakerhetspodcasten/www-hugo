@@ -3,7 +3,7 @@ date: '2017-02-27T15:40:52'
 lastmod: '2018-09-26T08:23:54'
 tags:
 - tema
-title: 'Säkerhetspodcasten #87 -  Tillbaka till Forensiken'
+title: 'Säkerhetspodcasten #87 - Tillbaka till Forensiken'
 ---
 ## Lyssna
 

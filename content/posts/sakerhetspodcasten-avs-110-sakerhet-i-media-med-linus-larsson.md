@@ -4,7 +4,7 @@ lastmod: '2018-09-26T08:21:24'
 tags:
 - guest
 - Linus Larsson
-title: 'Säkerhetspodcasten #110 - Säkerhet i media med Linus Larsson'
+title: 'Säkerhetspodcasten #110 - Säkerhet i Media med Linus Larsson'
 ---
 ## Lyssna
 
