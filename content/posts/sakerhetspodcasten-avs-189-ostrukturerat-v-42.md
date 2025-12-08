@@ -3,6 +3,7 @@ date: '2020-10-15T08:57:23'
 lastmod: '2020-10-15T08:57:23'
 tags:
 - ostrukturerat
+- rust
 title: 'Säkerhetspodcasten #189 - Ostrukturerat V.42'
 ---
 ## Lyssna

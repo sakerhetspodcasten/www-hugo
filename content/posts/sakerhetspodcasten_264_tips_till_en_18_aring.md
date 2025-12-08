@@ -2,6 +2,7 @@
 date: '2024-08-12T09:24:00'
 tags:
 - tema
+- rust
 title: 'Säkerhetspodcasten #264 - Tips till en 18-åring'
 ---
 ## Lyssna

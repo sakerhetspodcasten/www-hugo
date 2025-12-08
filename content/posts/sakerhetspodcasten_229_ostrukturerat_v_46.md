@@ -2,6 +2,7 @@
 date: '2022-11-14T09:41:00'
 tags:
 - ostrukturerat
+- rust
 title: 'Säkerhetspodcasten #229 - Ostrukturerat V.46'
 ---
 ## Lyssna

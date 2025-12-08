@@ -2,6 +2,7 @@
 date: '2025-05-12T13:31:00'
 tags:
 - tema
+- rust
 title: 'Säkerhetspodcasten #282 - Transatlantiska haverier'
 ---
 Handelskrig, EU US-exit, CVE, CISA, DNSSEC, Schrems, ICANN, IANA, ...

@@ -7,6 +7,7 @@ tags:
 - SEC-T
 - bsides
 - keepass
+- rust
 title: 'Säkerhetspodcasten #286 - Sommar 2025'
 ---
 Sommar 2025 inleds med champagne!
