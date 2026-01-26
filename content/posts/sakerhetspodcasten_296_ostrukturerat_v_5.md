@@ -32,6 +32,7 @@ Richard Weinberger tar en titt på det 50 år gamla,
   PDP-11 simulatorer kan uppgradera till ett säkrare OS!
 
 ``` diff
+-       while((*q = getchar()) != '\n')
 +       i = 0;
 +       while((*q = getchar()) != '\n') {
 +               if (++i >= sizeof(password))
