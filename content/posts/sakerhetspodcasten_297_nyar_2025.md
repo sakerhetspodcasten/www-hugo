@@ -2,18 +2,47 @@
 date: '2026-02-09T08:57:00'
 tags:
 - Nyår
+- Rust
+- CI/CD
 title: 'Säkerhetspodcasten #297 - Nyår 2025'
 ---
+Säkerhetspodcasten snackar om vad hur vi spådde 2025, hur rätt och fel vi fick, och hur vi spår 2026.
+
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2026-01-23_Nyar.mp3?dest-id=117848), längd: 01:16:57
 
+## Intro
+
+Rickard frånvarande, mår inte hundra.
+Donera till cancerfonden om du vill stödja framtida cancersjuka!
 
 Mattias presenterar regelverket, konceptet, för
   spanandet.
 
-## Gamla Spaningdar
+## Plugs
+
+* [Foss-North](https://foss-north.se/) 2026
+  * 27-28 april 2026, Chalmers
+  * CfP, Call For Papers: öppet t.om. 15 februari
+
+> From: Albin Otterhäll
+>
+> Subject: Foss-North CfP öppen fram till 15 februari 2026
+>
+> Halloj gänget!
+>
+> Jag är med och arrangerar Foss-North, Göteborgs STÖRSTA (och enda) open source konferens. Det blir elfte året i rad som vi arrangerar. Konferensen sker måndagen och tisdagen den 27--28 april 2026 på Chalmers konferenscentrum. Brukar vara mindre arrangemang under helgen innan, bland annat hade OWASP ett stort meetup nu under 2025.
+>
+> Grejen är att vår CfP är öppen, och kommer vara det fram till 15 februari. Vi undrar om ni hade kunnat nämna det i podden, om ni råkar spela in något avsnitt närmsta månaderna? Det hade varit riktigt hyggligt! Vi gillar allt som har med öppen källkod att göra!
+>
+> Tackar så mycket för en toppenpodd, och så önskar vi er ett gott nytt år!
+>
+> Albin Otterhäll
+
+## Gamla Spaningar
 
 Hur gick 2025 jämfört med våra spaningar?
+
 
 * **Johan**: `00:04:30` Space the final frontier.
    Massa hotaktörer kommer angripa satelliter / rymdfordon.
@@ -58,14 +87,28 @@ Hur gick 2025 jämfört med våra spaningar?
   Kommer vara som SQL injection, command injection.
   Inte enbart server-side attacker.
   Universal prompt injection, websiter kommer prompt-injecta browser agenter.
-* **Jesper** `01:01:15` CI/CD kommer inte gå bra!
+* **Jesper** `01:01:15` **CI/CD kommer inte gå bra!**
   Folk har fortfarande inte sett vikten av att göra bra förarbete.
   Man köper CI/CD på kran utan att lära sig detaljerna.
   Jättestora företagshack via att ta över CI/CD pipelines.
   Shahulud/NPM under 2025 bara en försmak på vad vi skall se 2026.
   Minst 1000% mer!
   Minst en stor aktör åker på't!
-
+* **Peter**: `1:06:25` **The Year of the Thermite!** Rosten kommer brinna som om den var omgiven av aluminium-pulver.
+  Unsafe Rust säkerhetshålet i Linux-kärnan kom nyss.
+  Rewrite everything in Rust.
+  Sett några tutorials där folk spammar CloudFlare `.unwrap()` buggar.
+  Många utvecklare kodar Rust utan att vilja ta i det "jobbiga" typ systemet.
+  Stor skims mellan Rust Evangelister och "Hata Rust!" crowden.
+  Vi kommer se fler Rust hål pga många rust Rust Rewrites.
+  Vi kommer se buggig slarvig Rust-kod från folk som inte vill lära sig Rust.
+  Folk som hatar Rust kommer se helt osakligt på Rust hål,
+   att en kontrollerad krash är bättre än ett C-minneshål.
+  Vi kommer se folk skapa nya Rust bugg-patterns.
+  Någon kommer återuppfinna nya hål, t.ex. `eval()`, i applikationer/libbar.
+  Med andra ord, en bunt buggar och osaklig diskussion runt dem, det vi sett 2025 men mycket mer.
+* **Rickard**: `1:13:20` **NATO vs NATO!** State sponsored attacker mellan NATO-stater.
+  (_Vi hittade på något för Rickard som är frånvarande._)
 
 ## Spaningsscore
 
@@ -79,7 +122,7 @@ Hur gick 2025 jämfört med våra spaningar?
 | 2020 | Panelen | 1.9   |
 | 2019 | Panelen | 1.4   |
 | 2018 | Panelen | 0.7   |
-| 2026 | Johan   |       | Year of the Prompt Injection! AI fel över allt, servers, webbläsare, universal prompt injection. |
+| 2026 | Johan   |       | _Year of the Prompt Injection! AI fel över allt, servers, webbläsare, universal prompt injection._ |
 | 2025 | Johan   | 0.7   | Massa hotaktörer kommer angripa satelliter / rymdfordon. |
 | 2024 | Johan   | 0.3   | Digital äkthet, identitet på webben, web 3.0 |
 | 2023 | Johan   | 0.0   | Podden hittade på något åt Johan... |
@@ -88,7 +131,7 @@ Hur gick 2025 jämfört med våra spaningar?
 | 2020 | Johan   | 0.6   | Kombination av Deep Fakes och Phishing. Deep-phish. |
 | 2019 | Johan   | 0.5   | Feta sårbarheter i Docker, Kubernetes, IaC utnyttjas |
 | 2018 | Johan   | 0.0   | All out Cyber-War |
-| 2026 | Peter   |       | _TODO_ |
+| 2026 | Peter   |       | _Termit! Rosten kommer brinna som om den var omgiven av aluminium-pulver. Massa hål i Rust-applikationer och osakliga bråk runt dem._ |
 | 2025 | Peter   | 0.4   | AI-automatisering av CI/CD och projektprovisionering hackas. |
 | 2024 | Peter   | 0.1   | Kvantumdatorerna anfaller! Schor! RSA-1024 knäckning! |
 | 2023 | Peter   | 0.1   | Zero-trust går åt skogen. |
@@ -97,7 +140,7 @@ Hur gick 2025 jämfört med våra spaningar?
 | 2020 | Peter   | 0.1   | Öka mängden säkerhetsinformation som når mycket bredare, mer människor |
 | 2019 | Peter   | 0.1   | Produktcertifieringar inom säkerhet |
 | 2018 | Peter   | 0.2   | AI-säkerhetshål, AI blir ont! |
-| 2026 | Jesper  |       | CI/CD kommer inte gå bra! Jättestora företagshack via att ta över CI/CD pipelines. Minst en stor aktör åker på't! |
+| 2026 | Jesper  |       | _CI/CD kommer inte gå bra! Jättestora företagshack via att ta över CI/CD pipelines. Minst en stor aktör åker på't!_ |
 | 2025 | Jesper  | 0.9   | Angripare kommer kunna göra så mycket bättre social engineering attacker. AI tränad på målet för att hitta sätt att angripa målet. |
 | 2024 | Jesper  | 0.4   | Extrem ökning av fails inom identitshantering, felkonfigurering, dålig moln-integrationer. |
 | 2023 | Jesper  | 0.2   | Säkerhet och monitorering i DevOps. Man skall bli bra på skydd och säkerhet i teamen |
@@ -106,16 +149,16 @@ Hur gick 2025 jämfört med våra spaningar?
 | 2020 | Jesper  | 0.9   | Ökning av end-user privacy; konsumentmedvetenhet. |
 | 2019 | Jesper  | 0.1   | _(Panelen slängde ihop någon spaning för Jesper)_ |
 | 2018 | Jesper  | 0.0   | Stor attack mot Internet, BGP, DNS |
-| 2026 | Rickard |       | TODO |
+| 2026 | Rickard |       | _NATO vs NATO! State sponsored attacker mellan NATO-stater._ (Rickard frånvarande, panelen hittade på) |
 | 2025 | Rickard | 0.1   | Någon större chat app - Whatsapp, Signal, Telegram, iMessage - exponeras med massiv privacy breach, visar sig inte alls vara end-to-end (totalsträckskrypterad), eller att polisen har en egen bakdörr in i den. |
-| 2024 | Rickard | 0.3   | _Någon (svensk) samhällskritisk nytta (el, vatten, ..) kommer drabbas av allvarligt ransomware._ |
+| 2024 | Rickard | 0.3   | Någon (svensk) samhällskritisk nytta (el, vatten, ..) kommer drabbas av allvarligt ransomware. |
 | 2023 | Rickard | 0.0   | False flag 2.0: Angripa Cyber Threat Intelligence platform. |
 | 2022 | Rickard | 0.2   | Röstassistenter, avlyssning - stor data breach av Alexa, Siri eller dylikt. |
 | 2021 | Rickard | 0.7   | Hybridkrigföring, Supply chain attacker |
 | 2020 | Rickard | 0.2   | IoT-ransomware |
 | 2019 | Rickard | 0.0   | AI krashar börsen utifrån manipulation |
 | 2018 | Rickard | 0.5   | En stor databreach; Google, Facebook |
-| 2026 | Mattias |       | Robot wars, AI vs AI! AI malware angriper AI, supply chain, ... |
+| 2026 | Mattias |       | _Robot wars, AI vs AI! AI malware angriper AI, supply chain, ..._ |
 | 2025 | Mattias | 0.3   | The year of process and audit. Checkbox säkerhet, massa papper. |
 | 2024 | Mattias | 0.9   | Mer kaotiskt ransomware |
 | 2023 | Mattias | 0.3   | CodeQL och liknande vinner! Statisk kodanalys (gamla produkterna) kommer ätas upp av CodeQL. |
