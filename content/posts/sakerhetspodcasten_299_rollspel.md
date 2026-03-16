@@ -12,6 +12,15 @@ Podden försöker utifrån gamla citat med mera gissa sig fram till vad som kan
 ## Lyssna
 * [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2026-02-18_Roleplay.mp3?dest-id=117848), längd: 01:00:58
 
+## Plugs
+
+* **Informell afterwork**, *spelat in 300 avsnitt firande*:
+  24 Mars 2026 18:00,
+  på Bishops Arms Park Avenue (på Avenyn).
+  _Finns inga reservationer eller dylikt, vi är bara där och tar någon öl, kika efter oss._
+* [Foss-North](https://foss-north.se/),
+  27-28 april 2026, Chalmers.
+
 ## AI transkribering
 
 _AI försöker förstå oss... Ha överseende med galna feltranskriberingar._
