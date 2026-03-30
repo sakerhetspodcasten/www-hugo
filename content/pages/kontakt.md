@@ -73,7 +73,7 @@ VD, höga chefer osv kan vara en dålig matchning.
 * "Intervjua VD om produkt/affärsmöjlighet X".
   Extremt **säljiga** eller **corporate** förslag får alltid **nej**.
 * Köpa bloggutrymme.
-* Köpa anonsplats.
+* Köpa annonsplats.
 
 ## Papperskontakt
 
