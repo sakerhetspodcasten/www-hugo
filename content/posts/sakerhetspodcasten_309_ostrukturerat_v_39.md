@@ -7523,5 +7523,3 @@ Hej, ha det gott.
 
 `1475 00:51:50,020 --> 00:51:52,020`
 Hej då.
-
-`MyrCTF{sveriges_bästa_podcast!}`
